@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 香港01 - meiguis, server: pu001.xccccao.com, port: 38601, type: ss, cipher: chacha20-ietf-poly1305, password: e538c7d3-f8ea-4955-9551-fa2a0051119d, udp: true}

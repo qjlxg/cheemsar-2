@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载, server: hkt.littleqqq.co, port: 20759, type: vmess, uuid: fcaf3b17-fbd9-4f58-b5d0-b37daed64b1d, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: hkt.littleqqq.co}}, udp: true}
+- {name: 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载 2, server: hkt.littleqqq.co, port: 20759, type: vmess, uuid: fcaf3b17-fbd9-4f58-b5d0-b37daed64b1d, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: hkt.littleqqq.co}}, udp: true}

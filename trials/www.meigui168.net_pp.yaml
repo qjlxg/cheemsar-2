@@ -145,54 +145,54 @@ proxy-groups:
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/HK.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/www.meigui168.net/HK.yaml
     interval: 180
-    path: trials_providers/HK.yaml
+    path: trials_providers/www.meigui168.net/HK.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   TW:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/TW.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/www.meigui168.net/TW.yaml
     interval: 180
-    path: trials_providers/TW.yaml
+    path: trials_providers/www.meigui168.net/TW.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   SG:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/SG.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/www.meigui168.net/SG.yaml
     interval: 180
-    path: trials_providers/SG.yaml
+    path: trials_providers/www.meigui168.net/SG.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/JP.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/www.meigui168.net/JP.yaml
     interval: 180
-    path: trials_providers/JP.yaml
+    path: trials_providers/www.meigui168.net/JP.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/US.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/www.meigui168.net/US.yaml
     interval: 180
-    path: trials_providers/US.yaml
+    path: trials_providers/www.meigui168.net/US.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   Other:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/Other.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/www.meigui168.net/Other.yaml
     interval: 180
-    path: trials_providers/Other.yaml
+    path: trials_providers/www.meigui168.net/Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204

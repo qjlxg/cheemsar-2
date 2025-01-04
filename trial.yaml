@@ -9,7 +9,37 @@ proxy-groups:
 - name: ✈️ ‍起飞
   type: select
   proxies:
+  - ⚡ ‍低延迟
+  - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
+  - 🇨🇳 ‍中国
+  - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
+  - 🇺🇸 ‍美国
+  - 🎏 ‍其他
+  - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
+  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
   - DIRECT
+- name: ⚡ ‍低延迟
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 100
+  proxies: &id001
+  - 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载
+  - 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载 2
+  - 🇭🇰 香港01 - meiguis
+  - 🇹🇼 台湾01 - meiguis
+  - 🇸🇬 新加坡01 - meiguis
+  - 🇯🇵 日本01 - meiguis
+  - 🇺🇸 美国01 - meiguis
+  - ℹ️ 续费网址:mgxiaowu.net - meiguis
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -26,11 +56,29 @@ proxy-groups:
   type: select
   proxies:
   - 🛩️ ‍墙内
+  - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
+  - 🇨🇳 ‍中国
   - ✈️ ‍起飞
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
+  - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
+  - 🇺🇸 ‍美国
+  - 🇹🇼 ‍台湾
+  - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
+  - 🎏 ‍其他
   - ✈️ ‍起飞
+  - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🎏 ‍其他
+  - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
   type: select
@@ -38,7 +86,93 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-proxies: []
+- name: 🇭🇰 ‍香港
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id002
+  - 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载
+  - 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载 2
+  - 🇭🇰 香港01 - meiguis
+- name: 🇹🇼 ‍台湾
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id003
+  - 🇹🇼 台湾01 - meiguis
+- name: 🇨🇳 ‍中国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id004
+  - 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载
+  - 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载 2
+  - 🇭🇰 香港01 - meiguis
+  - 🇹🇼 台湾01 - meiguis
+- name: 🇸🇬 ‍新加坡
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id005
+  - 🇸🇬 新加坡01 - meiguis
+- name: 🇯🇵 ‍日本
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id006
+  - 🇯🇵 日本01 - meiguis
+- name: 🇺🇸 ‍美国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 300
+  proxies: &id007
+  - 🇺🇸 美国01 - meiguis
+- name: 🎏 ‍其他
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 100
+  proxies: &id008
+  - ℹ️ 续费网址:mgxiaowu.net - meiguis
+- name: 👆🏻 ‍指定
+  type: select
+  proxies: *id001
+- name: 👆🏻🇭🇰 ‍香港
+  type: select
+  proxies: *id002
+- name: 👆🏻🇹🇼 ‍台湾
+  type: select
+  proxies: *id003
+- name: 👆🏻🇨🇳 ‍中国
+  type: select
+  proxies: *id004
+- name: 👆🏻🇸🇬 ‍新加坡
+  type: select
+  proxies: *id005
+- name: 👆🏻🇯🇵 ‍日本
+  type: select
+  proxies: *id006
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id007
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id008
+proxies:
+- {name: 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载, server: hkt.littleqqq.co, port: 20759, type: vmess, uuid: fcaf3b17-fbd9-4f58-b5d0-b37daed64b1d, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: hkt.littleqqq.co}}, udp: true}
+- {name: 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载 2, server: hkt.littleqqq.co, port: 20759, type: vmess, uuid: fcaf3b17-fbd9-4f58-b5d0-b37daed64b1d, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: hkt.littleqqq.co}}, udp: true}
+- {name: 🇹🇼 台湾01 - meiguis, server: pu002.xccccao.com, port: 38602, type: ss, cipher: chacha20-ietf-poly1305, password: e538c7d3-f8ea-4955-9551-fa2a0051119d, udp: true}
+- {name: 🇭🇰 香港01 - meiguis, server: pu001.xccccao.com, port: 38601, type: ss, cipher: chacha20-ietf-poly1305, password: e538c7d3-f8ea-4955-9551-fa2a0051119d, udp: true}
+- {name: 🇺🇸 美国01 - meiguis, server: pu003.xccccao.com, port: 38604, type: ss, cipher: chacha20-ietf-poly1305, password: e538c7d3-f8ea-4955-9551-fa2a0051119d, udp: true}
+- {name: ℹ️ 续费网址:mgxiaowu.net - meiguis, server: www.google.com, port: 1, type: ss, cipher: chacha20-ietf-poly1305, password: e538c7d3-f8ea-4955-9551-fa2a0051119d, udp: true}
+- {name: 🇯🇵 日本01 - meiguis, server: pu002.xccccao.com, port: 38605, type: ss, cipher: chacha20-ietf-poly1305, password: e538c7d3-f8ea-4955-9551-fa2a0051119d, udp: true}
+- {name: 🇸🇬 新加坡01 - meiguis, server: pu003.xccccao.com, port: 38603, type: ss, cipher: chacha20-ietf-poly1305, password: e538c7d3-f8ea-4955-9551-fa2a0051119d, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

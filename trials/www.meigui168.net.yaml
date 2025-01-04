@@ -28,14 +28,16 @@ proxy-groups:
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id001
-  - HK
-  - TW
-  - SG
-  - JP
-  - US
-  - Other
+  proxies: &id001
+  - 🇭🇰 香港01 - meiguis
+  - 🇹🇼 台湾01 - meiguis
+  - 🇸🇬 新加坡01 - meiguis
+  - 🇯🇵 日本01 - meiguis
+  - 🇺🇸 美国01 - meiguis
+  - ℹ️ 续费网址:mgxiaowu.net - meiguis
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -84,119 +86,85 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id002
-  - HK
+  proxies: &id002
+  - 🇭🇰 香港01 - meiguis
 - name: 🇹🇼 ‍台湾
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id003
-  - TW
+  proxies: &id003
+  - 🇹🇼 台湾01 - meiguis
 - name: 🇨🇳 ‍中国
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id004
-  - HK
-  - TW
+  proxies: &id004
+  - 🇭🇰 香港01 - meiguis
+  - 🇹🇼 台湾01 - meiguis
 - name: 🇸🇬 ‍新加坡
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id005
-  - SG
+  proxies: &id005
+  - 🇸🇬 新加坡01 - meiguis
 - name: 🇯🇵 ‍日本
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id006
-  - JP
+  proxies: &id006
+  - 🇯🇵 日本01 - meiguis
 - name: 🇺🇸 ‍美国
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 300
-  use: &id007
-  - US
+  proxies: &id007
+  - 🇺🇸 美国01 - meiguis
 - name: 🎏 ‍其他
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id008
-  - Other
+  proxies: &id008
+  - ℹ️ 续费网址:mgxiaowu.net - meiguis
 - name: 👆🏻 ‍指定
   type: select
-  use: *id001
+  proxies: *id001
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  use: *id002
+  proxies: *id002
 - name: 👆🏻🇹🇼 ‍台湾
   type: select
-  use: *id003
+  proxies: *id003
 - name: 👆🏻🇨🇳 ‍中国
   type: select
-  use: *id004
+  proxies: *id004
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  use: *id005
+  proxies: *id005
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  use: *id006
+  proxies: *id006
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  use: *id007
+  proxies: *id007
 - name: 👆🏻🎏 ‍其他
   type: select
-  use: *id008
-proxy-providers:
-  HK:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/HK.yaml
-    interval: 180
-    path: trials_providers/HK.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  TW:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/TW.yaml
-    interval: 180
-    path: trials_providers/TW.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  SG:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/SG.yaml
-    interval: 180
-    path: trials_providers/SG.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  JP:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/JP.yaml
-    interval: 180
-    path: trials_providers/JP.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  US:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/US.yaml
-    interval: 180
-    path: trials_providers/US.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  Other:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/Other.yaml
-    interval: 180
-    path: trials_providers/Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
+  proxies: *id008
+proxies:
+- {name: ℹ️ 续费网址:mgxiaowu.net - meiguis, server: www.google.com, port: 1, type: ss, cipher: chacha20-ietf-poly1305, password: e538c7d3-f8ea-4955-9551-fa2a0051119d, udp: true}
+- {name: 🇭🇰 香港01 - meiguis, server: pu001.xccccao.com, port: 38601, type: ss, cipher: chacha20-ietf-poly1305, password: e538c7d3-f8ea-4955-9551-fa2a0051119d, udp: true}
+- {name: 🇹🇼 台湾01 - meiguis, server: pu002.xccccao.com, port: 38602, type: ss, cipher: chacha20-ietf-poly1305, password: e538c7d3-f8ea-4955-9551-fa2a0051119d, udp: true}
+- {name: 🇸🇬 新加坡01 - meiguis, server: pu003.xccccao.com, port: 38603, type: ss, cipher: chacha20-ietf-poly1305, password: e538c7d3-f8ea-4955-9551-fa2a0051119d, udp: true}
+- {name: 🇺🇸 美国01 - meiguis, server: pu003.xccccao.com, port: 38604, type: ss, cipher: chacha20-ietf-poly1305, password: e538c7d3-f8ea-4955-9551-fa2a0051119d, udp: true}
+- {name: 🇯🇵 日本01 - meiguis, server: pu002.xccccao.com, port: 38605, type: ss, cipher: chacha20-ietf-poly1305, password: e538c7d3-f8ea-4955-9551-fa2a0051119d, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
