@@ -1,0 +1,7 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 美国NO.1（GPT） - 大师国际机场, server: haa.dashuai.cyou, port: 45052, type: vmess, uuid: 741b7fca-4dd4-41a8-8f58-2b432db2f3d9, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国NO.2（GPT） - 大师国际机场, server: xdd.dashuai.cyou, port: 45053, type: vmess, uuid: 741b7fca-4dd4-41a8-8f58-2b432db2f3d9, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 纽约01 - 血液加速器, server: gy.666666222.shop, port: 20013, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 617e2609-1965-43d9-ad21-2216934d1a78, udp: true}
+- {name: 🇺🇸 美国 纽约2 - 血液加速器, server: gy.666666222.shop, port: 20016, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 617e2609-1965-43d9-ad21-2216934d1a78, udp: true}
