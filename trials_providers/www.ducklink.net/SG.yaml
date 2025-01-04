@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇸🇬 Singapore 01 - DuckLink, server: sg.ducklink.top, port: 21201, type: ss, cipher: chacha20-ietf-poly1305, password: 6648c7b3-24bd-47f0-8428-a8ae9cea0390, udp: true}
+- {name: 🇸🇬 Singapore 02 - DuckLink, server: sg.ducklink.top, port: 21202, type: ss, cipher: chacha20-ietf-poly1305, password: 6648c7b3-24bd-47f0-8428-a8ae9cea0390, udp: true}

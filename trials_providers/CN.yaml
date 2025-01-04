@@ -1,25 +1,14 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港宇宙量子专线 2x - 廉价机场, server: lz.lianjianode.cc, port: 25000, type: ss, cipher: aes-128-gcm, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, udp: true}
-- {name: 🇭🇰 香港BGP 三网直连1x - 廉价机场, server: 8fb1eaeccd96b58cb921404c8ebb0d42.node.tro.node-is.green, port: 40015, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: live.douyin.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场, server: a20768061fdee212e3f94784b5d0f238.node.tro.node-is.green, port: 44972, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场, server: 5ac7e65bd03b91c516b6afe5e04c7f6e.node.tro.node-is.green, port: 40180, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港BGP 中转 01 1.5x - 廉价机场, server: bee43ea86879f8d370f400545be26a5a.node.tro.node-is.green, port: 43562, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港BGP 中转 02 1.5x - 廉价机场, server: d2c158395ae0006b070151a8ca5e84e0.node.tro.node-is.green, port: 49645, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港BGP 中转 03 1.5x - 廉价机场, server: 0a16d3349d6b78d1d01e9b6e6ed050dd.node.tro.node-is.green, port: 44378, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港BGP 中转 04 1.5x - 廉价机场, server: 2b5ff57a579058a0b9f47fa8d546c74e.node.tro.node-is.green, port: 44173, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港309•专线 - 飞翔吧, server: gyl.58n.net, port: 20309, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z309.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 中转•香港301•高速 - 飞翔吧, server: gy.58n.net, port: 20301, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z301.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 中转•香港102•高速 - 飞翔吧, server: gy.58n.net, port: 43337, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 中转•香港307•高速 - 飞翔吧, server: gy.58n.net, port: 20307, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港143•高速 - 飞翔吧, server: gy.58n.net, port: 28678, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z143.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港259•高速 - 飞翔吧, server: gy.58n.net, port: 24603, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z259.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港269•高速 - 飞翔吧, server: gy.58n.net, port: 22741, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: dufu.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港278•高速 - 飞翔吧, server: gy.58n.net, port: 20278, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z278.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港279•高速 - 飞翔吧, server: gy.58n.net, port: 20279, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z279.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港294•高速 - 飞翔吧, server: gy.58n.net, port: 20294, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z294.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gy.58n.net, port: 36821, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载, server: hkt.littleqqq.co, port: 20759, type: vmess, uuid: 056d8716-4042-4990-afb1-2cf2cd009eaf, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: hkt.littleqqq.co}}, udp: true}
+- {name: 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载 2, server: hkt.littleqqq.co, port: 20759, type: vmess, uuid: 056d8716-4042-4990-afb1-2cf2cd009eaf, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: hkt.littleqqq.co}}, udp: true}
+- {name: 🇭🇰 香港一 - LIME, server: 01.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇭🇰 香港二 - LIME, server: 02.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇭🇰 香港三 - LIME, server: 03.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇭🇰 香港四 - LIME, server: 04.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇭🇰 香港五 - LIME, server: 05.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇭🇰 香港七 - LIME, server: 07.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇭🇰 香港八 - LIME, server: 08.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇹🇼 台湾一 - LIME, server: 01.kjahbg.info, port: 46192, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇹🇼 台湾二 - LIME, server: 02.kjahbg.info, port: 46192, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}

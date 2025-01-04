@@ -1,8 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载, server: hkt.littleqqq.co, port: 20759, type: vmess, uuid: 056d8716-4042-4990-afb1-2cf2cd009eaf, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: hkt.littleqqq.co}}, udp: true}
-- {name: 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载 2, server: hkt.littleqqq.co, port: 20759, type: vmess, uuid: 056d8716-4042-4990-afb1-2cf2cd009eaf, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: hkt.littleqqq.co}}, udp: true}
 - {name: 🇭🇰 香港一 - LIME, server: 01.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
 - {name: 🇭🇰 香港二 - LIME, server: 02.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
 - {name: 🇭🇰 香港三 - LIME, server: 03.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
@@ -10,3 +8,5 @@ proxies:
 - {name: 🇭🇰 香港五 - LIME, server: 05.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
 - {name: 🇭🇰 香港七 - LIME, server: 07.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
 - {name: 🇭🇰 香港八 - LIME, server: 08.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇹🇼 台湾一 - LIME, server: 01.kjahbg.info, port: 46192, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇹🇼 台湾二 - LIME, server: 02.kjahbg.info, port: 46192, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}

@@ -16,6 +16,7 @@ proxy-groups:
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
+  - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
@@ -23,6 +24,7 @@ proxy-groups:
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -30,22 +32,36 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇭🇰 香港宇宙量子专线 2x - 廉价机场
-  - 🇭🇰 香港BGP 三网直连1x - 廉价机场
-  - 🇭🇰香港BGP 中转 01 1.5x - 廉价机场
-  - 🇭🇰香港BGP 中转 02 1.5x - 廉价机场
-  - 🇭🇰香港BGP 中转 03 1.5x - 廉价机场
-  - 🇭🇰香港BGP 中转 04 1.5x - 廉价机场
-  - 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场
-  - 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场
-  - 🇸🇬 新加坡BGP 中转 01 1.5x - 廉价机场
-  - 🇸🇬 新加坡BGP 中转 02 1.5x - 廉价机场
-  - 🇯🇵 日本BGP 中转 01 1.5x - 廉价机场
-  - 🇯🇵 日本BGP 中转 02 1.5x - 廉价机场
-  - 🇺🇸 美国BGP 中转 01 1.5x - 廉价机场
-  - 🇺🇸 美国BGP 中转 02 1.5x - 廉价机场
-  - 🇺🇸 美国BGP 中转 03 1.5x - 廉价机场
-  - 🇺🇸 美国BGP 中转 04 1.5x - 廉价机场
+  - 🇭🇰 香港一 - LIME
+  - 🇭🇰 香港二 - LIME
+  - 🇭🇰 香港三 - LIME
+  - 🇭🇰 香港四 - LIME
+  - 🇭🇰 香港五 - LIME
+  - 🇭🇰 香港七 - LIME
+  - 🇭🇰 香港八 - LIME
+  - 🇹🇼 台湾一 - LIME
+  - 🇹🇼 台湾二 - LIME
+  - 🇸🇬 新加坡一 - LIME
+  - 🇸🇬 新加坡二 - LIME
+  - 🇸🇬 新加坡三 - LIME
+  - 🇸🇬 新加坡四 - LIME
+  - 🇸🇬 新加坡五 - LIME
+  - 🇸🇬 新加坡六 - LIME
+  - 🇯🇵 日本一 - LIME
+  - 🇯🇵 日本二 - LIME
+  - 🇯🇵 日本三 - LIME
+  - 🇯🇵 日本四 - LIME
+  - 🇯🇵 日本五 - LIME
+  - 🇯🇵 日本六 - LIME
+  - 🇺🇸 美国一 - LIME
+  - 🇺🇸 美国二 - LIME
+  - 🇺🇸 美国三 - LIME
+  - 🇺🇸 美国四 - LIME
+  - 🇺🇸 美国五 - LIME
+  - 🇺🇸 美国六 - LIME
+  - xqnqn.com防失联 - LIME
+  - 🇰🇷 韩国一 - LIME
+  - 🇰🇷 韩国二 - LIME
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -77,11 +93,13 @@ proxy-groups:
   - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
+  - 🎏 ‍其他
   - ✈️ ‍起飞
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -96,60 +114,81 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
-  - 🇭🇰 香港宇宙量子专线 2x - 廉价机场
-  - 🇭🇰 香港BGP 三网直连1x - 廉价机场
-  - 🇭🇰香港BGP 中转 01 1.5x - 廉价机场
-  - 🇭🇰香港BGP 中转 02 1.5x - 廉价机场
-  - 🇭🇰香港BGP 中转 03 1.5x - 廉价机场
-  - 🇭🇰香港BGP 中转 04 1.5x - 廉价机场
+  - 🇭🇰 香港一 - LIME
+  - 🇭🇰 香港二 - LIME
+  - 🇭🇰 香港三 - LIME
+  - 🇭🇰 香港四 - LIME
+  - 🇭🇰 香港五 - LIME
+  - 🇭🇰 香港七 - LIME
+  - 🇭🇰 香港八 - LIME
 - name: 🇹🇼 ‍台湾
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id003
-  - 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场
-  - 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场
+  - 🇹🇼 台湾一 - LIME
+  - 🇹🇼 台湾二 - LIME
 - name: 🇨🇳 ‍中国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id004
-  - 🇭🇰 香港宇宙量子专线 2x - 廉价机场
-  - 🇭🇰 香港BGP 三网直连1x - 廉价机场
-  - 🇭🇰香港BGP 中转 01 1.5x - 廉价机场
-  - 🇭🇰香港BGP 中转 02 1.5x - 廉价机场
-  - 🇭🇰香港BGP 中转 03 1.5x - 廉价机场
-  - 🇭🇰香港BGP 中转 04 1.5x - 廉价机场
-  - 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场
-  - 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场
+  - 🇭🇰 香港一 - LIME
+  - 🇭🇰 香港二 - LIME
+  - 🇭🇰 香港三 - LIME
+  - 🇭🇰 香港四 - LIME
+  - 🇭🇰 香港五 - LIME
+  - 🇭🇰 香港七 - LIME
+  - 🇭🇰 香港八 - LIME
+  - 🇹🇼 台湾一 - LIME
+  - 🇹🇼 台湾二 - LIME
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id005
-  - 🇸🇬 新加坡BGP 中转 01 1.5x - 廉价机场
-  - 🇸🇬 新加坡BGP 中转 02 1.5x - 廉价机场
+  - 🇸🇬 新加坡一 - LIME
+  - 🇸🇬 新加坡二 - LIME
+  - 🇸🇬 新加坡三 - LIME
+  - 🇸🇬 新加坡四 - LIME
+  - 🇸🇬 新加坡五 - LIME
+  - 🇸🇬 新加坡六 - LIME
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id006
-  - 🇯🇵 日本BGP 中转 01 1.5x - 廉价机场
-  - 🇯🇵 日本BGP 中转 02 1.5x - 廉价机场
+  - 🇯🇵 日本一 - LIME
+  - 🇯🇵 日本二 - LIME
+  - 🇯🇵 日本三 - LIME
+  - 🇯🇵 日本四 - LIME
+  - 🇯🇵 日本五 - LIME
+  - 🇯🇵 日本六 - LIME
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
   proxies: &id007
-  - 🇺🇸 美国BGP 中转 01 1.5x - 廉价机场
-  - 🇺🇸 美国BGP 中转 02 1.5x - 廉价机场
-  - 🇺🇸 美国BGP 中转 03 1.5x - 廉价机场
-  - 🇺🇸 美国BGP 中转 04 1.5x - 廉价机场
+  - 🇺🇸 美国一 - LIME
+  - 🇺🇸 美国二 - LIME
+  - 🇺🇸 美国三 - LIME
+  - 🇺🇸 美国四 - LIME
+  - 🇺🇸 美国五 - LIME
+  - 🇺🇸 美国六 - LIME
+- name: 🎏 ‍其他
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 100
+  proxies: &id008
+  - xqnqn.com防失联 - LIME
+  - 🇰🇷 韩国一 - LIME
+  - 🇰🇷 韩国二 - LIME
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -171,23 +210,40 @@ proxy-groups:
 - name: 👆🏻🇺🇸 ‍美国
   type: select
   proxies: *id007
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id008
 proxies:
-- {name: 🇭🇰 香港宇宙量子专线 2x - 廉价机场, server: lz.lianjianode.cc, port: 25000, type: ss, cipher: aes-128-gcm, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, udp: true}
-- {name: 🇭🇰 香港BGP 三网直连1x - 廉价机场, server: 8fb1eaeccd96b58cb921404c8ebb0d42.node.tro.node-is.green, port: 40015, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: live.douyin.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国BGP 中转 01 1.5x - 廉价机场, server: 71fa0403e497891f488e93f3e3314929.node.tro.node-is.green, port: 41180, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国BGP 中转 02 1.5x - 廉价机场, server: 363d66509126bf5a2bf548ceabbc02aa.node.tro.node-is.green, port: 40031, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国BGP 中转 03 1.5x - 廉价机场, server: eba99989215ef7b5e8f59a60a37002c8.node.tro.node-is.green, port: 40106, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国BGP 中转 04 1.5x - 廉价机场, server: b6c73c0d87f399b451f7b9d0f6225595.node.tro.node-is.green, port: 47681, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场, server: a20768061fdee212e3f94784b5d0f238.node.tro.node-is.green, port: 44972, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场, server: 5ac7e65bd03b91c516b6afe5e04c7f6e.node.tro.node-is.green, port: 40180, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本BGP 中转 01 1.5x - 廉价机场, server: 80c4fb28962205fa0b4acae3aaa8b306.node.tro.node-is.green, port: 46789, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本BGP 中转 02 1.5x - 廉价机场, server: 5b5890f027c311f2baa8009c2612a1de.node.tro.node-is.green, port: 45992, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡BGP 中转 01 1.5x - 廉价机场, server: 54808be8939d91534a2c675bab269385.node.tro.node-is.green, port: 49868, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡BGP 中转 02 1.5x - 廉价机场, server: fd06b884fad3aa886dfefb26cd903ecb.node.tro.node-is.green, port: 41515, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港BGP 中转 01 1.5x - 廉价机场, server: bee43ea86879f8d370f400545be26a5a.node.tro.node-is.green, port: 43562, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港BGP 中转 02 1.5x - 廉价机场, server: d2c158395ae0006b070151a8ca5e84e0.node.tro.node-is.green, port: 49645, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港BGP 中转 03 1.5x - 廉价机场, server: 0a16d3349d6b78d1d01e9b6e6ed050dd.node.tro.node-is.green, port: 44378, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港BGP 中转 04 1.5x - 廉价机场, server: 2b5ff57a579058a0b9f47fa8d546c74e.node.tro.node-is.green, port: 44173, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: xqnqn.com防失联 - LIME, server: 001.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇯🇵 日本一 - LIME, server: 001.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇯🇵 日本二 - LIME, server: 002.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇯🇵 日本三 - LIME, server: 003.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇯🇵 日本四 - LIME, server: 004.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇯🇵 日本五 - LIME, server: 005.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇯🇵 日本六 - LIME, server: 006.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇭🇰 香港一 - LIME, server: 01.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇭🇰 香港二 - LIME, server: 02.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇭🇰 香港三 - LIME, server: 03.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇭🇰 香港四 - LIME, server: 04.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇭🇰 香港五 - LIME, server: 05.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇭🇰 香港七 - LIME, server: 07.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇭🇰 香港八 - LIME, server: 08.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇺🇸 美国一 - LIME, server: 001.kjahbg.info, port: 20293, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇺🇸 美国二 - LIME, server: 002.kjahbg.info, port: 20293, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇺🇸 美国三 - LIME, server: 003.kjahbg.info, port: 20293, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇺🇸 美国四 - LIME, server: 004.kjahbg.info, port: 20293, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇺🇸 美国五 - LIME, server: 005.kjahbg.info, port: 20293, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇺🇸 美国六 - LIME, server: 006.kjahbg.info, port: 20293, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇸🇬 新加坡一 - LIME, server: 01.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇸🇬 新加坡二 - LIME, server: 02.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇸🇬 新加坡三 - LIME, server: 03.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇸🇬 新加坡四 - LIME, server: 04.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇸🇬 新加坡五 - LIME, server: 05.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇸🇬 新加坡六 - LIME, server: 06.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇹🇼 台湾一 - LIME, server: 01.kjahbg.info, port: 46192, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇹🇼 台湾二 - LIME, server: 02.kjahbg.info, port: 46192, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇰🇷 韩国一 - LIME, server: 001.kjahbg.info, port: 43850, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
+- {name: 🇰🇷 韩国二 - LIME, server: 002.kjahbg.info, port: 43850, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

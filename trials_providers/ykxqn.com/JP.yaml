@@ -1,10 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 Japan 01 - DuckLink, server: jp.ducklink.top, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: 6648c7b3-24bd-47f0-8428-a8ae9cea0390, udp: true}
-- {name: 🇯🇵 Japan 02 - DuckLink, server: jp.ducklink.top, port: 21002, type: ss, cipher: chacha20-ietf-poly1305, password: 6648c7b3-24bd-47f0-8428-a8ae9cea0390, udp: true}
-- {name: 🇯🇵 Japan 05 - DuckLink, server: jp.ducklink.top, port: 21005, type: ss, cipher: chacha20-ietf-poly1305, password: 6648c7b3-24bd-47f0-8428-a8ae9cea0390, udp: true}
-- {name: 🇯🇵 Japan 06 - DuckLink, server: jp.ducklink.top, port: 21006, type: ss, cipher: chacha20-ietf-poly1305, password: 6648c7b3-24bd-47f0-8428-a8ae9cea0390, udp: true}
 - {name: 🇯🇵 日本一 - LIME, server: 001.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
 - {name: 🇯🇵 日本二 - LIME, server: 002.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
 - {name: 🇯🇵 日本三 - LIME, server: 003.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}

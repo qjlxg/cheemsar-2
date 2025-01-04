@@ -1,18 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载, server: hkt.littleqqq.co, port: 20759, type: vmess, uuid: 056d8716-4042-4990-afb1-2cf2cd009eaf, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: hkt.littleqqq.co}}, udp: true}
-- {name: 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载 2, server: hkt.littleqqq.co, port: 20759, type: vmess, uuid: 056d8716-4042-4990-afb1-2cf2cd009eaf, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: hkt.littleqqq.co}}, udp: true}
-- {name: 🇯🇵 Japan 01 - DuckLink, server: jp.ducklink.top, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: 6648c7b3-24bd-47f0-8428-a8ae9cea0390, udp: true}
-- {name: 🇯🇵 Japan 02 - DuckLink, server: jp.ducklink.top, port: 21002, type: ss, cipher: chacha20-ietf-poly1305, password: 6648c7b3-24bd-47f0-8428-a8ae9cea0390, udp: true}
-- {name: 🇯🇵 Japan 05 - DuckLink, server: jp.ducklink.top, port: 21005, type: ss, cipher: chacha20-ietf-poly1305, password: 6648c7b3-24bd-47f0-8428-a8ae9cea0390, udp: true}
-- {name: 🇯🇵 Japan 06 - DuckLink, server: jp.ducklink.top, port: 21006, type: ss, cipher: chacha20-ietf-poly1305, password: 6648c7b3-24bd-47f0-8428-a8ae9cea0390, udp: true}
-- {name: 🇸🇬 Singapore 01 - DuckLink, server: sg.ducklink.top, port: 21201, type: ss, cipher: chacha20-ietf-poly1305, password: 6648c7b3-24bd-47f0-8428-a8ae9cea0390, udp: true}
-- {name: 🇸🇬 Singapore 02 - DuckLink, server: sg.ducklink.top, port: 21202, type: ss, cipher: chacha20-ietf-poly1305, password: 6648c7b3-24bd-47f0-8428-a8ae9cea0390, udp: true}
-- {name: 🇺🇸 United States 01 - DuckLink, server: cn.ducklink.top, port: 21501, type: ss, cipher: chacha20-ietf-poly1305, password: 6648c7b3-24bd-47f0-8428-a8ae9cea0390, udp: true}
-- {name: 🇺🇸 United States 02 - DuckLink, server: cn.ducklink.top, port: 21502, type: ss, cipher: chacha20-ietf-poly1305, password: 6648c7b3-24bd-47f0-8428-a8ae9cea0390, udp: true}
-- {name: 🇺🇸 United States 03 - DuckLink, server: cn.ducklink.top, port: 21503, type: ss, cipher: chacha20-ietf-poly1305, password: 6648c7b3-24bd-47f0-8428-a8ae9cea0390, udp: true}
-- {name: 🇺🇸 United States 04 - DuckLink, server: cn.ducklink.top, port: 21504, type: ss, cipher: chacha20-ietf-poly1305, password: 6648c7b3-24bd-47f0-8428-a8ae9cea0390, udp: true}
 - {name: xqnqn.com防失联 - LIME, server: 001.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
 - {name: 🇯🇵 日本一 - LIME, server: 001.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
 - {name: 🇯🇵 日本二 - LIME, server: 002.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 1d264f76-2f76-4aee-9c60-82374085dae8, udp: true}
