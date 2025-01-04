@@ -16,7 +16,6 @@ proxy-groups:
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
-  - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
@@ -24,77 +23,16 @@ proxy-groups:
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id001
-  - 🇭🇰 香港宇宙量子专线 2x - 廉价机场
-  - 🇭🇰 香港BGP 三网直连1x - 廉价机场
-  - 🇭🇰香港BGP 中转 01 1.5x - 廉价机场
-  - 🇭🇰香港BGP 中转 02 1.5x - 廉价机场
-  - 🇭🇰香港BGP 中转 03 1.5x - 廉价机场
-  - 🇭🇰香港BGP 中转 04 1.5x - 廉价机场
-  - 🇭🇰 广港•香港309•专线 - 飞翔吧
-  - 🇭🇰 中转•香港301•高速 - 飞翔吧
-  - 🇭🇰 中转•香港102•高速 - 飞翔吧
-  - 🇭🇰 中转•香港307•高速 - 飞翔吧
-  - 🇭🇰 广港•香港143•高速 - 飞翔吧
-  - 🇭🇰 广港•香港259•高速 - 飞翔吧
-  - 🇭🇰 广港•香港269•高速 - 飞翔吧
-  - 🇭🇰 广港•香港278•高速 - 飞翔吧
-  - 🇭🇰 广港•香港279•高速 - 飞翔吧
-  - 🇭🇰 广港•香港294•高速 - 飞翔吧
-  - 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场
-  - 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场
-  - 🇹🇼 中转•台湾100•高速 - 飞翔吧
-  - 🇹🇼 中转•台湾91•原生 - 飞翔吧
-  - 🇹🇼 广港•台湾261•高速 - 飞翔吧
-  - 🇹🇼 广港•台湾262•高速 - 飞翔吧
-  - 🇸🇬 新加坡BGP 中转 01 1.5x - 廉价机场
-  - 🇸🇬 新加坡BGP 中转 02 1.5x - 廉价机场
-  - 🇸🇬 中转•新加坡299•高速 - 飞翔吧
-  - 🇸🇬 中转•新加坡65•青铜 - 飞翔吧
-  - 🇸🇬 中转•新加坡83•高速 - 飞翔吧
-  - 🇸🇬 新加坡•高速129•高速 - 飞翔吧
-  - 🇸🇬 新加坡•高速130•铂金 - 飞翔吧
-  - 🇯🇵 日本BGP 中转 01 1.5x - 廉价机场
-  - 🇯🇵 日本BGP 中转 02 1.5x - 廉价机场
-  - 🇯🇵 中转•日本298•高速 - 飞翔吧
-  - 🇯🇵 中转•日本300•原生 - 飞翔吧
-  - 🇯🇵 日本•高速114•高速 - 飞翔吧
-  - 🇯🇵 日本•高速115•高速 - 飞翔吧
-  - 🇯🇵 日本•高速139•铂金 - 飞翔吧
-  - 🇯🇵 日本•高速140•铂金 - 飞翔吧
-  - 🇯🇵 日本•高速141•铂金 - 飞翔吧
-  - 🇯🇵 日本•高速142•原生 - 飞翔吧
-  - 🇯🇵 日本•高速59•青铜 - 飞翔吧
-  - 🇯🇵 日本•高速71•高速 - 飞翔吧
-  - 🇯🇵 日本•高速76•高速 - 飞翔吧
-  - 🇺🇸 美国BGP 中转 01 1.5x - 廉价机场
-  - 🇺🇸 美国BGP 中转 02 1.5x - 廉价机场
-  - 🇺🇸 美国BGP 中转 03 1.5x - 廉价机场
-  - 🇺🇸 美国BGP 中转 04 1.5x - 廉价机场
-  - 🇺🇸 中转•美国295•高速 - 飞翔吧
-  - 🇺🇸 中转•美国296•高速 - 飞翔吧
-  - 🇺🇸 中转•美国308•高速 - 飞翔吧
-  - 🇺🇸 中转•美国40•高速 - 飞翔吧
-  - 🇺🇸 中转•美国41•原生 - 飞翔吧
-  - 🇺🇸 中转•美国61•高速 - 飞翔吧
-  - 🇺🇸 广港•美国266•高速 - 飞翔吧
-  - 🇺🇸 广港•美国288•高速 - 飞翔吧
-  - 🇰🇷 广港•韩国263•高速 - 飞翔吧
-  - 🇰🇷 广港•韩国264•高速 - 飞翔吧
-  - 🇬🇧 中转•英国267•高速 - 飞翔吧
-  - 🇬🇧 中转•英国268•高速 - 飞翔吧
-  - 🇩🇪 中转•德国302•GPT - 飞翔吧
-  - 🇩🇪 中转•德国303•GPT - 飞翔吧
-  - 🇩🇪 中转•德国304•GPT - 飞翔吧
-  - 🇩🇪 中转•德国305•GPT - 飞翔吧
-  - 🇩🇪 中转•德国306•GPT - 飞翔吧
+  use: &id001
+  - HK
+  - TW
+  - SG
+  - JP
+  - US
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -126,13 +64,11 @@ proxy-groups:
   - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
-  - 🎏 ‍其他
   - ✈️ ‍起飞
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
-  - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -143,219 +79,102 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id002
-  - 🇭🇰 香港宇宙量子专线 2x - 廉价机场
-  - 🇭🇰 香港BGP 三网直连1x - 廉价机场
-  - 🇭🇰香港BGP 中转 01 1.5x - 廉价机场
-  - 🇭🇰香港BGP 中转 02 1.5x - 廉价机场
-  - 🇭🇰香港BGP 中转 03 1.5x - 廉价机场
-  - 🇭🇰香港BGP 中转 04 1.5x - 廉价机场
-  - 🇭🇰 广港•香港309•专线 - 飞翔吧
-  - 🇭🇰 中转•香港301•高速 - 飞翔吧
-  - 🇭🇰 中转•香港102•高速 - 飞翔吧
-  - 🇭🇰 中转•香港307•高速 - 飞翔吧
-  - 🇭🇰 广港•香港143•高速 - 飞翔吧
-  - 🇭🇰 广港•香港259•高速 - 飞翔吧
-  - 🇭🇰 广港•香港269•高速 - 飞翔吧
-  - 🇭🇰 广港•香港278•高速 - 飞翔吧
-  - 🇭🇰 广港•香港279•高速 - 飞翔吧
-  - 🇭🇰 广港•香港294•高速 - 飞翔吧
+  use: &id002
+  - HK
 - name: 🇹🇼 ‍台湾
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id003
-  - 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场
-  - 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场
-  - 🇹🇼 中转•台湾100•高速 - 飞翔吧
-  - 🇹🇼 中转•台湾91•原生 - 飞翔吧
-  - 🇹🇼 广港•台湾261•高速 - 飞翔吧
-  - 🇹🇼 广港•台湾262•高速 - 飞翔吧
+  use: &id003
+  - TW
 - name: 🇨🇳 ‍中国
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id004
-  - 🇭🇰 香港宇宙量子专线 2x - 廉价机场
-  - 🇭🇰 香港BGP 三网直连1x - 廉价机场
-  - 🇭🇰香港BGP 中转 01 1.5x - 廉价机场
-  - 🇭🇰香港BGP 中转 02 1.5x - 廉价机场
-  - 🇭🇰香港BGP 中转 03 1.5x - 廉价机场
-  - 🇭🇰香港BGP 中转 04 1.5x - 廉价机场
-  - 🇭🇰 广港•香港309•专线 - 飞翔吧
-  - 🇭🇰 中转•香港301•高速 - 飞翔吧
-  - 🇭🇰 中转•香港102•高速 - 飞翔吧
-  - 🇭🇰 中转•香港307•高速 - 飞翔吧
-  - 🇭🇰 广港•香港143•高速 - 飞翔吧
-  - 🇭🇰 广港•香港259•高速 - 飞翔吧
-  - 🇭🇰 广港•香港269•高速 - 飞翔吧
-  - 🇭🇰 广港•香港278•高速 - 飞翔吧
-  - 🇭🇰 广港•香港279•高速 - 飞翔吧
-  - 🇭🇰 广港•香港294•高速 - 飞翔吧
-  - 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场
-  - 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场
-  - 🇹🇼 中转•台湾100•高速 - 飞翔吧
-  - 🇹🇼 中转•台湾91•原生 - 飞翔吧
-  - 🇹🇼 广港•台湾261•高速 - 飞翔吧
-  - 🇹🇼 广港•台湾262•高速 - 飞翔吧
+  use: &id004
+  - HK
+  - TW
 - name: 🇸🇬 ‍新加坡
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id005
-  - 🇸🇬 新加坡BGP 中转 01 1.5x - 廉价机场
-  - 🇸🇬 新加坡BGP 中转 02 1.5x - 廉价机场
-  - 🇸🇬 中转•新加坡299•高速 - 飞翔吧
-  - 🇸🇬 中转•新加坡65•青铜 - 飞翔吧
-  - 🇸🇬 中转•新加坡83•高速 - 飞翔吧
-  - 🇸🇬 新加坡•高速129•高速 - 飞翔吧
-  - 🇸🇬 新加坡•高速130•铂金 - 飞翔吧
+  use: &id005
+  - SG
 - name: 🇯🇵 ‍日本
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id006
-  - 🇯🇵 日本BGP 中转 01 1.5x - 廉价机场
-  - 🇯🇵 日本BGP 中转 02 1.5x - 廉价机场
-  - 🇯🇵 中转•日本298•高速 - 飞翔吧
-  - 🇯🇵 中转•日本300•原生 - 飞翔吧
-  - 🇯🇵 日本•高速114•高速 - 飞翔吧
-  - 🇯🇵 日本•高速115•高速 - 飞翔吧
-  - 🇯🇵 日本•高速139•铂金 - 飞翔吧
-  - 🇯🇵 日本•高速140•铂金 - 飞翔吧
-  - 🇯🇵 日本•高速141•铂金 - 飞翔吧
-  - 🇯🇵 日本•高速142•原生 - 飞翔吧
-  - 🇯🇵 日本•高速59•青铜 - 飞翔吧
-  - 🇯🇵 日本•高速71•高速 - 飞翔吧
-  - 🇯🇵 日本•高速76•高速 - 飞翔吧
+  use: &id006
+  - JP
 - name: 🇺🇸 ‍美国
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 300
-  proxies: &id007
-  - 🇺🇸 美国BGP 中转 01 1.5x - 廉价机场
-  - 🇺🇸 美国BGP 中转 02 1.5x - 廉价机场
-  - 🇺🇸 美国BGP 中转 03 1.5x - 廉价机场
-  - 🇺🇸 美国BGP 中转 04 1.5x - 廉价机场
-  - 🇺🇸 中转•美国295•高速 - 飞翔吧
-  - 🇺🇸 中转•美国296•高速 - 飞翔吧
-  - 🇺🇸 中转•美国308•高速 - 飞翔吧
-  - 🇺🇸 中转•美国40•高速 - 飞翔吧
-  - 🇺🇸 中转•美国41•原生 - 飞翔吧
-  - 🇺🇸 中转•美国61•高速 - 飞翔吧
-  - 🇺🇸 广港•美国266•高速 - 飞翔吧
-  - 🇺🇸 广港•美国288•高速 - 飞翔吧
-- name: 🎏 ‍其他
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 100
-  proxies: &id008
-  - 🇰🇷 广港•韩国263•高速 - 飞翔吧
-  - 🇰🇷 广港•韩国264•高速 - 飞翔吧
-  - 🇬🇧 中转•英国267•高速 - 飞翔吧
-  - 🇬🇧 中转•英国268•高速 - 飞翔吧
-  - 🇩🇪 中转•德国302•GPT - 飞翔吧
-  - 🇩🇪 中转•德国303•GPT - 飞翔吧
-  - 🇩🇪 中转•德国304•GPT - 飞翔吧
-  - 🇩🇪 中转•德国305•GPT - 飞翔吧
-  - 🇩🇪 中转•德国306•GPT - 飞翔吧
+  use: &id007
+  - US
 - name: 👆🏻 ‍指定
   type: select
-  proxies: *id001
+  use: *id001
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  proxies: *id002
+  use: *id002
 - name: 👆🏻🇹🇼 ‍台湾
   type: select
-  proxies: *id003
+  use: *id003
 - name: 👆🏻🇨🇳 ‍中国
   type: select
-  proxies: *id004
+  use: *id004
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  proxies: *id005
+  use: *id005
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  proxies: *id006
+  use: *id006
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id007
-- name: 👆🏻🎏 ‍其他
-  type: select
-  proxies: *id008
-proxies:
-- {name: 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场, server: a20768061fdee212e3f94784b5d0f238.node.tro.node-is.green, port: 44972, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场, server: 5ac7e65bd03b91c516b6afe5e04c7f6e.node.tro.node-is.green, port: 40180, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港宇宙量子专线 2x - 廉价机场, server: lz.lianjianode.cc, port: 25000, type: ss, cipher: aes-128-gcm, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, udp: true}
-- {name: 🇭🇰 香港BGP 三网直连1x - 廉价机场, server: 8fb1eaeccd96b58cb921404c8ebb0d42.node.tro.node-is.green, port: 40015, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: live.douyin.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港BGP 中转 01 1.5x - 廉价机场, server: bee43ea86879f8d370f400545be26a5a.node.tro.node-is.green, port: 43562, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港BGP 中转 02 1.5x - 廉价机场, server: d2c158395ae0006b070151a8ca5e84e0.node.tro.node-is.green, port: 49645, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港BGP 中转 03 1.5x - 廉价机场, server: 0a16d3349d6b78d1d01e9b6e6ed050dd.node.tro.node-is.green, port: 44378, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港BGP 中转 04 1.5x - 廉价机场, server: 2b5ff57a579058a0b9f47fa8d546c74e.node.tro.node-is.green, port: 44173, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国BGP 中转 01 1.5x - 廉价机场, server: 71fa0403e497891f488e93f3e3314929.node.tro.node-is.green, port: 41180, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国BGP 中转 02 1.5x - 廉价机场, server: 363d66509126bf5a2bf548ceabbc02aa.node.tro.node-is.green, port: 40031, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国BGP 中转 03 1.5x - 廉价机场, server: eba99989215ef7b5e8f59a60a37002c8.node.tro.node-is.green, port: 40106, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国BGP 中转 04 1.5x - 廉价机场, server: b6c73c0d87f399b451f7b9d0f6225595.node.tro.node-is.green, port: 47681, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本BGP 中转 01 1.5x - 廉价机场, server: 80c4fb28962205fa0b4acae3aaa8b306.node.tro.node-is.green, port: 46789, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本BGP 中转 02 1.5x - 廉价机场, server: 5b5890f027c311f2baa8009c2612a1de.node.tro.node-is.green, port: 45992, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡BGP 中转 01 1.5x - 廉价机场, server: 54808be8939d91534a2c675bab269385.node.tro.node-is.green, port: 49868, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡BGP 中转 02 1.5x - 廉价机场, server: fd06b884fad3aa886dfefb26cd903ecb.node.tro.node-is.green, port: 41515, type: trojan, password: 69978696-04f4-45a5-ac8a-6a7d2f276b71, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gy.58n.net, port: 36821, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港309•专线 - 飞翔吧, server: gyl.58n.net, port: 20309, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z309.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 中转•香港301•高速 - 飞翔吧, server: gy.58n.net, port: 20301, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z301.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 中转•香港102•高速 - 飞翔吧, server: gy.58n.net, port: 43337, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 中转•香港307•高速 - 飞翔吧, server: gy.58n.net, port: 20307, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港143•高速 - 飞翔吧, server: gy.58n.net, port: 28678, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z143.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港259•高速 - 飞翔吧, server: gy.58n.net, port: 24603, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z259.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港269•高速 - 飞翔吧, server: gy.58n.net, port: 22741, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: dufu.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港278•高速 - 飞翔吧, server: gy.58n.net, port: 20278, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z278.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港279•高速 - 飞翔吧, server: gy.58n.net, port: 20279, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z279.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港294•高速 - 飞翔吧, server: gy.58n.net, port: 20294, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z294.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国295•高速 - 飞翔吧, server: gy.58n.net, port: 20295, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: gy.58n.net, port: 20296, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国308•高速 - 飞翔吧, server: gy.58n.net, port: 20308, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国40•高速 - 飞翔吧, server: gy.58n.net, port: 16895, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: x40.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国41•原生 - 飞翔吧, server: gy.58n.net, port: 21970, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: x41.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gy.58n.net, port: 30767, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 广港•美国266•高速 - 飞翔吧, server: gy.58n.net, port: 56783, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 广港•美国288•高速 - 飞翔吧, server: gy.58n.net, port: 20288, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: gy.58n.net, port: 45168, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 广港•韩国264•高速 - 飞翔吧, server: gy.58n.net, port: 50355, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 中转•英国267•高速 - 飞翔吧, server: gy.58n.net, port: 25238, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z267.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 中转•英国268•高速 - 飞翔吧, server: gy.58n.net, port: 11215, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z268.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国302•GPT - 飞翔吧, server: gy.58n.net, port: 20302, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z302.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国303•GPT - 飞翔吧, server: gy.58n.net, port: 20303, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z303.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国304•GPT - 飞翔吧, server: gy.58n.net, port: 20304, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z304.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国305•GPT - 飞翔吧, server: gy.58n.net, port: 20305, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z305.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国306•GPT - 飞翔吧, server: gy.58n.net, port: 20306, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z306.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 中转•日本298•高速 - 飞翔吧, server: gy.58n.net, port: 20298, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 中转•日本300•原生 - 飞翔吧, server: gy.58n.net, port: 20300, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速114•高速 - 飞翔吧, server: gy.58n.net, port: 41767, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: x114.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速115•高速 - 飞翔吧, server: gy.58n.net, port: 54178, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: x115.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速139•铂金 - 飞翔吧, server: gy.58n.net, port: 20139, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z139.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速140•铂金 - 飞翔吧, server: gy.58n.net, port: 20140, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z140.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速141•铂金 - 飞翔吧, server: gy.58n.net, port: 20141, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z141.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速142•原生 - 飞翔吧, server: gy.58n.net, port: 20142, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: z142.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速59•青铜 - 飞翔吧, server: gy.58n.net, port: 20059, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: x59.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速71•高速 - 飞翔吧, server: gy.58n.net, port: 20071, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: x71.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速76•高速 - 飞翔吧, server: gy.58n.net, port: 20076, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: x76.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gy.58n.net, port: 20299, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gy.58n.net, port: 17806, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gy.58n.net, port: 30712, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: gy.58n.net, port: 20129, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: gy.58n.net, port: 20130, type: trojan, password: 015fb753-9005-31ec-9154-51ec4368e866, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
+  use: *id007
+proxy-providers:
+  HK:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/lianjiasub.work/HK.yaml
+    interval: 180
+    path: trials_providers/lianjiasub.work/HK.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  TW:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/lianjiasub.work/TW.yaml
+    interval: 180
+    path: trials_providers/lianjiasub.work/TW.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  SG:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/lianjiasub.work/SG.yaml
+    interval: 180
+    path: trials_providers/lianjiasub.work/SG.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  JP:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/lianjiasub.work/JP.yaml
+    interval: 180
+    path: trials_providers/lianjiasub.work/JP.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  US:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/lianjiasub.work/US.yaml
+    interval: 180
+    path: trials_providers/lianjiasub.work/US.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
