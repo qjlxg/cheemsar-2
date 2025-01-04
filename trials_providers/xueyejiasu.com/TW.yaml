@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇹🇼 台湾 1 - 血液加速器, server: gy.666666222.shop, port: 20032, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 617e2609-1965-43d9-ad21-2216934d1a78, udp: true}
-- {name: 🇹🇼 台湾01 - 血液加速器, server: gy.666666222.shop, port: 47564, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 617e2609-1965-43d9-ad21-2216934d1a78, udp: true}
