@@ -1,0 +1,219 @@
+%YAML 1.1
+---
+proxies:
+- &id001 {name: ℹ️ 建议有事没事都更新订阅 - 菜鸟机场, server: cainiao212.top, port: 666, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f230f0d6-8478-4a52-b546-13575d0bdc82, udp: true}
+- &id002 {name: 🇭🇰 香港中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 43641, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f230f0d6-8478-4a52-b546-13575d0bdc82, udp: true}
+- &id003 {name: 🇭🇰 香港中转✈02 - 菜鸟机场, server: chiyu.myfczy169.top, port: 36858, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f230f0d6-8478-4a52-b546-13575d0bdc82, udp: true}
+- &id004 {name: 🇭🇰 香港中转✈03 - 菜鸟机场, server: chiyu.myfczy169.top, port: 14407, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f230f0d6-8478-4a52-b546-13575d0bdc82, udp: true}
+- &id005 {name: 🇭🇰 香港中转✈04 - 菜鸟机场, server: chiyu.myfczy169.top, port: 11618, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f230f0d6-8478-4a52-b546-13575d0bdc82, udp: true}
+- &id006 {name: 🇭🇰 香港中转✈05 - 菜鸟机场, server: chiyu.myfczy169.top, port: 20901, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f230f0d6-8478-4a52-b546-13575d0bdc82, udp: true}
+- &id007 {name: 🇹🇼 台湾中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 18841, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f230f0d6-8478-4a52-b546-13575d0bdc82, udp: true}
+- &id008 {name: 🇹🇼 台湾中转✈02 - 菜鸟机场, server: chiyu.myfczy169.top, port: 22297, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f230f0d6-8478-4a52-b546-13575d0bdc82, udp: true}
+- &id009 {name: 🇹🇼 台湾中转✈03 - 菜鸟机场, server: chiyu.myfczy169.top, port: 32525, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f230f0d6-8478-4a52-b546-13575d0bdc82, udp: true}
+- &id010 {name: 🇹🇼 台湾中转✈04 - 菜鸟机场, server: chiyu.myfczy169.top, port: 34915, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f230f0d6-8478-4a52-b546-13575d0bdc82, udp: true}
+- &id011 {name: 🇹🇼 台湾中转✈05 - 菜鸟机场, server: chiyu.myfczy169.top, port: 44454, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f230f0d6-8478-4a52-b546-13575d0bdc82, udp: true}
+- &id012 {name: 🇯🇵 日本中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 34701, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f230f0d6-8478-4a52-b546-13575d0bdc82, udp: true}
+- &id013 {name: 🇯🇵 日本中转✈02 - 菜鸟机场, server: chiyu.myfczy169.top, port: 38180, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f230f0d6-8478-4a52-b546-13575d0bdc82, udp: true}
+- &id014 {name: 🇯🇵 日本中转✈03 - 菜鸟机场, server: chiyu.myfczy169.top, port: 14087, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f230f0d6-8478-4a52-b546-13575d0bdc82, udp: true}
+- &id015 {name: 🇯🇵 日本中转✈04 - 菜鸟机场, server: chiyu.myfczy169.top, port: 20678, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f230f0d6-8478-4a52-b546-13575d0bdc82, udp: true}
+- &id016 {name: 🇯🇵 日本中转✈05 - 菜鸟机场, server: chiyu.myfczy169.top, port: 51578, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f230f0d6-8478-4a52-b546-13575d0bdc82, udp: true}
+- &id017 {name: 🇸🇬 新加坡中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 14362, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f230f0d6-8478-4a52-b546-13575d0bdc82, udp: true}
+- &id018 {name: 🇸🇬 新加坡中转✈02 - 菜鸟机场, server: chiyu.myfczy169.top, port: 21296, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f230f0d6-8478-4a52-b546-13575d0bdc82, udp: true}
+- &id019 {name: 🇸🇬 新加坡中转✈03 - 菜鸟机场, server: chiyu.myfczy169.top, port: 50691, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f230f0d6-8478-4a52-b546-13575d0bdc82, udp: true}
+- &id020 {name: 🇺🇸 美国中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 53473, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f230f0d6-8478-4a52-b546-13575d0bdc82, udp: true}
+- &id021 {name: 🇺🇸 美国中转✈02 - 菜鸟机场, server: chiyu.myfczy169.top, port: 54501, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f230f0d6-8478-4a52-b546-13575d0bdc82, udp: true}
+- &id022 {name: 🇺🇸 美国中转✈03 - 菜鸟机场, server: chiyu.myfczy169.top, port: 53473, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f230f0d6-8478-4a52-b546-13575d0bdc82, udp: true}
+- &id023 {name: 🇬🇧 英国中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 59863, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f230f0d6-8478-4a52-b546-13575d0bdc82, udp: true}
+- &id024 {name: 🇬🇧 英国中转✈02 - 菜鸟机场, server: chiyu.myfczy169.top, port: 30518, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f230f0d6-8478-4a52-b546-13575d0bdc82, udp: true}
+- &id025 {name: 🇬🇧 英国中转✈03 - 菜鸟机场, server: chiyu.myfczy169.top, port: 22771, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f230f0d6-8478-4a52-b546-13575d0bdc82, udp: true}
+- &id026 {name: 🇸🇪 瑞典中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 22539, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f230f0d6-8478-4a52-b546-13575d0bdc82, udp: true}
+- &id027 {name: 🇻🇳 越南中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 21071, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f230f0d6-8478-4a52-b546-13575d0bdc82, udp: true}
+- &id028 {name: 🇹🇭 泰国中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 20289, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f230f0d6-8478-4a52-b546-13575d0bdc82, udp: true}
+- &id029 {name: 🇮🇳 印度中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 21061, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f230f0d6-8478-4a52-b546-13575d0bdc82, udp: true}
+- &id030 {name: 🇩🇪 德国中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 21098, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f230f0d6-8478-4a52-b546-13575d0bdc82, udp: true}
+- &id031 {name: 🇧🇷 巴西中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 20936, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f230f0d6-8478-4a52-b546-13575d0bdc82, udp: true}
+- &id032 {name: 🇹🇷 土耳其中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 21048, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f230f0d6-8478-4a52-b546-13575d0bdc82, udp: true}
+- &id033 {name: 🇦🇪 阿联酋中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 21059, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f230f0d6-8478-4a52-b546-13575d0bdc82, udp: true}
+- &id034 {name: 🇲🇾 马来西亚中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 20119, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f230f0d6-8478-4a52-b546-13575d0bdc82, udp: true}
+- &id035 {name: 🇰🇿 哈萨克斯坦中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 21081, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f230f0d6-8478-4a52-b546-13575d0bdc82, udp: true}
+- &id036 {name: ♡⃝♡⃝♡⃝♡⃝♡⃝ ◡̈下方为备用节点 - 菜鸟机场, server: 666.com, port: 777, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f230f0d6-8478-4a52-b546-13575d0bdc82, udp: true}
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- *id022
+- *id023
+- *id024
+- *id025
+- *id026
+- *id027
+- *id028
+- *id029
+- *id030
+- *id031
+- *id032
+- *id033
+- *id034
+- *id035
+- *id036
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- *id022
+- *id023
+- *id024
+- *id025
+- *id026
+- *id027
+- *id028
+- *id029
+- *id030
+- *id031
+- *id032
+- *id033
+- *id034
+- *id035
+- *id036
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- *id022
+- *id023
+- *id024
+- *id025
+- *id026
+- *id027
+- *id028
+- *id029
+- *id030
+- *id031
+- *id032
+- *id033
+- *id034
+- *id035
+- *id036
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- *id022
+- *id023
+- *id024
+- *id025
+- *id026
+- *id027
+- *id028
+- *id029
+- *id030
+- *id031
+- *id032
+- *id033
+- *id034
+- *id035
+- *id036
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- *id022
+- *id023
+- *id024
+- *id025
+- *id026
+- *id027
+- *id028
+- *id029
+- *id030
+- *id031
+- *id032
+- *id033
+- *id034
+- *id035
+- *id036
