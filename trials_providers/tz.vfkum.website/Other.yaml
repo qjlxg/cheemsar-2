@@ -1,0 +1,16 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇩🇪 德国-法兰克福-001 - 漏网之鱼, server: 5.39.252.204, port: 10881, tfo: true, type: vmess, uuid: aa47f186-baa2-408a-bd7d-f30e6d601dc7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇷🇺 俄罗斯-圣彼得堡-015 - 漏网之鱼, server: 195.58.49.42, port: 10881, tfo: true, type: vmess, uuid: aa47f186-baa2-408a-bd7d-f30e6d601dc7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇷🇺 俄罗斯-圣彼得堡-014 - 漏网之鱼, server: 195.58.49.50, port: 10881, tfo: true, type: vmess, uuid: aa47f186-baa2-408a-bd7d-f30e6d601dc7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇷🇺 俄罗斯-圣彼得堡-013 - 漏网之鱼, server: 194.87.69.52, port: 10881, tfo: true, type: vmess, uuid: aa47f186-baa2-408a-bd7d-f30e6d601dc7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇷🇺 俄罗斯-圣彼得堡-012 - 漏网之鱼, server: 195.58.49.86, port: 10881, tfo: true, type: vmess, uuid: aa47f186-baa2-408a-bd7d-f30e6d601dc7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇷🇺 俄罗斯-圣彼得堡-011 - 漏网之鱼, server: 194.87.68.115, port: 10881, tfo: true, type: vmess, uuid: aa47f186-baa2-408a-bd7d-f30e6d601dc7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇷🇺 俄罗斯-圣彼得堡-006 - 漏网之鱼, server: 195.58.49.152, port: 10881, tfo: true, type: vmess, uuid: aa47f186-baa2-408a-bd7d-f30e6d601dc7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇷🇺 俄罗斯-圣彼得堡-007 - 漏网之鱼, server: 176.32.39.181, port: 10881, tfo: true, type: vmess, uuid: aa47f186-baa2-408a-bd7d-f30e6d601dc7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇷🇺 俄罗斯-圣彼得堡-008 - 漏网之鱼, server: 194.87.69.244, port: 10881, tfo: true, type: vmess, uuid: aa47f186-baa2-408a-bd7d-f30e6d601dc7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇷🇺 俄罗斯-圣彼得堡-009 - 漏网之鱼, server: 194.87.69.56, port: 10881, tfo: true, type: vmess, uuid: aa47f186-baa2-408a-bd7d-f30e6d601dc7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇷🇺 俄罗斯-圣彼得堡-010 - 漏网之鱼, server: 194.87.68.228, port: 10881, tfo: true, type: vmess, uuid: aa47f186-baa2-408a-bd7d-f30e6d601dc7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇨🇭 瑞士-日内瓦-001 - 漏网之鱼, server: 194.87.18.248, port: 10881, tfo: true, type: vmess, uuid: aa47f186-baa2-408a-bd7d-f30e6d601dc7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇨🇦 加拿大-多伦多-001 - 漏网之鱼, server: 141.195.112.167, port: 10881, tfo: true, type: vmess, uuid: aa47f186-baa2-408a-bd7d-f30e6d601dc7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
