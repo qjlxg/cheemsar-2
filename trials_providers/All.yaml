@@ -23,18 +23,33 @@ proxies:
 - {name: 🇫🇷 法国2 - 大师专线, server: xdd.dashuai.cyou, port: 45071, type: vmess, uuid: a690f857-6d49-493e-bff5-dab95ed63b65, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港（直连） - 大师专线, server: xg.dashuai.cyou, port: 19901, type: vmess, uuid: a690f857-6d49-493e-bff5-dab95ed63b65, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 韩国-三网优化2 - 青云互联网-, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 46bcdcbd-ea50-4b35-99a2-a9657e8093e4, sni: kr-qingyun.dwyun.me, skip-cert-verify: true, udp: true}
-- {name: ℹ️ xueyejiasu.xyz发布地址不迷路 - 血液加速器, server: hk.kfsldflk.xyz, port: 1200, type: ss, cipher: aes-256-gcm, password: 5ccdc24b-706c-431d-9c67-7efc7be835bc, udp: true}
-- {name: 🇹🇼 台湾 1 - 血液加速器, server: gy.666666222.shop, port: 20032, type: ss, cipher: chacha20-ietf-poly1305, password: 5ccdc24b-706c-431d-9c67-7efc7be835bc, udp: true}
-- {name: 🇹🇼 台湾01 - 血液加速器, server: gy.666666222.shop, port: 47564, type: ss, cipher: chacha20-ietf-poly1305, password: 5ccdc24b-706c-431d-9c67-7efc7be835bc, udp: true}
-- {name: 🇭🇰 香港01 - 血液加速器, server: gy.666666222.shop, port: 34338, type: ss, cipher: chacha20-ietf-poly1305, password: 5ccdc24b-706c-431d-9c67-7efc7be835bc, udp: true}
-- {name: 🇭🇰 香港02 - 血液加速器, server: gy.666666222.shop, port: 20035, type: ss, cipher: chacha20-ietf-poly1305, password: 5ccdc24b-706c-431d-9c67-7efc7be835bc, udp: true}
-- {name: 🇭🇰 香港03 - 血液加速器, server: gy.666666222.shop, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 5ccdc24b-706c-431d-9c67-7efc7be835bc, udp: true}
-- {name: 🇯🇵 日本01 - 血液加速器, server: gy.666666222.shop, port: 20002, type: ss, cipher: chacha20-ietf-poly1305, password: 5ccdc24b-706c-431d-9c67-7efc7be835bc, udp: true}
-- {name: 🇯🇵 日本02 - 血液加速器, server: gy.666666222.shop, port: 20004, type: ss, cipher: chacha20-ietf-poly1305, password: 5ccdc24b-706c-431d-9c67-7efc7be835bc, udp: true}
-- {name: 🇯🇵 日本03 - 血液加速器, server: gy.666666222.shop, port: 20006, type: ss, cipher: chacha20-ietf-poly1305, password: 5ccdc24b-706c-431d-9c67-7efc7be835bc, udp: true}
-- {name: 🇯🇵 日本04 - 血液加速器, server: gy.666666222.shop, port: 20008, type: ss, cipher: chacha20-ietf-poly1305, password: 5ccdc24b-706c-431d-9c67-7efc7be835bc, udp: true}
-- {name: 🇺🇸 美国 纽约01 - 血液加速器, server: gy.666666222.shop, port: 20013, type: ss, cipher: chacha20-ietf-poly1305, password: 5ccdc24b-706c-431d-9c67-7efc7be835bc, udp: true}
-- {name: 🇺🇸 美国 纽约2 - 血液加速器, server: gy.666666222.shop, port: 20016, type: ss, cipher: chacha20-ietf-poly1305, password: 5ccdc24b-706c-431d-9c67-7efc7be835bc, udp: true}
+- {name: ℹ️ xueyejiasu.xyz发布地址不迷路 - 血液加速器, server: hk.kfsldflk.xyz, port: 1200, tfo: true, type: ss, cipher: aes-256-gcm, password: 5ccdc24b-706c-431d-9c67-7efc7be835bc, udp: true}
+- {name: 🇹🇼 台湾 1 - 血液加速器, server: gy.666666222.shop, port: 20032, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 5ccdc24b-706c-431d-9c67-7efc7be835bc, udp: true}
+- {name: 🇹🇼 台湾01 - 血液加速器, server: gy.666666222.shop, port: 47564, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 5ccdc24b-706c-431d-9c67-7efc7be835bc, udp: true}
+- {name: 🇭🇰 香港01 - 血液加速器, server: gy.666666222.shop, port: 34338, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 5ccdc24b-706c-431d-9c67-7efc7be835bc, udp: true}
+- {name: 🇭🇰 香港02 - 血液加速器, server: gy.666666222.shop, port: 20035, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 5ccdc24b-706c-431d-9c67-7efc7be835bc, udp: true}
+- {name: 🇭🇰 香港03 - 血液加速器, server: gy.666666222.shop, port: 20052, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 5ccdc24b-706c-431d-9c67-7efc7be835bc, udp: true}
+- {name: 🇯🇵 日本01 - 血液加速器, server: gy.666666222.shop, port: 20002, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 5ccdc24b-706c-431d-9c67-7efc7be835bc, udp: true}
+- {name: 🇯🇵 日本02 - 血液加速器, server: gy.666666222.shop, port: 20004, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 5ccdc24b-706c-431d-9c67-7efc7be835bc, udp: true}
+- {name: 🇯🇵 日本03 - 血液加速器, server: gy.666666222.shop, port: 20006, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 5ccdc24b-706c-431d-9c67-7efc7be835bc, udp: true}
+- {name: 🇯🇵 日本04 - 血液加速器, server: gy.666666222.shop, port: 20008, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 5ccdc24b-706c-431d-9c67-7efc7be835bc, udp: true}
+- {name: 🇺🇸 美国 纽约01 - 血液加速器, server: gy.666666222.shop, port: 20013, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 5ccdc24b-706c-431d-9c67-7efc7be835bc, udp: true}
+- {name: 🇺🇸 美国 纽约2 - 血液加速器, server: gy.666666222.shop, port: 20016, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 5ccdc24b-706c-431d-9c67-7efc7be835bc, udp: true}
+- &id001 {name: 🇩🇪 德国-法兰克福-001 - 漏网之鱼, server: 5.39.252.204, port: 10881, tfo: true, type: vmess, uuid: 1ee60622-9817-41aa-ae4c-86fd0b821065, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id002 {name: 🇭🇰 中国-香港-005 - 漏网之鱼, server: 212.192.12.70, port: 10881, tfo: true, type: vmess, uuid: 1ee60622-9817-41aa-ae4c-86fd0b821065, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id003 {name: 🇷🇺 俄罗斯-圣彼得堡-015 - 漏网之鱼, server: 195.58.49.42, port: 10881, tfo: true, type: vmess, uuid: 1ee60622-9817-41aa-ae4c-86fd0b821065, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id004 {name: 🇷🇺 俄罗斯-圣彼得堡-014 - 漏网之鱼, server: 195.58.49.50, port: 10881, tfo: true, type: vmess, uuid: 1ee60622-9817-41aa-ae4c-86fd0b821065, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id005 {name: 🇷🇺 俄罗斯-圣彼得堡-013 - 漏网之鱼, server: 194.87.69.52, port: 10881, tfo: true, type: vmess, uuid: 1ee60622-9817-41aa-ae4c-86fd0b821065, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id006 {name: 🇷🇺 俄罗斯-圣彼得堡-012 - 漏网之鱼, server: 195.58.49.86, port: 10881, tfo: true, type: vmess, uuid: 1ee60622-9817-41aa-ae4c-86fd0b821065, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id007 {name: 🇷🇺 俄罗斯-圣彼得堡-011 - 漏网之鱼, server: 194.87.68.115, port: 10881, tfo: true, type: vmess, uuid: 1ee60622-9817-41aa-ae4c-86fd0b821065, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id008 {name: 🇷🇺 俄罗斯-圣彼得堡-006 - 漏网之鱼, server: 195.58.49.152, port: 10881, tfo: true, type: vmess, uuid: 1ee60622-9817-41aa-ae4c-86fd0b821065, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id009 {name: 🇷🇺 俄罗斯-圣彼得堡-007 - 漏网之鱼, server: 176.32.39.181, port: 10881, tfo: true, type: vmess, uuid: 1ee60622-9817-41aa-ae4c-86fd0b821065, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id010 {name: 🇷🇺 俄罗斯-圣彼得堡-008 - 漏网之鱼, server: 194.87.69.244, port: 10881, tfo: true, type: vmess, uuid: 1ee60622-9817-41aa-ae4c-86fd0b821065, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id011 {name: 🇷🇺 俄罗斯-圣彼得堡-009 - 漏网之鱼, server: 194.87.69.56, port: 10881, tfo: true, type: vmess, uuid: 1ee60622-9817-41aa-ae4c-86fd0b821065, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id012 {name: 🇷🇺 俄罗斯-圣彼得堡-010 - 漏网之鱼, server: 194.87.68.228, port: 10881, tfo: true, type: vmess, uuid: 1ee60622-9817-41aa-ae4c-86fd0b821065, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id013 {name: 🇺🇸 美国-芝加哥-001 - 漏网之鱼, server: 166.88.159.225, port: 40552, tfo: true, type: vmess, uuid: 1ee60622-9817-41aa-ae4c-86fd0b821065, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id014 {name: 🇨🇭 瑞士-日内瓦-001 - 漏网之鱼, server: 194.87.18.248, port: 10881, tfo: true, type: vmess, uuid: 1ee60622-9817-41aa-ae4c-86fd0b821065, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id015 {name: 🇨🇦 加拿大-多伦多-001 - 漏网之鱼, server: 141.195.112.167, port: 10881, tfo: true, type: vmess, uuid: 1ee60622-9817-41aa-ae4c-86fd0b821065, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
 - {name: ℹ️ 最新官网：6.needss.one(可直接访问） - needss云, server: i.needss.top, port: 20013, type: vmess, uuid: 62316b1b-18de-44b2-9640-4b2020b18ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: ℹ️ 永久官网：needss.link(需挂梯子访问） - needss云, server: i.needss.top, port: 20013, type: vmess, uuid: 62316b1b-18de-44b2-9640-4b2020b18ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: ℹ️ 网址发布页：aa.needss1.top - needss云, server: i.needss.top, port: 20013, type: vmess, uuid: 62316b1b-18de-44b2-9640-4b2020b18ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -76,25 +91,20 @@ proxies:
 - {name: '🇳🇱 [1x] 荷兰 IEPL专线NO2 - needss云', server: qd.needss.top, port: 20014, type: vmess, uuid: 62316b1b-18de-44b2-9640-4b2020b18ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇫🇷 [1x] 法国 CM 隧道NO1 - needss云', server: qd.needss.top, port: 52108, type: vmess, uuid: 62316b1b-18de-44b2-9640-4b2020b18ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇫🇷 [1x] 法国 CM 隧道NO2 - needss云', server: qd.needss.top, port: 52108, type: vmess, uuid: 62316b1b-18de-44b2-9640-4b2020b18ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国-法兰克福-001 - 漏网之鱼, server: 5.39.252.204, port: 10881, type: vmess, uuid: 1ee60622-9817-41aa-ae4c-86fd0b821065, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇭🇰 中国-香港-005 - 漏网之鱼, server: 212.192.12.70, port: 10881, type: vmess, uuid: 1ee60622-9817-41aa-ae4c-86fd0b821065, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-015 - 漏网之鱼, server: 195.58.49.42, port: 10881, type: vmess, uuid: 1ee60622-9817-41aa-ae4c-86fd0b821065, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-014 - 漏网之鱼, server: 195.58.49.50, port: 10881, type: vmess, uuid: 1ee60622-9817-41aa-ae4c-86fd0b821065, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-013 - 漏网之鱼, server: 194.87.69.52, port: 10881, type: vmess, uuid: 1ee60622-9817-41aa-ae4c-86fd0b821065, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-012 - 漏网之鱼, server: 195.58.49.86, port: 10881, type: vmess, uuid: 1ee60622-9817-41aa-ae4c-86fd0b821065, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-011 - 漏网之鱼, server: 194.87.68.115, port: 10881, type: vmess, uuid: 1ee60622-9817-41aa-ae4c-86fd0b821065, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-006 - 漏网之鱼, server: 195.58.49.152, port: 10881, type: vmess, uuid: 1ee60622-9817-41aa-ae4c-86fd0b821065, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-007 - 漏网之鱼, server: 176.32.39.181, port: 10881, type: vmess, uuid: 1ee60622-9817-41aa-ae4c-86fd0b821065, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-008 - 漏网之鱼, server: 194.87.69.244, port: 10881, type: vmess, uuid: 1ee60622-9817-41aa-ae4c-86fd0b821065, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-009 - 漏网之鱼, server: 194.87.69.56, port: 10881, type: vmess, uuid: 1ee60622-9817-41aa-ae4c-86fd0b821065, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-010 - 漏网之鱼, server: 194.87.68.228, port: 10881, type: vmess, uuid: 1ee60622-9817-41aa-ae4c-86fd0b821065, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇺🇸 美国-芝加哥-001 - 漏网之鱼, server: 166.88.159.225, port: 40552, type: vmess, uuid: 1ee60622-9817-41aa-ae4c-86fd0b821065, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇨🇭 瑞士-日内瓦-001 - 漏网之鱼, server: 194.87.18.248, port: 10881, type: vmess, uuid: 1ee60622-9817-41aa-ae4c-86fd0b821065, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇨🇦 加拿大-多伦多-001 - 漏网之鱼, server: 141.195.112.167, port: 10881, type: vmess, uuid: 1ee60622-9817-41aa-ae4c-86fd0b821065, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇹🇼 台湾2全天极速优先使用|X3 - SuLink速联网络, server: yx.sulink.one, port: 2052, type: vmess, uuid: 1d136783-4f5a-49cb-8497-07aced66f961, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw02.xn--io0a7iw0ab67b.xyz}}, udp: true}
-- {name: 🇺🇸 美国5 - SuLink速联网络, server: yx.sulink.one, port: 80, type: vmess, uuid: 1d136783-4f5a-49cb-8497-07aced66f961, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us5.sulink.one}}, udp: true}
-- {name: '🇹🇼 [vmess]台湾02-3倍率-流媒体 - HY-2', server: cf.hy2.one, port: 80, type: vmess, uuid: b22b654e-6787-4a57-8d0e-8ec36820c71c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /af323d, headers: {Host: tw02.hy2.one}}, udp: true}
-- {name: '🇭🇰 [vmess]香港06-流媒体 - HY-2', server: cf.hy2.one, port: 80, type: vmess, uuid: b22b654e-6787-4a57-8d0e-8ec36820c71c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: hk06.hy-2.top}}, udp: true}
-- {name: '🇸🇬 [vmess]新加坡02-V4-流媒体 - HY-2', server: cf.hy2.one, port: 2052, type: vmess, uuid: b22b654e-6787-4a57-8d0e-8ec36820c71c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /0, headers: {Host: sg0002.hy-2.top}}, udp: true}
-- {name: '🇺🇸 [vmess]美国03 - HY-2', server: cf.hy2.one, port: 2052, type: vmess, uuid: b22b654e-6787-4a57-8d0e-8ec36820c71c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us03.hy-2.top}}, udp: true}
-- {name: '🇺🇸 [vmess]美国04 - HY-2', server: cf.hy2.one, port: 2052, type: vmess, uuid: b22b654e-6787-4a57-8d0e-8ec36820c71c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us04.hy-2.top}}, udp: true}
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- {name: 🇹🇼 台湾2全天极速优先使用|X3 - SuLink速联网络, server: yx.sulink.one, port: 2052, type: vmess, uuid: 0443e821-fe3a-4c20-a4dd-c5ea47c2f04b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw02.xn--io0a7iw0ab67b.xyz}}, udp: true}
+- {name: 🇺🇸 美国5 - SuLink速联网络, server: yx.sulink.one, port: 80, type: vmess, uuid: 0443e821-fe3a-4c20-a4dd-c5ea47c2f04b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us5.sulink.one}}, udp: true}

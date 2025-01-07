@@ -11,25 +11,34 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
-  - 🇸🇬 ‍新加坡
   - 🇺🇸 ‍美国
+  - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
-  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id001
-  - HK
-  - TW
-  - SG
-  - US
+  proxies: &id001
+  - 🇭🇰 中国-香港-005 - 漏网之鱼
+  - 🇺🇸 美国-芝加哥-001 - 漏网之鱼
+  - 🇩🇪 德国-法兰克福-001 - 漏网之鱼
+  - 🇷🇺 俄罗斯-圣彼得堡-015 - 漏网之鱼
+  - 🇷🇺 俄罗斯-圣彼得堡-014 - 漏网之鱼
+  - 🇷🇺 俄罗斯-圣彼得堡-013 - 漏网之鱼
+  - 🇷🇺 俄罗斯-圣彼得堡-012 - 漏网之鱼
+  - 🇷🇺 俄罗斯-圣彼得堡-011 - 漏网之鱼
+  - 🇷🇺 俄罗斯-圣彼得堡-006 - 漏网之鱼
+  - 🇷🇺 俄罗斯-圣彼得堡-007 - 漏网之鱼
+  - 🇷🇺 俄罗斯-圣彼得堡-008 - 漏网之鱼
+  - 🇷🇺 俄罗斯-圣彼得堡-009 - 漏网之鱼
+  - 🇷🇺 俄罗斯-圣彼得堡-010 - 漏网之鱼
+  - 🇨🇭 瑞士-日内瓦-001 - 漏网之鱼
+  - 🇨🇦 加拿大-多伦多-001 - 漏网之鱼
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -47,23 +56,17 @@ proxy-groups:
   proxies:
   - 🛩️ ‍墙内
   - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
   - ✈️ ‍起飞
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
   - 🇺🇸 ‍美国
-  - 🇹🇼 ‍台湾
-  - 🇸🇬 ‍新加坡
+  - 🎏 ‍其他
   - ✈️ ‍起飞
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -74,85 +77,65 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id002
-  - HK
-- name: 🇹🇼 ‍台湾
-  type: url-test
-  tolerance: 100
-  use: &id003
-  - TW
-- name: 🇨🇳 ‍中国
-  type: url-test
-  tolerance: 100
-  use: &id004
-  - HK
-  - TW
-- name: 🇸🇬 ‍新加坡
-  type: url-test
-  tolerance: 100
-  use: &id005
-  - SG
+  proxies: &id002
+  - 🇭🇰 中国-香港-005 - 漏网之鱼
 - name: 🇺🇸 ‍美国
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 300
-  use: &id006
-  - US
+  proxies: &id003
+  - 🇺🇸 美国-芝加哥-001 - 漏网之鱼
+- name: 🎏 ‍其他
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 100
+  proxies: &id004
+  - 🇩🇪 德国-法兰克福-001 - 漏网之鱼
+  - 🇷🇺 俄罗斯-圣彼得堡-015 - 漏网之鱼
+  - 🇷🇺 俄罗斯-圣彼得堡-014 - 漏网之鱼
+  - 🇷🇺 俄罗斯-圣彼得堡-013 - 漏网之鱼
+  - 🇷🇺 俄罗斯-圣彼得堡-012 - 漏网之鱼
+  - 🇷🇺 俄罗斯-圣彼得堡-011 - 漏网之鱼
+  - 🇷🇺 俄罗斯-圣彼得堡-006 - 漏网之鱼
+  - 🇷🇺 俄罗斯-圣彼得堡-007 - 漏网之鱼
+  - 🇷🇺 俄罗斯-圣彼得堡-008 - 漏网之鱼
+  - 🇷🇺 俄罗斯-圣彼得堡-009 - 漏网之鱼
+  - 🇷🇺 俄罗斯-圣彼得堡-010 - 漏网之鱼
+  - 🇨🇭 瑞士-日内瓦-001 - 漏网之鱼
+  - 🇨🇦 加拿大-多伦多-001 - 漏网之鱼
 - name: 👆🏻 ‍指定
   type: select
-  use: *id001
+  proxies: *id001
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  use: *id002
-- name: 👆🏻🇹🇼 ‍台湾
-  type: select
-  use: *id003
-- name: 👆🏻🇨🇳 ‍中国
-  type: select
-  use: *id004
-- name: 👆🏻🇸🇬 ‍新加坡
-  type: select
-  use: *id005
+  proxies: *id002
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  use: *id006
-proxy-providers:
-  HK:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/hy-2.com/HK.yaml
-    interval: 180
-    path: trials_providers/hy-2.com/HK.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  TW:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/hy-2.com/TW.yaml
-    interval: 180
-    path: trials_providers/hy-2.com/TW.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  SG:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/hy-2.com/SG.yaml
-    interval: 180
-    path: trials_providers/hy-2.com/SG.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  US:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/hy-2.com/US.yaml
-    interval: 180
-    path: trials_providers/hy-2.com/US.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
+  proxies: *id003
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id004
+proxies:
+- {name: 🇩🇪 德国-法兰克福-001 - 漏网之鱼, server: 5.39.252.204, port: 10881, type: vmess, uuid: 5d28e160-d0f0-41d3-afab-8c62d63b6a35, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇭🇰 中国-香港-005 - 漏网之鱼, server: 212.192.12.70, port: 10881, type: vmess, uuid: 5d28e160-d0f0-41d3-afab-8c62d63b6a35, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇷🇺 俄罗斯-圣彼得堡-015 - 漏网之鱼, server: 195.58.49.42, port: 10881, type: vmess, uuid: 5d28e160-d0f0-41d3-afab-8c62d63b6a35, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇷🇺 俄罗斯-圣彼得堡-014 - 漏网之鱼, server: 195.58.49.50, port: 10881, type: vmess, uuid: 5d28e160-d0f0-41d3-afab-8c62d63b6a35, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇷🇺 俄罗斯-圣彼得堡-013 - 漏网之鱼, server: 194.87.69.52, port: 10881, type: vmess, uuid: 5d28e160-d0f0-41d3-afab-8c62d63b6a35, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇷🇺 俄罗斯-圣彼得堡-012 - 漏网之鱼, server: 195.58.49.86, port: 10881, type: vmess, uuid: 5d28e160-d0f0-41d3-afab-8c62d63b6a35, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇷🇺 俄罗斯-圣彼得堡-011 - 漏网之鱼, server: 194.87.68.115, port: 10881, type: vmess, uuid: 5d28e160-d0f0-41d3-afab-8c62d63b6a35, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇷🇺 俄罗斯-圣彼得堡-006 - 漏网之鱼, server: 195.58.49.152, port: 10881, type: vmess, uuid: 5d28e160-d0f0-41d3-afab-8c62d63b6a35, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇷🇺 俄罗斯-圣彼得堡-007 - 漏网之鱼, server: 176.32.39.181, port: 10881, type: vmess, uuid: 5d28e160-d0f0-41d3-afab-8c62d63b6a35, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇷🇺 俄罗斯-圣彼得堡-008 - 漏网之鱼, server: 194.87.69.244, port: 10881, type: vmess, uuid: 5d28e160-d0f0-41d3-afab-8c62d63b6a35, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇷🇺 俄罗斯-圣彼得堡-009 - 漏网之鱼, server: 194.87.69.56, port: 10881, type: vmess, uuid: 5d28e160-d0f0-41d3-afab-8c62d63b6a35, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇷🇺 俄罗斯-圣彼得堡-010 - 漏网之鱼, server: 194.87.68.228, port: 10881, type: vmess, uuid: 5d28e160-d0f0-41d3-afab-8c62d63b6a35, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇺🇸 美国-芝加哥-001 - 漏网之鱼, server: 166.88.159.225, port: 40552, type: vmess, uuid: 5d28e160-d0f0-41d3-afab-8c62d63b6a35, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇨🇭 瑞士-日内瓦-001 - 漏网之鱼, server: 194.87.18.248, port: 10881, type: vmess, uuid: 5d28e160-d0f0-41d3-afab-8c62d63b6a35, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇨🇦 加拿大-多伦多-001 - 漏网之鱼, server: 141.195.112.167, port: 10881, type: vmess, uuid: 5d28e160-d0f0-41d3-afab-8c62d63b6a35, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

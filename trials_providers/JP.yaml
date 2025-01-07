@@ -3,9 +3,9 @@
 proxies:
 - {name: 🇯🇵 日本NO.1 - 大师专线, server: haa.dashuai.cyou, port: 45056, type: vmess, uuid: a690f857-6d49-493e-bff5-dab95ed63b65, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本NO.2 - 大师专线, server: xdd.dashuai.cyou, port: 45057, type: vmess, uuid: a690f857-6d49-493e-bff5-dab95ed63b65, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本01 - 血液加速器, server: gy.666666222.shop, port: 20002, type: ss, cipher: chacha20-ietf-poly1305, password: 5ccdc24b-706c-431d-9c67-7efc7be835bc, udp: true}
-- {name: 🇯🇵 日本02 - 血液加速器, server: gy.666666222.shop, port: 20004, type: ss, cipher: chacha20-ietf-poly1305, password: 5ccdc24b-706c-431d-9c67-7efc7be835bc, udp: true}
-- {name: 🇯🇵 日本03 - 血液加速器, server: gy.666666222.shop, port: 20006, type: ss, cipher: chacha20-ietf-poly1305, password: 5ccdc24b-706c-431d-9c67-7efc7be835bc, udp: true}
-- {name: 🇯🇵 日本04 - 血液加速器, server: gy.666666222.shop, port: 20008, type: ss, cipher: chacha20-ietf-poly1305, password: 5ccdc24b-706c-431d-9c67-7efc7be835bc, udp: true}
+- {name: 🇯🇵 日本01 - 血液加速器, server: gy.666666222.shop, port: 20002, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 5ccdc24b-706c-431d-9c67-7efc7be835bc, udp: true}
+- {name: 🇯🇵 日本02 - 血液加速器, server: gy.666666222.shop, port: 20004, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 5ccdc24b-706c-431d-9c67-7efc7be835bc, udp: true}
+- {name: 🇯🇵 日本03 - 血液加速器, server: gy.666666222.shop, port: 20006, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 5ccdc24b-706c-431d-9c67-7efc7be835bc, udp: true}
+- {name: 🇯🇵 日本04 - 血液加速器, server: gy.666666222.shop, port: 20008, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 5ccdc24b-706c-431d-9c67-7efc7be835bc, udp: true}
 - {name: '🇯🇵 [3x] 日本 IEPL专线NO1 - needss云', server: i.needss.top, port: 20017, type: vmess, uuid: 62316b1b-18de-44b2-9640-4b2020b18ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇯🇵 [3x] 日本 IEPL专线NO2 - needss云', server: i.needss.top, port: 20017, type: vmess, uuid: 62316b1b-18de-44b2-9640-4b2020b18ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
