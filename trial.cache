@@ -1,108 +1,165 @@
-[subscribe.cloudlion.me]
-
-[subscribe.cloudlion.top]
-
-[subscribe.iint.cc]
-
-[subscribe.insidergame.xyz]
-
-[subscribe.speedypro.xyz]
-
-[subscribe.suwas.xyz]
-
-[subscribe.xsus.net.co]
-name  XSUS
+[changyouvpn.top]
+name  畅游VPN
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
+更新订阅链接/续费续签失败  注册失败(yfjwhcb744@gmail.com): 'NoneType' object is not subscriptable
 
-[subscribe.ztpxxx.com]
-
-[subscribe2628.lanmaoyun.icu]
-buy  pass
-email  nmmalvo114@gmail.com
-name  蓝猫云
-sub_info  0B  3G  2025-01-08 14:32:17+08:00  (剩余 3G 2:51:52.014046)
-sub_url  https://subscribe8241.lanmaoyun.icu/api/v1/client/subscribe?token=b5d60767faf39a4894d2d2c417853e59
-time  2025-01-08 11:33:45.992320+08:00
+[by.yunduanjc.top]
+name  云端
 type  v2board
-保存base64/clash订阅失败  'proxies'
+更新订阅链接/续费续签失败  注册失败(coddaiha184@gmail.com): 'NoneType' object is not subscriptable
 
-[subscribe3.000000online.life]
+[yunduanjc.top]
+name  云端
+type  v2board
+更新订阅链接/续费续签失败  注册失败(eqeiztycb575@gmail.com): 'NoneType' object is not subscriptable
 
-[subscribe511295.fengqun.info]
+[pmy666.xyz]
+name  平民云
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(ytoxvzbd73@mynanaimohomes.com): {'message': '验证码有误'}
 
-[subscribe85687.fengwo.info]
+[air.aptlive.org]
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"lskbchls123@jkd.tmmad.com","success":"false"}'
+
+[naisicloud.xyz]
 buy  pass
-email  zoqblsywq916@gmail.com
-name  加入蜂窝-享受成功人生
+email  avinuwc271@gmail.com
+name  奈斯云
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://fengwosub.vfbhg.cn/api/v1/client/subscribe?token=016b04ee671ee799ac498ce53b9e60e2
-time  2025-01-08 11:33:21.279586+08:00
+sub_url  https://dy.naisicloud.xyz/api/v1/client/subscribe?token=b7b9f12f1b2380800a3d268a0c0bc73f
+time  2025-01-08 11:46:29.638564+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
-[subscription-gov.lianjiasub.work]
-
-[subscription.slshenlong.top]
-
-[subscriptionruc.slshenlong.top]
-
-[subsubsubsubsub.keledydz.uk]
-
-[subtest.mojc.xyz]
-
-[subthree.996yyds.xyz]
-banned_domains  miteon.com
-name  Nine Nine Six Network
-type  sspanel
-更新订阅链接/续费续签失败  获取邮箱验证码超时(hgqammmai811@miteon.com)
-
-[sulian.cc]
-api_host  sulianc.com
-name  速联加速
+[http://qingyunti.cc]
+api_host  w04.qytweba02.cc
+email  eucpbrm746@gmail.com
 type  v2board
-更新订阅链接/续费续签失败  注册失败(hqqojjdz562@grr.la): 邮箱后缀不处于白名单中
+更新订阅链接/续费续签失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (200 OK '<!DOCTYPE html>\r\n<html lang="zh-CN">\r\n<head>\r\n <meta charset="UTF-8">\r\n <title>访问提示</title>\r\n <style>\r\n body {\r\n font-family: Arial, sans-serif;\r\n background-color: #f0f0f0;\r\n display: flex;\r\n justify-content: center;\r\n align-items: center;\r\n height: 100vh;\r\n margin: 0;\r\n }\r\n .container {\r\n background-color: #ffffff;\r\n padding: 40px;\r\n border-radius: 8px;\r\n box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\r\n text-align: center;\r\n }\r\n h1 {\r\n color: #333333;\r\n }\r\n p {\r\n color: #555555;\r\n margin: 20px 0;\r\n }\r\n a.button {\r\n display: inline-block;\r\n padding: 12px 24px;\r\n background-color: #007BFF;\r\n color: #ffffff;\r\n text-decoration: none;\r\n border-radius: 4px;\r\n transition: background-color 0.3s ease;\r\n }\r\n a.button:hover {\r\n background-color: #0056b3;\r\n }\r\n </style>\r\n</head>\r\n<body>\r\n <div class="container">\r\n <h1>欢迎访问！</h1>\r\n <p>要打开网站，请点击下方按钮。</p>\r\n <a href="https://qytnody.qingyunti.cc" class="button">点击前往官网</a>\r\n </div>\r\n</body>\r\n</html>\r\n')
 
-[sulian.life]
+[pfjc.im]
 buy  pass
-email  zrukvsxr158@gmail.com
-name  SuLink速联网络
-node_n  2
-sub_info  0B  30G  2025-01-08 11:40:49+08:00  (剩余 30G 0:07:03.097115)
-sub_url  https://dy.sulian.life/api/v1/client/subscribe?token=a5aff4fe3d1ab9a00c2e555750f06d15
-time  2025-01-08 11:33:24.039068+08:00
+email  gjaviqzm551@gmail.com
+name  平凡机场
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://pfjc.im/api/pf?token=1e8948a8a95273f1c5a6f688a98f11c5
+time  2025-01-08 11:46:31.431933+08:00
 type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
-[suo.yt]
-
-[sus.alicenetwork.cloud]
-
-[suscribethenetword.beecloud.club]
-
-[sux.lol]
-
-[svip.365cloud.me]
-name  365Cloud
+[nexx.us.kg]
+name  NEX
 type  v2board
-更新订阅链接/续费续签失败  注册失败(rlongyusz491@jkb.tmmad.com): 邮箱后缀不处于白名单中
+更新订阅链接/续费续签失败  发送邮箱验证码失败(wbgchqgnm821@grr.la): {'message': '验证码有误'}
 
-[syyn.ianong.cn]
-
-[syyn.xyz]
-
-[syynweb.shop]
-
-[syynweb.xyz]
-
-[taoyuanjiasu.com]
-
-[texon.io]
-
-[tg.z-cloud.dynv6.net]
-
-[tghjjcp.bestcloud.lol]
-
-[thepoint1.free886.site]
-name  自由鸟
+[w02.qytl2web01.cc]
+email  dhssdqdqb755@gmail.com
 type  v2board
-更新订阅链接/续费续签失败  注册失败(iubizlk860@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  {'message': '未登录或登陆已过期'}
+
+[kaikaixinxin.me]
+name  开开心心大机场✈️
+type  v2board
+更新订阅链接/续费续签失败  注册失败(rtusjquyg241@gmail.com): 'NoneType' object is not subscriptable
+
+[kuailejc.xyz]
+name  快乐机场
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(doqzdyjqd618@mail.wvwvw.tech): {'message': '验证码有误'}
+
+[dash.minizz.online]
+name  九毛九
+type  v2board
+更新订阅链接/续费续签失败  注册失败(jjjybjy841@gmail.com): 'NoneType' object is not subscriptable
+
+[api114514.nuwaa.rest]
+name  Nuwaa Cloud
+type  v2board
+更新订阅链接/续费续签失败  注册失败(vhaqmzopq378@gmail.com): 'NoneType' object is not subscriptable
+
+[yunlu.vip]
+name  云路
+type  v2board
+更新订阅链接/续费续签失败  注册失败(rctftrde583@gmail.com): 'NoneType' object is not subscriptable
+
+[vvcloud.us.kg]
+type  v2board
+更新订阅链接/续费续签失败  注册失败(fvxahhj433@gmail.com): 'NoneType' object is not subscriptable
+
+[zouma.guanhua.xyz]
+name  不知名机场
+type  v2board
+更新订阅链接/续费续签失败  注册失败(wpmseng490@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<!DOCTYPE html><html><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width"/><title>405: Method Not Allowed</title><meta name="next-head-count" content="3"/><noscript data-n-css=""></noscript><script defer="" nomodule="" src="/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js"></script><script src="/_next/static/chunks/webpack-2e0317e5a4988bdd.js" defer=""></script><script src="/_next/static/chunks/framework-8e0e0f4a6b83a956.js" defer=""></script><script src="/_next/static/chunks/main-0d42bdacdc7a40d0.js" defer=""></script><script src="/_next/static/chunks/pages/_app-f870474a17b7f2fd.js" defer=""></script><script src="/_next/static/chunks/pages/_error-c66a4e8afc46f17b.js" defer=""></script><script src="/_next/static/svPddRchR5bhpMAV4u38_/_buildManifest.js" defer=""></script><script src="/_next/static/svPddRchR5bhpMAV4u38_/_ssgManifest.js" defer=""></script></head><body><div id="__next"><div style="font-family:system-ui,&quot;Segoe UI&quot;,Roboto,Helvetica,Arial,sans-serif,&quot;Apple Color Emoji&quot;,&quot;Segoe UI Emoji&quot;;height:100vh;text-align:center;display:flex;flex-direction:column;align-items:center;justify-content:center"><div style="line-height:48px"><style>body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}</style><h1 class="next-error-h1" style="display:inline-block;margin:0 20px 0 0;padding-right:23px;font-size:24px;font-weight:500;vertical-align:top">405</h1><div style="display:inline-block"><h2 style="font-size:14px;font-weight:400;line-height:28px">Method Not Allowed<!-- -->.</h2></div></div></div></div><script id="__NEXT_DATA__" type="application/json">{"props":{"pageProps":{"statusCode":405}},"page":"/_error","query":{},"buildId":"svPddRchR5bhpMAV4u38_","isFallback":false,"isExperimentalCompile":false,"gip":true,"scriptLoader":[]}</script></body></html>')
+
+[kaolacloud.site]
+type  v2board
+更新订阅链接/续费续签失败  注册失败(gkhlrfb234@gmail.com): 'NoneType' object is not subscriptable
+
+[www.hj521.top]
+name  火箭云
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(nohcwwwht785@tmpbox.net): {'message': '验证码有误'}
+
+[www.hj522.top]
+name  火箭云
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(qhienubh29@maxamba.com): {'message': '验证码有误'}
+
+[superbiu.com]
+name  superbiu
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(pcrktcgti900@guerrillamail.de): {'message': 'Too many requests, please try again later.'}
+
+[my.pianyi.info]
+type  v2board
+更新订阅链接/续费续签失败  注册失败(jakqhxkfc91@gmail.com): 'NoneType' object is not subscriptable
+
+[zxc.noseisei.com]
+name  noseisei
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(smnpyhe145@sharklasers.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (429 Too Many Requests '<!DOCTYPE html>\n<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->\n<!--[if IE 7]> <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->\n<!--[if IE 8]> <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->\n<head>\n<title>Access denied | zxc.noseisei.com used Cloudflare to restrict access</title>\n<meta charset="UTF-8" />\n<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />\n<meta http-equiv="X-UA-Compatible" content="IE=Edge" />\n<meta name="robots" content="noindex, nofollow" />\n<meta name="viewport" content="width=device-width,initial-scale=1" />\n<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />\n\n\n<script>\n(function(){if(document.addEventListener&&window.XMLHttpRequest&&JSON&&JSON.stringify){var e=function(a){var c=document.getElementById("error-feedback-survey"),d=document.getElementById("error-feedback-success"),b=new XMLHttpRequest;a={event:"feedback clicked",properties:{errorCode:1015,helpful:a,version:1}};b.open("POST","https://sparrow.cloudflare.com/api/v1/event");b.setRequestHeader("Content-Type","application/json");b.setRequestHeader("Sparrow-Source-Key","c771f0e4b54944bebf4261d44bd79a1e");\nb.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove("feedback-hidden")};document.addEventListener("DOMContentLoaded",function(){var a=document.getElementById("error-feedback"),c=document.getElementById("feedback-button-yes"),d=document.getElementById("feedback-button-no");"classList"in a&&(a.classList.remove("feedback-hidden"),c.addEventListener("click",function(){e(!0)}),d.addEventListener("click",function(){e(!1)}))})}})();\n</script>\n\n<script defer src="https://performance.radar.cloudflare.com/beacon.js"></script>\n</head>\n<body>\n <div id="cf-wrapper">\n <div class="cf-alert cf-alert-error cf-cookie-error hidden" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>\n <div id="cf-error-details" class="p-0">\n <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-15 antialiased">\n <h1 class="inline-block md:block mr-2 md:mb-2 font-light text-60 md:text-3xl text-black-dark leading-tight">\n <span data-translate="error">Error</span>\n <span>1015</span>\n </h1>\n <span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 8fe93374db69c979 &bull;</span>\n <span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">2025-01-08 03:46:31 UTC</span>\n <h2 class="text-gray-600 leading-1.3 text-3xl lg:text-2xl font-light">You are being rate limited</h2>\n </header>\n\n <section class="w-240 lg:w-full mx-auto mb-8 lg:px-8">\n <div id="what-happened-section" class="w-1/2 md:w-full">\n <h2 class="text-3xl leading-tight font-normal mb-4 text-black-dark antialiased" data-translate="what_happened">What happened?</h2>\n <p>The owner of this website (zxc.noseisei.com) has banned you temporarily from accessing this website.</p>\n \n </div>\n\n \n </section>\n\n <div class="feedback-hidden py-8 text-center" id="error-feedback">\n <div id="error-feedback-survey" class="footer-line-wrapper">\n Was this page helpful?\n <button class="border border-solid bg-white cf-button cursor-pointer ml-4 px-4 py-2 rounded" id="feedback-button-yes" type="button">Yes</button>\n <button class="border border-solid bg-white cf-button cursor-pointer ml-4 px-4 py-2 rounded" id="feedback-button-no" type="button">No</button>\n </div>\n <div class="feedback-success feedback-hidden" id="error-feedback-success">\n Thank you for your feedback!\n </div>\n</div>\n\n\n <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">\n <p class="text-13">\n <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8fe93374db69c979</strong></span>\n <span class="cf-footer-separator sm:hidden">&bull;</span>\n <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">\n Your IP:\n <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>\n <span class="hidden" id="cf-footer-ip">20.161.77.225</span>\n <span class="cf-footer-separator sm:hidden">&bull;</span>\n </span>\n <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>\n \n </p>\n <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>\n</div><!-- /.error-footer -->\n\n\n </div><!-- /#cf-error-details -->\n </div><!-- /#cf-wrapper -->\n\n <script>\n window._cf_translation = {};\n \n \n</script>\n\n</body>\n</html>\n')
+
+[abc.noseisei.com]
+banned_domains  grr.la
+name  noseisei
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱验证码超时(xvallqri841@grr.la)
+
+[bailian.site]
+buy  pass
+email  cfebcgu727@gmail.com
+sub_url  https://sub.bailian.site/api/v1/client/subscribe?token=a7cdaca116cc943b2e764354e3523649
+time  2025-01-08 11:46:29.541023+08:00
+type  v2board
+获取订阅失败  can only concatenate str (not "NoneType") to str
+
+[passwall.link]
+buy  pass
+email  jtlcdryfs768@gmail.com
+name  PassWall
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://get.passsub.link/api/v1/client/subscribe?token=71bbfdaa3888f65b8f63cedb305481dc
+time  2025-01-08 11:46:29.733672+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[xyz.noseisei.com]
+banned_domains  555.waocq.shop
+name  noseisei
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱验证码超时(juowwdtr512@555.waocq.shop)
+
+[b.yousu.cc]
+name  优速互联
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(dgkkspg370@disbox.org): {'message': '验证码有误'}
+
+[www.xbyun.live]
+name  小白云
+type  v2board
+更新订阅链接/续费续签失败  注册失败(rhchvkjfs30@gmail.com): 'NoneType' object is not subscriptable
+
+[app.legeth.cc]
+type  v2board
+更新订阅链接/续费续签失败  注册失败(rdvsheg237@gmail.com): 'NoneType' object is not subscriptable
