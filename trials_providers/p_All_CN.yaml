@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇲🇴 澳门NO.2 - 大师专线, server: xdd.dashuai.cyou, port: 45051, type: vmess, uuid: 272169dd-1a1b-418f-8ec3-9d16b03e1016, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
