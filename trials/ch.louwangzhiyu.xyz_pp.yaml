@@ -11,85 +11,20 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
-  - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
-  - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id001
-  - 🇹🇼 台湾1(GPT等流媒体1.5倍） - 大师专线
-  - 🇹🇼 台湾2(GPT等流媒体1.5倍） - 大师专线
-  - 🇹🇼 [vmess]台湾02-3倍率-流媒体 - HY-2
-  - 🇸🇬 新加坡NO.1 - 大师专线
-  - 🇸🇬 新加坡NO.2 - 大师专线
-  - 🇸🇬 [vmess]新加坡02-V4-流媒体 - HY-2
-  - 🇯🇵 日本NO.1 - 大师专线
-  - 🇯🇵 日本NO.2 - 大师专线
-  - 🇩🇪 德国-法兰克福-001 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-016 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-015 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-014 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-013 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-012 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-011 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-006 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-007 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-008 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-009 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-010 - 漏网之鱼
-  - 🇨🇭 瑞士-日内瓦-001 - 漏网之鱼
-  - 🇨🇦 加拿大-多伦多-001 - 漏网之鱼
-  - 🇩🇪 德国-法兰克福-001 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-016 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-015 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-014 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-013 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-012 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-011 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-006 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-007 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-008 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-009 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-010 - 漏网之鱼
-  - 🇨🇭 瑞士-日内瓦-001 - 漏网之鱼
-  - 🇨🇦 加拿大-多伦多-001 - 漏网之鱼
-  - 🇭🇰 中国-香港-005 - 漏网之鱼
-  - 🇭🇰 中国-香港-005 - 漏网之鱼
-  - 🇺🇸 美国-芝加哥-001 - 漏网之鱼
-  - 🇺🇸 美国-芝加哥-001 - 漏网之鱼
-  - ℹ️ 目前国内网址：xc1.shishi1.buzz   被墙可按下面规律：网址前缀xc4,xc5,xc6 - 大师专线
-  - 🇦🇺 澳大利亚原生1 - 大师专线
-  - 🇦🇺 澳大利亚原生2 - 大师专线
-  - 🇨🇦 加拿大1 - 大师专线
-  - 🇨🇦 加拿大2 - 大师专线
-  - 🇮🇳 印度1 - 大师专线
-  - 🇮🇳 印度2 - 大师专线
-  - 🇫🇷 法国1 - 大师专线
-  - 🇫🇷 法国2 - 大师专线
-  - 🇭🇰 香港NO.1（GPT奈飞等） - 大师专线
-  - 🇭🇰 香港NO.2（GPT奈飞等） - 大师专线
-  - 🇭🇰 香港（直连） - 大师专线
-  - 🇭🇰 [vmess]香港06-流媒体 - HY-2
-  - 🇺🇸 美国NO.1（GPT） - 大师专线
-  - 🇺🇸 美国NO.2（GPT） - 大师专线
-  - 🇺🇸 [vmess]美国03 - HY-2
-  - 🇺🇸 [vmess]美国04 - HY-2
-  - 🇲🇴 澳门NO.2 - 大师专线
+  use: &id001
+  - HK
+  - US
+  - Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -107,26 +42,16 @@ proxy-groups:
   proxies:
   - 🛩️ ‍墙内
   - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
   - ✈️ ‍起飞
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
   - 🇺🇸 ‍美国
-  - 🇹🇼 ‍台湾
-  - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
   - 🎏 ‍其他
   - ✈️ ‍起飞
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
@@ -138,180 +63,59 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id002
-  - 🇭🇰 中国-香港-005 - 漏网之鱼
-  - 🇭🇰 中国-香港-005 - 漏网之鱼
-  - 🇭🇰 香港NO.1（GPT奈飞等） - 大师专线
-  - 🇭🇰 香港NO.2（GPT奈飞等） - 大师专线
-  - 🇭🇰 香港（直连） - 大师专线
-  - 🇭🇰 [vmess]香港06-流媒体 - HY-2
-- name: 🇹🇼 ‍台湾
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id003
-  - 🇹🇼 台湾1(GPT等流媒体1.5倍） - 大师专线
-  - 🇹🇼 台湾2(GPT等流媒体1.5倍） - 大师专线
-  - 🇹🇼 [vmess]台湾02-3倍率-流媒体 - HY-2
-- name: 🇨🇳 ‍中国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id004
-  - 🇹🇼 台湾1(GPT等流媒体1.5倍） - 大师专线
-  - 🇹🇼 台湾2(GPT等流媒体1.5倍） - 大师专线
-  - 🇹🇼 [vmess]台湾02-3倍率-流媒体 - HY-2
-  - 🇭🇰 中国-香港-005 - 漏网之鱼
-  - 🇭🇰 中国-香港-005 - 漏网之鱼
-  - 🇭🇰 香港NO.1（GPT奈飞等） - 大师专线
-  - 🇭🇰 香港NO.2（GPT奈飞等） - 大师专线
-  - 🇭🇰 香港（直连） - 大师专线
-  - 🇭🇰 [vmess]香港06-流媒体 - HY-2
-  - 🇲🇴 澳门NO.2 - 大师专线
-- name: 🇸🇬 ‍新加坡
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id005
-  - 🇸🇬 新加坡NO.1 - 大师专线
-  - 🇸🇬 新加坡NO.2 - 大师专线
-  - 🇸🇬 [vmess]新加坡02-V4-流媒体 - HY-2
-- name: 🇯🇵 ‍日本
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id006
-  - 🇯🇵 日本NO.1 - 大师专线
-  - 🇯🇵 日本NO.2 - 大师专线
+  use: &id002
+  - HK
 - name: 🇺🇸 ‍美国
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 300
-  proxies: &id007
-  - 🇺🇸 美国-芝加哥-001 - 漏网之鱼
-  - 🇺🇸 美国-芝加哥-001 - 漏网之鱼
-  - 🇺🇸 美国NO.1（GPT） - 大师专线
-  - 🇺🇸 美国NO.2（GPT） - 大师专线
-  - 🇺🇸 [vmess]美国03 - HY-2
-  - 🇺🇸 [vmess]美国04 - HY-2
+  use: &id003
+  - US
 - name: 🎏 ‍其他
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id008
-  - 🇩🇪 德国-法兰克福-001 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-016 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-015 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-014 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-013 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-012 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-011 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-006 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-007 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-008 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-009 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-010 - 漏网之鱼
-  - 🇨🇭 瑞士-日内瓦-001 - 漏网之鱼
-  - 🇨🇦 加拿大-多伦多-001 - 漏网之鱼
-  - 🇩🇪 德国-法兰克福-001 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-016 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-015 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-014 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-013 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-012 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-011 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-006 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-007 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-008 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-009 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-010 - 漏网之鱼
-  - 🇨🇭 瑞士-日内瓦-001 - 漏网之鱼
-  - 🇨🇦 加拿大-多伦多-001 - 漏网之鱼
-  - ℹ️ 目前国内网址：xc1.shishi1.buzz   被墙可按下面规律：网址前缀xc4,xc5,xc6 - 大师专线
-  - 🇦🇺 澳大利亚原生1 - 大师专线
-  - 🇦🇺 澳大利亚原生2 - 大师专线
-  - 🇨🇦 加拿大1 - 大师专线
-  - 🇨🇦 加拿大2 - 大师专线
-  - 🇮🇳 印度1 - 大师专线
-  - 🇮🇳 印度2 - 大师专线
-  - 🇫🇷 法国1 - 大师专线
-  - 🇫🇷 法国2 - 大师专线
+  use: &id004
+  - Other
 - name: 👆🏻 ‍指定
   type: select
-  proxies: *id001
+  use: *id001
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  proxies: *id002
-- name: 👆🏻🇹🇼 ‍台湾
-  type: select
-  proxies: *id003
-- name: 👆🏻🇨🇳 ‍中国
-  type: select
-  proxies: *id004
-- name: 👆🏻🇸🇬 ‍新加坡
-  type: select
-  proxies: *id005
-- name: 👆🏻🇯🇵 ‍日本
-  type: select
-  proxies: *id006
+  use: *id002
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id007
+  use: *id003
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id008
-proxies:
-- {name: 🇭🇰 中国-香港-005 - 漏网之鱼, server: 212.192.12.70, port: 27681, type: vmess, uuid: 831dec05-d078-4474-b080-7779a153bdb6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇺🇸 美国-芝加哥-001 - 漏网之鱼, server: 166.88.159.225, port: 27681, type: vmess, uuid: 831dec05-d078-4474-b080-7779a153bdb6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇩🇪 德国-法兰克福-001 - 漏网之鱼, server: 5.39.252.204, port: 27681, type: vmess, uuid: 831dec05-d078-4474-b080-7779a153bdb6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-016 - 漏网之鱼, server: 194.87.69.50, port: 27681, type: vmess, uuid: 831dec05-d078-4474-b080-7779a153bdb6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-015 - 漏网之鱼, server: 195.58.49.42, port: 27681, type: vmess, uuid: 831dec05-d078-4474-b080-7779a153bdb6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-014 - 漏网之鱼, server: 195.58.49.50, port: 27681, type: vmess, uuid: 831dec05-d078-4474-b080-7779a153bdb6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-013 - 漏网之鱼, server: 194.87.69.52, port: 27681, type: vmess, uuid: 831dec05-d078-4474-b080-7779a153bdb6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-012 - 漏网之鱼, server: 195.58.49.86, port: 27681, type: vmess, uuid: 831dec05-d078-4474-b080-7779a153bdb6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-011 - 漏网之鱼, server: 194.87.68.115, port: 27681, type: vmess, uuid: 831dec05-d078-4474-b080-7779a153bdb6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-006 - 漏网之鱼, server: 195.58.49.152, port: 27681, type: vmess, uuid: 831dec05-d078-4474-b080-7779a153bdb6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-007 - 漏网之鱼, server: 176.32.39.181, port: 27681, type: vmess, uuid: 831dec05-d078-4474-b080-7779a153bdb6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-008 - 漏网之鱼, server: 194.87.69.244, port: 27681, type: vmess, uuid: 831dec05-d078-4474-b080-7779a153bdb6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-009 - 漏网之鱼, server: 194.87.69.56, port: 21359, type: vmess, uuid: 831dec05-d078-4474-b080-7779a153bdb6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-010 - 漏网之鱼, server: 194.87.68.228, port: 27681, type: vmess, uuid: 831dec05-d078-4474-b080-7779a153bdb6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇨🇭 瑞士-日内瓦-001 - 漏网之鱼, server: 194.87.18.248, port: 27681, type: vmess, uuid: 831dec05-d078-4474-b080-7779a153bdb6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇨🇦 加拿大-多伦多-001 - 漏网之鱼, server: 141.195.112.167, port: 27681, type: vmess, uuid: 831dec05-d078-4474-b080-7779a153bdb6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇹🇼 台湾1(GPT等流媒体1.5倍） - 大师专线, server: haa.dashuai.cyou, port: 45078, type: vmess, uuid: 564b2470-31d9-4f36-af0d-dd0a683b21e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾2(GPT等流媒体1.5倍） - 大师专线, server: xdd.dashuai.cyou, port: 45077, type: vmess, uuid: 564b2470-31d9-4f36-af0d-dd0a683b21e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港NO.1（GPT奈飞等） - 大师专线, server: haa.dashuai.cyou, port: 45050, type: vmess, uuid: 564b2470-31d9-4f36-af0d-dd0a683b21e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港NO.2（GPT奈飞等） - 大师专线, server: xdd.dashuai.cyou, port: 45051, type: vmess, uuid: 564b2470-31d9-4f36-af0d-dd0a683b21e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港（直连） - 大师专线, server: xg.dashuai.cyou, port: 19901, type: vmess, uuid: 564b2470-31d9-4f36-af0d-dd0a683b21e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国NO.1（GPT） - 大师专线, server: haa.dashuai.cyou, port: 45052, type: vmess, uuid: 564b2470-31d9-4f36-af0d-dd0a683b21e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国NO.2（GPT） - 大师专线, server: xdd.dashuai.cyou, port: 45053, type: vmess, uuid: 564b2470-31d9-4f36-af0d-dd0a683b21e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 'ℹ️ 目前国内网址：xc1.shishi1.buzz   被墙可按下面规律：网址前缀xc4,xc5,xc6 - 大师专线', server: haa.dashuai.cyou, port: 45050, type: vmess, uuid: 564b2470-31d9-4f36-af0d-dd0a683b21e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇦🇺 澳大利亚原生1 - 大师专线, server: haa.dashuai.cyou, port: 45062, type: vmess, uuid: 564b2470-31d9-4f36-af0d-dd0a683b21e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇦🇺 澳大利亚原生2 - 大师专线, server: xdd.dashuai.cyou, port: 45063, type: vmess, uuid: 564b2470-31d9-4f36-af0d-dd0a683b21e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇨🇦 加拿大1 - 大师专线, server: haa.dashuai.cyou, port: 45064, type: vmess, uuid: 564b2470-31d9-4f36-af0d-dd0a683b21e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇨🇦 加拿大2 - 大师专线, server: xdd.dashuai.cyou, port: 45065, type: vmess, uuid: 564b2470-31d9-4f36-af0d-dd0a683b21e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度1 - 大师专线, server: haa.dashuai.cyou, port: 45074, type: vmess, uuid: 564b2470-31d9-4f36-af0d-dd0a683b21e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度2 - 大师专线, server: xdd.dashuai.cyou, port: 45073, type: vmess, uuid: 564b2470-31d9-4f36-af0d-dd0a683b21e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇫🇷 法国1 - 大师专线, server: haa.dashuai.cyou, port: 45072, type: vmess, uuid: 564b2470-31d9-4f36-af0d-dd0a683b21e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇫🇷 法国2 - 大师专线, server: xdd.dashuai.cyou, port: 45071, type: vmess, uuid: 564b2470-31d9-4f36-af0d-dd0a683b21e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本NO.1 - 大师专线, server: haa.dashuai.cyou, port: 45056, type: vmess, uuid: 564b2470-31d9-4f36-af0d-dd0a683b21e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本NO.2 - 大师专线, server: xdd.dashuai.cyou, port: 45057, type: vmess, uuid: 564b2470-31d9-4f36-af0d-dd0a683b21e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇲🇴 澳门NO.2 - 大师专线, server: xdd.dashuai.cyou, port: 45051, type: vmess, uuid: 564b2470-31d9-4f36-af0d-dd0a683b21e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡NO.1 - 大师专线, server: haa.dashuai.cyou, port: 45054, type: vmess, uuid: 564b2470-31d9-4f36-af0d-dd0a683b21e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡NO.2 - 大师专线, server: xdd.dashuai.cyou, port: 45055, type: vmess, uuid: 564b2470-31d9-4f36-af0d-dd0a683b21e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇹🇼 [vmess]台湾02-3倍率-流媒体 - HY-2', server: cf.hy2.one, port: 80, type: vmess, uuid: 0a5395b6-7dd6-472d-8e57-db0ba0002ff4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /af323d, headers: {Host: tw02.hy2.one}}, udp: true}
-- {name: '🇭🇰 [vmess]香港06-流媒体 - HY-2', server: cf.hy2.one, port: 80, type: vmess, uuid: 0a5395b6-7dd6-472d-8e57-db0ba0002ff4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: hk06.hy-2.top}}, udp: true}
-- {name: '🇺🇸 [vmess]美国03 - HY-2', server: cf.hy2.one, port: 2052, type: vmess, uuid: 0a5395b6-7dd6-472d-8e57-db0ba0002ff4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us03.hy-2.top}}, udp: true}
-- {name: '🇺🇸 [vmess]美国04 - HY-2', server: cf.hy2.one, port: 2052, type: vmess, uuid: 0a5395b6-7dd6-472d-8e57-db0ba0002ff4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us04.hy-2.top}}, udp: true}
-- {name: '🇸🇬 [vmess]新加坡02-V4-流媒体 - HY-2', server: cf.hy2.one, port: 2052, type: vmess, uuid: 0a5395b6-7dd6-472d-8e57-db0ba0002ff4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /0, headers: {Host: sg0002.hy-2.top}}, udp: true}
+  use: *id004
+proxy-providers:
+  HK:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/ch.louwangzhiyu.xyz/HK.yaml
+    interval: 180
+    path: trials_providers/ch.louwangzhiyu.xyz/HK.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  US:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/ch.louwangzhiyu.xyz/US.yaml
+    interval: 180
+    path: trials_providers/ch.louwangzhiyu.xyz/US.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  Other:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/ch.louwangzhiyu.xyz/Other.yaml
+    interval: 180
+    path: trials_providers/ch.louwangzhiyu.xyz/Other.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
