@@ -1,3 +1,5 @@
+processed_codes = remove_duplicates(processed_codes)
+
 i = 0
 with open("Long_term_subscription_num", "w", encoding="utf-8") as file:
     for code in processed_codes:
