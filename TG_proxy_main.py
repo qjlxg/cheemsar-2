@@ -1,5 +1,5 @@
 # w1770946466 北慕白  https://github.com/w1770946466/Auto_proxy
-
+# v2ray_collecto
 # coding=utf-8
 import base64
 import requests
@@ -15,18 +15,9 @@ import chardet
 
 #试用机场链接
 home_urls =(
-'https://ch.louwangzhiyu.xyz',
-'https://dashuai.us',
 'https://懒猫.com',
 'https://sulian.life',
-
-
-
-
-
-
-
- )
+)
 #文件路径
 update_path = "./sub/"
 #所有的clash订阅链接
@@ -404,7 +395,7 @@ if __name__ == '__main__':
         #resp = get_content(get_channel_http(url))
         #print(url, "获取完毕！！")
     #等待线程结束
-     for t in tqdm(threads):
+    for t in tqdm(threads):
         t.join()
     print("========== 准备写入订阅 ==========")
     res = write_document()
