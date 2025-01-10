@@ -100,7 +100,11 @@ home_urls =(
 'https://sttlink.net',
 'https://懒猫.com',
 'https://人人传承.com',
-
+'https://6.needss.one',
+'https://cn.newbee888.cc',
+'https://page.sulink.one',        
+'https://xc1.shishi1.buzz',
+'https://zhuye2.sulink.one',   
 )
 #文件路径
 update_path = "./sub/"
