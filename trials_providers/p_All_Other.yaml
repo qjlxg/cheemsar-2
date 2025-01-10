@@ -1,0 +1,59 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇰🇷 韩国-三网优化2 - 青云互联网-, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 86ac9927-a545-492c-9da8-a55379e0f820, sni: kr-qingyun.dwyun.me, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国1 - 老牛云, server: 183.232.159.51, port: 55518, type: ss, cipher: chacha20-ietf-poly1305, password: 810c66e3-dca2-4c43-bdad-83d5c076bd45, udp: true}
+- {name: 🇰🇷 韩国2 - 老牛云, server: 183.232.159.51, port: 23707, type: ss, cipher: chacha20-ietf-poly1305, password: 810c66e3-dca2-4c43-bdad-83d5c076bd45, udp: true}
+- {name: 🇬🇧 英国节点1 - 老牛云, server: 183.232.159.51, port: 59193, type: ss, cipher: chacha20-ietf-poly1305, password: 810c66e3-dca2-4c43-bdad-83d5c076bd45, udp: true}
+- {name: 🇬🇧 英国节点2 - 老牛云, server: 183.232.159.51, port: 55446, type: ss, cipher: chacha20-ietf-poly1305, password: 810c66e3-dca2-4c43-bdad-83d5c076bd45, udp: true}
+- {name: 🇻🇳 越南1 - 老牛云, server: 183.232.159.51, port: 44595, type: ss, cipher: chacha20-ietf-poly1305, password: 810c66e3-dca2-4c43-bdad-83d5c076bd45, udp: true}
+- {name: 🇻🇳 越南2 - 老牛云, server: 183.232.159.51, port: 35071, type: ss, cipher: chacha20-ietf-poly1305, password: 810c66e3-dca2-4c43-bdad-83d5c076bd45, udp: true}
+- {name: 🇰🇷 韩国-01 - 畅游无限, server: 54.180.148.244, port: 8443, type: vmess, uuid: bc8dbdf5-9e7d-4f45-8f66-28d7fd189baa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- {name: 🇰🇷 韩国-02 - 畅游无限, server: 3.38.104.67, port: 8443, type: vmess, uuid: bc8dbdf5-9e7d-4f45-8f66-28d7fd189baa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- {name: ℹ️ xueyejiasu.xyz发布地址不迷路 - 血液加速器, server: hk.kfsldflk.xyz, port: 1200, type: ss, cipher: aes-256-gcm, password: 6e5eecf0-2bd6-4dbb-9f19-64c22c7b48cf, udp: true}
+- {name: 请手动选带地名的节点 - KUGOU云, server: vip1.kugovip.xyz, port: 50124, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 最新:www.kugou8.cloud - KUGOU云, server: vip1.kugovip.xyz, port: 50124, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 官网发布页:kugou2.top - KUGOU云, server: vip1.kugovip.xyz, port: 50124, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [3x]IEPL专线 英国1 - KUGOU云', server: vip1.kugovip.xyz, port: 50120, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [3x]IEPL专线 英国2 - KUGOU云', server: vip1.kugovip.xyz, port: 50104, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 [3x]IEPL专线 韩国 - KUGOU云', server: vip1.kugovip.xyz, port: 50117, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇭 [3x]IEPL专线 泰国 - KUGOU云', server: vip1.kugovip.xyz, port: 50116, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇻🇳 [3x]IEPL专线 越南 - KUGOU云', server: vip1.kugovip.xyz, port: 50108, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇫🇷 [3x]IEPL专线 法国 - KUGOU云', server: vip1.kugovip.xyz, port: 50101, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇳🇱 [3x]IEPL专线 荷兰 - KUGOU云', server: vip1.kugovip.xyz, port: 50105, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇦🇺 [3x]IEPL专线 澳洲 - KUGOU云', server: vip1.kugovip.xyz, port: 50123, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇩🇪 [3x]IEPL专线 德国 - KUGOU云', server: vip1.kugovip.xyz, port: 50121, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇿🇦 [3x]IEPL专线 南非 - KUGOU云', server: vip1.kugovip.xyz, port: 50119, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇵🇱 [3x]IEPL专线 波兰 - KUGOU云', server: vip1.kugovip.xyz, port: 50118, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇷🇺 [3x]IEPL专线 俄罗斯 - KUGOU云', server: vip1.kugovip.xyz, port: 50103, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇷 [3x]IEPL专线 土耳其 - KUGOU云', server: vip1.kugovip.xyz, port: 50109, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇦🇷 [3x]IEPL专线 阿根廷 - KUGOU云', server: vip1.kugovip.xyz, port: 50100, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇦 [3x]IEPL专线 乌克兰 - KUGOU云', server: vip1.kugovip.xyz, port: 50127, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 1x普通线路因管局通报 - KUGOU云, server: xd1.kugovip.xyz, port: 18591, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 1x可能会不定时离线 - KUGOU云, server: xd1.kugovip.xyz, port: 18589, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [1x]CM 隧道 英国 - KUGOU云', server: xd1.kugovip.xyz, port: 18590, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇵🇱 [1x]CM 隧道 波兰 - KUGOU云', server: xd1.kugovip.xyz, port: 18605, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇵🇱 [1倍率]临时直连 波兰1 - KUGOU云', server: bl1.kugovip.xyz, port: 18481, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 续费网址:mgxiaowu.net - meiguis, server: www.google.com, port: 1, type: ss, cipher: chacha20-ietf-poly1305, password: e11a1af9-8663-4cc5-8438-c4e92c5444ef, udp: true}
+- {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: 31b2a810-3f30-335e-96fc-411c703dbc69, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.mamamajd.site}}, udp: true}
+- {name: '🇩🇪 [vip①]德国2 - MG Network', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: 31b2a810-3f30-335e-96fc-411c703dbc69, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 18.mamamajd.site}}, udp: true}
+- {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: 31b2a810-3f30-335e-96fc-411c703dbc69, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 5.mamamajd.site}}, udp: true}
+- {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: 31b2a810-3f30-335e-96fc-411c703dbc69, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 13.mamamajd.site}}, udp: true}
+- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: 31b2a810-3f30-335e-96fc-411c703dbc69, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.mamamajd.site}}, udp: true}
+- {name: '🇰🇷 韩国[01] - Heima', server: pop.ff34894a-296c-446f-af39-20b90947f3a7.heima360.cc, port: 443, type: trojan, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, skip-cert-verify: true, udp: true}
+- {name: '🇫🇷 法国[01] - Heima', server: pop.b1c7d2ec-e636-4521-a9f7-abb10044e3a5.heima360.cc, port: 443, type: trojan, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, skip-cert-verify: true, udp: true}
+- {name: '🇲🇾 马来西亚[03] - Heima', server: pop.b948e846-1f05-4fca-8784-e7f30bb512c3.heima360.cc, port: 443, type: trojan, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, skip-cert-verify: true, udp: true}
+- {name: '🇦🇺 澳大利亚[01] - Heima', server: pop.25cbab93-4c08-4a3c-8521-3f3d8c4b36ae.heima360.cc, port: 443, type: trojan, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, skip-cert-verify: true, udp: true}
+- {name: '🇮🇳 印度[01] - Heima', server: pop.6801ae4e-545d-471e-8de5-413dc61b505b.heima360.cc, port: 443, type: trojan, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, skip-cert-verify: true, udp: true}
+- {name: '🇹🇭 泰国[01] - Heima', server: pop.60b974d4-36bc-4a18-aa81-9afdce389bb7.heima360.cc, port: 443, type: trojan, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, skip-cert-verify: true, udp: true}
+- {name: '🇻🇳 越南[01] - Heima', server: pop.0f6fb14f-a1b9-47bd-ab24-5ade31ba8f4c.heima360.cc, port: 443, type: trojan, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, skip-cert-verify: true, udp: true}
+- {name: '🇩🇪 德国[01]中转 - Heima', server: vip.baima360.com, port: 55997, type: ss, cipher: chacha20-ietf-poly1305, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, udp: true}
+- {name: '🇨🇦 加拿大[01]中转 - Heima', server: vip.baima360.com, port: 29292, type: ss, cipher: chacha20-ietf-poly1305, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, udp: true}
+- {name: '🇬🇧 英国[01]中转 - Heima', server: vip.baima360.com, port: 10683, type: ss, cipher: chacha20-ietf-poly1305, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, udp: true}
+- {name: '🇧🇷 巴西[01]中转 - Heima', server: vip.baima360.com, port: 30752, type: ss, cipher: chacha20-ietf-poly1305, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, udp: true}
+- {name: '🇷🇺 俄罗斯[01]中转 - Heima', server: vip.baima360.com, port: 23499, type: ss, cipher: chacha20-ietf-poly1305, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, udp: true}
+- {name: '🇲🇾 马来西亚[01] - Heima', server: 103.75.189.152, port: 100, type: trojan, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, skip-cert-verify: true, udp: true}
+- {name: '🇲🇾 马来西亚[02] - Heima', server: 103.75.188.189, port: 101, type: trojan, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, skip-cert-verify: true, udp: true}
+- {name: xqnqn.com防失联 - LIME, server: 001.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: d33e2735-c427-49bd-8ddd-b0b4fcbe4996, udp: true}
+- {name: 🇰🇷 韩国一 - LIME, server: 001.kjahbg.info, port: 43850, type: ss, cipher: aes-128-gcm, password: d33e2735-c427-49bd-8ddd-b0b4fcbe4996, udp: true}
+- {name: 🇰🇷 韩国二 - LIME, server: 002.kjahbg.info, port: 43850, type: ss, cipher: aes-128-gcm, password: d33e2735-c427-49bd-8ddd-b0b4fcbe4996, udp: true}

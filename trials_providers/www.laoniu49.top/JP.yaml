@@ -1,0 +1,7 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 日本节点1 - 老牛云, server: 183.232.159.51, port: 33238, type: ss, cipher: chacha20-ietf-poly1305, password: 810c66e3-dca2-4c43-bdad-83d5c076bd45, udp: true}
+- {name: 🇯🇵 日本节点2 - 老牛云, server: 183.232.159.51, port: 26714, type: ss, cipher: chacha20-ietf-poly1305, password: 810c66e3-dca2-4c43-bdad-83d5c076bd45, udp: true}
+- {name: 🇯🇵 日本节点3 - 老牛云, server: 183.232.159.51, port: 41886, type: ss, cipher: chacha20-ietf-poly1305, password: 810c66e3-dca2-4c43-bdad-83d5c076bd45, udp: true}
+- {name: 🇯🇵 日本节点4 - 老牛云, server: 183.232.159.51, port: 22064, type: ss, cipher: chacha20-ietf-poly1305, password: 810c66e3-dca2-4c43-bdad-83d5c076bd45, udp: true}
