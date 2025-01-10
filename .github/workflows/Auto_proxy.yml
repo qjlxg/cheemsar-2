@@ -37,11 +37,6 @@ jobs:
 
         python ./TG_proxy_main.py
 
-    - name: 执行改名
-      run: |
-
-        python ./TG_proxy.py
-
         
       
     - name: 提交更改
