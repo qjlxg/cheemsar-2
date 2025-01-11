@@ -1,0 +1,10 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 香港-合租车测速 - 草榴加速器, server: 120.233.24.241, port: 35690, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}
+- {name: 🇭🇰 OBS宁波-香港-hy - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 58629, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}
+- {name: 🇭🇰 OBS宁波-香港 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 48435, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}
+- {name: 🇭🇰 OBS宁波-香港1 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 21253, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}
+- {name: 🇭🇰 OBS宁波-香港2 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 48435, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}
+- {name: 🇭🇰 OBS江苏-香港aws - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 32181, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}
+- {name: 🇭🇰 OBS江苏-香港gcp - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 14709, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}

@@ -1,66 +1,66 @@
 %YAML 1.1
 ---
 proxies:
-- &id126 {name: ℹ️ 国内直连官网：https://cn.newbee888.cc - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: 011c7892-a081-4fc1-a3b4-23adbc7d4227, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id127 {name: ℹ️ 备用官网：https://cn1.newbee888.cc - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: 011c7892-a081-4fc1-a3b4-23adbc7d4227, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id128 {name: 🇨🇳 以后官网被墙就改cn1  cn2  cn3 - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: 011c7892-a081-4fc1-a3b4-23adbc7d4227, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id129 {name: 🇭🇰 香港01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: 011c7892-a081-4fc1-a3b4-23adbc7d4227, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id130 {name: 🇭🇰 香港02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: 011c7892-a081-4fc1-a3b4-23adbc7d4227, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id131 {name: 🇭🇰 香港05-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35660, type: vmess, uuid: 011c7892-a081-4fc1-a3b4-23adbc7d4227, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id132 {name: 🇺🇸 美国原生01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22257, type: vmess, uuid: 011c7892-a081-4fc1-a3b4-23adbc7d4227, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id133 {name: 🇺🇸 美国原生02 - NewBee国际机场, server: gzdx.newbee8.me, port: 35659, type: vmess, uuid: 011c7892-a081-4fc1-a3b4-23adbc7d4227, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id134 {name: 🇸🇬 新加坡01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22252, type: vmess, uuid: 011c7892-a081-4fc1-a3b4-23adbc7d4227, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id135 {name: 🇸🇬 新加坡02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22252, type: vmess, uuid: 011c7892-a081-4fc1-a3b4-23adbc7d4227, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id136 {name: 🇸🇬 新加坡03-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35661, type: vmess, uuid: 011c7892-a081-4fc1-a3b4-23adbc7d4227, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id137 {name: 🇯🇵 日本01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22253, type: vmess, uuid: 011c7892-a081-4fc1-a3b4-23adbc7d4227, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id138 {name: 🇯🇵 日本02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22253, type: vmess, uuid: 011c7892-a081-4fc1-a3b4-23adbc7d4227, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id139 {name: 🇯🇵 日本03-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35662, type: vmess, uuid: 011c7892-a081-4fc1-a3b4-23adbc7d4227, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id140 {name: 🇦🇺 澳大利亚01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22258, type: vmess, uuid: 011c7892-a081-4fc1-a3b4-23adbc7d4227, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id141 {name: 🇦🇺 澳大利亚02 - NewBee国际机场, server: gzdx.newbee8.me, port: 35666, type: vmess, uuid: 011c7892-a081-4fc1-a3b4-23adbc7d4227, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id142 {name: 🇺🇸 美国01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22255, type: vmess, uuid: 011c7892-a081-4fc1-a3b4-23adbc7d4227, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id143 {name: 🇺🇸 美国02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22255, type: vmess, uuid: 011c7892-a081-4fc1-a3b4-23adbc7d4227, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id144 {name: 🇺🇸 美国03-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35664, type: vmess, uuid: 011c7892-a081-4fc1-a3b4-23adbc7d4227, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id145 {name: 🇺🇸 广港专线-美国04 - NewBee国际机场, server: gzdx.newbee8.me, port: 35664, type: vmess, uuid: 011c7892-a081-4fc1-a3b4-23adbc7d4227, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id146 {name: 🇮🇳 印度01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22256, type: vmess, uuid: 011c7892-a081-4fc1-a3b4-23adbc7d4227, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id147 {name: 🇮🇳 印度02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22256, type: vmess, uuid: 011c7892-a081-4fc1-a3b4-23adbc7d4227, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id148 {name: 🇮🇳 印度03-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35665, type: vmess, uuid: 011c7892-a081-4fc1-a3b4-23adbc7d4227, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id017 {name: 'ℹ️ 目前国内网址：xc1.shishi1.buzz   被墙可按下面规律：网址前缀xc4,xc5,xc6 - 大师专线', server: haa.dashuai.cyou, port: 45050, type: vmess, uuid: 6fda2dc4-9575-4851-96b3-6dac11606b85, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id018 {name: 🇹🇼 台湾1(GPT等流媒体1.5倍） - 大师专线, server: haa.dashuai.cyou, port: 45078, type: vmess, uuid: 6fda2dc4-9575-4851-96b3-6dac11606b85, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id019 {name: 🇹🇼 台湾2(GPT等流媒体1.5倍） - 大师专线, server: xdd.dashuai.cyou, port: 45077, type: vmess, uuid: 6fda2dc4-9575-4851-96b3-6dac11606b85, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id020 {name: 🇭🇰 香港NO.1（GPT奈飞等） - 大师专线, server: haa.dashuai.cyou, port: 45050, type: vmess, uuid: 6fda2dc4-9575-4851-96b3-6dac11606b85, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id021 {name: 🇭🇰 香港NO.2（GPT奈飞等） - 大师专线, server: xdd.dashuai.cyou, port: 45051, type: vmess, uuid: 6fda2dc4-9575-4851-96b3-6dac11606b85, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id022 {name: 🇺🇸 美国NO.1（GPT） - 大师专线, server: haa.dashuai.cyou, port: 45052, type: vmess, uuid: 6fda2dc4-9575-4851-96b3-6dac11606b85, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id023 {name: 🇺🇸 美国NO.2（GPT） - 大师专线, server: xdd.dashuai.cyou, port: 45053, type: vmess, uuid: 6fda2dc4-9575-4851-96b3-6dac11606b85, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id024 {name: 🇲🇴 澳门NO.2 - 大师专线, server: xdd.dashuai.cyou, port: 45051, type: vmess, uuid: 6fda2dc4-9575-4851-96b3-6dac11606b85, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id025 {name: 🇸🇬 新加坡NO.1 - 大师专线, server: haa.dashuai.cyou, port: 45054, type: vmess, uuid: 6fda2dc4-9575-4851-96b3-6dac11606b85, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id026 {name: 🇸🇬 新加坡NO.2 - 大师专线, server: xdd.dashuai.cyou, port: 45055, type: vmess, uuid: 6fda2dc4-9575-4851-96b3-6dac11606b85, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id027 {name: 🇯🇵 日本NO.1 - 大师专线, server: haa.dashuai.cyou, port: 45056, type: vmess, uuid: 6fda2dc4-9575-4851-96b3-6dac11606b85, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id028 {name: 🇯🇵 日本NO.2 - 大师专线, server: xdd.dashuai.cyou, port: 45057, type: vmess, uuid: 6fda2dc4-9575-4851-96b3-6dac11606b85, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id029 {name: 🇦🇺 澳大利亚原生1 - 大师专线, server: haa.dashuai.cyou, port: 45062, type: vmess, uuid: 6fda2dc4-9575-4851-96b3-6dac11606b85, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id030 {name: 🇦🇺 澳大利亚原生2 - 大师专线, server: xdd.dashuai.cyou, port: 45063, type: vmess, uuid: 6fda2dc4-9575-4851-96b3-6dac11606b85, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id031 {name: 🇨🇦 加拿大1 - 大师专线, server: haa.dashuai.cyou, port: 45064, type: vmess, uuid: 6fda2dc4-9575-4851-96b3-6dac11606b85, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id032 {name: 🇨🇦 加拿大2 - 大师专线, server: xdd.dashuai.cyou, port: 45065, type: vmess, uuid: 6fda2dc4-9575-4851-96b3-6dac11606b85, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id033 {name: 🇮🇳 印度1 - 大师专线, server: haa.dashuai.cyou, port: 45074, type: vmess, uuid: 6fda2dc4-9575-4851-96b3-6dac11606b85, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id034 {name: 🇮🇳 印度2 - 大师专线, server: xdd.dashuai.cyou, port: 45073, type: vmess, uuid: 6fda2dc4-9575-4851-96b3-6dac11606b85, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id035 {name: 🇫🇷 法国1 - 大师专线, server: haa.dashuai.cyou, port: 45072, type: vmess, uuid: 6fda2dc4-9575-4851-96b3-6dac11606b85, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id036 {name: 🇫🇷 法国2 - 大师专线, server: xdd.dashuai.cyou, port: 45071, type: vmess, uuid: 6fda2dc4-9575-4851-96b3-6dac11606b85, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id037 {name: 🇭🇰 香港（直连） - 大师专线, server: xg.dashuai.cyou, port: 19901, type: vmess, uuid: 6fda2dc4-9575-4851-96b3-6dac11606b85, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id001 {name: 🇩🇪 德国-法兰克福-001 - 漏网之鱼, server: 5.39.252.204, port: 27681, type: vmess, uuid: ce3fe02a-3684-49e1-a553-ff13f29ff514, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- &id002 {name: 🇭🇰 中国-香港-005 - 漏网之鱼, server: 212.192.12.70, port: 27681, type: vmess, uuid: ce3fe02a-3684-49e1-a553-ff13f29ff514, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- &id003 {name: 🇷🇺 俄罗斯-圣彼得堡-016 - 漏网之鱼, server: 194.87.69.50, port: 27681, type: vmess, uuid: ce3fe02a-3684-49e1-a553-ff13f29ff514, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- &id004 {name: 🇷🇺 俄罗斯-圣彼得堡-015 - 漏网之鱼, server: 195.58.49.42, port: 27681, type: vmess, uuid: ce3fe02a-3684-49e1-a553-ff13f29ff514, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- &id005 {name: 🇷🇺 俄罗斯-圣彼得堡-014 - 漏网之鱼, server: 195.58.49.50, port: 27681, type: vmess, uuid: ce3fe02a-3684-49e1-a553-ff13f29ff514, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- &id006 {name: 🇷🇺 俄罗斯-圣彼得堡-013 - 漏网之鱼, server: 194.87.69.52, port: 27681, type: vmess, uuid: ce3fe02a-3684-49e1-a553-ff13f29ff514, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- &id007 {name: 🇷🇺 俄罗斯-圣彼得堡-012 - 漏网之鱼, server: 195.58.49.86, port: 27681, type: vmess, uuid: ce3fe02a-3684-49e1-a553-ff13f29ff514, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- &id008 {name: 🇷🇺 俄罗斯-圣彼得堡-011 - 漏网之鱼, server: 194.87.68.115, port: 27681, type: vmess, uuid: ce3fe02a-3684-49e1-a553-ff13f29ff514, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- &id009 {name: 🇷🇺 俄罗斯-圣彼得堡-006 - 漏网之鱼, server: 195.58.49.152, port: 27681, type: vmess, uuid: ce3fe02a-3684-49e1-a553-ff13f29ff514, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- &id010 {name: 🇷🇺 俄罗斯-圣彼得堡-007 - 漏网之鱼, server: 176.32.39.181, port: 27681, type: vmess, uuid: ce3fe02a-3684-49e1-a553-ff13f29ff514, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- &id011 {name: 🇷🇺 俄罗斯-圣彼得堡-008 - 漏网之鱼, server: 194.87.69.244, port: 27681, type: vmess, uuid: ce3fe02a-3684-49e1-a553-ff13f29ff514, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- &id012 {name: 🇷🇺 俄罗斯-圣彼得堡-009 - 漏网之鱼, server: 194.87.69.56, port: 21359, type: vmess, uuid: ce3fe02a-3684-49e1-a553-ff13f29ff514, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- &id013 {name: 🇷🇺 俄罗斯-圣彼得堡-010 - 漏网之鱼, server: 194.87.68.228, port: 27681, type: vmess, uuid: ce3fe02a-3684-49e1-a553-ff13f29ff514, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- &id014 {name: 🇺🇸 美国-芝加哥-001 - 漏网之鱼, server: 166.88.159.225, port: 27681, type: vmess, uuid: ce3fe02a-3684-49e1-a553-ff13f29ff514, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- &id015 {name: 🇨🇭 瑞士-日内瓦-001 - 漏网之鱼, server: 194.87.18.248, port: 27681, type: vmess, uuid: ce3fe02a-3684-49e1-a553-ff13f29ff514, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- &id016 {name: 🇨🇦 加拿大-多伦多-001 - 漏网之鱼, server: 141.195.112.167, port: 27681, type: vmess, uuid: ce3fe02a-3684-49e1-a553-ff13f29ff514, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id288 {name: ℹ️ 国内直连官网：https://cn.newbee888.cc - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: 74435b66-9d79-4cd3-91d6-1209fd470ef0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id289 {name: ℹ️ 备用官网：https://cn1.newbee888.cc - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: 74435b66-9d79-4cd3-91d6-1209fd470ef0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id290 {name: 🇨🇳 以后官网被墙就改cn1  cn2  cn3 - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: 74435b66-9d79-4cd3-91d6-1209fd470ef0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id291 {name: 🇭🇰 香港01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: 74435b66-9d79-4cd3-91d6-1209fd470ef0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id292 {name: 🇭🇰 香港02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: 74435b66-9d79-4cd3-91d6-1209fd470ef0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id293 {name: 🇭🇰 香港05-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35660, type: vmess, uuid: 74435b66-9d79-4cd3-91d6-1209fd470ef0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id294 {name: 🇺🇸 美国原生01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22257, type: vmess, uuid: 74435b66-9d79-4cd3-91d6-1209fd470ef0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id295 {name: 🇺🇸 美国原生02 - NewBee国际机场, server: gzdx.newbee8.me, port: 35659, type: vmess, uuid: 74435b66-9d79-4cd3-91d6-1209fd470ef0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id296 {name: 🇸🇬 新加坡01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22252, type: vmess, uuid: 74435b66-9d79-4cd3-91d6-1209fd470ef0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id297 {name: 🇸🇬 新加坡02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22252, type: vmess, uuid: 74435b66-9d79-4cd3-91d6-1209fd470ef0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id298 {name: 🇸🇬 新加坡03-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35661, type: vmess, uuid: 74435b66-9d79-4cd3-91d6-1209fd470ef0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id299 {name: 🇯🇵 日本01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22253, type: vmess, uuid: 74435b66-9d79-4cd3-91d6-1209fd470ef0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id300 {name: 🇯🇵 日本02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22253, type: vmess, uuid: 74435b66-9d79-4cd3-91d6-1209fd470ef0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id301 {name: 🇯🇵 日本03-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35662, type: vmess, uuid: 74435b66-9d79-4cd3-91d6-1209fd470ef0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id302 {name: 🇦🇺 澳大利亚01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22258, type: vmess, uuid: 74435b66-9d79-4cd3-91d6-1209fd470ef0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id303 {name: 🇦🇺 澳大利亚02 - NewBee国际机场, server: gzdx.newbee8.me, port: 35666, type: vmess, uuid: 74435b66-9d79-4cd3-91d6-1209fd470ef0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id304 {name: 🇺🇸 美国01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22255, type: vmess, uuid: 74435b66-9d79-4cd3-91d6-1209fd470ef0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id305 {name: 🇺🇸 美国02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22255, type: vmess, uuid: 74435b66-9d79-4cd3-91d6-1209fd470ef0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id306 {name: 🇺🇸 美国03-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35664, type: vmess, uuid: 74435b66-9d79-4cd3-91d6-1209fd470ef0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id307 {name: 🇺🇸 广港专线-美国04 - NewBee国际机场, server: gzdx.newbee8.me, port: 35664, type: vmess, uuid: 74435b66-9d79-4cd3-91d6-1209fd470ef0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id308 {name: 🇮🇳 印度01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22256, type: vmess, uuid: 74435b66-9d79-4cd3-91d6-1209fd470ef0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id309 {name: 🇮🇳 印度02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22256, type: vmess, uuid: 74435b66-9d79-4cd3-91d6-1209fd470ef0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id310 {name: 🇮🇳 印度03-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35665, type: vmess, uuid: 74435b66-9d79-4cd3-91d6-1209fd470ef0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id017 {name: 'ℹ️ 目前国内网址：xc1.shishi1.buzz   被墙可按下面规律：网址前缀xc4,xc5,xc6 - 大师专线', server: haa.dashuai.cyou, port: 45050, type: vmess, uuid: 24f52e12-2a41-407c-84f1-468ca6f69991, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id018 {name: 🇹🇼 台湾1(GPT等流媒体1.5倍） - 大师专线, server: haa.dashuai.cyou, port: 45078, type: vmess, uuid: 24f52e12-2a41-407c-84f1-468ca6f69991, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id019 {name: 🇹🇼 台湾2(GPT等流媒体1.5倍） - 大师专线, server: xdd.dashuai.cyou, port: 45077, type: vmess, uuid: 24f52e12-2a41-407c-84f1-468ca6f69991, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id020 {name: 🇭🇰 香港NO.1（GPT奈飞等） - 大师专线, server: haa.dashuai.cyou, port: 45050, type: vmess, uuid: 24f52e12-2a41-407c-84f1-468ca6f69991, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id021 {name: 🇭🇰 香港NO.2（GPT奈飞等） - 大师专线, server: xdd.dashuai.cyou, port: 45051, type: vmess, uuid: 24f52e12-2a41-407c-84f1-468ca6f69991, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id022 {name: 🇺🇸 美国NO.1（GPT） - 大师专线, server: haa.dashuai.cyou, port: 45052, type: vmess, uuid: 24f52e12-2a41-407c-84f1-468ca6f69991, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id023 {name: 🇺🇸 美国NO.2（GPT） - 大师专线, server: xdd.dashuai.cyou, port: 45053, type: vmess, uuid: 24f52e12-2a41-407c-84f1-468ca6f69991, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id024 {name: 🇲🇴 澳门NO.2 - 大师专线, server: xdd.dashuai.cyou, port: 45051, type: vmess, uuid: 24f52e12-2a41-407c-84f1-468ca6f69991, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id025 {name: 🇸🇬 新加坡NO.1 - 大师专线, server: haa.dashuai.cyou, port: 45054, type: vmess, uuid: 24f52e12-2a41-407c-84f1-468ca6f69991, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id026 {name: 🇸🇬 新加坡NO.2 - 大师专线, server: xdd.dashuai.cyou, port: 45055, type: vmess, uuid: 24f52e12-2a41-407c-84f1-468ca6f69991, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id027 {name: 🇯🇵 日本NO.1 - 大师专线, server: haa.dashuai.cyou, port: 45056, type: vmess, uuid: 24f52e12-2a41-407c-84f1-468ca6f69991, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id028 {name: 🇯🇵 日本NO.2 - 大师专线, server: xdd.dashuai.cyou, port: 45057, type: vmess, uuid: 24f52e12-2a41-407c-84f1-468ca6f69991, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id029 {name: 🇦🇺 澳大利亚原生1 - 大师专线, server: haa.dashuai.cyou, port: 45062, type: vmess, uuid: 24f52e12-2a41-407c-84f1-468ca6f69991, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id030 {name: 🇦🇺 澳大利亚原生2 - 大师专线, server: xdd.dashuai.cyou, port: 45063, type: vmess, uuid: 24f52e12-2a41-407c-84f1-468ca6f69991, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id031 {name: 🇨🇦 加拿大1 - 大师专线, server: haa.dashuai.cyou, port: 45064, type: vmess, uuid: 24f52e12-2a41-407c-84f1-468ca6f69991, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id032 {name: 🇨🇦 加拿大2 - 大师专线, server: xdd.dashuai.cyou, port: 45065, type: vmess, uuid: 24f52e12-2a41-407c-84f1-468ca6f69991, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id033 {name: 🇮🇳 印度1 - 大师专线, server: haa.dashuai.cyou, port: 45074, type: vmess, uuid: 24f52e12-2a41-407c-84f1-468ca6f69991, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id034 {name: 🇮🇳 印度2 - 大师专线, server: xdd.dashuai.cyou, port: 45073, type: vmess, uuid: 24f52e12-2a41-407c-84f1-468ca6f69991, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id035 {name: 🇫🇷 法国1 - 大师专线, server: haa.dashuai.cyou, port: 45072, type: vmess, uuid: 24f52e12-2a41-407c-84f1-468ca6f69991, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id036 {name: 🇫🇷 法国2 - 大师专线, server: xdd.dashuai.cyou, port: 45071, type: vmess, uuid: 24f52e12-2a41-407c-84f1-468ca6f69991, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id037 {name: 🇭🇰 香港（直连） - 大师专线, server: xg.dashuai.cyou, port: 19901, type: vmess, uuid: 24f52e12-2a41-407c-84f1-468ca6f69991, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id001 {name: 🇩🇪 德国-法兰克福-001 - 漏网之鱼, server: 5.39.252.204, port: 27681, type: vmess, uuid: 47e591c5-16ca-4fd9-83a9-15f0eb6fa37d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id002 {name: 🇭🇰 中国-香港-005 - 漏网之鱼, server: 212.192.12.70, port: 27681, type: vmess, uuid: 47e591c5-16ca-4fd9-83a9-15f0eb6fa37d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id003 {name: 🇷🇺 俄罗斯-圣彼得堡-016 - 漏网之鱼, server: 194.87.69.50, port: 27681, type: vmess, uuid: 47e591c5-16ca-4fd9-83a9-15f0eb6fa37d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id004 {name: 🇷🇺 俄罗斯-圣彼得堡-015 - 漏网之鱼, server: 195.58.49.42, port: 27681, type: vmess, uuid: 47e591c5-16ca-4fd9-83a9-15f0eb6fa37d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id005 {name: 🇷🇺 俄罗斯-圣彼得堡-014 - 漏网之鱼, server: 195.58.49.50, port: 27681, type: vmess, uuid: 47e591c5-16ca-4fd9-83a9-15f0eb6fa37d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id006 {name: 🇷🇺 俄罗斯-圣彼得堡-013 - 漏网之鱼, server: 194.87.69.52, port: 27681, type: vmess, uuid: 47e591c5-16ca-4fd9-83a9-15f0eb6fa37d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id007 {name: 🇷🇺 俄罗斯-圣彼得堡-012 - 漏网之鱼, server: 195.58.49.86, port: 27681, type: vmess, uuid: 47e591c5-16ca-4fd9-83a9-15f0eb6fa37d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id008 {name: 🇷🇺 俄罗斯-圣彼得堡-011 - 漏网之鱼, server: 194.87.68.115, port: 27681, type: vmess, uuid: 47e591c5-16ca-4fd9-83a9-15f0eb6fa37d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id009 {name: 🇷🇺 俄罗斯-圣彼得堡-006 - 漏网之鱼, server: 195.58.49.152, port: 27681, type: vmess, uuid: 47e591c5-16ca-4fd9-83a9-15f0eb6fa37d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id010 {name: 🇷🇺 俄罗斯-圣彼得堡-007 - 漏网之鱼, server: 176.32.39.181, port: 27681, type: vmess, uuid: 47e591c5-16ca-4fd9-83a9-15f0eb6fa37d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id011 {name: 🇷🇺 俄罗斯-圣彼得堡-008 - 漏网之鱼, server: 194.87.69.244, port: 27681, type: vmess, uuid: 47e591c5-16ca-4fd9-83a9-15f0eb6fa37d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id012 {name: 🇷🇺 俄罗斯-圣彼得堡-009 - 漏网之鱼, server: 194.87.69.56, port: 21359, type: vmess, uuid: 47e591c5-16ca-4fd9-83a9-15f0eb6fa37d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id013 {name: 🇷🇺 俄罗斯-圣彼得堡-010 - 漏网之鱼, server: 194.87.68.228, port: 27681, type: vmess, uuid: 47e591c5-16ca-4fd9-83a9-15f0eb6fa37d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id014 {name: 🇺🇸 美国-芝加哥-001 - 漏网之鱼, server: 166.88.159.225, port: 20512, type: vmess, uuid: 47e591c5-16ca-4fd9-83a9-15f0eb6fa37d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id015 {name: 🇨🇭 瑞士-日内瓦-001 - 漏网之鱼, server: 194.87.18.248, port: 27681, type: vmess, uuid: 47e591c5-16ca-4fd9-83a9-15f0eb6fa37d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id016 {name: 🇨🇦 加拿大-多伦多-001 - 漏网之鱼, server: 141.195.112.167, port: 27681, type: vmess, uuid: 47e591c5-16ca-4fd9-83a9-15f0eb6fa37d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
 - *id001
 - *id002
 - *id003
@@ -77,6 +77,8 @@ proxies:
 - *id014
 - *id015
 - *id016
+- {name: SS1-T - 速迪云加速, server: 132.145.102.60, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: 8ac34411-dca4-48cc-a3e8-117eb66bda39, udp: true}
+- {name: 🇺🇸 vmess_US - 速迪云加速, server: us-n1.speedyyun.com, port: 25314, type: vmess, uuid: 8ac34411-dca4-48cc-a3e8-117eb66bda39, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /victorias, headers: {Host: us-n1.speedyyun.com}}, udp: true}
 - *id017
 - *id018
 - *id019
@@ -98,227 +100,101 @@ proxies:
 - *id035
 - *id036
 - *id037
-- {name: 🇰🇷 韩国-三网优化2 - 青云互联网-, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 86ac9927-a545-492c-9da8-a55379e0f820, sni: kr-qingyun.dwyun.me, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港节点1 - 老牛云, server: 183.232.159.51, port: 45107, type: ss, cipher: chacha20-ietf-poly1305, password: 810c66e3-dca2-4c43-bdad-83d5c076bd45, udp: true}
-- {name: 🇭🇰 香港节点2 - 老牛云, server: 183.232.159.51, port: 39551, type: ss, cipher: chacha20-ietf-poly1305, password: 810c66e3-dca2-4c43-bdad-83d5c076bd45, udp: true}
-- {name: 🇭🇰 香港节点3 - 老牛云, server: 183.232.159.51, port: 11308, type: ss, cipher: chacha20-ietf-poly1305, password: 810c66e3-dca2-4c43-bdad-83d5c076bd45, udp: true}
-- {name: 🇭🇰 香港节点4 - 老牛云, server: 183.232.159.51, port: 47621, type: ss, cipher: chacha20-ietf-poly1305, password: 810c66e3-dca2-4c43-bdad-83d5c076bd45, udp: true}
-- {name: 🇰🇷 韩国1 - 老牛云, server: 183.232.159.51, port: 55518, type: ss, cipher: chacha20-ietf-poly1305, password: 810c66e3-dca2-4c43-bdad-83d5c076bd45, udp: true}
-- {name: 🇰🇷 韩国2 - 老牛云, server: 183.232.159.51, port: 23707, type: ss, cipher: chacha20-ietf-poly1305, password: 810c66e3-dca2-4c43-bdad-83d5c076bd45, udp: true}
-- {name: 🇹🇼 台湾节点1 - 老牛云, server: 183.232.159.51, port: 55971, type: ss, cipher: chacha20-ietf-poly1305, password: 810c66e3-dca2-4c43-bdad-83d5c076bd45, udp: true}
-- {name: 🇹🇼 台湾节点2 - 老牛云, server: 183.232.159.51, port: 15132, type: ss, cipher: chacha20-ietf-poly1305, password: 810c66e3-dca2-4c43-bdad-83d5c076bd45, udp: true}
-- {name: 🇹🇼 台湾节点3 - 老牛云, server: 183.232.159.51, port: 34401, type: ss, cipher: chacha20-ietf-poly1305, password: 810c66e3-dca2-4c43-bdad-83d5c076bd45, udp: true}
-- {name: 🇹🇼 台湾节点4 - 老牛云, server: 183.232.159.51, port: 58246, type: ss, cipher: chacha20-ietf-poly1305, password: 810c66e3-dca2-4c43-bdad-83d5c076bd45, udp: true}
-- {name: 🇬🇧 英国节点1 - 老牛云, server: 183.232.159.51, port: 59193, type: ss, cipher: chacha20-ietf-poly1305, password: 810c66e3-dca2-4c43-bdad-83d5c076bd45, udp: true}
-- {name: 🇬🇧 英国节点2 - 老牛云, server: 183.232.159.51, port: 55446, type: ss, cipher: chacha20-ietf-poly1305, password: 810c66e3-dca2-4c43-bdad-83d5c076bd45, udp: true}
-- {name: 🇸🇬 新加坡节点1 - 老牛云, server: 183.232.159.51, port: 49392, type: ss, cipher: chacha20-ietf-poly1305, password: 810c66e3-dca2-4c43-bdad-83d5c076bd45, udp: true}
-- {name: 🇸🇬 新加坡节点2 - 老牛云, server: 183.232.159.51, port: 53062, type: ss, cipher: chacha20-ietf-poly1305, password: 810c66e3-dca2-4c43-bdad-83d5c076bd45, udp: true}
-- {name: 🇯🇵 日本节点1 - 老牛云, server: 183.232.159.51, port: 33238, type: ss, cipher: chacha20-ietf-poly1305, password: 810c66e3-dca2-4c43-bdad-83d5c076bd45, udp: true}
-- {name: 🇯🇵 日本节点2 - 老牛云, server: 183.232.159.51, port: 26714, type: ss, cipher: chacha20-ietf-poly1305, password: 810c66e3-dca2-4c43-bdad-83d5c076bd45, udp: true}
-- {name: 🇯🇵 日本节点3 - 老牛云, server: 183.232.159.51, port: 41886, type: ss, cipher: chacha20-ietf-poly1305, password: 810c66e3-dca2-4c43-bdad-83d5c076bd45, udp: true}
-- {name: 🇯🇵 日本节点4 - 老牛云, server: 183.232.159.51, port: 22064, type: ss, cipher: chacha20-ietf-poly1305, password: 810c66e3-dca2-4c43-bdad-83d5c076bd45, udp: true}
-- {name: 🇺🇸 美国节点1 - 老牛云, server: 183.232.159.51, port: 11329, type: ss, cipher: chacha20-ietf-poly1305, password: 810c66e3-dca2-4c43-bdad-83d5c076bd45, udp: true}
-- {name: 🇺🇸 美国节点2 - 老牛云, server: 183.232.159.51, port: 47046, type: ss, cipher: chacha20-ietf-poly1305, password: 810c66e3-dca2-4c43-bdad-83d5c076bd45, udp: true}
-- {name: 🇺🇸 美国节点3 - 老牛云, server: 183.232.159.51, port: 37959, type: ss, cipher: chacha20-ietf-poly1305, password: 810c66e3-dca2-4c43-bdad-83d5c076bd45, udp: true}
-- {name: 🇺🇸 美国节点4 - 老牛云, server: 183.232.159.51, port: 19505, type: ss, cipher: chacha20-ietf-poly1305, password: 810c66e3-dca2-4c43-bdad-83d5c076bd45, udp: true}
-- {name: 🇻🇳 越南1 - 老牛云, server: 183.232.159.51, port: 44595, type: ss, cipher: chacha20-ietf-poly1305, password: 810c66e3-dca2-4c43-bdad-83d5c076bd45, udp: true}
-- {name: 🇻🇳 越南2 - 老牛云, server: 183.232.159.51, port: 35071, type: ss, cipher: chacha20-ietf-poly1305, password: 810c66e3-dca2-4c43-bdad-83d5c076bd45, udp: true}
-- {name: 🇸🇬 新加坡-01 - 畅游无限, server: 54.255.90.82, port: 8443, type: vmess, uuid: bc8dbdf5-9e7d-4f45-8f66-28d7fd189baa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇸🇬 新加坡-02 - 畅游无限, server: 52.77.251.119, port: 8443, type: vmess, uuid: bc8dbdf5-9e7d-4f45-8f66-28d7fd189baa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇸🇬 新加坡-03 - 畅游无限, server: 47.129.143.100, port: 8443, type: vmess, uuid: bc8dbdf5-9e7d-4f45-8f66-28d7fd189baa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇸🇬 新加坡-04 - 畅游无限, server: 13.229.121.26, port: 8443, type: vmess, uuid: bc8dbdf5-9e7d-4f45-8f66-28d7fd189baa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇸🇬 新加坡-05 - 畅游无限, server: 18.138.35.8, port: 8443, type: vmess, uuid: bc8dbdf5-9e7d-4f45-8f66-28d7fd189baa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇸🇬 新加坡-06 - 畅游无限, server: 18.140.237.57, port: 8443, type: vmess, uuid: bc8dbdf5-9e7d-4f45-8f66-28d7fd189baa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇰🇷 韩国-01 - 畅游无限, server: 54.180.148.244, port: 8443, type: vmess, uuid: bc8dbdf5-9e7d-4f45-8f66-28d7fd189baa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇰🇷 韩国-02 - 畅游无限, server: 3.38.104.67, port: 8443, type: vmess, uuid: bc8dbdf5-9e7d-4f45-8f66-28d7fd189baa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇯🇵 日本-01 - 畅游无限, server: 54.248.207.185, port: 8443, type: vmess, uuid: bc8dbdf5-9e7d-4f45-8f66-28d7fd189baa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇯🇵 日本-02 - 畅游无限, server: 18.183.82.123, port: 8443, type: vmess, uuid: bc8dbdf5-9e7d-4f45-8f66-28d7fd189baa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇺🇸 美国-01 - 畅游无限, server: 54.210.30.219, port: 8443, type: vmess, uuid: bc8dbdf5-9e7d-4f45-8f66-28d7fd189baa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇺🇸 美国-02 - 畅游无限, server: 54.234.200.220, port: 8443, type: vmess, uuid: bc8dbdf5-9e7d-4f45-8f66-28d7fd189baa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- &id038 {name: 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s5.db-link02.top, port: 8880, type: vmess, uuid: 5a5aad2b-e2d0-33cc-80e8-ab71fa60d289, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.19.76.54, headers: {Host: 100-162-47-140.s5.db-link02.top}}, udp: true}
-- &id039 {name: 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s5.cn-db.top, port: 8080, type: vmess, uuid: 5a5aad2b-e2d0-33cc-80e8-ab71fa60d289, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.19.181.248, headers: {Host: 100-103-162-47.s5.cn-db.top}}, udp: true}
-- &id040 {name: 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s2.db-link02.top, port: 2052, type: vmess, uuid: 5a5aad2b-e2d0-33cc-80e8-ab71fa60d289, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.20.42.124, headers: {Host: 100-19-17-35.s2.db-link02.top}}, udp: true}
-- &id041 {name: 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s2.cn-db.top, port: 2095, type: vmess, uuid: 5a5aad2b-e2d0-33cc-80e8-ab71fa60d289, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.21.159.30, headers: {Host: 100-114-167-170.s2.cn-db.top}}, udp: true}
-- &id042 {name: 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s4.db-link02.top, port: 2082, type: vmess, uuid: 5a5aad2b-e2d0-33cc-80e8-ab71fa60d289, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.24.173.7, headers: {Host: 100-145-74-176.s4.db-link02.top}}, udp: true}
-- &id043 {name: '🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s3.db-link01.top, port: 8080, type: vmess, uuid: 5a5aad2b-e2d0-33cc-80e8-ab71fa60d289, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.24.78.224, headers: {Host: 100-250-200-221.s3.db-link01.top}}, udp: true}
-- &id044 {name: 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s2.cn-db.top, port: 2095, type: vmess, uuid: 5a5aad2b-e2d0-33cc-80e8-ab71fa60d289, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.19.94.53, headers: {Host: 100-226-245-41.s2.cn-db.top}}, udp: true}
-- *id001
-- *id002
-- *id003
-- *id004
-- *id005
-- *id006
-- *id007
-- *id008
-- *id009
-- *id010
-- *id011
-- *id012
-- *id013
-- *id014
-- *id015
-- *id016
-- {name: ℹ️ xueyejiasu.xyz发布地址不迷路 - 血液加速器, server: hk.kfsldflk.xyz, port: 1200, type: ss, cipher: aes-256-gcm, password: 6e5eecf0-2bd6-4dbb-9f19-64c22c7b48cf, udp: true}
-- {name: 🇹🇼 台湾 1 - 血液加速器, server: gy.666666222.shop, port: 20032, type: ss, cipher: chacha20-ietf-poly1305, password: 6e5eecf0-2bd6-4dbb-9f19-64c22c7b48cf, udp: true}
-- {name: 🇹🇼 台湾01 - 血液加速器, server: gy.666666222.shop, port: 47564, type: ss, cipher: chacha20-ietf-poly1305, password: 6e5eecf0-2bd6-4dbb-9f19-64c22c7b48cf, udp: true}
-- {name: 🇭🇰 香港01 - 血液加速器, server: gy.666666222.shop, port: 34338, type: ss, cipher: chacha20-ietf-poly1305, password: 6e5eecf0-2bd6-4dbb-9f19-64c22c7b48cf, udp: true}
-- {name: 🇭🇰 香港02 - 血液加速器, server: gy.666666222.shop, port: 20035, type: ss, cipher: chacha20-ietf-poly1305, password: 6e5eecf0-2bd6-4dbb-9f19-64c22c7b48cf, udp: true}
-- {name: 🇭🇰 香港03 - 血液加速器, server: gy.666666222.shop, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 6e5eecf0-2bd6-4dbb-9f19-64c22c7b48cf, udp: true}
-- {name: 🇯🇵 日本01 - 血液加速器, server: gy.666666222.shop, port: 20002, type: ss, cipher: chacha20-ietf-poly1305, password: 6e5eecf0-2bd6-4dbb-9f19-64c22c7b48cf, udp: true}
-- {name: 🇯🇵 日本02 - 血液加速器, server: gy.666666222.shop, port: 20004, type: ss, cipher: chacha20-ietf-poly1305, password: 6e5eecf0-2bd6-4dbb-9f19-64c22c7b48cf, udp: true}
-- {name: 🇯🇵 日本03 - 血液加速器, server: gy.666666222.shop, port: 20006, type: ss, cipher: chacha20-ietf-poly1305, password: 6e5eecf0-2bd6-4dbb-9f19-64c22c7b48cf, udp: true}
-- {name: 🇯🇵 日本04 - 血液加速器, server: gy.666666222.shop, port: 20008, type: ss, cipher: chacha20-ietf-poly1305, password: 6e5eecf0-2bd6-4dbb-9f19-64c22c7b48cf, udp: true}
-- {name: 🇺🇸 美国 纽约01 - 血液加速器, server: gy.666666222.shop, port: 20013, type: ss, cipher: chacha20-ietf-poly1305, password: 6e5eecf0-2bd6-4dbb-9f19-64c22c7b48cf, udp: true}
-- {name: 🇺🇸 美国 纽约2 - 血液加速器, server: gy.666666222.shop, port: 20016, type: ss, cipher: chacha20-ietf-poly1305, password: 6e5eecf0-2bd6-4dbb-9f19-64c22c7b48cf, udp: true}
-- *id001
-- *id002
-- *id003
-- *id004
-- *id005
-- *id006
-- *id007
-- *id008
-- *id009
-- *id010
-- *id011
-- *id012
-- *id013
-- *id014
-- *id015
-- *id016
-- {name: 请手动选带地名的节点 - KUGOU云, server: vip1.kugovip.xyz, port: 50124, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: ℹ️ 最新:www.kugou8.cloud - KUGOU云, server: vip1.kugovip.xyz, port: 50124, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: ℹ️ 官网发布页:kugou2.top - KUGOU云, server: vip1.kugovip.xyz, port: 50124, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [3x]IEPL专线 香港1 - KUGOU云', server: vip1.kugovip.xyz, port: 50122, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [3x]IEPL专线 香港2 - KUGOU云', server: vip1.kugovip.xyz, port: 50122, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [3x]IEPL专线 香港3 - KUGOU云', server: vip1.kugovip.xyz, port: 50133, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [3x]IEPL专线 香港4 - KUGOU云', server: vip1.kugovip.xyz, port: 50106, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [3x]IEPL专线 香港5 - KUGOU云', server: vip1.kugovip.xyz, port: 50124, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [3x]IEPL专线 香港6 - KUGOU云', server: vip1.kugovip.xyz, port: 50124, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [3x]IEPL专线 日本1 - KUGOU云', server: vip1.kugovip.xyz, port: 50112, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [3x]IEPL专线 日本2 - KUGOU云', server: vip1.kugovip.xyz, port: 50113, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇹🇼 [3x]IEPL专线 台湾1 - KUGOU云', server: vip1.kugovip.xyz, port: 50102, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇹🇼 [3x]IEPL专线 台湾2 - KUGOU云', server: vip1.kugovip.xyz, port: 50102, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇬🇧 [3x]IEPL专线 英国1 - KUGOU云', server: vip1.kugovip.xyz, port: 50120, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇬🇧 [3x]IEPL专线 英国2 - KUGOU云', server: vip1.kugovip.xyz, port: 50104, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇺🇸 [3x]IEPL专线 美国1 - KUGOU云', server: vip1.kugovip.xyz, port: 50107, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇺🇸 [3x]IEPL专线 美国2 - KUGOU云', server: vip1.kugovip.xyz, port: 50129, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [3x]IEPL专线 新加坡1 - KUGOU云', server: vip1.kugovip.xyz, port: 50114, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [3x]IEPL专线 新加坡2 - KUGOU云', server: vip1.kugovip.xyz, port: 50115, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [3x]IEPL专线 新加坡3 - KUGOU云', server: vip1.kugovip.xyz, port: 50110, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇰🇷 [3x]IEPL专线 韩国 - KUGOU云', server: vip1.kugovip.xyz, port: 50117, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇹🇭 [3x]IEPL专线 泰国 - KUGOU云', server: vip1.kugovip.xyz, port: 50116, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇻🇳 [3x]IEPL专线 越南 - KUGOU云', server: vip1.kugovip.xyz, port: 50108, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇫🇷 [3x]IEPL专线 法国 - KUGOU云', server: vip1.kugovip.xyz, port: 50101, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇳🇱 [3x]IEPL专线 荷兰 - KUGOU云', server: vip1.kugovip.xyz, port: 50105, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇦🇺 [3x]IEPL专线 澳洲 - KUGOU云', server: vip1.kugovip.xyz, port: 50123, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇩🇪 [3x]IEPL专线 德国 - KUGOU云', server: vip1.kugovip.xyz, port: 50121, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇿🇦 [3x]IEPL专线 南非 - KUGOU云', server: vip1.kugovip.xyz, port: 50119, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇵🇱 [3x]IEPL专线 波兰 - KUGOU云', server: vip1.kugovip.xyz, port: 50118, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇷🇺 [3x]IEPL专线 俄罗斯 - KUGOU云', server: vip1.kugovip.xyz, port: 50103, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇹🇷 [3x]IEPL专线 土耳其 - KUGOU云', server: vip1.kugovip.xyz, port: 50109, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇦🇷 [3x]IEPL专线 阿根廷 - KUGOU云', server: vip1.kugovip.xyz, port: 50100, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇺🇦 [3x]IEPL专线 乌克兰 - KUGOU云', server: vip1.kugovip.xyz, port: 50127, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 1x普通线路因管局通报 - KUGOU云, server: xd1.kugovip.xyz, port: 18591, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 1x可能会不定时离线 - KUGOU云, server: xd1.kugovip.xyz, port: 18589, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [1x]CM 隧道 日本1 - KUGOU云', server: xd1.kugovip.xyz, port: 18601, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [1x]CM 隧道 日本2 - KUGOU云', server: xd1.kugovip.xyz, port: 18602, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [1x]CM 隧道 新加坡1 - KUGOU云', server: xd1.kugovip.xyz, port: 18591, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [1x]CM 隧道 新加坡2 - KUGOU云', server: xd1.kugovip.xyz, port: 18589, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [1x]CM 隧道 香港1 - KUGOU云', server: xd1.kugovip.xyz, port: 18588, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇬🇧 [1x]CM 隧道 英国 - KUGOU云', server: xd1.kugovip.xyz, port: 18590, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇺🇸 [1x]CM 隧道 美国1 - KUGOU云', server: xd1.kugovip.xyz, port: 18606, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇵🇱 [1x]CM 隧道 波兰 - KUGOU云', server: xd1.kugovip.xyz, port: 18605, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇺🇸 [1倍率]临时直连 美国 - KUGOU云', server: us2.kugovip.xyz, port: 10113, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us2.kugovip.xyz}}, udp: true}
-- {name: '🇵🇱 [1倍率]临时直连 波兰1 - KUGOU云', server: bl1.kugovip.xyz, port: 18481, type: vmess, uuid: 80f4f2f4-d997-44b8-ba18-2b69043eba5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载, server: hkt.littleqqq.co, port: 20759, type: vmess, uuid: ec1f594e-b82e-4876-a2c8-a92b36b3460a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: hkt.littleqqq.co}}, udp: true}
-- {name: 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载 2, server: hkt.littleqqq.co, port: 20759, type: vmess, uuid: ec1f594e-b82e-4876-a2c8-a92b36b3460a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: hkt.littleqqq.co}}, udp: true}
-- &id124 {name: 🇹🇼 台湾2全天极速优先使用|X3 - SuLink速联网络, server: yx.sulink.one, port: 2052, type: vmess, uuid: 79b3ce93-9127-43c5-82f6-c9e12e1eb93b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw02.xn--io0a7iw0ab67b.xyz}}, udp: true}
-- &id125 {name: 🇺🇸 美国5 - SuLink速联网络, server: yx.sulink.one, port: 80, type: vmess, uuid: 79b3ce93-9127-43c5-82f6-c9e12e1eb93b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us5.sulink.one}}, udp: true}
-- &id149 {name: '🇹🇼 [vmess]台湾02-3倍率-流媒体 - HY-2', server: cf.hy2.one, port: 80, type: vmess, uuid: d246210d-f1e4-4001-abe2-3a629275896f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /af323d, headers: {Host: tw02.hy2.one}}, udp: true}
-- &id150 {name: '🇭🇰 [vmess]香港06-流媒体 - HY-2', server: cf.hy2.one, port: 80, type: vmess, uuid: d246210d-f1e4-4001-abe2-3a629275896f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: hk06.hy-2.top}}, udp: true}
-- &id151 {name: '🇸🇬 [vmess]新加坡02-V4-流媒体 - HY-2', server: cf.hy2.one, port: 2052, type: vmess, uuid: d246210d-f1e4-4001-abe2-3a629275896f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /0, headers: {Host: sg0002.hy-2.top}}, udp: true}
-- &id152 {name: '🇺🇸 [vmess]美国03 - HY-2', server: cf.hy2.one, port: 2052, type: vmess, uuid: d246210d-f1e4-4001-abe2-3a629275896f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us03.hy-2.top}}, udp: true}
-- &id153 {name: '🇺🇸 [vmess]美国04 - HY-2', server: cf.hy2.one, port: 2052, type: vmess, uuid: d246210d-f1e4-4001-abe2-3a629275896f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us04.hy-2.top}}, udp: true}
-- &id045 {name: 🇭🇰 HK.香港.A | 负载均衡 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 21552, type: vmess, uuid: 6ad0d271-cd00-43de-bf2d-b88f279e1142, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id046 {name: 🇭🇰 HK.香港.B | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 45449, type: vmess, uuid: 6ad0d271-cd00-43de-bf2d-b88f279e1142, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id047 {name: 🇭🇰 HK.香港.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 38630, type: vmess, uuid: 6ad0d271-cd00-43de-bf2d-b88f279e1142, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id048 {name: 🇭🇰 HK.香港.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 33575, type: vmess, uuid: 6ad0d271-cd00-43de-bf2d-b88f279e1142, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id049 {name: 🇭🇰 HK.香港.E - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 12672, type: vmess, uuid: 6ad0d271-cd00-43de-bf2d-b88f279e1142, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id050 {name: 🇭🇰 HK.香港.F - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 45861, type: vmess, uuid: 6ad0d271-cd00-43de-bf2d-b88f279e1142, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id051 {name: 🇭🇰 HK.香港.G | 多入口 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 44489, type: vmess, uuid: 6ad0d271-cd00-43de-bf2d-b88f279e1142, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id052 {name: 🇹🇼 TW.台湾.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xdtw.cokecloud.top, port: 13255, type: vmess, uuid: 6ad0d271-cd00-43de-bf2d-b88f279e1142, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id053 {name: 🇹🇼 TW.台湾.B | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xdtw.cokecloud.top, port: 29299, type: vmess, uuid: 6ad0d271-cd00-43de-bf2d-b88f279e1142, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id054 {name: 🇹🇼 TW.台湾.C | 高速2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xdtw.cokecloud.top, port: 53497, type: vmess, uuid: 6ad0d271-cd00-43de-bf2d-b88f279e1142, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id055 {name: 🇯🇵 日本-新疆直连 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xj.cokecloud.top, port: 12187, type: trojan, password: 6ad0d271-cd00-43de-bf2d-b88f279e1142, sni: xj.cokecloud.top, skip-cert-verify: true, udp: true}
-- &id056 {name: 🇯🇵 JP.日本.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 20437, type: ss, cipher: chacha20-ietf-poly1305, password: 6ad0d271-cd00-43de-bf2d-b88f279e1142, udp: true}
-- &id057 {name: 🇯🇵 JP.日本.B - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 43289, type: ss, cipher: chacha20-ietf-poly1305, password: 6ad0d271-cd00-43de-bf2d-b88f279e1142, udp: true}
-- &id058 {name: 🇯🇵 JP.日本.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 19439, type: ss, cipher: chacha20-ietf-poly1305, password: 6ad0d271-cd00-43de-bf2d-b88f279e1142, udp: true}
-- &id059 {name: 🇯🇵 JP.日本.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 13215, type: ss, cipher: chacha20-ietf-poly1305, password: 6ad0d271-cd00-43de-bf2d-b88f279e1142, udp: true}
-- &id060 {name: 🇸🇬 SGP.新加坡.A | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 43461, type: ss, cipher: aes-128-gcm, password: 6ad0d271-cd00-43de-bf2d-b88f279e1142, udp: true}
-- &id061 {name: 🇸🇬 SGP.新加坡.B | 负载均衡 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 10420, type: vmess, uuid: 6ad0d271-cd00-43de-bf2d-b88f279e1142, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id062 {name: 🇸🇬 SGP.新加坡.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 29611, type: ss, cipher: chacha20-ietf-poly1305, password: 6ad0d271-cd00-43de-bf2d-b88f279e1142, udp: true}
-- &id063 {name: 🇸🇬 SGP.新加坡.D | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 25878, type: vmess, uuid: 6ad0d271-cd00-43de-bf2d-b88f279e1142, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id064 {name: 🇰🇷 KR.韩国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xckr.cokecloud.top, port: 33167, type: ss, cipher: chacha20-ietf-poly1305, password: 6ad0d271-cd00-43de-bf2d-b88f279e1142, udp: true}
-- &id065 {name: 🇰🇷 KR.韩国.B | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xckr.cokecloud.top, port: 28595, type: ss, cipher: chacha20-ietf-poly1305, password: 6ad0d271-cd00-43de-bf2d-b88f279e1142, udp: true}
-- &id066 {name: 🇺🇸 US.美国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 47393, type: ss, cipher: chacha20-ietf-poly1305, password: 6ad0d271-cd00-43de-bf2d-b88f279e1142, udp: true}
-- &id067 {name: 🇺🇸 US.美国.B - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudus.cokecloud.top, port: 25619, type: vmess, uuid: 6ad0d271-cd00-43de-bf2d-b88f279e1142, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id068 {name: 🇺🇸 US.美国.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 17318, type: ss, cipher: chacha20-ietf-poly1305, password: 6ad0d271-cd00-43de-bf2d-b88f279e1142, udp: true}
-- &id069 {name: 🇺🇸 US.美国.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 40793, type: ss, cipher: chacha20-ietf-poly1305, password: 6ad0d271-cd00-43de-bf2d-b88f279e1142, udp: true}
-- &id070 {name: 🇺🇸 US.美国.E - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudus.cokecloud.top, port: 20067, type: vmess, uuid: 6ad0d271-cd00-43de-bf2d-b88f279e1142, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id071 {name: 🇲🇾 ML.马来西亚.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: mltf.cokecloud.top, port: 13128, type: ss, cipher: chacha20-ietf-poly1305, password: 6ad0d271-cd00-43de-bf2d-b88f279e1142, udp: true}
-- &id072 {name: 🇮🇩 ID.印度尼西亚.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 15447, type: ss, cipher: chacha20-ietf-poly1305, password: 6ad0d271-cd00-43de-bf2d-b88f279e1142, udp: true}
-- &id073 {name: 🇹🇷 TUR.土耳其.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: turtf.cokecloud.top, port: 53355, type: ss, cipher: chacha20-ietf-poly1305, password: 6ad0d271-cd00-43de-bf2d-b88f279e1142, udp: true}
-- &id074 {name: 🇹🇭 TH.泰国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: thtf.cokecloud.top, port: 34523, type: ss, cipher: chacha20-ietf-poly1305, password: 6ad0d271-cd00-43de-bf2d-b88f279e1142, udp: true}
-- &id075 {name: 🇻🇳 VN.越南.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 17463, type: ss, cipher: chacha20-ietf-poly1305, password: 6ad0d271-cd00-43de-bf2d-b88f279e1142, udp: true}
-- &id076 {name: 🇦🇺 AU.澳洲.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: autf.cokecloud.top, port: 18071, type: ss, cipher: chacha20-ietf-poly1305, password: 6ad0d271-cd00-43de-bf2d-b88f279e1142, udp: true}
-- &id077 {name: 🇮🇳 IN.印度.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: idtf.cokecloud.top, port: 32725, type: ss, cipher: chacha20-ietf-poly1305, password: 6ad0d271-cd00-43de-bf2d-b88f279e1142, udp: true}
-- &id078 {name: 🇫🇷 FR.法国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: frtf.cokecloud.top, port: 15468, type: vmess, uuid: 6ad0d271-cd00-43de-bf2d-b88f279e1142, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id079 {name: 🇬🇧 UK.英国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcuk.cokecloud.top, port: 18227, type: vmess, uuid: 6ad0d271-cd00-43de-bf2d-b88f279e1142, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id080 {name: 🇩🇪 FRK.德国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: frg.cokecloud.top, port: 13646, type: vmess, uuid: 6ad0d271-cd00-43de-bf2d-b88f279e1142, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id081 {name: 🇷🇺 RU.俄国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: rutf.cokecloud.top, port: 44753, type: ss, cipher: chacha20-ietf-poly1305, password: 6ad0d271-cd00-43de-bf2d-b88f279e1142, udp: true}
-- &id082 {name: ℹ️ 导航页：www.可乐云.net - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: frg.cokecloud.top, port: 13646, type: vmess, uuid: 6ad0d271-cd00-43de-bf2d-b88f279e1142, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id083 {name: ℹ️ 最新官网：6.needss.one(可直接访问） - needss云, server: i.needss.top, port: 20013, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id084 {name: ℹ️ 永久官网：needss.link(需挂梯子访问） - needss云, server: i.needss.top, port: 20013, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id085 {name: ℹ️ 网址发布页：aa.needss1.top - needss云, server: i.needss.top, port: 20013, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id086 {name: '🇭🇰 [3x] 香港 IEPL专线NO1 - needss云', server: i.needss.top, port: 20013, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id087 {name: '🇭🇰 [3x] 香港 IEPL专线NO2 - needss云', server: i.needss.top, port: 20013, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id088 {name: '🇹🇼 [3x] 台湾 IEPL专线NO1 - needss云', server: i.needss.top, port: 52103, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id089 {name: '🇹🇼 [3x] 台湾 IEPL专线NO2 - needss云', server: i.needss.top, port: 52103, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id090 {name: '🇯🇵 [3x] 日本 IEPL专线NO1 - needss云', server: i.needss.top, port: 20017, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id091 {name: '🇯🇵 [3x] 日本 IEPL专线NO2 - needss云', server: i.needss.top, port: 20017, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id092 {name: '🇸🇬 [3x] 新加坡 IEPL专线NO1 - needss云', server: i.needss.top, port: 20015, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id093 {name: '🇸🇬 [3x] 新加坡 IEPL专线NO2 - needss云', server: i.needss.top, port: 20015, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id094 {name: '🇸🇬 [3x] 新加坡 IEPL专线NO3 - needss云', server: i.needss.top, port: 44412, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id095 {name: '🇸🇬 [3x] 新加坡 IEPL专线NO4 - needss云', server: i.needss.top, port: 44412, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id096 {name: '🇹🇭 [3x] 泰国 IEPL专线 NO1 - needss云', server: i.needss.top, port: 30028, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id097 {name: '🇹🇭 [3x] 泰国 IEPL专线 NO2 - needss云', server: i.needss.top, port: 30028, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id098 {name: '🇦🇷 [3x] 阿根廷 IEPL专线NO1 - needss云', server: i.needss.top, port: 20014, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id099 {name: '🇦🇷 [3x] 阿根廷 IEPL专线NO2 - needss云', server: i.needss.top, port: 20014, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id100 {name: '🇰🇷 [3x] 韩国 IEPL专线NO1 - needss云', server: i.needss.top, port: 20021, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id101 {name: '🇰🇷 [3x] 韩国 IEPL专线NO2 - needss云', server: i.needss.top, port: 20021, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id102 {name: '🇮🇳 [3x] 印度 IEPL专线NO1 - needss云', server: i.needss.top, port: 15442, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id103 {name: '🇮🇳 [3x] 印度 IEPL专线NO2 - needss云', server: i.needss.top, port: 15442, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id104 {name: '🇺🇸 [3x] 美国 IEPL专线NO1 - needss云', server: i.needss.top, port: 54770, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id105 {name: '🇺🇸 [3x] 美国 IEPL专线NO2 - needss云', server: i.needss.top, port: 54770, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id106 {name: '🇳🇴 [3x]  非洲 IEPL专线 NO1 - needss云', server: i.needss.top, port: 44410, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id107 {name: '🇳🇴 [3x]  非洲 IEPL专线 NO2 - needss云', server: i.needss.top, port: 44410, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id108 {name: '🇦🇺 [3x] 澳大利亚 IEPL专线NO1 - needss云', server: i.needss.top, port: 20011, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id109 {name: '🇦🇺 [3x] 澳大利亚 IEPL专线NO2 - needss云', server: i.needss.top, port: 20011, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id110 {name: '🇷🇺 [3x] 俄罗斯 IEPL专线NO1 - needss云', server: i.needss.top, port: 21111, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id111 {name: '🇷🇺 [3x] 俄罗斯 IEPL专线NO2 - needss云', server: i.needss.top, port: 21111, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id112 {name: '🇩🇪 [3x] 德国 IEPL专线NO1 - needss云', server: i.needss.top, port: 54787, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id113 {name: '🇩🇪 [3x] 德国 IEPL专线NO2 - needss云', server: i.needss.top, port: 54787, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id114 {name: '🇵🇹 [3x] 葡萄牙 IEPL专线NO1 - needss云', server: i.needss.top, port: 31001, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id115 {name: '🇵🇹 [3x] 葡萄牙 IEPL专线NO2 - needss云', server: i.needss.top, port: 31001, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id116 {name: '🇨🇦 [2x] 加拿大 IEPL专线 NO1 - needss云', server: i.needss.top, port: 45112, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id117 {name: '🇨🇦 [2x] 加拿大 IEPL专线 NO2 - needss云', server: i.needss.top, port: 45112, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id118 {name: '🇬🇧 [2x] 英国 IEPL专线NO1 - needss云', server: qd.needss.top, port: 54774, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id119 {name: '🇬🇧 [2x] 英国 IEPL专线NO2 - needss云', server: qd.needss.top, port: 54774, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id120 {name: '🇳🇱 [1x] 荷兰 IEPL专线NO1 - needss云', server: qd.needss.top, port: 20014, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id121 {name: '🇳🇱 [1x] 荷兰 IEPL专线NO2 - needss云', server: qd.needss.top, port: 20014, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id122 {name: '🇫🇷 [1x] 法国 CM 隧道NO1 - needss云', server: qd.needss.top, port: 52108, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id123 {name: '🇫🇷 [1x] 法国 CM 隧道NO2 - needss云', server: qd.needss.top, port: 52108, type: vmess, uuid: f0da4bfc-ea1c-4d7a-8a7f-dec7c468008d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id038 {name: ℹ️ 建议有事没事都更新订阅 - 菜鸟机场, server: cainiao212.top, port: 666, type: ss, cipher: chacha20-ietf-poly1305, password: d9fdb63b-d37c-4914-bd31-c6be39c9b974, udp: true}
+- &id039 {name: 🇭🇰 香港中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 43641, type: ss, cipher: chacha20-ietf-poly1305, password: d9fdb63b-d37c-4914-bd31-c6be39c9b974, udp: true}
+- &id040 {name: 🇭🇰 香港中转✈02 - 菜鸟机场, server: chiyu.myfczy169.top, port: 36858, type: ss, cipher: chacha20-ietf-poly1305, password: d9fdb63b-d37c-4914-bd31-c6be39c9b974, udp: true}
+- &id041 {name: 🇭🇰 香港中转✈03 - 菜鸟机场, server: chiyu.myfczy169.top, port: 14407, type: ss, cipher: chacha20-ietf-poly1305, password: d9fdb63b-d37c-4914-bd31-c6be39c9b974, udp: true}
+- &id042 {name: 🇭🇰 香港中转✈04 - 菜鸟机场, server: chiyu.myfczy169.top, port: 11618, type: ss, cipher: chacha20-ietf-poly1305, password: d9fdb63b-d37c-4914-bd31-c6be39c9b974, udp: true}
+- &id043 {name: 🇭🇰 香港中转✈05 - 菜鸟机场, server: chiyu.myfczy169.top, port: 20901, type: ss, cipher: chacha20-ietf-poly1305, password: d9fdb63b-d37c-4914-bd31-c6be39c9b974, udp: true}
+- &id044 {name: 🇹🇼 台湾中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 18841, type: ss, cipher: chacha20-ietf-poly1305, password: d9fdb63b-d37c-4914-bd31-c6be39c9b974, udp: true}
+- &id045 {name: 🇹🇼 台湾中转✈02 - 菜鸟机场, server: chiyu.myfczy169.top, port: 22297, type: ss, cipher: chacha20-ietf-poly1305, password: d9fdb63b-d37c-4914-bd31-c6be39c9b974, udp: true}
+- &id046 {name: 🇹🇼 台湾中转✈03 - 菜鸟机场, server: chiyu.myfczy169.top, port: 32525, type: ss, cipher: chacha20-ietf-poly1305, password: d9fdb63b-d37c-4914-bd31-c6be39c9b974, udp: true}
+- &id047 {name: 🇹🇼 台湾中转✈04 - 菜鸟机场, server: chiyu.myfczy169.top, port: 34915, type: ss, cipher: chacha20-ietf-poly1305, password: d9fdb63b-d37c-4914-bd31-c6be39c9b974, udp: true}
+- &id048 {name: 🇹🇼 台湾中转✈05 - 菜鸟机场, server: chiyu.myfczy169.top, port: 44454, type: ss, cipher: chacha20-ietf-poly1305, password: d9fdb63b-d37c-4914-bd31-c6be39c9b974, udp: true}
+- &id049 {name: 🇯🇵 日本中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 34701, type: ss, cipher: chacha20-ietf-poly1305, password: d9fdb63b-d37c-4914-bd31-c6be39c9b974, udp: true}
+- &id050 {name: 🇯🇵 日本中转✈02 - 菜鸟机场, server: chiyu.myfczy169.top, port: 38180, type: ss, cipher: chacha20-ietf-poly1305, password: d9fdb63b-d37c-4914-bd31-c6be39c9b974, udp: true}
+- &id051 {name: 🇯🇵 日本中转✈03 - 菜鸟机场, server: chiyu.myfczy169.top, port: 14087, type: ss, cipher: chacha20-ietf-poly1305, password: d9fdb63b-d37c-4914-bd31-c6be39c9b974, udp: true}
+- &id052 {name: 🇯🇵 日本中转✈04 - 菜鸟机场, server: chiyu.myfczy169.top, port: 20678, type: ss, cipher: chacha20-ietf-poly1305, password: d9fdb63b-d37c-4914-bd31-c6be39c9b974, udp: true}
+- &id053 {name: 🇯🇵 日本中转✈05 - 菜鸟机场, server: chiyu.myfczy169.top, port: 51578, type: ss, cipher: chacha20-ietf-poly1305, password: d9fdb63b-d37c-4914-bd31-c6be39c9b974, udp: true}
+- &id054 {name: 🇸🇬 新加坡中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 14362, type: ss, cipher: chacha20-ietf-poly1305, password: d9fdb63b-d37c-4914-bd31-c6be39c9b974, udp: true}
+- &id055 {name: 🇸🇬 新加坡中转✈02 - 菜鸟机场, server: chiyu.myfczy169.top, port: 21296, type: ss, cipher: chacha20-ietf-poly1305, password: d9fdb63b-d37c-4914-bd31-c6be39c9b974, udp: true}
+- &id056 {name: 🇸🇬 新加坡中转✈03 - 菜鸟机场, server: chiyu.myfczy169.top, port: 50691, type: ss, cipher: chacha20-ietf-poly1305, password: d9fdb63b-d37c-4914-bd31-c6be39c9b974, udp: true}
+- &id057 {name: 🇺🇸 美国中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 53473, type: ss, cipher: chacha20-ietf-poly1305, password: d9fdb63b-d37c-4914-bd31-c6be39c9b974, udp: true}
+- &id058 {name: 🇺🇸 美国中转✈02 - 菜鸟机场, server: chiyu.myfczy169.top, port: 54501, type: ss, cipher: chacha20-ietf-poly1305, password: d9fdb63b-d37c-4914-bd31-c6be39c9b974, udp: true}
+- &id059 {name: 🇺🇸 美国中转✈03 - 菜鸟机场, server: chiyu.myfczy169.top, port: 53473, type: ss, cipher: chacha20-ietf-poly1305, password: d9fdb63b-d37c-4914-bd31-c6be39c9b974, udp: true}
+- &id060 {name: 🇬🇧 英国中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 59863, type: ss, cipher: chacha20-ietf-poly1305, password: d9fdb63b-d37c-4914-bd31-c6be39c9b974, udp: true}
+- &id061 {name: 🇬🇧 英国中转✈02 - 菜鸟机场, server: chiyu.myfczy169.top, port: 30518, type: ss, cipher: chacha20-ietf-poly1305, password: d9fdb63b-d37c-4914-bd31-c6be39c9b974, udp: true}
+- &id062 {name: 🇬🇧 英国中转✈03 - 菜鸟机场, server: chiyu.myfczy169.top, port: 22771, type: ss, cipher: chacha20-ietf-poly1305, password: d9fdb63b-d37c-4914-bd31-c6be39c9b974, udp: true}
+- &id063 {name: 🇸🇪 瑞典中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 22539, type: ss, cipher: chacha20-ietf-poly1305, password: d9fdb63b-d37c-4914-bd31-c6be39c9b974, udp: true}
+- &id064 {name: 🇻🇳 越南中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 21071, type: ss, cipher: chacha20-ietf-poly1305, password: d9fdb63b-d37c-4914-bd31-c6be39c9b974, udp: true}
+- &id065 {name: 🇹🇭 泰国中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 20289, type: ss, cipher: chacha20-ietf-poly1305, password: d9fdb63b-d37c-4914-bd31-c6be39c9b974, udp: true}
+- &id066 {name: 🇮🇳 印度中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 21061, type: ss, cipher: chacha20-ietf-poly1305, password: d9fdb63b-d37c-4914-bd31-c6be39c9b974, udp: true}
+- &id067 {name: 🇩🇪 德国中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 21098, type: ss, cipher: chacha20-ietf-poly1305, password: d9fdb63b-d37c-4914-bd31-c6be39c9b974, udp: true}
+- &id068 {name: 🇧🇷 巴西中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 20936, type: ss, cipher: chacha20-ietf-poly1305, password: d9fdb63b-d37c-4914-bd31-c6be39c9b974, udp: true}
+- &id069 {name: 🇹🇷 土耳其中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 21048, type: ss, cipher: chacha20-ietf-poly1305, password: d9fdb63b-d37c-4914-bd31-c6be39c9b974, udp: true}
+- &id070 {name: 🇦🇪 阿联酋中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 21059, type: ss, cipher: chacha20-ietf-poly1305, password: d9fdb63b-d37c-4914-bd31-c6be39c9b974, udp: true}
+- &id071 {name: 🇲🇾 马来西亚中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 20119, type: ss, cipher: chacha20-ietf-poly1305, password: d9fdb63b-d37c-4914-bd31-c6be39c9b974, udp: true}
+- &id072 {name: 🇰🇿 哈萨克斯坦中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 21081, type: ss, cipher: chacha20-ietf-poly1305, password: d9fdb63b-d37c-4914-bd31-c6be39c9b974, udp: true}
+- &id073 {name: ♡⃝♡⃝♡⃝♡⃝♡⃝ ◡̈下方为备用节点 - 菜鸟机场, server: 666.com, port: 777, type: ss, cipher: chacha20-ietf-poly1305, password: d9fdb63b-d37c-4914-bd31-c6be39c9b974, udp: true}
+- {name: 🇭🇰 香港-01|Trojan| ×1【V2】 - 滑稽场, server: guangzhou_v2v.huajiccloud.us, port: 20062, type: trojan, password: 66671f81-2f39-3c60-8d12-73eb3cae9653, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港-01|V2RAY| ×1【V2】 - 滑稽场, server: guangzhou_v2v.huajiccloud.us, port: 20060, type: vmess, uuid: 66671f81-2f39-3c60-8d12-73eb3cae9653, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk1.huajic.com, udp: true}
+- {name: 🇭🇰 香港-05|Trojan| ×1【V2】 - 滑稽场, server: guangzhou_v2v.huajiccloud.us, port: 20025, type: trojan, password: 66671f81-2f39-3c60-8d12-73eb3cae9653, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港-05|V2RAY| ×1【V2】 - 滑稽场, server: guangzhou_v2v.huajiccloud.us, port: 20026, type: vmess, uuid: 66671f81-2f39-3c60-8d12-73eb3cae9653, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk5.huajic.icu, udp: true}
+- {name: 🇸🇬 新加坡-01|Trojan| ×1【V2】 - 滑稽场, server: guangzhou_v2v.huajiccloud.us, port: 20027, type: trojan, password: 66671f81-2f39-3c60-8d12-73eb3cae9653, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡-01|V2RAY| ×1【V2】 - 滑稽场, server: guangzhou_v2v.huajiccloud.us, port: 20028, type: vmess, uuid: 66671f81-2f39-3c60-8d12-73eb3cae9653, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sgp.huajic.icu, udp: true}
+- {name: 🇯🇵 日本-03|Trojan| ×1【V2】 - 滑稽场, server: jp3sdd.huajiccloud.us, port: 20070, type: trojan, password: 66671f81-2f39-3c60-8d12-73eb3cae9653, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-03|V2RAY| ×1【V2】 - 滑稽场, server: jp3sdd.huajiccloud.us, port: 20071, type: vmess, uuid: 66671f81-2f39-3c60-8d12-73eb3cae9653, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度-01|Trojan| ×1【V2】 - 滑稽场, server: indsd1.huajiccloud.us, port: 20021, type: trojan, password: 66671f81-2f39-3c60-8d12-73eb3cae9653, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度-01|V2RAY| ×1【V2】 - 滑稽场, server: indsd1.huajiccloud.us, port: 20022, type: vmess, uuid: 66671f81-2f39-3c60-8d12-73eb3cae9653, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇳🇬 尼日利亚-01|V2ray| ×1【V2】 - 滑稽场, server: khsd.huajiccloud.us, port: 57753, type: vmess, uuid: 66671f81-2f39-3c60-8d12-73eb3cae9653, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-02|Trojan| ×1.5【V2】 - 滑稽场, server: ussd2.huajiccloud.us, port: 28387, type: trojan, password: 66671f81-2f39-3c60-8d12-73eb3cae9653, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-05|Trojan| ×1【V2】 - 滑稽场, server: us5sd.huajiccloud.us, port: 37229, type: trojan, password: 66671f81-2f39-3c60-8d12-73eb3cae9653, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-05|V2RAY| ×1【V2】 - 滑稽场, server: us5sd.huajiccloud.us, port: 14381, type: vmess, uuid: 66671f81-2f39-3c60-8d12-73eb3cae9653, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us05.huajic.icu, udp: true}
+- {name: 🇳🇱 荷兰-01|Trojan| ×1【V2】 - 滑稽场, server: nl1sd1.huajiccloud.us, port: 20069, type: trojan, password: 66671f81-2f39-3c60-8d12-73eb3cae9653, skip-cert-verify: true, udp: true}
+- {name: 🇳🇱 荷兰-01|V2RAY| ×1【V2】 - 滑稽场, server: nl1sd1.huajiccloud.us, port: 20065, type: vmess, uuid: 66671f81-2f39-3c60-8d12-73eb3cae9653, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 越南-01|Trojan| ×1.5【V2】 - 滑稽场, server: vn1sd.huajiccloud.us, port: 20026, type: trojan, password: 66671f81-2f39-3c60-8d12-73eb3cae9653, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 越南-01|V2RAY| ×1.5【V2】 - 滑稽场, server: vn1sd.huajiccloud.us, port: 20035, type: vmess, uuid: 66671f81-2f39-3c60-8d12-73eb3cae9653, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国-三网优化2 - 青云互联网-, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: cbd398b8-fed3-40ae-ac12-7dfc844c3e74, sni: kr-qingyun.dwyun.me, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港节点1 - 老牛云, server: 183.232.159.51, port: 45107, type: ss, cipher: chacha20-ietf-poly1305, password: a5d4cba6-c471-4154-9ec5-c678d64b044e, udp: true}
+- {name: 🇭🇰 香港节点2 - 老牛云, server: 183.232.159.51, port: 39551, type: ss, cipher: chacha20-ietf-poly1305, password: a5d4cba6-c471-4154-9ec5-c678d64b044e, udp: true}
+- {name: 🇭🇰 香港节点3 - 老牛云, server: 183.232.159.51, port: 11308, type: ss, cipher: chacha20-ietf-poly1305, password: a5d4cba6-c471-4154-9ec5-c678d64b044e, udp: true}
+- {name: 🇭🇰 香港节点4 - 老牛云, server: 183.232.159.51, port: 47621, type: ss, cipher: chacha20-ietf-poly1305, password: a5d4cba6-c471-4154-9ec5-c678d64b044e, udp: true}
+- {name: 🇰🇷 韩国1 - 老牛云, server: 183.232.159.51, port: 55518, type: ss, cipher: chacha20-ietf-poly1305, password: a5d4cba6-c471-4154-9ec5-c678d64b044e, udp: true}
+- {name: 🇰🇷 韩国2 - 老牛云, server: 183.232.159.51, port: 23707, type: ss, cipher: chacha20-ietf-poly1305, password: a5d4cba6-c471-4154-9ec5-c678d64b044e, udp: true}
+- {name: 🇹🇼 台湾节点1 - 老牛云, server: 183.232.159.51, port: 55971, type: ss, cipher: chacha20-ietf-poly1305, password: a5d4cba6-c471-4154-9ec5-c678d64b044e, udp: true}
+- {name: 🇹🇼 台湾节点2 - 老牛云, server: 183.232.159.51, port: 15132, type: ss, cipher: chacha20-ietf-poly1305, password: a5d4cba6-c471-4154-9ec5-c678d64b044e, udp: true}
+- {name: 🇹🇼 台湾节点3 - 老牛云, server: 183.232.159.51, port: 34401, type: ss, cipher: chacha20-ietf-poly1305, password: a5d4cba6-c471-4154-9ec5-c678d64b044e, udp: true}
+- {name: 🇹🇼 台湾节点4 - 老牛云, server: 183.232.159.51, port: 58246, type: ss, cipher: chacha20-ietf-poly1305, password: a5d4cba6-c471-4154-9ec5-c678d64b044e, udp: true}
+- {name: 🇬🇧 英国节点1 - 老牛云, server: 183.232.159.51, port: 59193, type: ss, cipher: chacha20-ietf-poly1305, password: a5d4cba6-c471-4154-9ec5-c678d64b044e, udp: true}
+- {name: 🇬🇧 英国节点2 - 老牛云, server: 183.232.159.51, port: 55446, type: ss, cipher: chacha20-ietf-poly1305, password: a5d4cba6-c471-4154-9ec5-c678d64b044e, udp: true}
+- {name: 🇸🇬 新加坡节点1 - 老牛云, server: 183.232.159.51, port: 49392, type: ss, cipher: chacha20-ietf-poly1305, password: a5d4cba6-c471-4154-9ec5-c678d64b044e, udp: true}
+- {name: 🇸🇬 新加坡节点2 - 老牛云, server: 183.232.159.51, port: 53062, type: ss, cipher: chacha20-ietf-poly1305, password: a5d4cba6-c471-4154-9ec5-c678d64b044e, udp: true}
+- {name: 🇯🇵 日本节点1 - 老牛云, server: 183.232.159.51, port: 33238, type: ss, cipher: chacha20-ietf-poly1305, password: a5d4cba6-c471-4154-9ec5-c678d64b044e, udp: true}
+- {name: 🇯🇵 日本节点2 - 老牛云, server: 183.232.159.51, port: 26714, type: ss, cipher: chacha20-ietf-poly1305, password: a5d4cba6-c471-4154-9ec5-c678d64b044e, udp: true}
+- {name: 🇯🇵 日本节点3 - 老牛云, server: 183.232.159.51, port: 41886, type: ss, cipher: chacha20-ietf-poly1305, password: a5d4cba6-c471-4154-9ec5-c678d64b044e, udp: true}
+- {name: 🇯🇵 日本节点4 - 老牛云, server: 183.232.159.51, port: 22064, type: ss, cipher: chacha20-ietf-poly1305, password: a5d4cba6-c471-4154-9ec5-c678d64b044e, udp: true}
+- {name: 🇺🇸 美国节点1 - 老牛云, server: 183.232.159.51, port: 11329, type: ss, cipher: chacha20-ietf-poly1305, password: a5d4cba6-c471-4154-9ec5-c678d64b044e, udp: true}
+- {name: 🇺🇸 美国节点2 - 老牛云, server: 183.232.159.51, port: 47046, type: ss, cipher: chacha20-ietf-poly1305, password: a5d4cba6-c471-4154-9ec5-c678d64b044e, udp: true}
+- {name: 🇺🇸 美国节点3 - 老牛云, server: 183.232.159.51, port: 37959, type: ss, cipher: chacha20-ietf-poly1305, password: a5d4cba6-c471-4154-9ec5-c678d64b044e, udp: true}
+- {name: 🇺🇸 美国节点4 - 老牛云, server: 183.232.159.51, port: 19505, type: ss, cipher: chacha20-ietf-poly1305, password: a5d4cba6-c471-4154-9ec5-c678d64b044e, udp: true}
+- {name: 🇻🇳 越南1 - 老牛云, server: 183.232.159.51, port: 44595, type: ss, cipher: chacha20-ietf-poly1305, password: a5d4cba6-c471-4154-9ec5-c678d64b044e, udp: true}
+- {name: 🇻🇳 越南2 - 老牛云, server: 183.232.159.51, port: 35071, type: ss, cipher: chacha20-ietf-poly1305, password: a5d4cba6-c471-4154-9ec5-c678d64b044e, udp: true}
+- &id081 {name: 🇭🇰 香港宇宙量子专线 2x - 廉价机场, server: lz.lianjianode.cc, port: 25000, type: ss, cipher: aes-128-gcm, password: 266395c2-a825-49f9-8905-589708a5cd4a, udp: true}
+- &id082 {name: 🇭🇰 香港BGP 三网直连1x - 廉价机场, server: f1e7856258425a2c241754a18f4e88ae.node.tro.node-is.green, port: 42689, type: trojan, password: 266395c2-a825-49f9-8905-589708a5cd4a, sni: live.douyin.com, skip-cert-verify: true, udp: true}
+- &id083 {name: 🇺🇸 美国BGP 中转 01 1.5x - 廉价机场, server: faf962accc14eb4379cd7803e3a0bbd1.node.tro.node-is.green, port: 42013, type: trojan, password: 266395c2-a825-49f9-8905-589708a5cd4a, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
+- &id084 {name: 🇺🇸 美国BGP 中转 02 1.5x - 廉价机场, server: 87e2a9e15968b974de7b841638afce6a.node.tro.node-is.green, port: 49342, type: trojan, password: 266395c2-a825-49f9-8905-589708a5cd4a, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
+- &id085 {name: 🇺🇸 美国BGP 中转 03 1.5x - 廉价机场, server: 9da05da8401674187543f597027e8778.node.tro.node-is.green, port: 42900, type: trojan, password: 266395c2-a825-49f9-8905-589708a5cd4a, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
+- &id086 {name: 🇺🇸 美国BGP 中转 04 1.5x - 廉价机场, server: 123252bc2b962a9901fcedade12ac623.node.tro.node-is.green, port: 47008, type: trojan, password: 266395c2-a825-49f9-8905-589708a5cd4a, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
+- &id087 {name: 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场, server: 7aa8c1ef78c43f5b702977c88707cc5b.node.tro.node-is.green, port: 46523, type: trojan, password: 266395c2-a825-49f9-8905-589708a5cd4a, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
+- &id088 {name: 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场, server: c1e4e1598321032d3bc08c29671f7ab0.node.tro.node-is.green, port: 44193, type: trojan, password: 266395c2-a825-49f9-8905-589708a5cd4a, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
+- &id089 {name: 🇯🇵 日本BGP 中转 01 1.5x - 廉价机场, server: db4f8e8cf207b9746689116548bd4e8c.node.tro.node-is.green, port: 46605, type: trojan, password: 266395c2-a825-49f9-8905-589708a5cd4a, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
+- &id090 {name: 🇯🇵 日本BGP 中转 02 1.5x - 廉价机场, server: f8844531bec687bf664626af4df94666.node.tro.node-is.green, port: 40979, type: trojan, password: 266395c2-a825-49f9-8905-589708a5cd4a, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
+- &id091 {name: 🇸🇬 新加坡BGP 中转 01 1.5x - 廉价机场, server: c08bc52ec6019aaf44496a1912fbec8d.node.tro.node-is.green, port: 42167, type: trojan, password: 266395c2-a825-49f9-8905-589708a5cd4a, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
+- &id092 {name: 🇸🇬 新加坡BGP 中转 02 1.5x - 廉价机场, server: 74b1d577e88775f0090ca251b1867551.node.tro.node-is.green, port: 44864, type: trojan, password: 266395c2-a825-49f9-8905-589708a5cd4a, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
+- &id093 {name: 🇭🇰香港BGP 中转 01 1.5x - 廉价机场, server: 97e7f76204849a9e4dde3d133ea367b1.node.tro.node-is.green, port: 42574, type: trojan, password: 266395c2-a825-49f9-8905-589708a5cd4a, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
+- &id094 {name: 🇭🇰香港BGP 中转 02 1.5x - 廉价机场, server: 839eca5893acadd532a91e214143be84.node.tro.node-is.green, port: 42861, type: trojan, password: 266395c2-a825-49f9-8905-589708a5cd4a, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
+- &id095 {name: 🇭🇰香港BGP 中转 03 1.5x - 廉价机场, server: 3691eb36b7797e6219fb54aea313e32d.node.tro.node-is.green, port: 49718, type: trojan, password: 266395c2-a825-49f9-8905-589708a5cd4a, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
+- &id096 {name: 🇭🇰香港BGP 中转 04 1.5x - 廉价机场, server: a60099ef82e6ee5ccff1cc64d2698ce9.node.tro.node-is.green, port: 42206, type: trojan, password: 266395c2-a825-49f9-8905-589708a5cd4a, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
 - *id038
 - *id039
 - *id040
@@ -326,12 +202,6 @@ proxies:
 - *id042
 - *id043
 - *id044
-- {name: ℹ️ 续费网址:mgxiaowu.net - meiguis, server: www.google.com, port: 1, type: ss, cipher: chacha20-ietf-poly1305, password: e11a1af9-8663-4cc5-8438-c4e92c5444ef, udp: true}
-- {name: 🇭🇰 香港01 - meiguis, server: pu001.xccccao.com, port: 38601, type: ss, cipher: chacha20-ietf-poly1305, password: e11a1af9-8663-4cc5-8438-c4e92c5444ef, udp: true}
-- {name: 🇹🇼 台湾01 - meiguis, server: pu002.xccccao.com, port: 38602, type: ss, cipher: chacha20-ietf-poly1305, password: e11a1af9-8663-4cc5-8438-c4e92c5444ef, udp: true}
-- {name: 🇸🇬 新加坡01 - meiguis, server: pu003.xccccao.com, port: 38603, type: ss, cipher: chacha20-ietf-poly1305, password: e11a1af9-8663-4cc5-8438-c4e92c5444ef, udp: true}
-- {name: 🇺🇸 美国01 - meiguis, server: pu003.xccccao.com, port: 38604, type: ss, cipher: chacha20-ietf-poly1305, password: e11a1af9-8663-4cc5-8438-c4e92c5444ef, udp: true}
-- {name: 🇯🇵 日本01 - meiguis, server: pu002.xccccao.com, port: 38605, type: ss, cipher: chacha20-ietf-poly1305, password: e11a1af9-8663-4cc5-8438-c4e92c5444ef, udp: true}
 - *id045
 - *id046
 - *id047
@@ -361,6 +231,37 @@ proxies:
 - *id071
 - *id072
 - *id073
+- {name: ℹ️ 永久官网:www.猫云.net - 猫云, server: 8.8.8.8, port: 10086, type: ss, cipher: chacha20-ietf-poly1305, password: 6o8TSHofdt5Md6g2, udp: true}
+- &id099 {name: 🇸🇬 新加坡-01 - 畅游无限, server: 54.169.206.77, port: 8443, type: vmess, uuid: 34f31905-79d2-42ac-bef0-d1ee1ad62998, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- &id100 {name: 🇸🇬 新加坡-02 - 畅游无限, server: 52.77.251.119, port: 8443, type: vmess, uuid: 34f31905-79d2-42ac-bef0-d1ee1ad62998, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- &id101 {name: 🇸🇬 新加坡-03 - 畅游无限, server: 13.212.23.203, port: 8443, type: vmess, uuid: 34f31905-79d2-42ac-bef0-d1ee1ad62998, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- &id102 {name: 🇸🇬 新加坡-04 - 畅游无限, server: 18.143.146.102, port: 8443, type: vmess, uuid: 34f31905-79d2-42ac-bef0-d1ee1ad62998, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- &id103 {name: 🇸🇬 新加坡-05 - 畅游无限, server: 47.129.117.250, port: 8443, type: vmess, uuid: 34f31905-79d2-42ac-bef0-d1ee1ad62998, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- &id104 {name: 🇸🇬 新加坡-06 - 畅游无限, server: 47.129.191.1, port: 8443, type: vmess, uuid: 34f31905-79d2-42ac-bef0-d1ee1ad62998, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- &id105 {name: 🇰🇷 韩国-01 - 畅游无限, server: 54.180.148.244, port: 8443, type: vmess, uuid: 34f31905-79d2-42ac-bef0-d1ee1ad62998, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- &id106 {name: 🇰🇷 韩国-02 - 畅游无限, server: 43.201.82.41, port: 8443, type: vmess, uuid: 34f31905-79d2-42ac-bef0-d1ee1ad62998, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- &id107 {name: 🇯🇵 日本-01 - 畅游无限, server: 52.195.183.36, port: 8443, type: vmess, uuid: 34f31905-79d2-42ac-bef0-d1ee1ad62998, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- &id108 {name: 🇯🇵 日本-02 - 畅游无限, server: 13.231.243.90, port: 8443, type: vmess, uuid: 34f31905-79d2-42ac-bef0-d1ee1ad62998, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- &id109 {name: 🇺🇸 美国-01 - 畅游无限, server: 98.81.209.243, port: 8443, type: vmess, uuid: 34f31905-79d2-42ac-bef0-d1ee1ad62998, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- &id110 {name: 🇺🇸 美国-02 - 畅游无限, server: 54.234.200.220, port: 8443, type: vmess, uuid: 34f31905-79d2-42ac-bef0-d1ee1ad62998, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- {name: 🇭🇰 江苏-香港隧道专线-1 - 叼毛机场, server: tunnel-08301515.520300.xyz, port: 10608, type: ss, cipher: chacha20-ietf-poly1305, password: c9ac717b-5ac5-4322-9652-a519b19e3c99, udp: true}
+- {name: 🇭🇰 广东-香港隧道专线-1 - 叼毛机场, server: tunnel-07312159.520300.xyz, port: 12588, type: ss, cipher: chacha20-ietf-poly1305, password: c9ac717b-5ac5-4322-9652-a519b19e3c99, udp: true}
+- {name: 🇯🇵 日本专线超快-15倍率慎用 - 叼毛机场, server: shjp1-08051751.520300.xyz, port: 42472, type: ss, cipher: chacha20-ietf-poly1305, password: c9ac717b-5ac5-4322-9652-a519b19e3c99, udp: true}
+- {name: ℹ️ 新地址www.xiangminghao.top - 叼毛机场, server: tunnel-08301515.520300.xyz, port: 11410, type: ss, cipher: chacha20-ietf-poly1305, password: c9ac717b-5ac5-4322-9652-a519b19e3c99, udp: true}
+- {name: 缅北 - 叼毛机场, server: 156.244.36.109, port: 59830, type: vmess, uuid: c9ac717b-5ac5-4322-9652-a519b19e3c99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇸🇬 新加坡-2 - 叼毛机场, server: 103.23.148.195, port: 59920, type: vmess, uuid: c9ac717b-5ac5-4322-9652-a519b19e3c99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇭🇰 香港-1 - 叼毛机场, server: 103.23.148.195, port: 54680, type: vmess, uuid: c9ac717b-5ac5-4322-9652-a519b19e3c99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇭🇰 香港-2 - 叼毛机场, server: 103.23.148.195, port: 52288, type: vmess, uuid: c9ac717b-5ac5-4322-9652-a519b19e3c99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇬🇧 英国-1 - 叼毛机场, server: 194.147.16.95, port: 57781, type: vmess, uuid: c9ac717b-5ac5-4322-9652-a519b19e3c99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇬🇧 英国-2 - 叼毛机场, server: 194.147.16.95, port: 57782, type: vmess, uuid: c9ac717b-5ac5-4322-9652-a519b19e3c99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: ℹ️ 官网地址www.kkjichang.top - 叼毛机场, server: 103.23.148.195, port: 59932, type: vmess, uuid: c9ac717b-5ac5-4322-9652-a519b19e3c99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id074 {name: 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s1.cn-db.top, port: 2052, type: vmess, uuid: 40c92e52-1cbf-33f1-8dc9-7806ee1b1d9f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.117.27, headers: {Host: 100-139-122-178.s1.cn-db.top}}, udp: true}
+- &id075 {name: 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s3.cn-db.top, port: 2095, type: vmess, uuid: 40c92e52-1cbf-33f1-8dc9-7806ee1b1d9f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.16.65.30, headers: {Host: 100-123-173-67.s3.cn-db.top}}, udp: true}
+- &id076 {name: 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s3.cn-db.top, port: 2052, type: vmess, uuid: 40c92e52-1cbf-33f1-8dc9-7806ee1b1d9f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.54.184, headers: {Host: 100-187-254-54.s3.cn-db.top}}, udp: true}
+- &id077 {name: 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s2.db-link01.top, port: 8080, type: vmess, uuid: 40c92e52-1cbf-33f1-8dc9-7806ee1b1d9f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.25.57.120, headers: {Host: 100-85-248-63.s2.db-link01.top}}, udp: true}
+- &id078 {name: 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s3.cn-db.top, port: 8880, type: vmess, uuid: 40c92e52-1cbf-33f1-8dc9-7806ee1b1d9f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.17.107.5, headers: {Host: 100-36-55-60.s3.cn-db.top}}, udp: true}
+- &id079 {name: '🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s4.db-link02.top, port: 2086, type: vmess, uuid: 40c92e52-1cbf-33f1-8dc9-7806ee1b1d9f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.20.67.190, headers: {Host: 100-253-192-83.s4.db-link02.top}}, udp: true}
+- &id080 {name: 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s1.db-link02.top, port: 2052, type: vmess, uuid: 40c92e52-1cbf-33f1-8dc9-7806ee1b1d9f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.16.189.67, headers: {Host: 100-229-33-242.s1.db-link02.top}}, udp: true}
 - *id074
 - *id075
 - *id076
@@ -368,44 +269,67 @@ proxies:
 - *id078
 - *id079
 - *id080
+- {name: 🇭🇰 香港-合租车测速 - 草榴加速器, server: 120.233.24.241, port: 35690, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}
+- {name: 🇭🇰 OBS宁波-香港-hy - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 58629, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}
+- {name: 🇭🇰 OBS宁波-香港 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 48435, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}
+- {name: 🇭🇰 OBS宁波-香港1 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 21253, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}
+- {name: 🇭🇰 OBS宁波-香港2 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 48435, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}
+- {name: 🇭🇰 OBS江苏-香港aws - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 32181, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}
+- {name: 🇭🇰 OBS江苏-香港gcp - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 14709, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}
+- {name: 🇸🇬 新加坡已做禁ping处理 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 40185, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}
+- {name: 🇸🇬 新加坡显示timeout也正常使用 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 10716, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}
+- {name: 🇸🇬 新加坡01 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 14098, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}
+- {name: 🇺🇸 美国-无视晚高峰 - 草榴加速器, server: jehw72eh.97kb.com, port: 30976, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}
+- {name: 🇺🇸 美国-无视晚高峰2 - 草榴加速器, server: jehw72eh.97kb.com, port: 46273, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}
+- {name: 🇺🇸 美国-无视晚高峰3 - 草榴加速器, server: gjsc482gjdce.gym0boy.com, port: 39251, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}
+- {name: 🇺🇸 美国二区|中转1 - 草榴加速器, server: gjsc482gjdce.gym0boy.com, port: 40682, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}
+- {name: 🇸🇬 新加坡B|宁波中转01 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 30494, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}
+- {name: 🇸🇬 新加坡B|湖南中转02 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 36485, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}
+- {name: 🇸🇬 新加坡B|湖南中转03 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 11493, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}
+- {name: 🇸🇬 新加坡B|湖南中转04 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 40185, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}
+- {name: 🇯🇵 日本A区|宁波中转01 - 草榴加速器, server: bbs.sadomasochismclub.site, port: 33917, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}
+- {name: 🇯🇵 日本A区|宁波中转02 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 28471, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}
+- {name: 🇯🇵 日本A区|宁波中转03 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 34804, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}
+- {name: 🇯🇵 日本B区|宁波中转02 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 44591, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}
+- {name: 🇯🇵 日本B区|宁波中转03 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 25939, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}
+- {name: 🇯🇵 日本VIP区|宁波中转01 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 37612, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}
+- {name: 🇯🇵 日本VIP区|宁波中转02 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 28365, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}
+- {name: 🇯🇵 日本VIP区|宁波中转03 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 39098, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}
+- {name: 🇸🇬 新加坡高速|青岛中转01 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 42345, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}
 - *id081
 - *id082
-- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 31b2a810-3f30-335e-96fc-411c703dbc69, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
-- {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 31b2a810-3f30-335e-96fc-411c703dbc69, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
-- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 31b2a810-3f30-335e-96fc-411c703dbc69, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
-- {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: 31b2a810-3f30-335e-96fc-411c703dbc69, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.mamamajd.site}}, udp: true}
-- {name: '🇩🇪 [vip①]德国2 - MG Network', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: 31b2a810-3f30-335e-96fc-411c703dbc69, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 18.mamamajd.site}}, udp: true}
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 31b2a810-3f30-335e-96fc-411c703dbc69, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.mamamajd.site}}, udp: true}
-- {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 31b2a810-3f30-335e-96fc-411c703dbc69, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
-- {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: 31b2a810-3f30-335e-96fc-411c703dbc69, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 5.mamamajd.site}}, udp: true}
-- {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: 31b2a810-3f30-335e-96fc-411c703dbc69, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 13.mamamajd.site}}, udp: true}
-- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: 31b2a810-3f30-335e-96fc-411c703dbc69, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.mamamajd.site}}, udp: true}
-- {name: '🇺🇸 美国[01] - Heima', server: 107.149.238.99, port: 658, type: trojan, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, skip-cert-verify: true, udp: true}
-- {name: '🇰🇷 韩国[01] - Heima', server: pop.ff34894a-296c-446f-af39-20b90947f3a7.heima360.cc, port: 443, type: trojan, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, skip-cert-verify: true, udp: true}
-- {name: '🇫🇷 法国[01] - Heima', server: pop.b1c7d2ec-e636-4521-a9f7-abb10044e3a5.heima360.cc, port: 443, type: trojan, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, skip-cert-verify: true, udp: true}
-- {name: '🇺🇸 美国[02]中转 - Heima', server: vip.baima360.com, port: 30104, type: ss, cipher: chacha20-ietf-poly1305, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, udp: true}
-- {name: '🇺🇸 美国[03]中转 - Heima', server: vip.baima360.com, port: 17941, type: ss, cipher: chacha20-ietf-poly1305, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, udp: true}
-- {name: '🇺🇸 美国[04] - Heima', server: 45.83.140.22, port: 658, type: trojan, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 香港[01] - Heima', server: 107.149.254.26, port: 158, type: trojan, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 香港[06] - Heima', server: 107.149.254.26, port: 159, type: trojan, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 香港[04]中转 - Heima', server: vip.baima360.com, port: 65519, type: ss, cipher: chacha20-ietf-poly1305, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, udp: true}
-- {name: '🇭🇰 香港[05]中转 - Heima', server: vip.baima360.com, port: 36511, type: ss, cipher: chacha20-ietf-poly1305, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, udp: true}
-- {name: '🇭🇰 香港[07]中转 - Heima', server: vip.baima360.com, port: 36214, type: ss, cipher: chacha20-ietf-poly1305, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, udp: true}
-- {name: '🇹🇼 台湾[01]中转 - Heima', server: vip.baima360.com, port: 41004, type: ss, cipher: chacha20-ietf-poly1305, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, udp: true}
-- {name: '🇯🇵 日本[01] - Heima', server: vip.baima360.com, port: 15888, type: ss, cipher: chacha20-ietf-poly1305, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, udp: true}
-- {name: '🇲🇾 马来西亚[03] - Heima', server: pop.b948e846-1f05-4fca-8784-e7f30bb512c3.heima360.cc, port: 443, type: trojan, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, skip-cert-verify: true, udp: true}
-- {name: '🇦🇺 澳大利亚[01] - Heima', server: pop.25cbab93-4c08-4a3c-8521-3f3d8c4b36ae.heima360.cc, port: 443, type: trojan, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, skip-cert-verify: true, udp: true}
-- {name: '🇮🇳 印度[01] - Heima', server: pop.6801ae4e-545d-471e-8de5-413dc61b505b.heima360.cc, port: 443, type: trojan, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, skip-cert-verify: true, udp: true}
-- {name: '🇹🇭 泰国[01] - Heima', server: pop.60b974d4-36bc-4a18-aa81-9afdce389bb7.heima360.cc, port: 443, type: trojan, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 新加坡[02] - Heima', server: pop.09d21837-9b89-4490-92bf-eabf449e3321.heima360.cc, port: 443, type: trojan, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, skip-cert-verify: true, udp: true}
-- {name: '🇻🇳 越南[01] - Heima', server: pop.0f6fb14f-a1b9-47bd-ab24-5ade31ba8f4c.heima360.cc, port: 443, type: trojan, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, skip-cert-verify: true, udp: true}
-- {name: '🇩🇪 德国[01]中转 - Heima', server: vip.baima360.com, port: 55997, type: ss, cipher: chacha20-ietf-poly1305, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, udp: true}
-- {name: '🇨🇦 加拿大[01]中转 - Heima', server: vip.baima360.com, port: 29292, type: ss, cipher: chacha20-ietf-poly1305, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, udp: true}
-- {name: '🇬🇧 英国[01]中转 - Heima', server: vip.baima360.com, port: 10683, type: ss, cipher: chacha20-ietf-poly1305, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, udp: true}
-- {name: '🇧🇷 巴西[01]中转 - Heima', server: vip.baima360.com, port: 30752, type: ss, cipher: chacha20-ietf-poly1305, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, udp: true}
-- {name: '🇷🇺 俄罗斯[01]中转 - Heima', server: vip.baima360.com, port: 23499, type: ss, cipher: chacha20-ietf-poly1305, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, udp: true}
-- {name: '🇲🇾 马来西亚[01] - Heima', server: 103.75.189.152, port: 100, type: trojan, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, skip-cert-verify: true, udp: true}
-- {name: '🇲🇾 马来西亚[02] - Heima', server: 103.75.188.189, port: 101, type: trojan, password: ea485df4-d31a-4130-a86d-e3e5b928ae21, skip-cert-verify: true, udp: true}
+- *id083
+- *id084
+- *id085
+- *id086
+- *id087
+- *id088
+- *id089
+- *id090
+- *id091
+- *id092
+- *id093
+- *id094
+- *id095
+- *id096
+- &id111 {name: 🇦🇿 最新节点支持Hysteria2协议，请到官网下载最新客户端（最新官网az.170203.xyz） - AZ云, server: twjpzznew.564659.xyz, port: 19667, type: trojan, password: 566dea3b-69f8-456b-beeb-98891beb3101, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}
+- &id112 {name: 🇸🇬 新加坡01直连快 - AZ云, server: 3azyunsg010cd7ab88-c8f3-4479-b81c-b0a516044b29.564659.xyz, port: 805, type: trojan, password: 566dea3b-69f8-456b-beeb-98891beb3101, sni: 3azyunsg010cd7ab88-c8f3-4479-b81c-b0a516044b29.564659.xyz, skip-cert-verify: true, udp: true}
+- &id113 {name: 🇹🇼 台湾01直连 - AZ云, server: 2gzdx21.233235.xyz, port: 8909, type: trojan, password: 566dea3b-69f8-456b-beeb-98891beb3101, sni: 2gzdx21.233235.xyz, skip-cert-verify: true, udp: true}
+- &id114 {name: 🇹🇼 台湾02直连 - AZ云, server: sg1111.233235.xyz, port: 8060, type: trojan, password: 566dea3b-69f8-456b-beeb-98891beb3101, sni: sg1111.233235.xyz, skip-cert-verify: true, udp: true}
+- &id115 {name: 🇹🇼 台湾03直连 - AZ云, server: tw5.233235.xyz, port: 3421, type: trojan, password: 566dea3b-69f8-456b-beeb-98891beb3101, sni: tw5.233235.xyz, skip-cert-verify: true, udp: true}
+- &id116 {name: 🇭🇰 香港01隧道0 - AZ云, server: twjpzz2.595780.xyz, port: 18861, type: trojan, password: 566dea3b-69f8-456b-beeb-98891beb3101, sni: yunhk017190e68f-806d-4811-b517-480c32770fb6.233235.xyz, skip-cert-verify: true, udp: true}
+- &id117 {name: 🇭🇰 香港01直连 - AZ云, server: yunhk017190e68f-806d-4811-b517-480c32770fb6.233235.xyz, port: 11111, type: trojan, password: 566dea3b-69f8-456b-beeb-98891beb3101, sni: yunhk017190e68f-806d-4811-b517-480c32770fb6.233235.xyz, skip-cert-verify: true, udp: true}
+- &id118 {name: 🇭🇰 香港02隧道快 - AZ云, server: twjpzznew.564659.xyz, port: 61744, type: trojan, password: 566dea3b-69f8-456b-beeb-98891beb3101, sni: yunhk017190e68f-806d-4811-b517-480c32770fb6.233235.xyz, skip-cert-verify: true, udp: true}
+- &id119 {name: 🇯🇵 日本03直连 - AZ云, server: 1yunazyunjp03.564659.xyz, port: 11111, type: trojan, password: 566dea3b-69f8-456b-beeb-98891beb3101, sni: 1yunazyunjp03.564659.xyz, skip-cert-verify: true, udp: true}
+- &id120 {name: 🇯🇵 日本04直连 - AZ云, server: 1azyunjp04f1cff6fb-5b3d-4d70-bd2a-a22eac74de31.233235.xyz, port: 454, type: trojan, password: 566dea3b-69f8-456b-beeb-98891beb3101, sni: 1azyunjp04f1cff6fb-5b3d-4d70-bd2a-a22eac74de31.233235.xyz, skip-cert-verify: true, udp: true}
+- &id121 {name: 🇯🇵 日本04隧道快 - AZ云, server: twjpzznew.564659.xyz, port: 11461, type: trojan, password: 566dea3b-69f8-456b-beeb-98891beb3101, sni: 1azyunjp04f1cff6fb-5b3d-4d70-bd2a-a22eac74de31.233235.xyz, skip-cert-verify: true, udp: true}
+- &id122 {name: 🇯🇵 日本04隧道1 - AZ云, server: twjpzz2.595780.xyz, port: 24828, type: trojan, password: 566dea3b-69f8-456b-beeb-98891beb3101, sni: 1azyunjp04f1cff6fb-5b3d-4d70-bd2a-a22eac74de31.233235.xyz, skip-cert-verify: true, udp: true}
+- &id123 {name: 🇯🇵 日本03隧道快 - AZ云, server: twjpzznew.564659.xyz, port: 58273, type: trojan, password: 566dea3b-69f8-456b-beeb-98891beb3101, sni: 1yunazyunjp03.564659.xyz, skip-cert-verify: true, udp: true}
+- &id124 {name: 🇯🇵 日本03隧道1 - AZ云, server: twjpzz2.595780.xyz, port: 21750, type: trojan, password: 566dea3b-69f8-456b-beeb-98891beb3101, sni: 1yunazyunjp03.564659.xyz, skip-cert-verify: true, udp: true}
+- &id125 {name: 🇸🇬 新加坡02直连 - AZ云, server: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, port: 607, type: trojan, password: 566dea3b-69f8-456b-beeb-98891beb3101, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}
+- &id126 {name: 🇸🇬 新加坡01隧道快 - AZ云, server: twjpzznew.564659.xyz, port: 22252, type: trojan, password: 566dea3b-69f8-456b-beeb-98891beb3101, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}
+- &id127 {name: 🇸🇬 新加坡01隧道4 - AZ云, server: twjpzz2.595780.xyz, port: 60562, type: trojan, password: 566dea3b-69f8-456b-beeb-98891beb3101, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}
+- &id128 {name: 🇸🇬 新加坡01隧道5 - AZ云, server: twjpzz2.595780.xyz, port: 13855, type: trojan, password: 566dea3b-69f8-456b-beeb-98891beb3101, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}
 - *id001
 - *id002
 - *id003
@@ -422,22 +346,209 @@ proxies:
 - *id014
 - *id015
 - *id016
-- *id083
-- *id084
-- *id085
-- *id086
-- *id087
-- *id088
-- *id089
-- *id090
-- *id091
-- *id092
-- *id093
-- *id094
-- *id095
-- *id096
+- &id167 {name: ℹ️ xueyejiasu.xyz发布地址不迷路 - 血液加速器, server: hk.kfsldflk.xyz, port: 1200, type: ss, cipher: aes-256-gcm, password: 5475428d-3fd3-485b-a3e6-79d5351781a7, udp: true}
+- &id168 {name: 🇹🇼 台湾 1 - 血液加速器, server: gy.666666222.shop, port: 20032, type: ss, cipher: chacha20-ietf-poly1305, password: 5475428d-3fd3-485b-a3e6-79d5351781a7, udp: true}
+- &id169 {name: 🇹🇼 台湾01 - 血液加速器, server: gy.666666222.shop, port: 47564, type: ss, cipher: chacha20-ietf-poly1305, password: 5475428d-3fd3-485b-a3e6-79d5351781a7, udp: true}
+- &id170 {name: 🇭🇰 香港01 - 血液加速器, server: gy.666666222.shop, port: 34338, type: ss, cipher: chacha20-ietf-poly1305, password: 5475428d-3fd3-485b-a3e6-79d5351781a7, udp: true}
+- &id171 {name: 🇭🇰 香港02 - 血液加速器, server: gy.666666222.shop, port: 20035, type: ss, cipher: chacha20-ietf-poly1305, password: 5475428d-3fd3-485b-a3e6-79d5351781a7, udp: true}
+- &id172 {name: 🇭🇰 香港03 - 血液加速器, server: gy.666666222.shop, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 5475428d-3fd3-485b-a3e6-79d5351781a7, udp: true}
+- &id173 {name: 🇯🇵 日本01 - 血液加速器, server: gy.666666222.shop, port: 20002, type: ss, cipher: chacha20-ietf-poly1305, password: 5475428d-3fd3-485b-a3e6-79d5351781a7, udp: true}
+- &id174 {name: 🇯🇵 日本02 - 血液加速器, server: gy.666666222.shop, port: 20004, type: ss, cipher: chacha20-ietf-poly1305, password: 5475428d-3fd3-485b-a3e6-79d5351781a7, udp: true}
+- &id175 {name: 🇯🇵 日本03 - 血液加速器, server: gy.666666222.shop, port: 20006, type: ss, cipher: chacha20-ietf-poly1305, password: 5475428d-3fd3-485b-a3e6-79d5351781a7, udp: true}
+- &id176 {name: 🇯🇵 日本04 - 血液加速器, server: gy.666666222.shop, port: 20008, type: ss, cipher: chacha20-ietf-poly1305, password: 5475428d-3fd3-485b-a3e6-79d5351781a7, udp: true}
+- &id177 {name: 🇺🇸 美国 纽约01 - 血液加速器, server: gy.666666222.shop, port: 20013, type: ss, cipher: chacha20-ietf-poly1305, password: 5475428d-3fd3-485b-a3e6-79d5351781a7, udp: true}
+- &id178 {name: 🇺🇸 美国 纽约2 - 血液加速器, server: gy.666666222.shop, port: 20016, type: ss, cipher: chacha20-ietf-poly1305, password: 5475428d-3fd3-485b-a3e6-79d5351781a7, udp: true}
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id038
+- *id039
+- *id040
+- *id041
+- *id042
+- *id043
+- *id044
+- *id045
+- *id046
+- *id047
+- *id048
+- *id049
+- *id050
+- *id051
+- *id052
+- *id053
+- *id054
+- *id055
+- *id056
+- *id057
+- *id058
+- *id059
+- *id060
+- *id061
+- *id062
+- *id063
+- *id064
+- *id065
+- *id066
+- *id067
+- *id068
+- *id069
+- *id070
+- *id071
+- *id072
+- *id073
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.dugusite3.top, port: 5061, type: vmess, uuid: cf4618e5-eca6-3b7e-8154-9a3508ac243c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.dugusite3.top, port: 5061, type: vmess, uuid: cf4618e5-eca6-3b7e-8154-9a3508ac243c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS3 *3 - 独孤乐天, server: ru-1.dugusite3.top, port: 5061, type: vmess, uuid: cf4618e5-eca6-3b7e-8154-9a3508ac243c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS3 *3 IPv6 - 独孤乐天, server: jp6-3.dugusite3.top, port: 5061, type: vmess, uuid: cf4618e5-eca6-3b7e-8154-9a3508ac243c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 AWS *1 - 独孤乐天, server: us-1.dugusite3.top, port: 5061, type: vmess, uuid: cf4618e5-eca6-3b7e-8154-9a3508ac243c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天, server: us6-1.dugusite3.top, port: 5061, type: vmess, uuid: cf4618e5-eca6-3b7e-8154-9a3508ac243c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 请手动选带地名的节点 - KUGOU云, server: vip1.kugovip.xyz, port: 50124, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 最新:www.kugou8.cloud - KUGOU云, server: vip1.kugovip.xyz, port: 50124, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 官网发布页:kugou2.top - KUGOU云, server: vip1.kugovip.xyz, port: 50124, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [3x]IEPL专线 香港1 - KUGOU云', server: vip1.kugovip.xyz, port: 50122, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [3x]IEPL专线 香港2 - KUGOU云', server: vip1.kugovip.xyz, port: 50122, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [3x]IEPL专线 香港3 - KUGOU云', server: vip1.kugovip.xyz, port: 50133, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [3x]IEPL专线 香港4 - KUGOU云', server: vip1.kugovip.xyz, port: 50106, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [3x]IEPL专线 香港5 - KUGOU云', server: vip1.kugovip.xyz, port: 50124, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [3x]IEPL专线 香港6 - KUGOU云', server: vip1.kugovip.xyz, port: 50124, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [3x]IEPL专线 日本1 - KUGOU云', server: vip1.kugovip.xyz, port: 50112, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [3x]IEPL专线 日本2 - KUGOU云', server: vip1.kugovip.xyz, port: 50113, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [3x]IEPL专线 台湾1 - KUGOU云', server: vip1.kugovip.xyz, port: 50102, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [3x]IEPL专线 台湾2 - KUGOU云', server: vip1.kugovip.xyz, port: 50102, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [3x]IEPL专线 英国1 - KUGOU云', server: vip1.kugovip.xyz, port: 50120, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [3x]IEPL专线 英国2 - KUGOU云', server: vip1.kugovip.xyz, port: 50104, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [3x]IEPL专线 美国1 - KUGOU云', server: vip1.kugovip.xyz, port: 50107, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [3x]IEPL专线 美国2 - KUGOU云', server: vip1.kugovip.xyz, port: 50129, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [3x]IEPL专线 新加坡1 - KUGOU云', server: vip1.kugovip.xyz, port: 50114, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [3x]IEPL专线 新加坡2 - KUGOU云', server: vip1.kugovip.xyz, port: 50115, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [3x]IEPL专线 新加坡3 - KUGOU云', server: vip1.kugovip.xyz, port: 50110, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 [3x]IEPL专线 韩国 - KUGOU云', server: vip1.kugovip.xyz, port: 50117, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇭 [3x]IEPL专线 泰国 - KUGOU云', server: vip1.kugovip.xyz, port: 50116, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇻🇳 [3x]IEPL专线 越南 - KUGOU云', server: vip1.kugovip.xyz, port: 50108, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇫🇷 [3x]IEPL专线 法国 - KUGOU云', server: vip1.kugovip.xyz, port: 50101, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇳🇱 [3x]IEPL专线 荷兰 - KUGOU云', server: vip1.kugovip.xyz, port: 50105, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇦🇺 [3x]IEPL专线 澳洲 - KUGOU云', server: vip1.kugovip.xyz, port: 50123, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇩🇪 [3x]IEPL专线 德国 - KUGOU云', server: vip1.kugovip.xyz, port: 50121, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇿🇦 [3x]IEPL专线 南非 - KUGOU云', server: vip1.kugovip.xyz, port: 50119, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇵🇱 [3x]IEPL专线 波兰 - KUGOU云', server: vip1.kugovip.xyz, port: 50118, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇷🇺 [3x]IEPL专线 俄罗斯 - KUGOU云', server: vip1.kugovip.xyz, port: 50103, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇷 [3x]IEPL专线 土耳其 - KUGOU云', server: vip1.kugovip.xyz, port: 50109, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇦🇷 [3x]IEPL专线 阿根廷 - KUGOU云', server: vip1.kugovip.xyz, port: 50100, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇦 [3x]IEPL专线 乌克兰 - KUGOU云', server: vip1.kugovip.xyz, port: 50127, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 1x普通线路因管局通报 - KUGOU云, server: xd1.kugovip.xyz, port: 18591, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 1x可能会不定时离线 - KUGOU云, server: xd1.kugovip.xyz, port: 18589, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [1x]CM 隧道 日本1 - KUGOU云', server: xd1.kugovip.xyz, port: 18601, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [1x]CM 隧道 日本2 - KUGOU云', server: xd1.kugovip.xyz, port: 18602, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [1x]CM 隧道 新加坡1 - KUGOU云', server: xd1.kugovip.xyz, port: 18591, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [1x]CM 隧道 新加坡2 - KUGOU云', server: xd1.kugovip.xyz, port: 18589, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [1x]CM 隧道 香港1 - KUGOU云', server: xd1.kugovip.xyz, port: 18588, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [1x]CM 隧道 英国 - KUGOU云', server: xd1.kugovip.xyz, port: 18590, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [1x]CM 隧道 美国1 - KUGOU云', server: xd1.kugovip.xyz, port: 18606, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇵🇱 [1x]CM 隧道 波兰 - KUGOU云', server: xd1.kugovip.xyz, port: 18605, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [1倍率]临时直连 美国 - KUGOU云', server: us2.kugovip.xyz, port: 10113, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us2.kugovip.xyz}}, udp: true}
+- {name: '🇵🇱 [1倍率]临时直连 波兰1 - KUGOU云', server: bl1.kugovip.xyz, port: 18481, type: vmess, uuid: 79a8c641-2961-4442-9ca3-af606e8f849c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- &id097 {name: 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载, server: hkt.littleqqq.co, port: 20759, type: vmess, uuid: 69d1326a-b236-438e-85f3-91242c2b24ad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: hkt.littleqqq.co}}, udp: true}
+- &id098 {name: 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载 2, server: hkt.littleqqq.co, port: 20759, type: vmess, uuid: 69d1326a-b236-438e-85f3-91242c2b24ad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: hkt.littleqqq.co}}, udp: true}
+- &id286 {name: 🇹🇼 台湾2全天极速优先使用|X3 - SuLink速联网络, server: yx.sulink.one, port: 2052, type: vmess, uuid: afc38a80-e1a2-405c-abd0-f260ddcb0cbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw02.xn--io0a7iw0ab67b.xyz}}, udp: true}
+- &id287 {name: 🇺🇸 美国5 - SuLink速联网络, server: yx.sulink.one, port: 80, type: vmess, uuid: afc38a80-e1a2-405c-abd0-f260ddcb0cbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us5.sulink.one}}, udp: true}
+- *id074
+- *id075
+- *id076
+- *id077
+- *id078
+- *id079
+- *id080
 - *id097
 - *id098
+- &id311 {name: '🇹🇼 [vmess]台湾02-3倍率-流媒体 - HY-2', server: cf.hy2.one, port: 80, type: vmess, uuid: ad255664-aeea-450d-bdd8-1be5ba7ff927, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /af323d, headers: {Host: tw02.hy2.one}}, udp: true}
+- &id312 {name: '🇭🇰 [vmess]香港06-流媒体 - HY-2', server: cf.hy2.one, port: 80, type: vmess, uuid: ad255664-aeea-450d-bdd8-1be5ba7ff927, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: hk06.hy-2.top}}, udp: true}
+- &id313 {name: '🇸🇬 [vmess]新加坡02-V4-流媒体 - HY-2', server: cf.hy2.one, port: 2052, type: vmess, uuid: ad255664-aeea-450d-bdd8-1be5ba7ff927, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /0, headers: {Host: sg0002.hy-2.top}}, udp: true}
+- &id314 {name: '🇺🇸 [vmess]美国03 - HY-2', server: cf.hy2.one, port: 2052, type: vmess, uuid: ad255664-aeea-450d-bdd8-1be5ba7ff927, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us03.hy-2.top}}, udp: true}
+- &id315 {name: '🇺🇸 [vmess]美国04 - HY-2', server: cf.hy2.one, port: 2052, type: vmess, uuid: ad255664-aeea-450d-bdd8-1be5ba7ff927, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us04.hy-2.top}}, udp: true}
+- &id129 {name: 🇭🇰 HK.香港.A | 负载均衡 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 21552, type: vmess, uuid: 8630026d-173f-4284-8f0e-928541522a6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id130 {name: 🇭🇰 HK.香港.B | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 45449, type: vmess, uuid: 8630026d-173f-4284-8f0e-928541522a6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id131 {name: 🇭🇰 HK.香港.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 38630, type: vmess, uuid: 8630026d-173f-4284-8f0e-928541522a6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id132 {name: 🇭🇰 HK.香港.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 33575, type: vmess, uuid: 8630026d-173f-4284-8f0e-928541522a6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id133 {name: 🇭🇰 HK.香港.E - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 12672, type: vmess, uuid: 8630026d-173f-4284-8f0e-928541522a6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id134 {name: 🇭🇰 HK.香港.F - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 45861, type: vmess, uuid: 8630026d-173f-4284-8f0e-928541522a6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id135 {name: 🇭🇰 HK.香港.G | 多入口 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 44489, type: vmess, uuid: 8630026d-173f-4284-8f0e-928541522a6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id136 {name: 🇹🇼 TW.台湾.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xdtw.cokecloud.top, port: 13255, type: vmess, uuid: 8630026d-173f-4284-8f0e-928541522a6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id137 {name: 🇹🇼 TW.台湾.B | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xdtw.cokecloud.top, port: 29299, type: vmess, uuid: 8630026d-173f-4284-8f0e-928541522a6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id138 {name: 🇹🇼 TW.台湾.C | 高速2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xdtw.cokecloud.top, port: 53497, type: vmess, uuid: 8630026d-173f-4284-8f0e-928541522a6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id139 {name: 🇯🇵 日本-新疆直连 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xj.cokecloud.top, port: 12187, type: trojan, password: 8630026d-173f-4284-8f0e-928541522a6e, sni: xj.cokecloud.top, skip-cert-verify: true, udp: true}
+- &id140 {name: 🇯🇵 JP.日本.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 20437, type: ss, cipher: chacha20-ietf-poly1305, password: 8630026d-173f-4284-8f0e-928541522a6e, udp: true}
+- &id141 {name: 🇯🇵 JP.日本.B - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 43289, type: ss, cipher: chacha20-ietf-poly1305, password: 8630026d-173f-4284-8f0e-928541522a6e, udp: true}
+- &id142 {name: 🇯🇵 JP.日本.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 19439, type: ss, cipher: chacha20-ietf-poly1305, password: 8630026d-173f-4284-8f0e-928541522a6e, udp: true}
+- &id143 {name: 🇯🇵 JP.日本.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 13215, type: ss, cipher: chacha20-ietf-poly1305, password: 8630026d-173f-4284-8f0e-928541522a6e, udp: true}
+- &id144 {name: 🇸🇬 SGP.新加坡.A | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 43461, type: ss, cipher: aes-128-gcm, password: 8630026d-173f-4284-8f0e-928541522a6e, udp: true}
+- &id145 {name: 🇸🇬 SGP.新加坡.B | 负载均衡 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 10420, type: vmess, uuid: 8630026d-173f-4284-8f0e-928541522a6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id146 {name: 🇸🇬 SGP.新加坡.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 29611, type: ss, cipher: chacha20-ietf-poly1305, password: 8630026d-173f-4284-8f0e-928541522a6e, udp: true}
+- &id147 {name: 🇸🇬 SGP.新加坡.D | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 25878, type: vmess, uuid: 8630026d-173f-4284-8f0e-928541522a6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id148 {name: 🇰🇷 KR.韩国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xckr.cokecloud.top, port: 33167, type: ss, cipher: chacha20-ietf-poly1305, password: 8630026d-173f-4284-8f0e-928541522a6e, udp: true}
+- &id149 {name: 🇰🇷 KR.韩国.B | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xckr.cokecloud.top, port: 28595, type: ss, cipher: chacha20-ietf-poly1305, password: 8630026d-173f-4284-8f0e-928541522a6e, udp: true}
+- &id150 {name: 🇺🇸 US.美国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 47393, type: ss, cipher: chacha20-ietf-poly1305, password: 8630026d-173f-4284-8f0e-928541522a6e, udp: true}
+- &id151 {name: 🇺🇸 US.美国.B - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudus.cokecloud.top, port: 25619, type: vmess, uuid: 8630026d-173f-4284-8f0e-928541522a6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id152 {name: 🇺🇸 US.美国.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 17318, type: ss, cipher: chacha20-ietf-poly1305, password: 8630026d-173f-4284-8f0e-928541522a6e, udp: true}
+- &id153 {name: 🇺🇸 US.美国.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 40793, type: ss, cipher: chacha20-ietf-poly1305, password: 8630026d-173f-4284-8f0e-928541522a6e, udp: true}
+- &id154 {name: 🇺🇸 US.美国.E - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudus.cokecloud.top, port: 20067, type: vmess, uuid: 8630026d-173f-4284-8f0e-928541522a6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id155 {name: 🇲🇾 ML.马来西亚.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: mltf.cokecloud.top, port: 13128, type: ss, cipher: chacha20-ietf-poly1305, password: 8630026d-173f-4284-8f0e-928541522a6e, udp: true}
+- &id156 {name: 🇮🇩 ID.印度尼西亚.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 15447, type: ss, cipher: chacha20-ietf-poly1305, password: 8630026d-173f-4284-8f0e-928541522a6e, udp: true}
+- &id157 {name: 🇹🇷 TUR.土耳其.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: turtf.cokecloud.top, port: 53355, type: ss, cipher: chacha20-ietf-poly1305, password: 8630026d-173f-4284-8f0e-928541522a6e, udp: true}
+- &id158 {name: 🇹🇭 TH.泰国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: thtf.cokecloud.top, port: 34523, type: ss, cipher: chacha20-ietf-poly1305, password: 8630026d-173f-4284-8f0e-928541522a6e, udp: true}
+- &id159 {name: 🇻🇳 VN.越南.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 17463, type: ss, cipher: chacha20-ietf-poly1305, password: 8630026d-173f-4284-8f0e-928541522a6e, udp: true}
+- &id160 {name: 🇦🇺 AU.澳洲.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: autf.cokecloud.top, port: 18071, type: ss, cipher: chacha20-ietf-poly1305, password: 8630026d-173f-4284-8f0e-928541522a6e, udp: true}
+- &id161 {name: 🇮🇳 IN.印度.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: idtf.cokecloud.top, port: 32725, type: ss, cipher: chacha20-ietf-poly1305, password: 8630026d-173f-4284-8f0e-928541522a6e, udp: true}
+- &id162 {name: 🇫🇷 FR.法国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: frtf.cokecloud.top, port: 15468, type: vmess, uuid: 8630026d-173f-4284-8f0e-928541522a6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id163 {name: 🇬🇧 UK.英国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcuk.cokecloud.top, port: 18227, type: vmess, uuid: 8630026d-173f-4284-8f0e-928541522a6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id164 {name: 🇩🇪 FRK.德国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: frg.cokecloud.top, port: 13646, type: vmess, uuid: 8630026d-173f-4284-8f0e-928541522a6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id165 {name: 🇷🇺 RU.俄国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: rutf.cokecloud.top, port: 44753, type: ss, cipher: chacha20-ietf-poly1305, password: 8630026d-173f-4284-8f0e-928541522a6e, udp: true}
+- &id166 {name: ℹ️ 导航页：www.可乐云.net - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: frg.cokecloud.top, port: 13646, type: vmess, uuid: 8630026d-173f-4284-8f0e-928541522a6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - *id099
 - *id100
 - *id101
@@ -450,6 +561,47 @@ proxies:
 - *id108
 - *id109
 - *id110
+- &id179 {name: ℹ️ 最新官网：6.needss.one(可直接访问） - needss云, server: i.needss.top, port: 20013, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id180 {name: ℹ️ 永久官网：needss.link(需挂梯子访问） - needss云, server: i.needss.top, port: 20013, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id181 {name: ℹ️ 网址发布页：aa.needss1.top - needss云, server: i.needss.top, port: 20013, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id182 {name: '🇭🇰 [3x] 香港 IEPL专线NO1 - needss云', server: i.needss.top, port: 20013, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id183 {name: '🇭🇰 [3x] 香港 IEPL专线NO2 - needss云', server: i.needss.top, port: 20013, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id184 {name: '🇹🇼 [3x] 台湾 IEPL专线NO1 - needss云', server: i.needss.top, port: 52103, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id185 {name: '🇹🇼 [3x] 台湾 IEPL专线NO2 - needss云', server: i.needss.top, port: 52103, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id186 {name: '🇯🇵 [3x] 日本 IEPL专线NO1 - needss云', server: i.needss.top, port: 20017, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id187 {name: '🇯🇵 [3x] 日本 IEPL专线NO2 - needss云', server: i.needss.top, port: 20017, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id188 {name: '🇸🇬 [3x] 新加坡 IEPL专线NO1 - needss云', server: i.needss.top, port: 20015, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id189 {name: '🇸🇬 [3x] 新加坡 IEPL专线NO2 - needss云', server: i.needss.top, port: 20015, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id190 {name: '🇸🇬 [3x] 新加坡 IEPL专线NO3 - needss云', server: i.needss.top, port: 44412, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id191 {name: '🇸🇬 [3x] 新加坡 IEPL专线NO4 - needss云', server: i.needss.top, port: 44412, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id192 {name: '🇹🇭 [3x] 泰国 IEPL专线 NO1 - needss云', server: i.needss.top, port: 30028, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id193 {name: '🇹🇭 [3x] 泰国 IEPL专线 NO2 - needss云', server: i.needss.top, port: 30028, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id194 {name: '🇦🇷 [3x] 阿根廷 IEPL专线NO1 - needss云', server: i.needss.top, port: 20014, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id195 {name: '🇦🇷 [3x] 阿根廷 IEPL专线NO2 - needss云', server: i.needss.top, port: 20014, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id196 {name: '🇰🇷 [3x] 韩国 IEPL专线NO1 - needss云', server: i.needss.top, port: 20021, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id197 {name: '🇰🇷 [3x] 韩国 IEPL专线NO2 - needss云', server: i.needss.top, port: 20021, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id198 {name: '🇮🇳 [3x] 印度 IEPL专线NO1 - needss云', server: i.needss.top, port: 15442, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id199 {name: '🇮🇳 [3x] 印度 IEPL专线NO2 - needss云', server: i.needss.top, port: 15442, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id200 {name: '🇺🇸 [3x] 美国 IEPL专线NO1 - needss云', server: i.needss.top, port: 54770, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id201 {name: '🇺🇸 [3x] 美国 IEPL专线NO2 - needss云', server: i.needss.top, port: 54770, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id202 {name: '🇳🇴 [3x]  非洲 IEPL专线 NO1 - needss云', server: i.needss.top, port: 44410, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id203 {name: '🇳🇴 [3x]  非洲 IEPL专线 NO2 - needss云', server: i.needss.top, port: 44410, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id204 {name: '🇦🇺 [3x] 澳大利亚 IEPL专线NO1 - needss云', server: i.needss.top, port: 20011, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id205 {name: '🇦🇺 [3x] 澳大利亚 IEPL专线NO2 - needss云', server: i.needss.top, port: 20011, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id206 {name: '🇷🇺 [3x] 俄罗斯 IEPL专线NO1 - needss云', server: i.needss.top, port: 21111, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id207 {name: '🇷🇺 [3x] 俄罗斯 IEPL专线NO2 - needss云', server: i.needss.top, port: 21111, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id208 {name: '🇩🇪 [3x] 德国 IEPL专线NO1 - needss云', server: i.needss.top, port: 54787, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id209 {name: '🇩🇪 [3x] 德国 IEPL专线NO2 - needss云', server: i.needss.top, port: 54787, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id210 {name: '🇵🇹 [3x] 葡萄牙 IEPL专线NO1 - needss云', server: i.needss.top, port: 31001, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id211 {name: '🇵🇹 [3x] 葡萄牙 IEPL专线NO2 - needss云', server: i.needss.top, port: 31001, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id212 {name: '🇨🇦 [2x] 加拿大 IEPL专线 NO1 - needss云', server: i.needss.top, port: 45112, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id213 {name: '🇨🇦 [2x] 加拿大 IEPL专线 NO2 - needss云', server: i.needss.top, port: 45112, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id214 {name: '🇬🇧 [2x] 英国 IEPL专线NO1 - needss云', server: qd.needss.top, port: 54774, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id215 {name: '🇬🇧 [2x] 英国 IEPL专线NO2 - needss云', server: qd.needss.top, port: 54774, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id216 {name: '🇳🇱 [1x] 荷兰 IEPL专线NO1 - needss云', server: qd.needss.top, port: 20014, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id217 {name: '🇳🇱 [1x] 荷兰 IEPL专线NO2 - needss云', server: qd.needss.top, port: 20014, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id218 {name: '🇫🇷 [1x] 法国 CM 隧道NO1 - needss云', server: qd.needss.top, port: 52108, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id219 {name: '🇫🇷 [1x] 法国 CM 隧道NO2 - needss云', server: qd.needss.top, port: 52108, type: vmess, uuid: dc032b2c-d1d7-4be7-b6a5-44149f1d3007, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - *id111
 - *id112
 - *id113
@@ -465,39 +617,123 @@ proxies:
 - *id123
 - *id124
 - *id125
-- {name: xqnqn.com防失联 - LIME, server: 001.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: d33e2735-c427-49bd-8ddd-b0b4fcbe4996, udp: true}
-- {name: 🇯🇵 日本一 - LIME, server: 001.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: d33e2735-c427-49bd-8ddd-b0b4fcbe4996, udp: true}
-- {name: 🇯🇵 日本二 - LIME, server: 002.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: d33e2735-c427-49bd-8ddd-b0b4fcbe4996, udp: true}
-- {name: 🇯🇵 日本三 - LIME, server: 003.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: d33e2735-c427-49bd-8ddd-b0b4fcbe4996, udp: true}
-- {name: 🇯🇵 日本四 - LIME, server: 004.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: d33e2735-c427-49bd-8ddd-b0b4fcbe4996, udp: true}
-- {name: 🇯🇵 日本五 - LIME, server: 005.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: d33e2735-c427-49bd-8ddd-b0b4fcbe4996, udp: true}
-- {name: 🇯🇵 日本六 - LIME, server: 006.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: d33e2735-c427-49bd-8ddd-b0b4fcbe4996, udp: true}
-- {name: 🇭🇰 香港一 - LIME, server: 01.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: d33e2735-c427-49bd-8ddd-b0b4fcbe4996, udp: true}
-- {name: 🇭🇰 香港二 - LIME, server: 02.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: d33e2735-c427-49bd-8ddd-b0b4fcbe4996, udp: true}
-- {name: 🇭🇰 香港三 - LIME, server: 03.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: d33e2735-c427-49bd-8ddd-b0b4fcbe4996, udp: true}
-- {name: 🇭🇰 香港四 - LIME, server: 04.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: d33e2735-c427-49bd-8ddd-b0b4fcbe4996, udp: true}
-- {name: 🇭🇰 香港五 - LIME, server: 05.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: d33e2735-c427-49bd-8ddd-b0b4fcbe4996, udp: true}
-- {name: 🇭🇰 香港七 - LIME, server: 07.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: d33e2735-c427-49bd-8ddd-b0b4fcbe4996, udp: true}
-- {name: 🇭🇰 香港八 - LIME, server: 08.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: d33e2735-c427-49bd-8ddd-b0b4fcbe4996, udp: true}
-- {name: 🇺🇸 美国一 - LIME, server: 001.kjahbg.info, port: 20293, type: ss, cipher: aes-128-gcm, password: d33e2735-c427-49bd-8ddd-b0b4fcbe4996, udp: true}
-- {name: 🇺🇸 美国二 - LIME, server: 002.kjahbg.info, port: 20293, type: ss, cipher: aes-128-gcm, password: d33e2735-c427-49bd-8ddd-b0b4fcbe4996, udp: true}
-- {name: 🇺🇸 美国三 - LIME, server: 003.kjahbg.info, port: 20293, type: ss, cipher: aes-128-gcm, password: d33e2735-c427-49bd-8ddd-b0b4fcbe4996, udp: true}
-- {name: 🇺🇸 美国四 - LIME, server: 004.kjahbg.info, port: 20293, type: ss, cipher: aes-128-gcm, password: d33e2735-c427-49bd-8ddd-b0b4fcbe4996, udp: true}
-- {name: 🇺🇸 美国五 - LIME, server: 005.kjahbg.info, port: 20293, type: ss, cipher: aes-128-gcm, password: d33e2735-c427-49bd-8ddd-b0b4fcbe4996, udp: true}
-- {name: 🇺🇸 美国六 - LIME, server: 006.kjahbg.info, port: 20293, type: ss, cipher: aes-128-gcm, password: d33e2735-c427-49bd-8ddd-b0b4fcbe4996, udp: true}
-- {name: 🇸🇬 新加坡一 - LIME, server: 01.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: d33e2735-c427-49bd-8ddd-b0b4fcbe4996, udp: true}
-- {name: 🇸🇬 新加坡二 - LIME, server: 02.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: d33e2735-c427-49bd-8ddd-b0b4fcbe4996, udp: true}
-- {name: 🇸🇬 新加坡三 - LIME, server: 03.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: d33e2735-c427-49bd-8ddd-b0b4fcbe4996, udp: true}
-- {name: 🇸🇬 新加坡四 - LIME, server: 04.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: d33e2735-c427-49bd-8ddd-b0b4fcbe4996, udp: true}
-- {name: 🇸🇬 新加坡五 - LIME, server: 05.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: d33e2735-c427-49bd-8ddd-b0b4fcbe4996, udp: true}
-- {name: 🇸🇬 新加坡六 - LIME, server: 06.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: d33e2735-c427-49bd-8ddd-b0b4fcbe4996, udp: true}
-- {name: 🇹🇼 台湾一 - LIME, server: 01.kjahbg.info, port: 46192, type: ss, cipher: aes-128-gcm, password: d33e2735-c427-49bd-8ddd-b0b4fcbe4996, udp: true}
-- {name: 🇹🇼 台湾二 - LIME, server: 02.kjahbg.info, port: 46192, type: ss, cipher: aes-128-gcm, password: d33e2735-c427-49bd-8ddd-b0b4fcbe4996, udp: true}
-- {name: 🇰🇷 韩国一 - LIME, server: 001.kjahbg.info, port: 43850, type: ss, cipher: aes-128-gcm, password: d33e2735-c427-49bd-8ddd-b0b4fcbe4996, udp: true}
-- {name: 🇰🇷 韩国二 - LIME, server: 002.kjahbg.info, port: 43850, type: ss, cipher: aes-128-gcm, password: d33e2735-c427-49bd-8ddd-b0b4fcbe4996, udp: true}
 - *id126
 - *id127
 - *id128
+- *id099
+- *id100
+- *id101
+- *id102
+- *id103
+- *id104
+- *id105
+- *id106
+- *id107
+- *id108
+- *id109
+- *id110
+- {name: ℹ️ 注：若无法使用请【更新订阅】 - STTLink, server: 127.0.0.1, port: 80, type: vmess, uuid: bfe3b756-7dea-3351-98f7-793cfeec638e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 注：防失联地址：stt.today - STTLink, server: 127.0.0.1, port: 80, type: vmess, uuid: bfe3b756-7dea-3351-98f7-793cfeec638e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ stt.today（官网） - STTLink, server: stthome.top, port: 10086, type: vmess, uuid: bfe3b756-7dea-3351-98f7-793cfeec638e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- *id038
+- *id039
+- *id040
+- *id041
+- *id042
+- *id043
+- *id044
+- *id045
+- *id046
+- *id047
+- *id048
+- *id049
+- *id050
+- *id051
+- *id052
+- *id053
+- *id054
+- *id055
+- *id056
+- *id057
+- *id058
+- *id059
+- *id060
+- *id061
+- *id062
+- *id063
+- *id064
+- *id065
+- *id066
+- *id067
+- *id068
+- *id069
+- *id070
+- *id071
+- *id072
+- *id073
+- {name: ℹ️ 最新官网：www.uuvpn.life - uu加速首页, server: 最新官网：uuvpn.cloud, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
+- {name: ℹ️ x 代表使用倍率 - uu加速首页, server: x 代表使用倍率, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
+- {name: ℹ️ 用不了，请更新订阅 - uu加速首页, server: 用不了，请更新订阅, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
+- {name: ℹ️ 永久地址请查看活动公告 - uu加速首页, server: https://sulinkcloud.github.io/, port: 55626, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
+- {name: 🇸🇬 新加坡03 - uu加速首页, server: jscm1.yunnode.win, port: 31640, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
+- {name: 🇺🇸 美国02 - uu加速首页, server: jscm1.yunnode.win, port: 31644, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
+- {name: 🇭🇰 香港01 - uu加速首页, server: jscm1.yunnode.win, port: 31672, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
+- {name: 🇭🇰 香港02 - uu加速首页, server: jscm1.yunnode.win, port: 31675, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
+- {name: 🇺🇸 美国01 - uu加速首页, server: jscm1.yunnode.win, port: 31642, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
+- {name: 🇹🇼 台湾01 - uu加速首页, server: jscm1.yunnode.win, port: 31632, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
+- {name: 🇬🇧 英国02 - uu加速首页, server: jscm1.yunnode.win, port: 31648, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
+- {name: 🇭🇰 香港03 - uu加速首页, server: jscm1.yunnode.win, port: 31679, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
+- {name: 🇸🇬 新加坡01 - uu加速首页, server: jscm1.yunnode.win, port: 31636, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
+- {name: 🇸🇬 新加坡02 - uu加速首页, server: jscm1.yunnode.win, port: 31738, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
+- {name: 🇭🇰 香港06-备用 - uu加速首页, server: jsyd.yeahfast.com, port: 31681, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
+- {name: 🇭🇰 香港05-备用 - uu加速首页, server: 4c52.ens3.buzz, port: 31683, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
+- {name: 🇻🇳 越南01 - uu加速首页, server: jscm1.yunnode.win, port: 31660, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
+- {name: 🇺🇸 美国04 - uu加速首页, server: jscm1.yunnode.win, port: 31650, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
+- *id081
+- *id082
+- *id083
+- *id084
+- *id085
+- *id086
+- *id087
+- *id088
+- *id089
+- *id090
+- *id091
+- *id092
+- *id093
+- *id094
+- *id095
+- *id096
+- *id074
+- *id075
+- *id076
+- *id077
+- *id078
+- *id079
+- *id080
+- {name: ℹ️ 续费网址:mgxiaowu.net - meiguis, server: www.google.com, port: 1, type: ss, cipher: chacha20-ietf-poly1305, password: d408dd54-2c48-434e-a017-faa2e0cae64d, udp: true}
+- {name: 🇭🇰 香港01 - meiguis, server: pu001.xccccao.com, port: 38601, type: ss, cipher: chacha20-ietf-poly1305, password: d408dd54-2c48-434e-a017-faa2e0cae64d, udp: true}
+- {name: 🇹🇼 台湾01 - meiguis, server: pu002.xccccao.com, port: 38602, type: ss, cipher: chacha20-ietf-poly1305, password: d408dd54-2c48-434e-a017-faa2e0cae64d, udp: true}
+- {name: 🇸🇬 新加坡01 - meiguis, server: pu003.xccccao.com, port: 38603, type: ss, cipher: chacha20-ietf-poly1305, password: d408dd54-2c48-434e-a017-faa2e0cae64d, udp: true}
+- {name: 🇺🇸 美国01 - meiguis, server: pu003.xccccao.com, port: 38604, type: ss, cipher: chacha20-ietf-poly1305, password: d408dd54-2c48-434e-a017-faa2e0cae64d, udp: true}
+- {name: 🇯🇵 日本01 - meiguis, server: pu002.xccccao.com, port: 38605, type: ss, cipher: chacha20-ietf-poly1305, password: d408dd54-2c48-434e-a017-faa2e0cae64d, udp: true}
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
 - *id129
 - *id130
 - *id131
@@ -523,3 +759,411 @@ proxies:
 - *id151
 - *id152
 - *id153
+- *id154
+- *id155
+- *id156
+- *id157
+- *id158
+- *id159
+- *id160
+- *id161
+- *id162
+- *id163
+- *id164
+- *id165
+- *id166
+- *id167
+- *id168
+- *id169
+- *id170
+- *id171
+- *id172
+- *id173
+- *id174
+- *id175
+- *id176
+- *id177
+- *id178
+- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 8db0c558-e418-3fcf-a0ff-bfa01d567350, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
+- {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 8db0c558-e418-3fcf-a0ff-bfa01d567350, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 8db0c558-e418-3fcf-a0ff-bfa01d567350, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
+- {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: 8db0c558-e418-3fcf-a0ff-bfa01d567350, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.mamamajd.site}}, udp: true}
+- {name: '🇩🇪 [vip①]德国2 - MG Network', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: 8db0c558-e418-3fcf-a0ff-bfa01d567350, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 18.mamamajd.site}}, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 8db0c558-e418-3fcf-a0ff-bfa01d567350, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.mamamajd.site}}, udp: true}
+- {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 8db0c558-e418-3fcf-a0ff-bfa01d567350, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
+- {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: 8db0c558-e418-3fcf-a0ff-bfa01d567350, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 5.mamamajd.site}}, udp: true}
+- {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: 8db0c558-e418-3fcf-a0ff-bfa01d567350, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 13.mamamajd.site}}, udp: true}
+- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: 8db0c558-e418-3fcf-a0ff-bfa01d567350, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.mamamajd.site}}, udp: true}
+- {name: '🇺🇸 美国[01] - Heima', server: 107.149.238.99, port: 658, type: trojan, password: e4f996cd-e300-4c61-bcf5-4cdf1e04b480, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 韩国[01] - Heima', server: pop.ff34894a-296c-446f-af39-20b90947f3a7.heima360.cc, port: 443, type: trojan, password: e4f996cd-e300-4c61-bcf5-4cdf1e04b480, skip-cert-verify: true, udp: true}
+- {name: '🇫🇷 法国[01] - Heima', server: pop.b1c7d2ec-e636-4521-a9f7-abb10044e3a5.heima360.cc, port: 443, type: trojan, password: e4f996cd-e300-4c61-bcf5-4cdf1e04b480, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 美国[02]中转 - Heima', server: vip.baima360.com, port: 30104, type: ss, cipher: chacha20-ietf-poly1305, password: e4f996cd-e300-4c61-bcf5-4cdf1e04b480, udp: true}
+- {name: '🇺🇸 美国[03]中转 - Heima', server: vip.baima360.com, port: 17941, type: ss, cipher: chacha20-ietf-poly1305, password: e4f996cd-e300-4c61-bcf5-4cdf1e04b480, udp: true}
+- {name: '🇺🇸 美国[04] - Heima', server: 45.83.140.22, port: 658, type: trojan, password: e4f996cd-e300-4c61-bcf5-4cdf1e04b480, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 香港[01] - Heima', server: 107.149.254.26, port: 158, type: trojan, password: e4f996cd-e300-4c61-bcf5-4cdf1e04b480, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 香港[06] - Heima', server: 107.149.254.26, port: 159, type: trojan, password: e4f996cd-e300-4c61-bcf5-4cdf1e04b480, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 香港[04]中转 - Heima', server: vip.baima360.com, port: 65519, type: ss, cipher: chacha20-ietf-poly1305, password: e4f996cd-e300-4c61-bcf5-4cdf1e04b480, udp: true}
+- {name: '🇭🇰 香港[05]中转 - Heima', server: vip.baima360.com, port: 36511, type: ss, cipher: chacha20-ietf-poly1305, password: e4f996cd-e300-4c61-bcf5-4cdf1e04b480, udp: true}
+- {name: '🇭🇰 香港[07]中转 - Heima', server: vip.baima360.com, port: 36214, type: ss, cipher: chacha20-ietf-poly1305, password: e4f996cd-e300-4c61-bcf5-4cdf1e04b480, udp: true}
+- {name: '🇹🇼 台湾[01]中转 - Heima', server: vip.baima360.com, port: 41004, type: ss, cipher: chacha20-ietf-poly1305, password: e4f996cd-e300-4c61-bcf5-4cdf1e04b480, udp: true}
+- {name: '🇯🇵 日本[01] - Heima', server: vip.baima360.com, port: 15888, type: ss, cipher: chacha20-ietf-poly1305, password: e4f996cd-e300-4c61-bcf5-4cdf1e04b480, udp: true}
+- {name: '🇲🇾 马来西亚[03] - Heima', server: pop.b948e846-1f05-4fca-8784-e7f30bb512c3.heima360.cc, port: 443, type: trojan, password: e4f996cd-e300-4c61-bcf5-4cdf1e04b480, skip-cert-verify: true, udp: true}
+- {name: '🇦🇺 澳大利亚[01] - Heima', server: pop.25cbab93-4c08-4a3c-8521-3f3d8c4b36ae.heima360.cc, port: 443, type: trojan, password: e4f996cd-e300-4c61-bcf5-4cdf1e04b480, skip-cert-verify: true, udp: true}
+- {name: '🇮🇳 印度[01] - Heima', server: pop.6801ae4e-545d-471e-8de5-413dc61b505b.heima360.cc, port: 443, type: trojan, password: e4f996cd-e300-4c61-bcf5-4cdf1e04b480, skip-cert-verify: true, udp: true}
+- {name: '🇹🇭 泰国[01] - Heima', server: pop.60b974d4-36bc-4a18-aa81-9afdce389bb7.heima360.cc, port: 443, type: trojan, password: e4f996cd-e300-4c61-bcf5-4cdf1e04b480, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 新加坡[02] - Heima', server: pop.09d21837-9b89-4490-92bf-eabf449e3321.heima360.cc, port: 443, type: trojan, password: e4f996cd-e300-4c61-bcf5-4cdf1e04b480, skip-cert-verify: true, udp: true}
+- {name: '🇻🇳 越南[01] - Heima', server: pop.0f6fb14f-a1b9-47bd-ab24-5ade31ba8f4c.heima360.cc, port: 443, type: trojan, password: e4f996cd-e300-4c61-bcf5-4cdf1e04b480, skip-cert-verify: true, udp: true}
+- {name: '🇩🇪 德国[01]中转 - Heima', server: vip.baima360.com, port: 55997, type: ss, cipher: chacha20-ietf-poly1305, password: e4f996cd-e300-4c61-bcf5-4cdf1e04b480, udp: true}
+- {name: '🇨🇦 加拿大[01]中转 - Heima', server: vip.baima360.com, port: 29292, type: ss, cipher: chacha20-ietf-poly1305, password: e4f996cd-e300-4c61-bcf5-4cdf1e04b480, udp: true}
+- {name: '🇬🇧 英国[01]中转 - Heima', server: vip.baima360.com, port: 10683, type: ss, cipher: chacha20-ietf-poly1305, password: e4f996cd-e300-4c61-bcf5-4cdf1e04b480, udp: true}
+- {name: '🇧🇷 巴西[01]中转 - Heima', server: vip.baima360.com, port: 30752, type: ss, cipher: chacha20-ietf-poly1305, password: e4f996cd-e300-4c61-bcf5-4cdf1e04b480, udp: true}
+- {name: '🇷🇺 俄罗斯[01]中转 - Heima', server: vip.baima360.com, port: 23499, type: ss, cipher: chacha20-ietf-poly1305, password: e4f996cd-e300-4c61-bcf5-4cdf1e04b480, udp: true}
+- {name: '🇲🇾 马来西亚[01] - Heima', server: 103.75.189.152, port: 100, type: trojan, password: e4f996cd-e300-4c61-bcf5-4cdf1e04b480, skip-cert-verify: true, udp: true}
+- {name: '🇲🇾 马来西亚[02] - Heima', server: 103.75.188.189, port: 101, type: trojan, password: e4f996cd-e300-4c61-bcf5-4cdf1e04b480, skip-cert-verify: true, udp: true}
+- &id220 {name: ℹ️ 牢记域名:yh12.xyz - CloudFox, server: hk01.x.woyh.xyz, port: 38631, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id221 {name: ℹ️ 有问题访问:yh12.xyz - CloudFox, server: hk01.x.woyh.xyz, port: 38631, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id222 {name: ℹ️ 订阅失败访问:yh12.xyz - CloudFox, server: hk01.x.woyh.xyz, port: 38631, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id223 {name: ℹ️ 防失联:yh12.xyz - CloudFox, server: hk01.x.woyh.xyz, port: 38631, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id224 {name: 🇭🇰 香港01（高速） - CloudFox, server: hk01.x.woyh.xyz, port: 38631, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id225 {name: 🇭🇰 香港02（高速） - CloudFox, server: hk02.x.woyh.xyz, port: 38632, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id226 {name: 🇭🇰 香港03（IPLC稳定） - CloudFox, server: hk03.x.woyh.xyz, port: 38633, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id227 {name: 🇭🇰 香港04（IPLC稳定） - CloudFox, server: hk04.x.woyh.xyz, port: 38634, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id228 {name: 🇭🇰 香港05 - CloudFox, server: hk05.x.woyh.xyz, port: 38635, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id229 {name: 🇭🇰 香港06 - CloudFox, server: hk06.x.woyh.xyz, port: 38636, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id230 {name: 🇹🇼 台湾01（高速） - CloudFox, server: tw01.x.woyh.xyz, port: 38601, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id231 {name: 🇹🇼 台湾02（高速） - CloudFox, server: tw02.x.woyh.xyz, port: 38611, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id232 {name: 🇹🇼 台湾03（IPLC稳定） - CloudFox, server: tw03.x.woyh.xyz, port: 38612, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id233 {name: 🇹🇼 台湾04（IPLC稳定） - CloudFox, server: tw04.x.woyh.xyz, port: 38613, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id234 {name: 🇹🇼 台湾05（GPT专用） - CloudFox, server: tw05.x.woyh.xyz, port: 38615, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id235 {name: 🇹🇼 台湾06（GPT专用） - CloudFox, server: tw06.x.woyh.xyz, port: 38616, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id236 {name: 🇯🇵 日本01（高速） - CloudFox, server: jp01.x.woyh.xyz, port: 38621, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id237 {name: 🇯🇵 日本02（高速） - CloudFox, server: jp02.x.woyh.xyz, port: 38622, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id238 {name: 🇯🇵 日本03（IPLC稳定） - CloudFox, server: jp03.x.woyh.xyz, port: 38623, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id239 {name: 🇯🇵 日本04（IPLC稳定） - CloudFox, server: jp04.x.woyh.xyz, port: 38624, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id240 {name: 🇯🇵 日本05（GPT专用） - CloudFox, server: jp05.x.woyh.xyz, port: 38625, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id241 {name: 🇯🇵 日本06（GPT专用） - CloudFox, server: jp06.x.woyh.xyz, port: 38627, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id242 {name: 🇰🇷 韩国01（高速） - CloudFox, server: kr01.x.woyh.xyz, port: 38641, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id243 {name: 🇰🇷 韩国02（高速） - CloudFox, server: kr02.x.woyh.xyz, port: 38642, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id244 {name: 🇰🇷 韩国03（IPLC稳定） - CloudFox, server: kr03.x.woyh.xyz, port: 38643, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id245 {name: 🇰🇷 韩国04（IPLC稳定） - CloudFox, server: kr04.x.woyh.xyz, port: 38644, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id246 {name: 🇰🇷 韩国05（GPT专用） - CloudFox, server: kr05.x.woyh.xyz, port: 38645, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id247 {name: 🇰🇷 韩国06（GPT专用） - CloudFox, server: kr06.x.woyh.xyz, port: 38646, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id248 {name: 🇸🇬 新加坡01（高速） - CloudFox, server: sg01.x.woyh.xyz, port: 38651, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id249 {name: 🇸🇬 新加坡02（高速） - CloudFox, server: sg02.x.woyh.xyz, port: 38652, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id250 {name: 🇸🇬 新加坡03（IPLC稳定） - CloudFox, server: sg03.x.woyh.xyz, port: 38653, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id251 {name: 🇸🇬 新加坡04（IPLC稳定） - CloudFox, server: sg04.x.woyh.xyz, port: 38654, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id252 {name: 🇸🇬 新加坡05（GPT专用） - CloudFox, server: sg05.x.woyh.xyz, port: 38655, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id253 {name: 🇸🇬 新加坡06（GPT专用） - CloudFox, server: sg06.x.woyh.xyz, port: 38657, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id254 {name: 🇳🇱 荷兰01 - CloudFox, server: nl01.x.woyh.xyz, port: 38794, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id255 {name: 🇳🇱 荷兰02 - CloudFox, server: nl02.x.woyh.xyz, port: 38795, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id256 {name: 🇹🇷 土耳其01 (高速） - CloudFox, server: tur01.x.woyh.xyz, port: 38790, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id257 {name: 🇹🇷 土耳其02 (高速） - CloudFox, server: tur02.x.woyh.xyz, port: 38791, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id258 {name: 🇳🇬 尼日利亚-01 (高速） - CloudFox, server: ng01.x.woyh.xyz, port: 38799, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id259 {name: 🇳🇬 尼日利亚-02 (高速） - CloudFox, server: ng02.x.woyh.xyz, port: 38793, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id260 {name: 🇦🇺 澳大利亚01（高速） - CloudFox, server: au01.x.woyh.xyz, port: 38778, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id261 {name: 🇦🇺 澳大利亚02（高速） - CloudFox, server: au02.x.woyh.xyz, port: 38779, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id262 {name: 🇮🇳 印度01（高速） - CloudFox, server: in01.x.woyh.xyz, port: 38776, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id263 {name: 🇮🇳 印度02（高速） - CloudFox, server: in02.x.woyh.xyz, port: 38777, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id264 {name: 🇬🇧 英国01（高速） - CloudFox, server: uk01.x.woyh.xyz, port: 38661, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id265 {name: 🇬🇧 英国02（高速） - CloudFox, server: uk02.x.woyh.xyz, port: 38662, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id266 {name: 🇬🇧 英国03（IPLC稳定） - CloudFox, server: uk03.x.woyh.xyz, port: 38663, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id267 {name: 🇬🇧 英国04（IPLC稳定） - CloudFox, server: uk04.x.woyh.xyz, port: 38664, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id268 {name: 🇬🇧 英国05（GPT专用） - CloudFox, server: uk05.x.woyh.xyz, port: 38665, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id269 {name: 🇬🇧 英国06（GPT专用） - CloudFox, server: uk06.x.woyh.xyz, port: 38667, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id270 {name: 🇩🇪 德国01（高速） - CloudFox, server: ger01.x.woyh.xyz, port: 38786, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id271 {name: 🇩🇪 德国02（高速） - CloudFox, server: ger02.x.woyh.xyz, port: 38787, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id272 {name: 🇫🇷 法国01（高速） - CloudFox, server: fr01.x.woyh.xyz, port: 38784, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id273 {name: 🇫🇷 法国02（高速） - CloudFox, server: fr02.x.woyh.xyz, port: 38785, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id274 {name: 🇺🇸 美国01（高速） - CloudFox, server: us01.x.woyh.xyz, port: 38670, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id275 {name: 🇺🇸 美国02（高速） - CloudFox, server: us02.x.woyh.xyz, port: 38672, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id276 {name: 🇺🇸 美国03（IPLC稳定） - CloudFox, server: us03.x.woyh.xyz, port: 38673, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id277 {name: 🇺🇸 美国04（IPLC稳定） - CloudFox, server: us04.x.woyh.xyz, port: 38674, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id278 {name: 🇺🇸 美国05（GPT专用） - CloudFox, server: us05.x.woyh.xyz, port: 38675, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id279 {name: 🇺🇸 美国06（GPT专用） - CloudFox, server: us06.x.woyh.xyz, port: 38676, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id280 {name: 🇨🇦 加拿大01（高速） - CloudFox, server: ca01.x.woyh.xyz, port: 38780, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id281 {name: 🇨🇦 加拿大02（高速） - CloudFox, server: ca01.x.woyh.xyz, port: 38781, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id282 {name: 🇲🇽 墨西哥01（高速） - CloudFox, server: mex01.x.woyh.xyz, port: 38782, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id283 {name: 🇲🇽 墨西哥02（高速） - CloudFox, server: mex02.x.woyh.xyz, port: 38783, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id284 {name: 🇧🇷 巴西01（高速） - CloudFox, server: br01.x.woyh.xyz, port: 38788, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- &id285 {name: 🇧🇷 巴西02（高速） - CloudFox, server: br02.x.woyh.xyz, port: 38789, type: ss, cipher: chacha20-ietf-poly1305, password: e7fceb6b-c144-4c1e-b3fe-4023a7498c32, udp: true}
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id179
+- *id180
+- *id181
+- *id182
+- *id183
+- *id184
+- *id185
+- *id186
+- *id187
+- *id188
+- *id189
+- *id190
+- *id191
+- *id192
+- *id193
+- *id194
+- *id195
+- *id196
+- *id197
+- *id198
+- *id199
+- *id200
+- *id201
+- *id202
+- *id203
+- *id204
+- *id205
+- *id206
+- *id207
+- *id208
+- *id209
+- *id210
+- *id211
+- *id212
+- *id213
+- *id214
+- *id215
+- *id216
+- *id217
+- *id218
+- *id219
+- *id220
+- *id221
+- *id222
+- *id223
+- *id224
+- *id225
+- *id226
+- *id227
+- *id228
+- *id229
+- *id230
+- *id231
+- *id232
+- *id233
+- *id234
+- *id235
+- *id236
+- *id237
+- *id238
+- *id239
+- *id240
+- *id241
+- *id242
+- *id243
+- *id244
+- *id245
+- *id246
+- *id247
+- *id248
+- *id249
+- *id250
+- *id251
+- *id252
+- *id253
+- *id254
+- *id255
+- *id256
+- *id257
+- *id258
+- *id259
+- *id260
+- *id261
+- *id262
+- *id263
+- *id264
+- *id265
+- *id266
+- *id267
+- *id268
+- *id269
+- *id270
+- *id271
+- *id272
+- *id273
+- *id274
+- *id275
+- *id276
+- *id277
+- *id278
+- *id279
+- *id280
+- *id281
+- *id282
+- *id283
+- *id284
+- *id285
+- *id286
+- *id287
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- {name: xqnqn.com防失联 - LIME, server: 001.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: faf40ed6-4595-44e2-91ce-00bf87a95d91, udp: true}
+- {name: 🇯🇵 日本一 - LIME, server: 001.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: faf40ed6-4595-44e2-91ce-00bf87a95d91, udp: true}
+- {name: 🇯🇵 日本二 - LIME, server: 002.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: faf40ed6-4595-44e2-91ce-00bf87a95d91, udp: true}
+- {name: 🇯🇵 日本三 - LIME, server: 003.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: faf40ed6-4595-44e2-91ce-00bf87a95d91, udp: true}
+- {name: 🇯🇵 日本四 - LIME, server: 004.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: faf40ed6-4595-44e2-91ce-00bf87a95d91, udp: true}
+- {name: 🇯🇵 日本五 - LIME, server: 005.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: faf40ed6-4595-44e2-91ce-00bf87a95d91, udp: true}
+- {name: 🇯🇵 日本六 - LIME, server: 006.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: faf40ed6-4595-44e2-91ce-00bf87a95d91, udp: true}
+- {name: 🇭🇰 香港一 - LIME, server: 01.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: faf40ed6-4595-44e2-91ce-00bf87a95d91, udp: true}
+- {name: 🇭🇰 香港二 - LIME, server: 02.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: faf40ed6-4595-44e2-91ce-00bf87a95d91, udp: true}
+- {name: 🇭🇰 香港三 - LIME, server: 03.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: faf40ed6-4595-44e2-91ce-00bf87a95d91, udp: true}
+- {name: 🇭🇰 香港四 - LIME, server: 04.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: faf40ed6-4595-44e2-91ce-00bf87a95d91, udp: true}
+- {name: 🇭🇰 香港五 - LIME, server: 05.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: faf40ed6-4595-44e2-91ce-00bf87a95d91, udp: true}
+- {name: 🇭🇰 香港七 - LIME, server: 07.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: faf40ed6-4595-44e2-91ce-00bf87a95d91, udp: true}
+- {name: 🇭🇰 香港八 - LIME, server: 08.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: faf40ed6-4595-44e2-91ce-00bf87a95d91, udp: true}
+- {name: 🇺🇸 美国一 - LIME, server: 001.kjahbg.info, port: 20293, type: ss, cipher: aes-128-gcm, password: faf40ed6-4595-44e2-91ce-00bf87a95d91, udp: true}
+- {name: 🇺🇸 美国二 - LIME, server: 002.kjahbg.info, port: 20293, type: ss, cipher: aes-128-gcm, password: faf40ed6-4595-44e2-91ce-00bf87a95d91, udp: true}
+- {name: 🇺🇸 美国三 - LIME, server: 003.kjahbg.info, port: 20293, type: ss, cipher: aes-128-gcm, password: faf40ed6-4595-44e2-91ce-00bf87a95d91, udp: true}
+- {name: 🇺🇸 美国四 - LIME, server: 004.kjahbg.info, port: 20293, type: ss, cipher: aes-128-gcm, password: faf40ed6-4595-44e2-91ce-00bf87a95d91, udp: true}
+- {name: 🇺🇸 美国五 - LIME, server: 005.kjahbg.info, port: 20293, type: ss, cipher: aes-128-gcm, password: faf40ed6-4595-44e2-91ce-00bf87a95d91, udp: true}
+- {name: 🇺🇸 美国六 - LIME, server: 006.kjahbg.info, port: 20293, type: ss, cipher: aes-128-gcm, password: faf40ed6-4595-44e2-91ce-00bf87a95d91, udp: true}
+- {name: 🇸🇬 新加坡一 - LIME, server: 01.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: faf40ed6-4595-44e2-91ce-00bf87a95d91, udp: true}
+- {name: 🇸🇬 新加坡二 - LIME, server: 02.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: faf40ed6-4595-44e2-91ce-00bf87a95d91, udp: true}
+- {name: 🇸🇬 新加坡三 - LIME, server: 03.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: faf40ed6-4595-44e2-91ce-00bf87a95d91, udp: true}
+- {name: 🇸🇬 新加坡四 - LIME, server: 04.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: faf40ed6-4595-44e2-91ce-00bf87a95d91, udp: true}
+- {name: 🇸🇬 新加坡五 - LIME, server: 05.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: faf40ed6-4595-44e2-91ce-00bf87a95d91, udp: true}
+- {name: 🇸🇬 新加坡六 - LIME, server: 06.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: faf40ed6-4595-44e2-91ce-00bf87a95d91, udp: true}
+- {name: 🇹🇼 台湾一 - LIME, server: 01.kjahbg.info, port: 46192, type: ss, cipher: aes-128-gcm, password: faf40ed6-4595-44e2-91ce-00bf87a95d91, udp: true}
+- {name: 🇹🇼 台湾二 - LIME, server: 02.kjahbg.info, port: 46192, type: ss, cipher: aes-128-gcm, password: faf40ed6-4595-44e2-91ce-00bf87a95d91, udp: true}
+- {name: 🇰🇷 韩国一 - LIME, server: 001.kjahbg.info, port: 43850, type: ss, cipher: aes-128-gcm, password: faf40ed6-4595-44e2-91ce-00bf87a95d91, udp: true}
+- {name: 🇰🇷 韩国二 - LIME, server: 002.kjahbg.info, port: 43850, type: ss, cipher: aes-128-gcm, password: faf40ed6-4595-44e2-91ce-00bf87a95d91, udp: true}
+- *id288
+- *id289
+- *id290
+- *id291
+- *id292
+- *id293
+- *id294
+- *id295
+- *id296
+- *id297
+- *id298
+- *id299
+- *id300
+- *id301
+- *id302
+- *id303
+- *id304
+- *id305
+- *id306
+- *id307
+- *id308
+- *id309
+- *id310
+- {name: ℹ️ 牢记域名:yh12.xyz - Welcome to nginx!, server: hk01.x.woyh.xyz, port: 38631, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: ℹ️ 有问题访问:yh12.xyz - Welcome to nginx!, server: hk01.x.woyh.xyz, port: 38631, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: ℹ️ 订阅失败访问:yh12.xyz - Welcome to nginx!, server: hk01.x.woyh.xyz, port: 38631, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: ℹ️ 防失联:yh12.xyz - Welcome to nginx!, server: hk01.x.woyh.xyz, port: 38631, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇭🇰 香港01（高速） - Welcome to nginx!, server: hk01.x.woyh.xyz, port: 38631, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇭🇰 香港02（高速） - Welcome to nginx!, server: hk02.x.woyh.xyz, port: 38632, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇭🇰 香港03（IPLC稳定） - Welcome to nginx!, server: hk03.x.woyh.xyz, port: 38633, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇭🇰 香港04（IPLC稳定） - Welcome to nginx!, server: hk04.x.woyh.xyz, port: 38634, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇭🇰 香港05 - Welcome to nginx!, server: hk05.x.woyh.xyz, port: 38635, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇭🇰 香港06 - Welcome to nginx!, server: hk06.x.woyh.xyz, port: 38636, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇹🇼 台湾01（高速） - Welcome to nginx!, server: tw01.x.woyh.xyz, port: 38601, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇹🇼 台湾02（高速） - Welcome to nginx!, server: tw02.x.woyh.xyz, port: 38611, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇹🇼 台湾03（IPLC稳定） - Welcome to nginx!, server: tw03.x.woyh.xyz, port: 38612, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇹🇼 台湾04（IPLC稳定） - Welcome to nginx!, server: tw04.x.woyh.xyz, port: 38613, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇹🇼 台湾05（GPT专用） - Welcome to nginx!, server: tw05.x.woyh.xyz, port: 38615, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇹🇼 台湾06（GPT专用） - Welcome to nginx!, server: tw06.x.woyh.xyz, port: 38616, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇯🇵 日本01（高速） - Welcome to nginx!, server: jp01.x.woyh.xyz, port: 38621, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇯🇵 日本02（高速） - Welcome to nginx!, server: jp02.x.woyh.xyz, port: 38622, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇯🇵 日本03（IPLC稳定） - Welcome to nginx!, server: jp03.x.woyh.xyz, port: 38623, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇯🇵 日本04（IPLC稳定） - Welcome to nginx!, server: jp04.x.woyh.xyz, port: 38624, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇯🇵 日本05（GPT专用） - Welcome to nginx!, server: jp05.x.woyh.xyz, port: 38625, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇯🇵 日本06（GPT专用） - Welcome to nginx!, server: jp06.x.woyh.xyz, port: 38627, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇰🇷 韩国01（高速） - Welcome to nginx!, server: kr01.x.woyh.xyz, port: 38641, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇰🇷 韩国02（高速） - Welcome to nginx!, server: kr02.x.woyh.xyz, port: 38642, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇰🇷 韩国03（IPLC稳定） - Welcome to nginx!, server: kr03.x.woyh.xyz, port: 38643, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇰🇷 韩国04（IPLC稳定） - Welcome to nginx!, server: kr04.x.woyh.xyz, port: 38644, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇰🇷 韩国05（GPT专用） - Welcome to nginx!, server: kr05.x.woyh.xyz, port: 38645, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇰🇷 韩国06（GPT专用） - Welcome to nginx!, server: kr06.x.woyh.xyz, port: 38646, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇸🇬 新加坡01（高速） - Welcome to nginx!, server: sg01.x.woyh.xyz, port: 38651, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇸🇬 新加坡02（高速） - Welcome to nginx!, server: sg02.x.woyh.xyz, port: 38652, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇸🇬 新加坡03（IPLC稳定） - Welcome to nginx!, server: sg03.x.woyh.xyz, port: 38653, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇸🇬 新加坡04（IPLC稳定） - Welcome to nginx!, server: sg04.x.woyh.xyz, port: 38654, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇸🇬 新加坡05（GPT专用） - Welcome to nginx!, server: sg05.x.woyh.xyz, port: 38655, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇸🇬 新加坡06（GPT专用） - Welcome to nginx!, server: sg06.x.woyh.xyz, port: 38657, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇳🇱 荷兰01 - Welcome to nginx!, server: nl01.x.woyh.xyz, port: 38794, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇳🇱 荷兰02 - Welcome to nginx!, server: nl02.x.woyh.xyz, port: 38795, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇹🇷 土耳其01 (高速） - Welcome to nginx!, server: tur01.x.woyh.xyz, port: 38790, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇹🇷 土耳其02 (高速） - Welcome to nginx!, server: tur02.x.woyh.xyz, port: 38791, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇳🇬 尼日利亚-01 (高速） - Welcome to nginx!, server: ng01.x.woyh.xyz, port: 38799, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇳🇬 尼日利亚-02 (高速） - Welcome to nginx!, server: ng02.x.woyh.xyz, port: 38793, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇦🇺 澳大利亚01（高速） - Welcome to nginx!, server: au01.x.woyh.xyz, port: 38778, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇦🇺 澳大利亚02（高速） - Welcome to nginx!, server: au02.x.woyh.xyz, port: 38779, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇮🇳 印度01（高速） - Welcome to nginx!, server: in01.x.woyh.xyz, port: 38776, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇮🇳 印度02（高速） - Welcome to nginx!, server: in02.x.woyh.xyz, port: 38777, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇬🇧 英国01（高速） - Welcome to nginx!, server: uk01.x.woyh.xyz, port: 38661, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇬🇧 英国02（高速） - Welcome to nginx!, server: uk02.x.woyh.xyz, port: 38662, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇬🇧 英国03（IPLC稳定） - Welcome to nginx!, server: uk03.x.woyh.xyz, port: 38663, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇬🇧 英国04（IPLC稳定） - Welcome to nginx!, server: uk04.x.woyh.xyz, port: 38664, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇬🇧 英国05（GPT专用） - Welcome to nginx!, server: uk05.x.woyh.xyz, port: 38665, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇬🇧 英国06（GPT专用） - Welcome to nginx!, server: uk06.x.woyh.xyz, port: 38667, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇩🇪 德国01（高速） - Welcome to nginx!, server: ger01.x.woyh.xyz, port: 38786, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇩🇪 德国02（高速） - Welcome to nginx!, server: ger02.x.woyh.xyz, port: 38787, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇫🇷 法国01（高速） - Welcome to nginx!, server: fr01.x.woyh.xyz, port: 38784, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇫🇷 法国02（高速） - Welcome to nginx!, server: fr02.x.woyh.xyz, port: 38785, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇺🇸 美国01（高速） - Welcome to nginx!, server: us01.x.woyh.xyz, port: 38670, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇺🇸 美国02（高速） - Welcome to nginx!, server: us02.x.woyh.xyz, port: 38672, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇺🇸 美国03（IPLC稳定） - Welcome to nginx!, server: us03.x.woyh.xyz, port: 38673, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇺🇸 美国04（IPLC稳定） - Welcome to nginx!, server: us04.x.woyh.xyz, port: 38674, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇺🇸 美国05（GPT专用） - Welcome to nginx!, server: us05.x.woyh.xyz, port: 38675, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇺🇸 美国06（GPT专用） - Welcome to nginx!, server: us06.x.woyh.xyz, port: 38676, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇨🇦 加拿大01（高速） - Welcome to nginx!, server: ca01.x.woyh.xyz, port: 38780, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇨🇦 加拿大02（高速） - Welcome to nginx!, server: ca01.x.woyh.xyz, port: 38781, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇲🇽 墨西哥01（高速） - Welcome to nginx!, server: mex01.x.woyh.xyz, port: 38782, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇲🇽 墨西哥02（高速） - Welcome to nginx!, server: mex02.x.woyh.xyz, port: 38783, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇧🇷 巴西01（高速） - Welcome to nginx!, server: br01.x.woyh.xyz, port: 38788, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- {name: 🇧🇷 巴西02（高速） - Welcome to nginx!, server: br02.x.woyh.xyz, port: 38789, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
+- *id311
+- *id312
+- *id313
+- *id314
+- *id315

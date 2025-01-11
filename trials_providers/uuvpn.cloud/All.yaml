@@ -1,0 +1,21 @@
+%YAML 1.1
+---
+proxies:
+- {name: ℹ️ 最新官网：www.uuvpn.life - uu加速首页, server: 最新官网：uuvpn.cloud, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
+- {name: ℹ️ x 代表使用倍率 - uu加速首页, server: x 代表使用倍率, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
+- {name: ℹ️ 用不了，请更新订阅 - uu加速首页, server: 用不了，请更新订阅, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
+- {name: ℹ️ 永久地址请查看活动公告 - uu加速首页, server: https://sulinkcloud.github.io/, port: 55626, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
+- {name: 🇸🇬 新加坡03 - uu加速首页, server: jscm1.yunnode.win, port: 31640, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
+- {name: 🇺🇸 美国02 - uu加速首页, server: jscm1.yunnode.win, port: 31644, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
+- {name: 🇭🇰 香港01 - uu加速首页, server: jscm1.yunnode.win, port: 31672, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
+- {name: 🇭🇰 香港02 - uu加速首页, server: jscm1.yunnode.win, port: 31675, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
+- {name: 🇺🇸 美国01 - uu加速首页, server: jscm1.yunnode.win, port: 31642, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
+- {name: 🇹🇼 台湾01 - uu加速首页, server: jscm1.yunnode.win, port: 31632, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
+- {name: 🇬🇧 英国02 - uu加速首页, server: jscm1.yunnode.win, port: 31648, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
+- {name: 🇭🇰 香港03 - uu加速首页, server: jscm1.yunnode.win, port: 31679, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
+- {name: 🇸🇬 新加坡01 - uu加速首页, server: jscm1.yunnode.win, port: 31636, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
+- {name: 🇸🇬 新加坡02 - uu加速首页, server: jscm1.yunnode.win, port: 31738, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
+- {name: 🇭🇰 香港06-备用 - uu加速首页, server: jsyd.yeahfast.com, port: 31681, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
+- {name: 🇭🇰 香港05-备用 - uu加速首页, server: 4c52.ens3.buzz, port: 31683, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
+- {name: 🇻🇳 越南01 - uu加速首页, server: jscm1.yunnode.win, port: 31660, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
+- {name: 🇺🇸 美国04 - uu加速首页, server: jscm1.yunnode.win, port: 31650, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}

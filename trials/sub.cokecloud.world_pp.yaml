@@ -145,7 +145,7 @@ proxy-groups:
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/sub.cokecloud.world/HK.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/sub.cokecloud.world/HK.yaml
     interval: 180
     path: trials_providers/sub.cokecloud.world/HK.yaml
     health-check:
@@ -154,7 +154,7 @@ proxy-providers:
       interval: 30
   TW:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/sub.cokecloud.world/TW.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/sub.cokecloud.world/TW.yaml
     interval: 180
     path: trials_providers/sub.cokecloud.world/TW.yaml
     health-check:
@@ -163,7 +163,7 @@ proxy-providers:
       interval: 30
   SG:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/sub.cokecloud.world/SG.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/sub.cokecloud.world/SG.yaml
     interval: 180
     path: trials_providers/sub.cokecloud.world/SG.yaml
     health-check:
@@ -172,7 +172,7 @@ proxy-providers:
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/sub.cokecloud.world/JP.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/sub.cokecloud.world/JP.yaml
     interval: 180
     path: trials_providers/sub.cokecloud.world/JP.yaml
     health-check:
@@ -181,7 +181,7 @@ proxy-providers:
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/sub.cokecloud.world/US.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/sub.cokecloud.world/US.yaml
     interval: 180
     path: trials_providers/sub.cokecloud.world/US.yaml
     health-check:
@@ -190,7 +190,7 @@ proxy-providers:
       interval: 30
   Other:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/sub.cokecloud.world/Other.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/sub.cokecloud.world/Other.yaml
     interval: 180
     path: trials_providers/sub.cokecloud.world/Other.yaml
     health-check:

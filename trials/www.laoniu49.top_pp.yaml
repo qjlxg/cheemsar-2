@@ -145,7 +145,7 @@ proxy-groups:
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/www.laoniu49.top/HK.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/www.laoniu49.top/HK.yaml
     interval: 180
     path: trials_providers/www.laoniu49.top/HK.yaml
     health-check:
@@ -154,7 +154,7 @@ proxy-providers:
       interval: 30
   TW:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/www.laoniu49.top/TW.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/www.laoniu49.top/TW.yaml
     interval: 180
     path: trials_providers/www.laoniu49.top/TW.yaml
     health-check:
@@ -163,7 +163,7 @@ proxy-providers:
       interval: 30
   SG:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/www.laoniu49.top/SG.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/www.laoniu49.top/SG.yaml
     interval: 180
     path: trials_providers/www.laoniu49.top/SG.yaml
     health-check:
@@ -172,7 +172,7 @@ proxy-providers:
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/www.laoniu49.top/JP.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/www.laoniu49.top/JP.yaml
     interval: 180
     path: trials_providers/www.laoniu49.top/JP.yaml
     health-check:
@@ -181,7 +181,7 @@ proxy-providers:
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/www.laoniu49.top/US.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/www.laoniu49.top/US.yaml
     interval: 180
     path: trials_providers/www.laoniu49.top/US.yaml
     health-check:
@@ -190,7 +190,7 @@ proxy-providers:
       interval: 30
   Other:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/www.laoniu49.top/Other.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/www.laoniu49.top/Other.yaml
     interval: 180
     path: trials_providers/www.laoniu49.top/Other.yaml
     health-check:

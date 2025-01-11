@@ -119,7 +119,7 @@ proxy-groups:
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/hy-2.sbs/HK.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/hy-2.sbs/HK.yaml
     interval: 180
     path: trials_providers/hy-2.sbs/HK.yaml
     health-check:
@@ -128,7 +128,7 @@ proxy-providers:
       interval: 30
   TW:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/hy-2.sbs/TW.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/hy-2.sbs/TW.yaml
     interval: 180
     path: trials_providers/hy-2.sbs/TW.yaml
     health-check:
@@ -137,7 +137,7 @@ proxy-providers:
       interval: 30
   SG:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/hy-2.sbs/SG.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/hy-2.sbs/SG.yaml
     interval: 180
     path: trials_providers/hy-2.sbs/SG.yaml
     health-check:
@@ -146,7 +146,7 @@ proxy-providers:
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/hy-2.sbs/US.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/hy-2.sbs/US.yaml
     interval: 180
     path: trials_providers/hy-2.sbs/US.yaml
     health-check:

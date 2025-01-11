@@ -91,7 +91,7 @@ proxy-groups:
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/tz.vfkum.website/HK.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/tz.vfkum.website/HK.yaml
     interval: 180
     path: trials_providers/tz.vfkum.website/HK.yaml
     health-check:
@@ -100,7 +100,7 @@ proxy-providers:
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/tz.vfkum.website/US.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/tz.vfkum.website/US.yaml
     interval: 180
     path: trials_providers/tz.vfkum.website/US.yaml
     health-check:
@@ -109,7 +109,7 @@ proxy-providers:
       interval: 30
   Other:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/tz.vfkum.website/Other.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/tz.vfkum.website/Other.yaml
     interval: 180
     path: trials_providers/tz.vfkum.website/Other.yaml
     health-check:

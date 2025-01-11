@@ -80,7 +80,7 @@ proxy-groups:
 proxy-providers:
   TW:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/sulian.life/TW.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/sulian.life/TW.yaml
     interval: 180
     path: trials_providers/sulian.life/TW.yaml
     health-check:
@@ -89,7 +89,7 @@ proxy-providers:
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/sulian.life/US.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/sulian.life/US.yaml
     interval: 180
     path: trials_providers/sulian.life/US.yaml
     health-check:

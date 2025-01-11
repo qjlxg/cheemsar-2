@@ -1,0 +1,8 @@
+%YAML 1.1
+---
+proxies:
+- {name: ℹ️ 新地址www.xiangminghao.top - 叼毛机场, server: tunnel-08301515.520300.xyz, port: 11410, type: ss, cipher: chacha20-ietf-poly1305, password: c9ac717b-5ac5-4322-9652-a519b19e3c99, udp: true}
+- {name: 缅北 - 叼毛机场, server: 156.244.36.109, port: 59830, type: vmess, uuid: c9ac717b-5ac5-4322-9652-a519b19e3c99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇬🇧 英国-1 - 叼毛机场, server: 194.147.16.95, port: 57781, type: vmess, uuid: c9ac717b-5ac5-4322-9652-a519b19e3c99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇬🇧 英国-2 - 叼毛机场, server: 194.147.16.95, port: 57782, type: vmess, uuid: c9ac717b-5ac5-4322-9652-a519b19e3c99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: ℹ️ 官网地址www.kkjichang.top - 叼毛机场, server: 103.23.148.195, port: 59932, type: vmess, uuid: c9ac717b-5ac5-4322-9652-a519b19e3c99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}

@@ -147,7 +147,7 @@ proxy-groups:
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/xc1.shishi1.buzz/HK.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/xc1.shishi1.buzz/HK.yaml
     interval: 180
     path: trials_providers/xc1.shishi1.buzz/HK.yaml
     health-check:
@@ -156,7 +156,7 @@ proxy-providers:
       interval: 30
   TW:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/xc1.shishi1.buzz/TW.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/xc1.shishi1.buzz/TW.yaml
     interval: 180
     path: trials_providers/xc1.shishi1.buzz/TW.yaml
     health-check:
@@ -165,7 +165,7 @@ proxy-providers:
       interval: 30
   SG:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/xc1.shishi1.buzz/SG.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/xc1.shishi1.buzz/SG.yaml
     interval: 180
     path: trials_providers/xc1.shishi1.buzz/SG.yaml
     health-check:
@@ -174,7 +174,7 @@ proxy-providers:
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/xc1.shishi1.buzz/JP.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/xc1.shishi1.buzz/JP.yaml
     interval: 180
     path: trials_providers/xc1.shishi1.buzz/JP.yaml
     health-check:
@@ -183,7 +183,7 @@ proxy-providers:
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/xc1.shishi1.buzz/US.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/xc1.shishi1.buzz/US.yaml
     interval: 180
     path: trials_providers/xc1.shishi1.buzz/US.yaml
     health-check:
@@ -192,7 +192,7 @@ proxy-providers:
       interval: 30
   Other:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/xc1.shishi1.buzz/Other.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/xc1.shishi1.buzz/Other.yaml
     interval: 180
     path: trials_providers/xc1.shishi1.buzz/Other.yaml
     health-check:
@@ -201,7 +201,7 @@ proxy-providers:
       interval: 30
   p_All_CN:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-2/main/trials_providers/xc1.shishi1.buzz/p_All_CN.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/xc1.shishi1.buzz/p_All_CN.yaml
     interval: 180
     path: trials_providers/xc1.shishi1.buzz/p_All_CN.yaml
     health-check:
