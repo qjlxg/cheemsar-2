@@ -1,9 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇯🇵 日本01（高速） - Welcome to nginx!, server: jp01.x.woyh.xyz, port: 38621, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
-- {name: 🇯🇵 日本02（高速） - Welcome to nginx!, server: jp02.x.woyh.xyz, port: 38622, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
-- {name: 🇯🇵 日本03（IPLC稳定） - Welcome to nginx!, server: jp03.x.woyh.xyz, port: 38623, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
-- {name: 🇯🇵 日本04（IPLC稳定） - Welcome to nginx!, server: jp04.x.woyh.xyz, port: 38624, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
-- {name: 🇯🇵 日本05（GPT专用） - Welcome to nginx!, server: jp05.x.woyh.xyz, port: 38625, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}
-- {name: 🇯🇵 日本06（GPT专用） - Welcome to nginx!, server: jp06.x.woyh.xyz, port: 38627, type: ss, cipher: chacha20-ietf-poly1305, password: 7d9b0a1f-3f6d-4939-921b-f92e252948ea, udp: true}

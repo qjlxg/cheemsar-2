@@ -1,7 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 美国-无视晚高峰 - 草榴加速器, server: jehw72eh.97kb.com, port: 30976, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}
-- {name: 🇺🇸 美国-无视晚高峰2 - 草榴加速器, server: jehw72eh.97kb.com, port: 46273, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}
-- {name: 🇺🇸 美国-无视晚高峰3 - 草榴加速器, server: gjsc482gjdce.gym0boy.com, port: 39251, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}
-- {name: 🇺🇸 美国二区|中转1 - 草榴加速器, server: gjsc482gjdce.gym0boy.com, port: 40682, type: ss, cipher: chacha20-ietf-poly1305, password: 4bdbeabe-6c83-47cb-aefb-090e90603306, udp: true}

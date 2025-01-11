@@ -1,7 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇭🇰 江苏-香港隧道专线-1 - 叼毛机场, server: tunnel-08301515.520300.xyz, port: 10608, type: ss, cipher: chacha20-ietf-poly1305, password: c9ac717b-5ac5-4322-9652-a519b19e3c99, udp: true}
-- {name: 🇭🇰 广东-香港隧道专线-1 - 叼毛机场, server: tunnel-07312159.520300.xyz, port: 12588, type: ss, cipher: chacha20-ietf-poly1305, password: c9ac717b-5ac5-4322-9652-a519b19e3c99, udp: true}
-- {name: 🇭🇰 香港-1 - 叼毛机场, server: 103.23.148.195, port: 54680, type: vmess, uuid: c9ac717b-5ac5-4322-9652-a519b19e3c99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇭🇰 香港-2 - 叼毛机场, server: 103.23.148.195, port: 52288, type: vmess, uuid: c9ac717b-5ac5-4322-9652-a519b19e3c99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}

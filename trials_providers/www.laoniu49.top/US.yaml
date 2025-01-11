@@ -1,7 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 美国节点1 - 老牛云, server: 183.232.159.51, port: 11329, type: ss, cipher: chacha20-ietf-poly1305, password: a5d4cba6-c471-4154-9ec5-c678d64b044e, udp: true}
-- {name: 🇺🇸 美国节点2 - 老牛云, server: 183.232.159.51, port: 47046, type: ss, cipher: chacha20-ietf-poly1305, password: a5d4cba6-c471-4154-9ec5-c678d64b044e, udp: true}
-- {name: 🇺🇸 美国节点3 - 老牛云, server: 183.232.159.51, port: 37959, type: ss, cipher: chacha20-ietf-poly1305, password: a5d4cba6-c471-4154-9ec5-c678d64b044e, udp: true}
-- {name: 🇺🇸 美国节点4 - 老牛云, server: 183.232.159.51, port: 19505, type: ss, cipher: chacha20-ietf-poly1305, password: a5d4cba6-c471-4154-9ec5-c678d64b044e, udp: true}

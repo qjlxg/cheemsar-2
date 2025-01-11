@@ -1,7 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇯🇵 日本01 - 血液加速器, server: gy.666666222.shop, port: 20002, type: ss, cipher: chacha20-ietf-poly1305, password: 5475428d-3fd3-485b-a3e6-79d5351781a7, udp: true}
-- {name: 🇯🇵 日本02 - 血液加速器, server: gy.666666222.shop, port: 20004, type: ss, cipher: chacha20-ietf-poly1305, password: 5475428d-3fd3-485b-a3e6-79d5351781a7, udp: true}
-- {name: 🇯🇵 日本03 - 血液加速器, server: gy.666666222.shop, port: 20006, type: ss, cipher: chacha20-ietf-poly1305, password: 5475428d-3fd3-485b-a3e6-79d5351781a7, udp: true}
-- {name: 🇯🇵 日本04 - 血液加速器, server: gy.666666222.shop, port: 20008, type: ss, cipher: chacha20-ietf-poly1305, password: 5475428d-3fd3-485b-a3e6-79d5351781a7, udp: true}

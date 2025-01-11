@@ -1,9 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇭🇰 香港01 - uu加速首页, server: jscm1.yunnode.win, port: 31672, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
-- {name: 🇭🇰 香港02 - uu加速首页, server: jscm1.yunnode.win, port: 31675, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
-- {name: 🇹🇼 台湾01 - uu加速首页, server: jscm1.yunnode.win, port: 31632, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
-- {name: 🇭🇰 香港03 - uu加速首页, server: jscm1.yunnode.win, port: 31679, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
-- {name: 🇭🇰 香港06-备用 - uu加速首页, server: jsyd.yeahfast.com, port: 31681, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}
-- {name: 🇭🇰 香港05-备用 - uu加速首页, server: 4c52.ens3.buzz, port: 31683, type: ss, cipher: chacha20-ietf-poly1305, password: 7cdcb625-e6d5-4697-9d1c-1db83c8e4ada, udp: true}

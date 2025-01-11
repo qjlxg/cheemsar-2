@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇦🇿 最新节点支持Hysteria2协议，请到官网下载最新客户端（最新官网az.170203.xyz） - AZ云, server: twjpzznew.564659.xyz, port: 19667, type: trojan, password: 566dea3b-69f8-456b-beeb-98891beb3101, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}

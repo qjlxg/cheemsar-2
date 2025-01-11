@@ -1,8 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇭🇰 香港中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 43641, type: ss, cipher: chacha20-ietf-poly1305, password: 62a18bd4-4104-4f5c-91ff-d1fbb16f85b0, udp: true}
-- {name: 🇭🇰 香港中转✈02 - 菜鸟机场, server: chiyu.myfczy169.top, port: 36858, type: ss, cipher: chacha20-ietf-poly1305, password: 62a18bd4-4104-4f5c-91ff-d1fbb16f85b0, udp: true}
-- {name: 🇭🇰 香港中转✈03 - 菜鸟机场, server: chiyu.myfczy169.top, port: 14407, type: ss, cipher: chacha20-ietf-poly1305, password: 62a18bd4-4104-4f5c-91ff-d1fbb16f85b0, udp: true}
-- {name: 🇭🇰 香港中转✈04 - 菜鸟机场, server: chiyu.myfczy169.top, port: 11618, type: ss, cipher: chacha20-ietf-poly1305, password: 62a18bd4-4104-4f5c-91ff-d1fbb16f85b0, udp: true}
-- {name: 🇭🇰 香港中转✈05 - 菜鸟机场, server: chiyu.myfczy169.top, port: 20901, type: ss, cipher: chacha20-ietf-poly1305, password: 62a18bd4-4104-4f5c-91ff-d1fbb16f85b0, udp: true}
