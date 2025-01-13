@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡-01 - 畅游无限, server: 54.169.206.77, port: 8443, type: vmess, uuid: 414a5ff4-8564-4b47-a373-59d1d0410646, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇸🇬 新加坡-02 - 畅游无限, server: 52.77.251.119, port: 8443, type: vmess, uuid: 414a5ff4-8564-4b47-a373-59d1d0410646, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇸🇬 新加坡-03 - 畅游无限, server: 13.212.23.203, port: 8443, type: vmess, uuid: 414a5ff4-8564-4b47-a373-59d1d0410646, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇸🇬 新加坡-04 - 畅游无限, server: 18.143.146.102, port: 8443, type: vmess, uuid: 414a5ff4-8564-4b47-a373-59d1d0410646, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇸🇬 新加坡-05 - 畅游无限, server: 47.129.117.250, port: 8443, type: vmess, uuid: 414a5ff4-8564-4b47-a373-59d1d0410646, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇸🇬 新加坡-06 - 畅游无限, server: 47.129.191.1, port: 8443, type: vmess, uuid: 414a5ff4-8564-4b47-a373-59d1d0410646, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- {name: 🇸🇬 新加坡-01 - 畅游无限, server: 54.179.184.74, port: 8443, type: vmess, uuid: 414a5ff4-8564-4b47-a373-59d1d0410646, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- {name: 🇸🇬 新加坡-02 - 畅游无限, server: 54.179.10.90, port: 8443, type: vmess, uuid: 414a5ff4-8564-4b47-a373-59d1d0410646, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- {name: 🇸🇬 新加坡-03 - 畅游无限, server: 52.77.236.26, port: 8443, type: vmess, uuid: 414a5ff4-8564-4b47-a373-59d1d0410646, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- {name: 🇸🇬 新加坡-04 - 畅游无限, server: 46.137.203.220, port: 8443, type: vmess, uuid: 414a5ff4-8564-4b47-a373-59d1d0410646, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- {name: 🇸🇬 新加坡-05 - 畅游无限, server: 13.212.170.56, port: 8443, type: vmess, uuid: 414a5ff4-8564-4b47-a373-59d1d0410646, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- {name: 🇸🇬 新加坡-06 - 畅游无限, server: 13.212.111.77, port: 8443, type: vmess, uuid: 414a5ff4-8564-4b47-a373-59d1d0410646, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}

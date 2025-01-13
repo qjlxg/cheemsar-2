@@ -5,4 +5,4 @@ proxies:
 - &id002 {name: 🇯🇵 日本-02 - 畅游无限, server: 13.231.243.90, port: 8443, type: vmess, uuid: 37e95061-98fa-441f-b7ba-97bcd0a43ba8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
 - *id001
 - *id002
-- {name: 🇯🇵 日本01 - meiguis, server: pu002.xccccao.com, port: 38605, type: ss, cipher: chacha20-ietf-poly1305, password: d408dd54-2c48-434e-a017-faa2e0cae64d, udp: true}
+- {name: 🇯🇵 日本01 - meiguis, server: pu002.xccccao.com, port: 38605, type: ss, cipher: chacha20-ietf-poly1305, password: 7dda2b76-e418-406d-b228-c2249b42a58a, udp: true}
