@@ -1,0 +1,6 @@
+%YAML 1.1
+---
+proxies:
+- {name: '🇸🇬 新加坡[02] - Heima', server: pop.09d21837-9b89-4490-92bf-eabf449e3321.heima360.cc, port: 443, type: trojan, password: c88e518c-fb9a-4fa3-99ea-d65157275c4b, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 Singapore#1 - 虚幻加速, server: svip1.pingboy.top, port: 28673, type: vmess, uuid: dba41dca-c362-4279-9f05-e928922e4dfa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 Singapore#3 - 虚幻加速, server: svip1.pingboy.top, port: 28673, type: vmess, uuid: dba41dca-c362-4279-9f05-e928922e4dfa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

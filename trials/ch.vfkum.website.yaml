@@ -12,55 +12,25 @@ proxy-groups:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
   - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
-  - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
-  - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
   - REJECT
 - name: ⚡ ‍低延迟
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id001
-  - TW
-  - SG
-  - JP
-  - p_All_US
-  - p_All_Other
-  - p_All_HK_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_US_US_US_US_US_US_US
-  - p_All_All_All_All_All_All_All_US_US_US_US_US_US_US
-  - p_All_All_All_All_All_All_All_US_US_US_US_US_US_US
-  - p_All_All_All_All_All_All_All_US_US_US_US_US_US_US
-  - p_All_All_All_All_All_All_All_US_US_US_US_US_US_US
-  - p_All_All_All_All_All_All_All_US_US_US_US_US_US_US
-  - p_All_All_All_All_All_All_All_US_US_US_US_US_US_US
-  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
+  proxies: &id001
+  - 🇭🇰 中国-香港-F3-001 - 漏网之鱼
+  - 🇺🇸 美国-纽约-F3-001 - 漏网之鱼
+  - 🇷🇺 俄罗斯-莫斯科-F3-001 - 漏网之鱼
 - name: 👆🏻 ‍指定
   type: select
-  use: *id001
+  proxies: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -78,26 +48,16 @@ proxy-groups:
   proxies:
   - 🛩️ ‍墙内
   - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
   - ✈️ ‍起飞
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
   - 🇺🇸 ‍美国
-  - 🇹🇼 ‍台湾
-  - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
   - 🎏 ‍其他
   - ✈️ ‍起飞
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
@@ -109,171 +69,38 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id002
-  - p_All_HK_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-- name: 🇹🇼 ‍台湾
-  type: url-test
-  tolerance: 100
-  use: &id003
-  - TW
-- name: 🇨🇳 ‍中国
-  type: url-test
-  tolerance: 100
-  use: &id004
-  - TW
-  - p_All_HK_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-- name: 🇸🇬 ‍新加坡
-  type: url-test
-  tolerance: 100
-  use: &id005
-  - SG
-- name: 🇯🇵 ‍日本
-  type: url-test
-  tolerance: 100
-  use: &id006
-  - JP
+  proxies: &id002
+  - 🇭🇰 中国-香港-F3-001 - 漏网之鱼
 - name: 🇺🇸 ‍美国
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 300
-  use: &id007
-  - p_All_US
-  - p_All_All_All_All_All_All_All_US_US_US_US_US_US_US
-  - p_All_All_All_All_All_All_All_US_US_US_US_US_US_US
-  - p_All_All_All_All_All_All_All_US_US_US_US_US_US_US
-  - p_All_All_All_All_All_All_All_US_US_US_US_US_US_US
-  - p_All_All_All_All_All_All_All_US_US_US_US_US_US_US
-  - p_All_All_All_All_All_All_All_US_US_US_US_US_US_US
-  - p_All_All_All_All_All_All_All_US_US_US_US_US_US_US
+  proxies: &id003
+  - 🇺🇸 美国-纽约-F3-001 - 漏网之鱼
 - name: 🎏 ‍其他
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id008
-  - p_All_Other
-  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
+  proxies: &id004
+  - 🇷🇺 俄罗斯-莫斯科-F3-001 - 漏网之鱼
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  use: *id002
-- name: 👆🏻🇹🇼 ‍台湾
-  type: select
-  use: *id003
-- name: 👆🏻🇨🇳 ‍中国
-  type: select
-  use: *id004
-- name: 👆🏻🇸🇬 ‍新加坡
-  type: select
-  use: *id005
-- name: 👆🏻🇯🇵 ‍日本
-  type: select
-  use: *id006
+  proxies: *id002
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  use: *id007
+  proxies: *id003
 - name: 👆🏻🎏 ‍其他
   type: select
-  use: *id008
-proxy-providers:
-  TW:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/TW.yaml
-    interval: 180
-    path: trials_providers/TW.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  SG:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/SG.yaml
-    interval: 180
-    path: trials_providers/SG.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  JP:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/JP.yaml
-    interval: 180
-    path: trials_providers/JP.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_US:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/p_All_US.yaml
-    interval: 180
-    path: trials_providers/p_All_US.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_Other:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/p_All_Other.yaml
-    interval: 180
-    path: trials_providers/p_All_Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_HK_CN:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/p_All_HK_CN.yaml
-    interval: 180
-    path: trials_providers/p_All_HK_CN.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN.yaml
-    interval: 180
-    path: trials_providers/p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_All_All_All_All_All_US_US_US_US_US_US_US:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/p_All_All_All_All_All_All_All_US_US_US_US_US_US_US.yaml
-    interval: 180
-    path: trials_providers/p_All_All_All_All_All_All_All_US_US_US_US_US_US_US.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other.yaml
-    interval: 180
-    path: trials_providers/p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
+  proxies: *id004
+proxies:
+- {name: 🇭🇰 中国-香港-F3-001 - 漏网之鱼, server: 212.192.13.68, port: 23010, type: vmess, uuid: 44da893a-a1e4-405e-a69d-0e06cbb15aab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇺🇸 美国-纽约-F3-001 - 漏网之鱼, server: 207.90.237.96, port: 23008, type: vmess, uuid: 44da893a-a1e4-405e-a69d-0e06cbb15aab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇷🇺 俄罗斯-莫斯科-F3-001 - 漏网之鱼, server: 185.22.152.236, port: 23010, type: vmess, uuid: 44da893a-a1e4-405e-a69d-0e06cbb15aab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

@@ -31,33 +31,12 @@ proxy-groups:
   type: url-test
   tolerance: 100
   use: &id001
+  - HK
   - TW
   - SG
   - JP
-  - p_All_US
-  - p_All_Other
-  - p_All_HK_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_US_US_US_US_US_US_US
-  - p_All_All_All_All_All_All_All_US_US_US_US_US_US_US
-  - p_All_All_All_All_All_All_All_US_US_US_US_US_US_US
-  - p_All_All_All_All_All_All_All_US_US_US_US_US_US_US
-  - p_All_All_All_All_All_All_All_US_US_US_US_US_US_US
-  - p_All_All_All_All_All_All_All_US_US_US_US_US_US_US
-  - p_All_All_All_All_All_All_All_US_US_US_US_US_US_US
-  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
+  - US
+  - Other
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
@@ -111,14 +90,7 @@ proxy-groups:
   type: url-test
   tolerance: 100
   use: &id002
-  - p_All_HK_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
+  - HK
 - name: 🇹🇼 ‍台湾
   type: url-test
   tolerance: 100
@@ -128,15 +100,8 @@ proxy-groups:
   type: url-test
   tolerance: 100
   use: &id004
+  - HK
   - TW
-  - p_All_HK_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
-  - p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN
 - name: 🇸🇬 ‍新加坡
   type: url-test
   tolerance: 100
@@ -151,26 +116,12 @@ proxy-groups:
   type: url-test
   tolerance: 300
   use: &id007
-  - p_All_US
-  - p_All_All_All_All_All_All_All_US_US_US_US_US_US_US
-  - p_All_All_All_All_All_All_All_US_US_US_US_US_US_US
-  - p_All_All_All_All_All_All_All_US_US_US_US_US_US_US
-  - p_All_All_All_All_All_All_All_US_US_US_US_US_US_US
-  - p_All_All_All_All_All_All_All_US_US_US_US_US_US_US
-  - p_All_All_All_All_All_All_All_US_US_US_US_US_US_US
-  - p_All_All_All_All_All_All_All_US_US_US_US_US_US_US
+  - US
 - name: 🎏 ‍其他
   type: url-test
   tolerance: 100
   use: &id008
-  - p_All_Other
-  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
+  - Other
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   use: *id002
@@ -193,83 +144,56 @@ proxy-groups:
   type: select
   use: *id008
 proxy-providers:
+  HK:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/api.heima2u.com/HK.yaml
+    interval: 180
+    path: trials_providers/api.heima2u.com/HK.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
   TW:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/TW.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/api.heima2u.com/TW.yaml
     interval: 180
-    path: trials_providers/TW.yaml
+    path: trials_providers/api.heima2u.com/TW.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   SG:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/SG.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/api.heima2u.com/SG.yaml
     interval: 180
-    path: trials_providers/SG.yaml
+    path: trials_providers/api.heima2u.com/SG.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/JP.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/api.heima2u.com/JP.yaml
     interval: 180
-    path: trials_providers/JP.yaml
+    path: trials_providers/api.heima2u.com/JP.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
-  p_All_US:
+  US:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/p_All_US.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/api.heima2u.com/US.yaml
     interval: 180
-    path: trials_providers/p_All_US.yaml
+    path: trials_providers/api.heima2u.com/US.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
-  p_All_Other:
+  Other:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/p_All_Other.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/api.heima2u.com/Other.yaml
     interval: 180
-    path: trials_providers/p_All_Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_HK_CN:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/p_All_HK_CN.yaml
-    interval: 180
-    path: trials_providers/p_All_HK_CN.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN.yaml
-    interval: 180
-    path: trials_providers/p_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_All_All_All_All_All_US_US_US_US_US_US_US:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/p_All_All_All_All_All_All_All_US_US_US_US_US_US_US.yaml
-    interval: 180
-    path: trials_providers/p_All_All_All_All_All_All_All_US_US_US_US_US_US_US.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other.yaml
-    interval: 180
-    path: trials_providers/p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other.yaml
+    path: trials_providers/api.heima2u.com/Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
