@@ -1,4 +1,5 @@
 
+
 name: Auto_proxy
 # w1770946466 北慕白  https://github.com/w1770946466/Auto_proxy
 # 触发条件
@@ -8,7 +9,7 @@ on:
   schedule:
     # - cron: '*/5 * * * *'
     # 表达式生成  https://crontab.guru/
-    - cron: '0 */399 * * *'
+    - cron: '0 */600 * * *'
 
 jobs:
   deploy:
@@ -21,7 +22,7 @@ jobs:
       with:
         python-version: '3.x'
     - name: 加载缓存
-      uses: actions/cache@v2
+      uses: actions/cache@v3
       with:
         path: ~/.cache/pip
         key: ${{ runner.os }}-pip-${{ hashFiles('**/run_in_Actions/requirements2.txt') }}
@@ -36,8 +37,6 @@ jobs:
       run: |
 
         python ./TG_proxy_main.py
-
-        
       
     - name: 提交更改
       run: |                 
@@ -47,6 +46,7 @@ jobs:
         git add ./sub/*
         git add ./Long_term_subscription_num    
         git commit -m "$(date '+%Y-%m-%d %H:%M:%S') "
+        
     - name: 推送更改
       uses:  ad-m/github-push-action@master
       with:
