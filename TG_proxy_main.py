@@ -563,7 +563,7 @@ home_urls =(
 'https://tugeda.xyz',
 'https://tuzi226.top',
 'https://tv.modemhub.work',
-'https://tz.vfkum.website',
+
 'https://u4dqz2t0x576.syynweb.shop',
 'https://update.dotusub.xyz',
 'https://update.glados-config.com',
@@ -578,7 +578,7 @@ home_urls =(
 'https://user413.dukadi.one',
 'https://user9125.eyudy.one',
 'https://v.spwvpn.com',
-'https://v1.mk',
+
 'https://v2.545155.xyz',
 'https://v2.ixlmo.com',
 'https://v2.ixlmo.net',
@@ -595,7 +595,7 @@ home_urls =(
 'https://vot.981176.xyz',
 'https://vpn.linuxdo.pro',
 'https://vpn6688.com',
-'https://vt.louwangzhiyu.xyz',
+
 'https://vtwoc1.top',
 'https://vtwoc3.top',
 'https://vyyy.vyunyunnode.top',
@@ -651,7 +651,7 @@ home_urls =(
 'https://www.cloudshops.xyz',
 'https://www.crosswall.org',
 'https://www.cwy-water.us.kg',
-'https://www.dabai.in',
+
 'https://www.dma.icu',
 'https://www.elinksapi.com',
 'https://www.fdzdk.xyz',
@@ -668,7 +668,6 @@ home_urls =(
 'https://www.lbxjc.online',
 'https://www.liangyuandian.at',
 'https://www.liangyuandian.life',
-'https://www.louwangzhiyu.xyz',
 'https://www.m2net.cc',
 'https://www.m2net.lol',
 'https://www.miyun.me',
