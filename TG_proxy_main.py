@@ -16,9 +16,9 @@ import chardet
 
 #试用机场链接
 home_urls =(
-'https://app.lwjyj.com',
+
 'https://app.tline.website',
-'https://aq.louwangzhiyu.xyz',
+
 'https://artislg.com',
 'https://asa.lol',
 'https://asa01.888545.xyz',
