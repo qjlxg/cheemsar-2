@@ -9,8 +9,52 @@ proxy-groups:
 - name: ✈️ ‍起飞
   type: select
   proxies:
+  - ⚡ ‍低延迟
+  - 👆🏻 ‍指定
+  - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
+  - 🇨🇳 ‍中国
+  - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
+  - 🇺🇸 ‍美国
+  - 🎏 ‍其他
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
+  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
   - DIRECT
   - REJECT
+- name: ⚡ ‍低延迟
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 100
+  proxies: &id001
+  - 🇭🇰 香港[01] - Heima
+  - 🇭🇰 香港[04]中转 - Heima
+  - 🇭🇰 香港[05]中转 - Heima
+  - 🇭🇰 香港[06] - Heima
+  - 🇭🇰 香港[07]中转 - Heima
+  - 🇹🇼 台湾[01]中转 - Heima
+  - 🇸🇬 新加坡[02] - Heima
+  - 🇯🇵 日本[01] - Heima
+  - 🇺🇸 美国[02] - Heima
+  - 🇺🇸 美国[03]中转 - Heima
+  - 🇺🇸 美国[04] - Heima
+  - 🇰🇷 韩国[01]中转 - Heima
+  - 🇫🇷 法国[01]中转 - Heima
+  - 🇩🇪 德国[01]中转 - Heima
+  - 🇨🇦 加拿大[01]中转 - Heima
+  - 🇧🇷 巴西[01]中转 - Heima
+  - 🇷🇺 俄罗斯[01]中转 - Heima
+  - 🇲🇾 马来西亚[01] - Heima
+  - 🇲🇾 马来西亚[02] - Heima
+- name: 👆🏻 ‍指定
+  type: select
+  proxies: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -27,11 +71,29 @@ proxy-groups:
   type: select
   proxies:
   - 🛩️ ‍墙内
+  - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
+  - 🇨🇳 ‍中国
   - ✈️ ‍起飞
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
+  - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
+  - 🇺🇸 ‍美国
+  - 🇹🇼 ‍台湾
+  - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
+  - 🎏 ‍其他
   - ✈️ ‍起飞
+  - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🎏 ‍其他
+  - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
   type: select
@@ -39,7 +101,114 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-proxies: []
+- name: 🇭🇰 ‍香港
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id002
+  - 🇭🇰 香港[01] - Heima
+  - 🇭🇰 香港[04]中转 - Heima
+  - 🇭🇰 香港[05]中转 - Heima
+  - 🇭🇰 香港[06] - Heima
+  - 🇭🇰 香港[07]中转 - Heima
+- name: 🇹🇼 ‍台湾
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id003
+  - 🇹🇼 台湾[01]中转 - Heima
+- name: 🇨🇳 ‍中国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id004
+  - 🇭🇰 香港[01] - Heima
+  - 🇭🇰 香港[04]中转 - Heima
+  - 🇭🇰 香港[05]中转 - Heima
+  - 🇭🇰 香港[06] - Heima
+  - 🇭🇰 香港[07]中转 - Heima
+  - 🇹🇼 台湾[01]中转 - Heima
+- name: 🇸🇬 ‍新加坡
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id005
+  - 🇸🇬 新加坡[02] - Heima
+- name: 🇯🇵 ‍日本
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id006
+  - 🇯🇵 日本[01] - Heima
+- name: 🇺🇸 ‍美国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 300
+  proxies: &id007
+  - 🇺🇸 美国[02] - Heima
+  - 🇺🇸 美国[03]中转 - Heima
+  - 🇺🇸 美国[04] - Heima
+- name: 🎏 ‍其他
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 100
+  proxies: &id008
+  - 🇰🇷 韩国[01]中转 - Heima
+  - 🇫🇷 法国[01]中转 - Heima
+  - 🇩🇪 德国[01]中转 - Heima
+  - 🇨🇦 加拿大[01]中转 - Heima
+  - 🇧🇷 巴西[01]中转 - Heima
+  - 🇷🇺 俄罗斯[01]中转 - Heima
+  - 🇲🇾 马来西亚[01] - Heima
+  - 🇲🇾 马来西亚[02] - Heima
+- name: 👆🏻🇭🇰 ‍香港
+  type: select
+  proxies: *id002
+- name: 👆🏻🇹🇼 ‍台湾
+  type: select
+  proxies: *id003
+- name: 👆🏻🇨🇳 ‍中国
+  type: select
+  proxies: *id004
+- name: 👆🏻🇸🇬 ‍新加坡
+  type: select
+  proxies: *id005
+- name: 👆🏻🇯🇵 ‍日本
+  type: select
+  proxies: *id006
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id007
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id008
+proxies:
+- {name: '🇰🇷 韩国[01]中转 - Heima', server: vip.baima360.com, port: 42344, type: ss, cipher: chacha20-ietf-poly1305, password: f30073d4-c493-4a88-99a7-bcfced30428b, udp: true}
+- {name: '🇫🇷 法国[01]中转 - Heima', server: vip.baima360.com, port: 35330, type: ss, cipher: chacha20-ietf-poly1305, password: f30073d4-c493-4a88-99a7-bcfced30428b, udp: true}
+- {name: '🇺🇸 美国[02] - Heima', server: pop.ede9314c-61e5-4c9a-8e41-275a29f5120e.heima360.cc, port: 443, type: trojan, password: f30073d4-c493-4a88-99a7-bcfced30428b, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 美国[03]中转 - Heima', server: vip.baima360.com, port: 17941, type: ss, cipher: chacha20-ietf-poly1305, password: f30073d4-c493-4a88-99a7-bcfced30428b, udp: true}
+- {name: '🇺🇸 美国[04] - Heima', server: 45.83.140.22, port: 658, type: trojan, password: f30073d4-c493-4a88-99a7-bcfced30428b, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 香港[01] - Heima', server: 107.149.254.26, port: 158, type: trojan, password: f30073d4-c493-4a88-99a7-bcfced30428b, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 香港[04]中转 - Heima', server: vip.baima360.com, port: 65519, type: ss, cipher: chacha20-ietf-poly1305, password: f30073d4-c493-4a88-99a7-bcfced30428b, udp: true}
+- {name: '🇭🇰 香港[05]中转 - Heima', server: vip.baima360.com, port: 36511, type: ss, cipher: chacha20-ietf-poly1305, password: f30073d4-c493-4a88-99a7-bcfced30428b, udp: true}
+- {name: '🇭🇰 香港[06] - Heima', server: 107.149.254.26, port: 159, type: trojan, password: f30073d4-c493-4a88-99a7-bcfced30428b, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 香港[07]中转 - Heima', server: vip.baima360.com, port: 36214, type: ss, cipher: chacha20-ietf-poly1305, password: f30073d4-c493-4a88-99a7-bcfced30428b, udp: true}
+- {name: '🇹🇼 台湾[01]中转 - Heima', server: vip.baima360.com, port: 41004, type: ss, cipher: chacha20-ietf-poly1305, password: f30073d4-c493-4a88-99a7-bcfced30428b, udp: true}
+- {name: '🇯🇵 日本[01] - Heima', server: vip.baima360.com, port: 15888, type: ss, cipher: chacha20-ietf-poly1305, password: f30073d4-c493-4a88-99a7-bcfced30428b, udp: true}
+- {name: '🇸🇬 新加坡[02] - Heima', server: pop.09d21837-9b89-4490-92bf-eabf449e3321.heima360.cc, port: 443, type: trojan, password: f30073d4-c493-4a88-99a7-bcfced30428b, skip-cert-verify: true, udp: true}
+- {name: '🇩🇪 德国[01]中转 - Heima', server: vip.baima360.com, port: 55997, type: ss, cipher: chacha20-ietf-poly1305, password: f30073d4-c493-4a88-99a7-bcfced30428b, udp: true}
+- {name: '🇨🇦 加拿大[01]中转 - Heima', server: vip.baima360.com, port: 29292, type: ss, cipher: chacha20-ietf-poly1305, password: f30073d4-c493-4a88-99a7-bcfced30428b, udp: true}
+- {name: '🇧🇷 巴西[01]中转 - Heima', server: vip.baima360.com, port: 30752, type: ss, cipher: chacha20-ietf-poly1305, password: f30073d4-c493-4a88-99a7-bcfced30428b, udp: true}
+- {name: '🇷🇺 俄罗斯[01]中转 - Heima', server: vip.baima360.com, port: 23499, type: ss, cipher: chacha20-ietf-poly1305, password: f30073d4-c493-4a88-99a7-bcfced30428b, udp: true}
+- {name: '🇲🇾 马来西亚[01] - Heima', server: 103.75.189.152, port: 100, type: trojan, password: f30073d4-c493-4a88-99a7-bcfced30428b, skip-cert-verify: true, udp: true}
+- {name: '🇲🇾 马来西亚[02] - Heima', server: 103.75.188.189, port: 101, type: trojan, password: f30073d4-c493-4a88-99a7-bcfced30428b, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇷🇺 俄罗斯-莫斯科-F3-001 - 漏网之鱼, server: 185.22.152.236, port: 23010, type: vmess, uuid: 5fa8b7b3-f028-4839-98bf-bfb934073095, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}

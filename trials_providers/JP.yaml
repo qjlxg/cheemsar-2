@@ -1,6 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: '🇯🇵 日本[01] - Heima', server: vip.baima360.com, port: 15888, type: ss, cipher: chacha20-ietf-poly1305, password: c88e518c-fb9a-4fa3-99ea-d65157275c4b, udp: true}
-- {name: 🇯🇵 Japan#1 - 虚幻加速, server: svip1.pingboy.top, port: 19015, type: vmess, uuid: dba41dca-c362-4279-9f05-e928922e4dfa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 Japan#3 - 虚幻加速, server: svip1.pingboy.top, port: 19015, type: vmess, uuid: dba41dca-c362-4279-9f05-e928922e4dfa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
