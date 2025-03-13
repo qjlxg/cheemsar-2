@@ -317,8 +317,6 @@ home_urls =(
 'https://api1.fzdwf.top',
 'https://api1.okaycloud.top',
 'https://api1.xn--bnq37rc0nw50b.com',
-'https://api3.6yuan.top',
-'https://api7.6yuan.top',
 'https://apiceshi.51alibaba.top',
 'https://apidy.pqjc.site',
 'https://apisub.mcwy.xyz',
