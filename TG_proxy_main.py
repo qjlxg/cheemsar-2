@@ -321,8 +321,6 @@ home_urls =(
 'https://apidy.pqjc.site',
 'https://apisub.mcwy.xyz',
 'https://apisudunw.sudunv.com',
-'https://apiv2.lemongg.top',
-'https://apiv2.lipulai.com',
 'https://apopcloud.com',
 'https://app.cloudlion.me',
 'https://app.gomeow.cloud',
