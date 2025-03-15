@@ -302,7 +302,7 @@ home_urls =(
 'https://asdf.888545.xyz',
 
 
-'https://auth.newlikebooks.xyz',
+
 'https://awacloud.online',
 'https://b.bbydy.org',
 'https://b.jiedianxielou.workers.dev',
