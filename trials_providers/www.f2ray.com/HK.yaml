@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: '🇭🇰香港[1] <- 广移⌛️10倍费率 - F2ray', server: gdhk1-07312200.666888.biz, port: 30609, type: ss, cipher: chacha20-ietf-poly1305, password: 1c679b2f-acbe-4b32-86cf-f1b418e97d6c, udp: true}

@@ -1,6 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: '🇺🇸 美国[02] - Heima', server: pop.ede9314c-61e5-4c9a-8e41-275a29f5120e.heima360.cc, port: 443, type: trojan, password: dda7ac3c-9782-4e2f-9eaa-8d7d56c090d4, skip-cert-verify: true, udp: true}
-- {name: '🇺🇸 美国[03]中转 - Heima', server: vip.baima360.com, port: 17941, type: ss, cipher: chacha20-ietf-poly1305, password: dda7ac3c-9782-4e2f-9eaa-8d7d56c090d4, udp: true}
-- {name: '🇺🇸 美国[04] - Heima', server: 45.83.140.22, port: 658, type: trojan, password: dda7ac3c-9782-4e2f-9eaa-8d7d56c090d4, skip-cert-verify: true, udp: true}
