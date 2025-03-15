@@ -11,12 +11,14 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
-  - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
+  - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
-  - 🎏 ‍其他
-  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - DIRECT
   - REJECT
 - name: ⚡ ‍低延迟
@@ -25,15 +27,10 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇭🇰 中国-香港-F1-001 - 漏网之鱼
-  - 🇭🇰 中国-香港-F2-001 - 漏网之鱼
-  - 🇭🇰 中国-香港-F3-001 - 漏网之鱼
-  - 🇺🇸 美国-纽约-F1-001 - 漏网之鱼
-  - 🇺🇸 美国-纽约-F2-001 - 漏网之鱼
-  - 🇺🇸 美国-纽约-F3-001 - 漏网之鱼
-  - 🇷🇺 俄罗斯-莫斯科-F1-001 - 漏网之鱼
-  - 🇷🇺 俄罗斯-莫斯科-F2-001 - 漏网之鱼
-  - 🇷🇺 俄罗斯-莫斯科-F3-001 - 漏网之鱼
+  - 🇹🇼 台湾节点(推荐) - byi加速器
+  - 🇸🇬 新加坡节点 - byi加速器
+  - 🇯🇵 日本节点3 - byi加速器
+  - 🇺🇸 美国节点 - byi加速器
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -53,18 +50,22 @@ proxy-groups:
   type: select
   proxies:
   - 🛩️ ‍墙内
-  - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
   - ✈️ ‍起飞
-  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
   - 🇺🇸 ‍美国
-  - 🎏 ‍其他
+  - 🇹🇼 ‍台湾
+  - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -73,52 +74,51 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇭🇰 ‍香港
+- name: 🇹🇼 ‍台湾
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id002
-  - 🇭🇰 中国-香港-F1-001 - 漏网之鱼
-  - 🇭🇰 中国-香港-F2-001 - 漏网之鱼
-  - 🇭🇰 中国-香港-F3-001 - 漏网之鱼
+  - 🇹🇼 台湾节点(推荐) - byi加速器
+- name: 🇸🇬 ‍新加坡
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id003
+  - 🇸🇬 新加坡节点 - byi加速器
+- name: 🇯🇵 ‍日本
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id004
+  - 🇯🇵 日本节点3 - byi加速器
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
-  proxies: &id003
-  - 🇺🇸 美国-纽约-F1-001 - 漏网之鱼
-  - 🇺🇸 美国-纽约-F2-001 - 漏网之鱼
-  - 🇺🇸 美国-纽约-F3-001 - 漏网之鱼
-- name: 🎏 ‍其他
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 100
-  proxies: &id004
-  - 🇷🇺 俄罗斯-莫斯科-F1-001 - 漏网之鱼
-  - 🇷🇺 俄罗斯-莫斯科-F2-001 - 漏网之鱼
-  - 🇷🇺 俄罗斯-莫斯科-F3-001 - 漏网之鱼
-- name: 👆🏻🇭🇰 ‍香港
+  proxies: &id005
+  - 🇺🇸 美国节点 - byi加速器
+- name: 👆🏻🇹🇼 ‍台湾
   type: select
   proxies: *id002
-- name: 👆🏻🇺🇸 ‍美国
+- name: 👆🏻🇸🇬 ‍新加坡
   type: select
   proxies: *id003
-- name: 👆🏻🎏 ‍其他
+- name: 👆🏻🇯🇵 ‍日本
   type: select
   proxies: *id004
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id005
 proxies:
-- {name: 🇭🇰 中国-香港-F1-001 - 漏网之鱼, server: 212.192.13.110, port: 21010, type: vmess, uuid: 26eba4d3-d515-4e46-8b5b-668525683f81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇭🇰 中国-香港-F2-001 - 漏网之鱼, server: 45.144.174.90, port: 22002, type: vmess, uuid: 26eba4d3-d515-4e46-8b5b-668525683f81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇭🇰 中国-香港-F3-001 - 漏网之鱼, server: 212.192.13.68, port: 23013, type: vmess, uuid: 26eba4d3-d515-4e46-8b5b-668525683f81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇺🇸 美国-纽约-F1-001 - 漏网之鱼, server: 207.90.236.21, port: 21008, type: vmess, uuid: 26eba4d3-d515-4e46-8b5b-668525683f81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇺🇸 美国-纽约-F2-001 - 漏网之鱼, server: 207.90.237.179, port: 22000, type: vmess, uuid: 26eba4d3-d515-4e46-8b5b-668525683f81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇺🇸 美国-纽约-F3-001 - 漏网之鱼, server: 207.90.237.96, port: 23010, type: vmess, uuid: 26eba4d3-d515-4e46-8b5b-668525683f81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-莫斯科-F1-001 - 漏网之鱼, server: 176.32.35.148, port: 21010, type: vmess, uuid: 26eba4d3-d515-4e46-8b5b-668525683f81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-莫斯科-F2-001 - 漏网之鱼, server: 46.17.43.122, port: 22007, type: vmess, uuid: 26eba4d3-d515-4e46-8b5b-668525683f81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-莫斯科-F3-001 - 漏网之鱼, server: 185.22.152.236, port: 23013, type: vmess, uuid: 26eba4d3-d515-4e46-8b5b-668525683f81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇹🇼 台湾节点(推荐) - byi加速器, server: g4bk7yx3nd5q.byijsq.com, port: 20101, type: vmess, uuid: 6ee51f7b-cae6-3276-ad4b-7e3d96ef2292, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: byjsq.kozow.com, udp: true}
+- {name: 🇸🇬 新加坡节点 - byi加速器, server: g4bk7yx3nd5q.byijsq.com, port: 27604, type: vmess, uuid: 6ee51f7b-cae6-3276-ad4b-7e3d96ef2292, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: sg.byijsq.com, udp: true}
+- {name: 🇯🇵 日本节点3 - byi加速器, server: g4bk7yx3nd5q.byijsq.com, port: 20103, type: vmess, uuid: 6ee51f7b-cae6-3276-ad4b-7e3d96ef2292, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: jp3.byijsq.com, udp: true}
+- {name: 🇺🇸 美国节点 - byi加速器, server: g4bk7yx3nd5q.byijsq.com, port: 20106, type: vmess, uuid: 6ee51f7b-cae6-3276-ad4b-7e3d96ef2292, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: usnode.byijsq.com, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
