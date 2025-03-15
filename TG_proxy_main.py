@@ -293,7 +293,6 @@ home_urls =(
 'https://app.cloudlion.me',
 'https://app.gomeow.cloud',
 'https://app.jisovpn.site',
-
 'https://app.tline.website',
 'https://aq.louwangzhiyu.xyz',
 'https://artislg.com',
@@ -302,7 +301,7 @@ home_urls =(
 'https://asa035.888545.xyz',
 'https://asdf.888545.xyz',
 
-'https://atong88.top',
+
 'https://auth.newlikebooks.xyz',
 'https://awacloud.online',
 'https://b.bbydy.org',
