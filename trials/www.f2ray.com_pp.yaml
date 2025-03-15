@@ -12,49 +12,20 @@ proxy-groups:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
   - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
-  - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
+  - 🇺🇸 ‍美国
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
-  - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🇺🇸 ‍美国
   - DIRECT
   - REJECT
 - name: ⚡ ‍低延迟
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id001
-  - 🇭🇰HK Akile T成都CM 1.2x - PassGFW
-  - 🇭🇰HK Akile T宁夏CM 1.2x - PassGFW
-  - 🇭🇰HK Akile T深圳CM 1.2x - PassGFW
-  - 🇭🇰HK Akile T深圳CM2 1.2x - PassGFW
-  - 🇭🇰HK Akile T长沙CM 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T成都CM 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T深圳CM 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T深圳CM2 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T长沙CM 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T宁夏CM 1.2x - PassGFW
-  - 🇸🇬SG Akile T成都CM 1.2x - PassGFW
-  - 🇸🇬SG Constant T深圳CM 1.2x - PassGFW
-  - 🇸🇬SG Constant T深圳CM2 1.2x - PassGFW
-  - 🇸🇬JP Osaka Choopa T长沙CM[IPV6] 1.2x - PassGFW
-  - 🇸🇬SG Akile T深圳CM 1.2x - PassGFW
-  - 🇸🇬SG Akile T深圳CM2 1.2x - PassGFW
-  - 🇸🇬SG Akile T长沙CM - PassGFW
-  - 🇯🇵JP Akile T成都CM 1.2x - PassGFW
-  - 🇯🇵JP Akile T长沙CM [IPV6] 1.2x - PassGFW
-  - 🇯🇵JP Akile T长沙CM 1.2x - PassGFW
-  - 🇯🇵JP Akile T宁夏CM 1.2x - PassGFW
-  - 🇯🇵JP Osaka Choopa T深圳CM 1.2x - PassGFW
-  - 🇯🇵JP Osaka Choopa T深圳CM2 1.2x - PassGFW
+  use: &id001
+  - HK
+  - US
 - name: 👆🏻 ‍指定
   type: select
-  proxies: *id001
+  use: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -72,23 +43,15 @@ proxy-groups:
   proxies:
   - 🛩️ ‍墙内
   - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
   - ✈️ ‍起飞
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
-  - 🇹🇼 ‍台湾
-  - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
+  - 🇺🇸 ‍美国
   - ✈️ ‍起飞
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🇺🇸 ‍美国
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -99,106 +62,39 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id002
-  - 🇭🇰HK Akile T成都CM 1.2x - PassGFW
-  - 🇭🇰HK Akile T宁夏CM 1.2x - PassGFW
-  - 🇭🇰HK Akile T深圳CM 1.2x - PassGFW
-  - 🇭🇰HK Akile T深圳CM2 1.2x - PassGFW
-  - 🇭🇰HK Akile T长沙CM 1.2x - PassGFW
-- name: 🇹🇼 ‍台湾
+  use: &id002
+  - HK
+- name: 🇺🇸 ‍美国
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id003
-  - 🇹🇼TW TPE TWDS T成都CM 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T深圳CM 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T深圳CM2 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T长沙CM 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T宁夏CM 1.2x - PassGFW
-- name: 🇨🇳 ‍中国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id004
-  - 🇭🇰HK Akile T成都CM 1.2x - PassGFW
-  - 🇭🇰HK Akile T宁夏CM 1.2x - PassGFW
-  - 🇭🇰HK Akile T深圳CM 1.2x - PassGFW
-  - 🇭🇰HK Akile T深圳CM2 1.2x - PassGFW
-  - 🇭🇰HK Akile T长沙CM 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T成都CM 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T深圳CM 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T深圳CM2 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T长沙CM 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T宁夏CM 1.2x - PassGFW
-- name: 🇸🇬 ‍新加坡
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id005
-  - 🇸🇬SG Akile T成都CM 1.2x - PassGFW
-  - 🇸🇬SG Constant T深圳CM 1.2x - PassGFW
-  - 🇸🇬SG Constant T深圳CM2 1.2x - PassGFW
-  - 🇸🇬JP Osaka Choopa T长沙CM[IPV6] 1.2x - PassGFW
-  - 🇸🇬SG Akile T深圳CM 1.2x - PassGFW
-  - 🇸🇬SG Akile T深圳CM2 1.2x - PassGFW
-  - 🇸🇬SG Akile T长沙CM - PassGFW
-- name: 🇯🇵 ‍日本
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id006
-  - 🇯🇵JP Akile T成都CM 1.2x - PassGFW
-  - 🇯🇵JP Akile T长沙CM [IPV6] 1.2x - PassGFW
-  - 🇯🇵JP Akile T长沙CM 1.2x - PassGFW
-  - 🇯🇵JP Akile T宁夏CM 1.2x - PassGFW
-  - 🇯🇵JP Osaka Choopa T深圳CM 1.2x - PassGFW
-  - 🇯🇵JP Osaka Choopa T深圳CM2 1.2x - PassGFW
+  tolerance: 300
+  use: &id003
+  - US
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  proxies: *id002
-- name: 👆🏻🇹🇼 ‍台湾
+  use: *id002
+- name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id003
-- name: 👆🏻🇨🇳 ‍中国
-  type: select
-  proxies: *id004
-- name: 👆🏻🇸🇬 ‍新加坡
-  type: select
-  proxies: *id005
-- name: 👆🏻🇯🇵 ‍日本
-  type: select
-  proxies: *id006
-proxies:
-- {name: 🇭🇰HK Akile T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 16732, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇭🇰HK Akile T宁夏CM 1.2x - PassGFW, server: awslx.rcmnk.cn, port: 55872, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇭🇰HK Akile T深圳CM 1.2x - PassGFW, server: tysz.rcmnk.cn, port: 41124, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇭🇰HK Akile T深圳CM2 1.2x - PassGFW, server: szhx.rcmnk.cn, port: 41124, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇭🇰HK Akile T长沙CM 1.2x - PassGFW, server: csyd.rcmnk.cn, port: 41124, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇹🇼TW TPE TWDS T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 19416, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇹🇼TW TPE TWDS T深圳CM 1.2x - PassGFW, server: tysz.rcmnk.cn, port: 41018, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇹🇼TW TPE TWDS T深圳CM2 1.2x - PassGFW, server: szhx.rcmnk.cn, port: 41018, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇹🇼TW TPE TWDS T长沙CM 1.2x - PassGFW, server: csyd.rcmnk.cn, port: 14939, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇹🇼TW TPE TWDS T宁夏CM 1.2x - PassGFW, server: awslx.rcmnk.cn, port: 24869, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇯🇵JP Akile T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 45790, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: '🇯🇵JP Akile T长沙CM [IPV6] 1.2x - PassGFW', server: 2409:8c50:a00:200d:fffe:0:2:12, port: 63640, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇯🇵JP Akile T长沙CM 1.2x - PassGFW, server: csyd.rcmnk.cn, port: 16127, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇯🇵JP Akile T宁夏CM 1.2x - PassGFW, server: awslx.rcmnk.cn, port: 35454, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇸🇬SG Akile T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 16732, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇸🇬SG Constant T深圳CM 1.2x - PassGFW, server: tysz.rcmnk.cn, port: 51410, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇸🇬SG Constant T深圳CM2 1.2x - PassGFW, server: szhx.rcmnk.cn, port: 51410, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: '🇸🇬JP Osaka Choopa T长沙CM[IPV6] 1.2x - PassGFW', server: 2409:8c50:a00:200d:fffe:0:2:12, port: 35145, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇯🇵JP Osaka Choopa T深圳CM 1.2x - PassGFW, server: tysz.rcmnk.cn, port: 22947, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇯🇵JP Osaka Choopa T深圳CM2 1.2x - PassGFW, server: szhx.rcmnk.cn, port: 22947, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇸🇬SG Akile T深圳CM 1.2x - PassGFW, server: tysz.rcmnk.cn, port: 50563, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇸🇬SG Akile T深圳CM2 1.2x - PassGFW, server: szhx.rcmnk.cn, port: 50563, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇸🇬SG Akile T长沙CM - PassGFW, server: csyd.rcmnk.cn, port: 60912, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
+  use: *id003
+proxy-providers:
+  HK:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/www.f2ray.com/HK.yaml
+    interval: 180
+    path: trials_providers/www.f2ray.com/HK.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  US:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/www.f2ray.com/US.yaml
+    interval: 180
+    path: trials_providers/www.f2ray.com/US.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

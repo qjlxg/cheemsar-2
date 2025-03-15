@@ -5,12 +5,37 @@ proxies:
 - {name: ℹ️ sss250366399@gmail.com - 疾速cloud, server: diao.arken8379.com, port: 26002, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
 - {name: ℹ️ 卡.慢.用不了.更新线路 - 疾速cloud, server: diao.arken8379.com, port: 26002, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
 - {name: ↑↑↑以上节点无网络 - 疾速cloud, server: diao.arken8379.com, port: 26003, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: '🇹🇼 台湾??|TikTok - 疾速cloud', server: diao.arken8379.com, port: 26001, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: '🇹🇼 台湾??|gpt - 疾速cloud', server: diao.arken8379.com, port: 26001, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇹🇼 台湾② - 疾速cloud, server: diao.arken8379.com, port: 26001, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇹🇼 台湾③ - 疾速cloud, server: diao.arken8379.com, port: 26001, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇹🇼 台湾④ - 疾速cloud, server: diao.arken8379.com, port: 26001, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇭🇰 香港 - 疾速cloud, server: diao.arken8379.com, port: 26000, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇭🇰 香港|解锁流媒体 - 疾速cloud, server: diao.arken8379.com, port: 26000, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇭🇰 香港② - 疾速cloud, server: diao.arken8379.com, port: 26000, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇭🇰 香港③ - 疾速cloud, server: diao.arken8379.com, port: 26000, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇭🇰 香港④ - 疾速cloud, server: diao.arken8379.com, port: 26000, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
 - {name: 🇮🇳 印度① - 疾速cloud, server: diao.arken8379.com, port: 26050, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
 - {name: '🇰🇷 ??韩国|解锁Gpt - 疾速cloud', server: diao.arken8379.com, port: 26001, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
 - {name: '🇰🇷 ??韩国|解锁流媒体 - 疾速cloud', server: diao.arken8379.com, port: 26001, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
 - {name: 🇰🇷 韩国② - 疾速cloud, server: diao.arken8379.com, port: 26001, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
 - {name: 🇰🇷 韩国③ - 疾速cloud, server: diao.arken8379.com, port: 26001, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
 - {name: 🇰🇷 韩国④ - 疾速cloud, server: diao.arken8379.com, port: 26001, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇯🇵 日本① - 疾速cloud, server: diao.arken8379.com, port: 26002, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇯🇵 日本② - 疾速cloud, server: diao.arken8379.com, port: 26002, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇯🇵 日本③ - 疾速cloud, server: diao.arken8379.com, port: 26002, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇯🇵 日本④ - 疾速cloud, server: diao.arken8379.com, port: 26002, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇯🇵 日本|Gpt - 疾速cloud, server: diao.arken8379.com, port: 26002, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇸🇬 新加坡① - 疾速cloud, server: diao.arken8379.com, port: 26003, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇸🇬 新加坡② - 疾速cloud, server: diao.arken8379.com, port: 26003, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇸🇬 新加坡③ - 疾速cloud, server: diao.arken8379.com, port: 26003, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇸🇬 新加坡④ - 疾速cloud, server: diao.arken8379.com, port: 26003, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇸🇬 新加坡|Gpt - 疾速cloud, server: diao.arken8379.com, port: 26003, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇺🇸 美国① - 疾速cloud, server: diao.arken8379.com, port: 26004, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇺🇸 美国② - 疾速cloud, server: diao.arken8379.com, port: 26004, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇺🇸 美国③ - 疾速cloud, server: diao.arken8379.com, port: 26004, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇺🇸 美国④ - 疾速cloud, server: diao.arken8379.com, port: 26004, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇺🇸 美国|Gpt - 疾速cloud, server: diao.arken8379.com, port: 26004, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
 - {name: 🇷🇺 俄罗斯① - 疾速cloud, server: diao.arken8379.com, port: 26009, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
 - {name: 🇷🇺 俄罗斯② - 疾速cloud, server: diao.arken8379.com, port: 26009, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
 - {name: 🇷🇺 俄罗斯③ - 疾速cloud, server: diao.arken8379.com, port: 26009, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
@@ -45,35 +70,3 @@ proxies:
 - {name: 🇧🇷 巴西① - 疾速cloud, server: diao.arken8379.com, port: 26043, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
 - {name: 🇨🇱 智利① - 疾速cloud, server: diao.arken8379.com, port: 26044, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
 - {name: 🇨🇴 哥伦比亚① - 疾速cloud, server: diao.arken8379.com, port: 26045, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
-- {name: '🇰🇷 韩国[01]中转 - Heima', server: vip.baima360.com, port: 42344, type: ss, cipher: chacha20-ietf-poly1305, password: dda7ac3c-9782-4e2f-9eaa-8d7d56c090d4, udp: true}
-- {name: '🇫🇷 法国[01]中转 - Heima', server: vip.baima360.com, port: 35330, type: ss, cipher: chacha20-ietf-poly1305, password: dda7ac3c-9782-4e2f-9eaa-8d7d56c090d4, udp: true}
-- {name: '🇩🇪 德国[01]中转 - Heima', server: vip.baima360.com, port: 55997, type: ss, cipher: chacha20-ietf-poly1305, password: dda7ac3c-9782-4e2f-9eaa-8d7d56c090d4, udp: true}
-- {name: '🇨🇦 加拿大[01]中转 - Heima', server: vip.baima360.com, port: 29292, type: ss, cipher: chacha20-ietf-poly1305, password: dda7ac3c-9782-4e2f-9eaa-8d7d56c090d4, udp: true}
-- {name: '🇧🇷 巴西[01]中转 - Heima', server: vip.baima360.com, port: 30752, type: ss, cipher: chacha20-ietf-poly1305, password: dda7ac3c-9782-4e2f-9eaa-8d7d56c090d4, udp: true}
-- {name: '🇷🇺 俄罗斯[01]中转 - Heima', server: vip.baima360.com, port: 23499, type: ss, cipher: chacha20-ietf-poly1305, password: dda7ac3c-9782-4e2f-9eaa-8d7d56c090d4, udp: true}
-- {name: '🇲🇾 马来西亚[01] - Heima', server: 103.75.189.152, port: 100, type: trojan, password: dda7ac3c-9782-4e2f-9eaa-8d7d56c090d4, skip-cert-verify: true, udp: true}
-- {name: '🇲🇾 马来西亚[02] - Heima', server: 103.75.188.189, port: 101, type: trojan, password: dda7ac3c-9782-4e2f-9eaa-8d7d56c090d4, skip-cert-verify: true, udp: true}
-- {name: 'ℹ️ 官网: www.yas66.com - 火箭cloud', server: huojian.arken8379.com, port: 23040, type: ss, cipher: chacha20-ietf-poly1305, password: 3782cf86-170e-463f-bee4-2acff3997f21, udp: true}
-- {name: ℹ️ as250366399@gmail.com - 火箭cloud, server: huojian.arken8379.com, port: 23000, type: trojan, password: 3782cf86-170e-463f-bee4-2acff3997f21, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 'ℹ️ 续费网址: www.yas66.com - 火箭cloud', server: huojian.arken8379.com, port: 23000, type: trojan, password: 3782cf86-170e-463f-bee4-2acff3997f21, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 'ℹ️ 官_网: www.yas66.com - 火箭cloud', server: huojian-js.arken8379.com, port: 23000, type: trojan, password: 3782cf86-170e-463f-bee4-2acff3997f21, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: ℹ️ 续费:www.yas66.com - 火箭cloud, server: huojian-js.arken8379.com, port: 23000, type: trojan, password: 3782cf86-170e-463f-bee4-2acff3997f21, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 韩国|Netflix - 火箭cloud, server: huojian-js.arken8379.com, port: 23031, type: trojan, password: 3782cf86-170e-463f-bee4-2acff3997f21, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 韩国|TikTok - 火箭cloud, server: huojian-js.arken8379.com, port: 23031, type: trojan, password: 3782cf86-170e-463f-bee4-2acff3997f21, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 韩国|ChatGpt - 火箭cloud, server: huojian-js.arken8379.com, port: 23031, type: trojan, password: 3782cf86-170e-463f-bee4-2acff3997f21, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 韩国|ChatGpt2 - 火箭cloud, server: huojian-js.arken8379.com, port: 23031, type: trojan, password: 3782cf86-170e-463f-bee4-2acff3997f21, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 'ℹ️ 续费~网址: www.yas66.com - 火箭cloud', server: huojian-js.arken8379.com, port: 23001, type: trojan, password: 3782cf86-170e-463f-bee4-2acff3997f21, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国|Netflix - 火箭cloud, server: huojian-js.arken8379.com, port: 23004, type: trojan, password: 3782cf86-170e-463f-bee4-2acff3997f21, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国|TikTok - 火箭cloud, server: huojian-js.arken8379.com, port: 23004, type: trojan, password: 3782cf86-170e-463f-bee4-2acff3997f21, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国|ChatGpt - 火箭cloud, server: huojian-js.arken8379.com, port: 23004, type: trojan, password: 3782cf86-170e-463f-bee4-2acff3997f21, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国|ChatGpt2 - 火箭cloud, server: huojian-js.arken8379.com, port: 23004, type: trojan, password: 3782cf86-170e-463f-bee4-2acff3997f21, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国|Netflix - 火箭cloud, server: huojian-js.arken8379.com, port: 23005, type: trojan, password: 3782cf86-170e-463f-bee4-2acff3997f21, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国|TikTok - 火箭cloud, server: huojian-js.arken8379.com, port: 23005, type: trojan, password: 3782cf86-170e-463f-bee4-2acff3997f21, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国|ChatGpt - 火箭cloud, server: huojian-js.arken8379.com, port: 23005, type: trojan, password: 3782cf86-170e-463f-bee4-2acff3997f21, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国|ChatGpt2 - 火箭cloud, server: huojian-js.arken8379.com, port: 23005, type: trojan, password: 3782cf86-170e-463f-bee4-2acff3997f21, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇭 泰国|Netflix - 火箭cloud, server: huojian.arken8379.com, port: 23008, type: trojan, password: 3782cf86-170e-463f-bee4-2acff3997f21, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇭 泰国|TikTok - 火箭cloud, server: huojian.arken8379.com, port: 23008, type: trojan, password: 3782cf86-170e-463f-bee4-2acff3997f21, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇭 泰国|ChatGpt - 火箭cloud, server: huojian.arken8379.com, port: 23008, type: trojan, password: 3782cf86-170e-463f-bee4-2acff3997f21, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇭 泰国|ChatGpt2 - 火箭cloud, server: huojian.arken8379.com, port: 23008, type: trojan, password: 3782cf86-170e-463f-bee4-2acff3997f21, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 韩国-三网优化2 - 青云互联网-, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: e828e6ec-0e4b-4ffe-b78a-db7dc366e0ca, sni: kr-qingyun.dwyun.me, skip-cert-verify: true, udp: true}
-- {name: ℹ️ 永久官网:www.猫云.net - 猫云, server: 8.8.8.8, port: 10086, type: ss, cipher: chacha20-ietf-poly1305, password: ZoI1Wh9cqULicHZz, udp: true}

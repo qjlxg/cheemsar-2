@@ -33,104 +33,120 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇭🇰 香港 01 - V2Lnk
-  - 🇭🇰 香港 02 - V2Lnk
-  - 🇭🇰 香港 03 - V2Lnk
-  - 🇭🇰 香港 04 - V2Lnk
-  - 🇭🇰 香港 05 - V2Lnk
-  - 🇭🇰 香港 06 - V2Lnk
-  - 🇭🇰 香港 07 - V2Lnk
-  - 🇭🇰 香港 08 - V2Lnk
+  - 🇭🇰 香港 - 疾速cloud
+  - 🇭🇰 香港|解锁流媒体 - 疾速cloud
+  - 🇭🇰 香港② - 疾速cloud
+  - 🇭🇰 香港③ - 疾速cloud
+  - 🇭🇰 香港④ - 疾速cloud
+  - 🇭🇰香港[1] <- 广移⌛️10倍费率 - F2ray
+  - 🇭🇰 香港[01] - Heima
+  - 🇭🇰 香港[04]中转 - Heima
+  - 🇭🇰 香港[05]中转 - Heima
+  - 🇭🇰 香港[06] - Heima
+  - 🇭🇰 香港[07]中转 - Heima
   - 🇭🇰 香港|奈飞 - 火箭cloud
   - 🇭🇰 香港|奈飞-2 - 火箭cloud
   - 🇭🇰 香港|奈飞-3 - 火箭cloud
-  - 🇭🇰HK Akile T成都CM 1.2x - PassGFW
-  - 🇭🇰HK Akile T宁夏CM 1.2x - PassGFW
-  - 🇭🇰HK Akile T深圳CM 1.2x - PassGFW
-  - 🇭🇰HK Akile T深圳CM2 1.2x - PassGFW
-  - 🇭🇰HK Akile T长沙CM 1.2x - PassGFW
   - 🇭🇰 Hongkong#1 - 虚幻加速
   - 🇭🇰 Hongkong#3 - 虚幻加速
   - 🇭🇰 Hongkong#5 - 虚幻加速
-  - 🇹🇼 台湾 01 - V2Lnk
-  - 🇹🇼 台湾 02 - V2Lnk
-  - 🇹🇼 台湾 03 - V2Lnk
-  - 🇹🇼TW TPE TWDS T成都CM 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T深圳CM 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T深圳CM2 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T长沙CM 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T宁夏CM 1.2x - PassGFW
-  - 🇸🇬 新加坡 01 - V2Lnk
-  - 🇸🇬 新加坡 02 - V2Lnk
-  - 🇸🇬 新加坡 03 - V2Lnk
-  - 🇸🇬 新加坡 04 - V2Lnk
-  - 🇸🇬 新加坡 05 - V2Lnk
-  - 🇸🇬 新加坡 06 - V2Lnk
+  - 🇹🇼 台湾??|TikTok - 疾速cloud
+  - 🇹🇼 台湾??|gpt - 疾速cloud
+  - 🇹🇼 台湾② - 疾速cloud
+  - 🇹🇼 台湾③ - 疾速cloud
+  - 🇹🇼 台湾④ - 疾速cloud
+  - 🇹🇼 台湾[01]中转 - Heima
+  - 🇸🇬 新加坡① - 疾速cloud
+  - 🇸🇬 新加坡② - 疾速cloud
+  - 🇸🇬 新加坡③ - 疾速cloud
+  - 🇸🇬 新加坡④ - 疾速cloud
+  - 🇸🇬 新加坡|Gpt - 疾速cloud
+  - 🇸🇬 新加坡[02] - Heima
   - 🇸🇬 新加坡|Netflix - 火箭cloud
   - 🇸🇬 新加坡|TikTok - 火箭cloud
   - 🇸🇬 新加坡|ChatGpt - 火箭cloud
   - 🇸🇬 新加坡|ChatGpt2 - 火箭cloud
-  - 🇸🇬SG Akile T成都CM 1.2x - PassGFW
-  - 🇸🇬SG Constant T深圳CM 1.2x - PassGFW
-  - 🇸🇬SG Constant T深圳CM2 1.2x - PassGFW
-  - 🇸🇬JP Osaka Choopa T长沙CM[IPV6] 1.2x - PassGFW
-  - 🇸🇬SG Akile T深圳CM 1.2x - PassGFW
-  - 🇸🇬SG Akile T深圳CM2 1.2x - PassGFW
-  - 🇸🇬SG Akile T长沙CM - PassGFW
   - 🇸🇬 Singapore#1 - 虚幻加速
   - 🇸🇬 Singapore#3 - 虚幻加速
-  - 🇯🇵 日本 01 - V2Lnk
-  - 🇯🇵 日本 02 - V2Lnk
-  - 🇯🇵 日本 03 - V2Lnk
-  - 🇯🇵 日本 04 - V2Lnk
-  - 🇯🇵 日本 05 - V2Lnk
-  - 🇯🇵 日本 06 - V2Lnk
+  - 🇯🇵 日本① - 疾速cloud
+  - 🇯🇵 日本② - 疾速cloud
+  - 🇯🇵 日本③ - 疾速cloud
+  - 🇯🇵 日本④ - 疾速cloud
+  - 🇯🇵 日本|Gpt - 疾速cloud
+  - 🇯🇵 日本[01] - Heima
   - 🇯🇵 日本|ChatGpt-1 - 火箭cloud
   - 🇯🇵 日本|ChatGpt-2 - 火箭cloud
   - 🇯🇵 日本|ChatGpt-3 - 火箭cloud
   - 🇯🇵 日本|ChatGpt-4 - 火箭cloud
-  - 🇯🇵JP Akile T成都CM 1.2x - PassGFW
-  - 🇯🇵JP Akile T长沙CM [IPV6] 1.2x - PassGFW
-  - 🇯🇵JP Akile T长沙CM 1.2x - PassGFW
-  - 🇯🇵JP Akile T宁夏CM 1.2x - PassGFW
-  - 🇯🇵JP Osaka Choopa T深圳CM 1.2x - PassGFW
-  - 🇯🇵JP Osaka Choopa T深圳CM2 1.2x - PassGFW
   - 🇯🇵 Japan#1 - 虚幻加速
   - 🇯🇵 Japan#3 - 虚幻加速
-  - 🇺🇸 美國 01 - V2Lnk
-  - 🇺🇸 美國 02 - V2Lnk
-  - 🇺🇸 美國 03 - V2Lnk
-  - 🇺🇸 美國 04 - V2Lnk
-  - 🇺🇸 美國 05 - V2Lnk
-  - 🇺🇸 美國 06 - V2Lnk
+  - 🇺🇸 美国① - 疾速cloud
+  - 🇺🇸 美国② - 疾速cloud
+  - 🇺🇸 美国③ - 疾速cloud
+  - 🇺🇸 美国④ - 疾速cloud
+  - 🇺🇸 美国|Gpt - 疾速cloud
+  - 🇺🇸美 低倍率 - F2ray
+  - 🇺🇸 美国[02] - Heima
+  - 🇺🇸 美国[03]中转 - Heima
+  - 🇺🇸 美国[04] - Heima
   - 🇺🇸 美国|Netflix - 火箭cloud
   - 🇺🇸 美国|TikTok - 火箭cloud
   - 🇺🇸 美国|ChatGpt - 火箭cloud
   - 🇺🇸 美国|ChatGpt2 - 火箭cloud
   - 🇺🇸 United States#1 - 虚幻加速
   - 🇺🇸 United States#3 - 虚幻加速
-  - ℹ️ [官网] ww1.v2lnk.com - V2Lnk
-  - '[优惠] 新用户特惠 5元优惠  ,结算输入 2025 - V2Lnk'
-  - 🇰🇷 韩国 01 - V2Lnk
-  - 🇰🇷 韩国 02 - V2Lnk
-  - 🇹🇭 泰国 - V2Lnk
-  - 🇻🇳 越南 - V2Lnk
-  - 🇲🇾 马来西亚 - V2Lnk
-  - 🇨🇦 加拿大 - V2Lnk
-  - 🇬🇧 英国 01 - V2Lnk
-  - 🇬🇧 英国 02 - V2Lnk
-  - 🇩🇪 德国 01 - V2Lnk
-  - 🇩🇪 德国 02 - V2Lnk
-  - 🇫🇷 法国 - V2Lnk
-  - 🇮🇹 意大利 - V2Lnk
-  - 🇳🇱 荷兰 - V2Lnk
-  - 🇦🇺 悉尼 - V2Lnk
-  - 🇧🇷 巴西 - V2Lnk
-  - 🇮🇳 印度 - V2Lnk
-  - 🇦🇪 迪拜 - V2Lnk
-  - 🇷🇺 莫斯科 - V2Lnk
-  - 🇹🇷 土耳其 - V2Lnk
-  - 🇺🇦 乌克兰 - V2Lnk
+  - ℹ️ 官网:www.vam166.com - 疾速cloud
+  - ℹ️ sss250366399@gmail.com - 疾速cloud
+  - ℹ️ 卡.慢.用不了.更新线路 - 疾速cloud
+  - ↑↑↑以上节点无网络 - 疾速cloud
+  - 🇮🇳 印度① - 疾速cloud
+  - 🇰🇷 ??韩国|解锁Gpt - 疾速cloud
+  - 🇰🇷 ??韩国|解锁流媒体 - 疾速cloud
+  - 🇰🇷 韩国② - 疾速cloud
+  - 🇰🇷 韩国③ - 疾速cloud
+  - 🇰🇷 韩国④ - 疾速cloud
+  - 🇷🇺 俄罗斯① - 疾速cloud
+  - 🇷🇺 俄罗斯② - 疾速cloud
+  - 🇷🇺 俄罗斯③ - 疾速cloud
+  - 🇷🇺 俄罗斯④ - 疾速cloud
+  - 🇷🇺 俄罗斯⑤ - 疾速cloud
+  - 🇫🇷 法国① - 疾速cloud
+  - 🇫🇷 法国② - 疾速cloud
+  - 🇫🇷 法国③ - 疾速cloud
+  - 🇫🇷 法国④ - 疾速cloud
+  - 🇫🇷 法国|Gpt - 疾速cloud
+  - 🇩🇪 德国① - 疾速cloud
+  - 🇩🇪 德国② - 疾速cloud
+  - 🇩🇪 德国③ - 疾速cloud
+  - 🇩🇪 德国④ - 疾速cloud
+  - 🇩🇪 德国|Gpt - 疾速cloud
+  - 🇬🇧 英国① - 疾速cloud
+  - 🇬🇧 英国② - 疾速cloud
+  - 🇬🇧 英国③ - 疾速cloud
+  - 🇬🇧 英国④ - 疾速cloud
+  - 🇬🇧 英国|Gpt - 疾速cloud
+  - 🇦🇺 悉尼① - 疾速cloud
+  - 🇨🇦 加拿大① - 疾速cloud
+  - 🇲🇽 墨西哥① - 疾速cloud
+  - 🇳🇱 荷兰① - 疾速cloud
+  - 🇪🇸 西班牙① - 疾速cloud
+  - 🇸🇪 瑞典① - 疾速cloud
+  - 🇨🇭 瑞士① - 疾速cloud
+  - 🇮🇱 以色列① - 疾速cloud
+  - 🇸🇦 吉达① - 疾速cloud
+  - 🇿🇦 约翰内斯堡① - 疾速cloud
+  - 🇦🇪 迪拜① - 疾速cloud
+  - 🇧🇷 巴西① - 疾速cloud
+  - 🇨🇱 智利① - 疾速cloud
+  - 🇨🇴 哥伦比亚① - 疾速cloud
+  - 🇰🇷 韩国[01]中转 - Heima
+  - 🇫🇷 法国[01]中转 - Heima
+  - 🇩🇪 德国[01]中转 - Heima
+  - 🇨🇦 加拿大[01]中转 - Heima
+  - 🇧🇷 巴西[01]中转 - Heima
+  - 🇷🇺 俄罗斯[01]中转 - Heima
+  - 🇲🇾 马来西亚[01] - Heima
+  - 🇲🇾 马来西亚[02] - Heima
   - 'ℹ️ 官网: www.yas66.com - 火箭cloud'
   - ℹ️ as250366399@gmail.com - 火箭cloud
   - 'ℹ️ 续费网址: www.yas66.com - 火箭cloud'
@@ -210,22 +226,20 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
-  - 🇭🇰 香港 01 - V2Lnk
-  - 🇭🇰 香港 02 - V2Lnk
-  - 🇭🇰 香港 03 - V2Lnk
-  - 🇭🇰 香港 04 - V2Lnk
-  - 🇭🇰 香港 05 - V2Lnk
-  - 🇭🇰 香港 06 - V2Lnk
-  - 🇭🇰 香港 07 - V2Lnk
-  - 🇭🇰 香港 08 - V2Lnk
+  - 🇭🇰 香港 - 疾速cloud
+  - 🇭🇰 香港|解锁流媒体 - 疾速cloud
+  - 🇭🇰 香港② - 疾速cloud
+  - 🇭🇰 香港③ - 疾速cloud
+  - 🇭🇰 香港④ - 疾速cloud
+  - 🇭🇰香港[1] <- 广移⌛️10倍费率 - F2ray
+  - 🇭🇰 香港[01] - Heima
+  - 🇭🇰 香港[04]中转 - Heima
+  - 🇭🇰 香港[05]中转 - Heima
+  - 🇭🇰 香港[06] - Heima
+  - 🇭🇰 香港[07]中转 - Heima
   - 🇭🇰 香港|奈飞 - 火箭cloud
   - 🇭🇰 香港|奈飞-2 - 火箭cloud
   - 🇭🇰 香港|奈飞-3 - 火箭cloud
-  - 🇭🇰HK Akile T成都CM 1.2x - PassGFW
-  - 🇭🇰HK Akile T宁夏CM 1.2x - PassGFW
-  - 🇭🇰HK Akile T深圳CM 1.2x - PassGFW
-  - 🇭🇰HK Akile T深圳CM2 1.2x - PassGFW
-  - 🇭🇰HK Akile T长沙CM 1.2x - PassGFW
   - 🇭🇰 Hongkong#1 - 虚幻加速
   - 🇭🇰 Hongkong#3 - 虚幻加速
   - 🇭🇰 Hongkong#5 - 虚幻加速
@@ -235,70 +249,57 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id003
-  - 🇹🇼 台湾 01 - V2Lnk
-  - 🇹🇼 台湾 02 - V2Lnk
-  - 🇹🇼 台湾 03 - V2Lnk
-  - 🇹🇼TW TPE TWDS T成都CM 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T深圳CM 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T深圳CM2 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T长沙CM 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T宁夏CM 1.2x - PassGFW
+  - 🇹🇼 台湾??|TikTok - 疾速cloud
+  - 🇹🇼 台湾??|gpt - 疾速cloud
+  - 🇹🇼 台湾② - 疾速cloud
+  - 🇹🇼 台湾③ - 疾速cloud
+  - 🇹🇼 台湾④ - 疾速cloud
+  - 🇹🇼 台湾[01]中转 - Heima
 - name: 🇨🇳 ‍中国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id004
-  - 🇭🇰 香港 01 - V2Lnk
-  - 🇭🇰 香港 02 - V2Lnk
-  - 🇭🇰 香港 03 - V2Lnk
-  - 🇭🇰 香港 04 - V2Lnk
-  - 🇭🇰 香港 05 - V2Lnk
-  - 🇭🇰 香港 06 - V2Lnk
-  - 🇭🇰 香港 07 - V2Lnk
-  - 🇭🇰 香港 08 - V2Lnk
+  - 🇭🇰 香港 - 疾速cloud
+  - 🇭🇰 香港|解锁流媒体 - 疾速cloud
+  - 🇭🇰 香港② - 疾速cloud
+  - 🇭🇰 香港③ - 疾速cloud
+  - 🇭🇰 香港④ - 疾速cloud
+  - 🇭🇰香港[1] <- 广移⌛️10倍费率 - F2ray
+  - 🇭🇰 香港[01] - Heima
+  - 🇭🇰 香港[04]中转 - Heima
+  - 🇭🇰 香港[05]中转 - Heima
+  - 🇭🇰 香港[06] - Heima
+  - 🇭🇰 香港[07]中转 - Heima
   - 🇭🇰 香港|奈飞 - 火箭cloud
   - 🇭🇰 香港|奈飞-2 - 火箭cloud
   - 🇭🇰 香港|奈飞-3 - 火箭cloud
-  - 🇭🇰HK Akile T成都CM 1.2x - PassGFW
-  - 🇭🇰HK Akile T宁夏CM 1.2x - PassGFW
-  - 🇭🇰HK Akile T深圳CM 1.2x - PassGFW
-  - 🇭🇰HK Akile T深圳CM2 1.2x - PassGFW
-  - 🇭🇰HK Akile T长沙CM 1.2x - PassGFW
   - 🇭🇰 Hongkong#1 - 虚幻加速
   - 🇭🇰 Hongkong#3 - 虚幻加速
   - 🇭🇰 Hongkong#5 - 虚幻加速
-  - 🇹🇼 台湾 01 - V2Lnk
-  - 🇹🇼 台湾 02 - V2Lnk
-  - 🇹🇼 台湾 03 - V2Lnk
-  - 🇹🇼TW TPE TWDS T成都CM 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T深圳CM 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T深圳CM2 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T长沙CM 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T宁夏CM 1.2x - PassGFW
+  - 🇹🇼 台湾??|TikTok - 疾速cloud
+  - 🇹🇼 台湾??|gpt - 疾速cloud
+  - 🇹🇼 台湾② - 疾速cloud
+  - 🇹🇼 台湾③ - 疾速cloud
+  - 🇹🇼 台湾④ - 疾速cloud
+  - 🇹🇼 台湾[01]中转 - Heima
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id005
-  - 🇸🇬 新加坡 01 - V2Lnk
-  - 🇸🇬 新加坡 02 - V2Lnk
-  - 🇸🇬 新加坡 03 - V2Lnk
-  - 🇸🇬 新加坡 04 - V2Lnk
-  - 🇸🇬 新加坡 05 - V2Lnk
-  - 🇸🇬 新加坡 06 - V2Lnk
+  - 🇸🇬 新加坡① - 疾速cloud
+  - 🇸🇬 新加坡② - 疾速cloud
+  - 🇸🇬 新加坡③ - 疾速cloud
+  - 🇸🇬 新加坡④ - 疾速cloud
+  - 🇸🇬 新加坡|Gpt - 疾速cloud
+  - 🇸🇬 新加坡[02] - Heima
   - 🇸🇬 新加坡|Netflix - 火箭cloud
   - 🇸🇬 新加坡|TikTok - 火箭cloud
   - 🇸🇬 新加坡|ChatGpt - 火箭cloud
   - 🇸🇬 新加坡|ChatGpt2 - 火箭cloud
-  - 🇸🇬SG Akile T成都CM 1.2x - PassGFW
-  - 🇸🇬SG Constant T深圳CM 1.2x - PassGFW
-  - 🇸🇬SG Constant T深圳CM2 1.2x - PassGFW
-  - 🇸🇬JP Osaka Choopa T长沙CM[IPV6] 1.2x - PassGFW
-  - 🇸🇬SG Akile T深圳CM 1.2x - PassGFW
-  - 🇸🇬SG Akile T深圳CM2 1.2x - PassGFW
-  - 🇸🇬SG Akile T长沙CM - PassGFW
   - 🇸🇬 Singapore#1 - 虚幻加速
   - 🇸🇬 Singapore#3 - 虚幻加速
 - name: 🇯🇵 ‍日本
@@ -307,22 +308,16 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id006
-  - 🇯🇵 日本 01 - V2Lnk
-  - 🇯🇵 日本 02 - V2Lnk
-  - 🇯🇵 日本 03 - V2Lnk
-  - 🇯🇵 日本 04 - V2Lnk
-  - 🇯🇵 日本 05 - V2Lnk
-  - 🇯🇵 日本 06 - V2Lnk
+  - 🇯🇵 日本① - 疾速cloud
+  - 🇯🇵 日本② - 疾速cloud
+  - 🇯🇵 日本③ - 疾速cloud
+  - 🇯🇵 日本④ - 疾速cloud
+  - 🇯🇵 日本|Gpt - 疾速cloud
+  - 🇯🇵 日本[01] - Heima
   - 🇯🇵 日本|ChatGpt-1 - 火箭cloud
   - 🇯🇵 日本|ChatGpt-2 - 火箭cloud
   - 🇯🇵 日本|ChatGpt-3 - 火箭cloud
   - 🇯🇵 日本|ChatGpt-4 - 火箭cloud
-  - 🇯🇵JP Akile T成都CM 1.2x - PassGFW
-  - 🇯🇵JP Akile T长沙CM [IPV6] 1.2x - PassGFW
-  - 🇯🇵JP Akile T长沙CM 1.2x - PassGFW
-  - 🇯🇵JP Akile T宁夏CM 1.2x - PassGFW
-  - 🇯🇵JP Osaka Choopa T深圳CM 1.2x - PassGFW
-  - 🇯🇵JP Osaka Choopa T深圳CM2 1.2x - PassGFW
   - 🇯🇵 Japan#1 - 虚幻加速
   - 🇯🇵 Japan#3 - 虚幻加速
 - name: 🇺🇸 ‍美国
@@ -331,12 +326,15 @@ proxy-groups:
   interval: 15
   tolerance: 300
   proxies: &id007
-  - 🇺🇸 美國 01 - V2Lnk
-  - 🇺🇸 美國 02 - V2Lnk
-  - 🇺🇸 美國 03 - V2Lnk
-  - 🇺🇸 美國 04 - V2Lnk
-  - 🇺🇸 美國 05 - V2Lnk
-  - 🇺🇸 美國 06 - V2Lnk
+  - 🇺🇸 美国① - 疾速cloud
+  - 🇺🇸 美国② - 疾速cloud
+  - 🇺🇸 美国③ - 疾速cloud
+  - 🇺🇸 美国④ - 疾速cloud
+  - 🇺🇸 美国|Gpt - 疾速cloud
+  - 🇺🇸美 低倍率 - F2ray
+  - 🇺🇸 美国[02] - Heima
+  - 🇺🇸 美国[03]中转 - Heima
+  - 🇺🇸 美国[04] - Heima
   - 🇺🇸 美国|Netflix - 火箭cloud
   - 🇺🇸 美国|TikTok - 火箭cloud
   - 🇺🇸 美国|ChatGpt - 火箭cloud
@@ -349,28 +347,58 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id008
-  - ℹ️ [官网] ww1.v2lnk.com - V2Lnk
-  - '[优惠] 新用户特惠 5元优惠  ,结算输入 2025 - V2Lnk'
-  - 🇰🇷 韩国 01 - V2Lnk
-  - 🇰🇷 韩国 02 - V2Lnk
-  - 🇹🇭 泰国 - V2Lnk
-  - 🇻🇳 越南 - V2Lnk
-  - 🇲🇾 马来西亚 - V2Lnk
-  - 🇨🇦 加拿大 - V2Lnk
-  - 🇬🇧 英国 01 - V2Lnk
-  - 🇬🇧 英国 02 - V2Lnk
-  - 🇩🇪 德国 01 - V2Lnk
-  - 🇩🇪 德国 02 - V2Lnk
-  - 🇫🇷 法国 - V2Lnk
-  - 🇮🇹 意大利 - V2Lnk
-  - 🇳🇱 荷兰 - V2Lnk
-  - 🇦🇺 悉尼 - V2Lnk
-  - 🇧🇷 巴西 - V2Lnk
-  - 🇮🇳 印度 - V2Lnk
-  - 🇦🇪 迪拜 - V2Lnk
-  - 🇷🇺 莫斯科 - V2Lnk
-  - 🇹🇷 土耳其 - V2Lnk
-  - 🇺🇦 乌克兰 - V2Lnk
+  - ℹ️ 官网:www.vam166.com - 疾速cloud
+  - ℹ️ sss250366399@gmail.com - 疾速cloud
+  - ℹ️ 卡.慢.用不了.更新线路 - 疾速cloud
+  - ↑↑↑以上节点无网络 - 疾速cloud
+  - 🇮🇳 印度① - 疾速cloud
+  - 🇰🇷 ??韩国|解锁Gpt - 疾速cloud
+  - 🇰🇷 ??韩国|解锁流媒体 - 疾速cloud
+  - 🇰🇷 韩国② - 疾速cloud
+  - 🇰🇷 韩国③ - 疾速cloud
+  - 🇰🇷 韩国④ - 疾速cloud
+  - 🇷🇺 俄罗斯① - 疾速cloud
+  - 🇷🇺 俄罗斯② - 疾速cloud
+  - 🇷🇺 俄罗斯③ - 疾速cloud
+  - 🇷🇺 俄罗斯④ - 疾速cloud
+  - 🇷🇺 俄罗斯⑤ - 疾速cloud
+  - 🇫🇷 法国① - 疾速cloud
+  - 🇫🇷 法国② - 疾速cloud
+  - 🇫🇷 法国③ - 疾速cloud
+  - 🇫🇷 法国④ - 疾速cloud
+  - 🇫🇷 法国|Gpt - 疾速cloud
+  - 🇩🇪 德国① - 疾速cloud
+  - 🇩🇪 德国② - 疾速cloud
+  - 🇩🇪 德国③ - 疾速cloud
+  - 🇩🇪 德国④ - 疾速cloud
+  - 🇩🇪 德国|Gpt - 疾速cloud
+  - 🇬🇧 英国① - 疾速cloud
+  - 🇬🇧 英国② - 疾速cloud
+  - 🇬🇧 英国③ - 疾速cloud
+  - 🇬🇧 英国④ - 疾速cloud
+  - 🇬🇧 英国|Gpt - 疾速cloud
+  - 🇦🇺 悉尼① - 疾速cloud
+  - 🇨🇦 加拿大① - 疾速cloud
+  - 🇲🇽 墨西哥① - 疾速cloud
+  - 🇳🇱 荷兰① - 疾速cloud
+  - 🇪🇸 西班牙① - 疾速cloud
+  - 🇸🇪 瑞典① - 疾速cloud
+  - 🇨🇭 瑞士① - 疾速cloud
+  - 🇮🇱 以色列① - 疾速cloud
+  - 🇸🇦 吉达① - 疾速cloud
+  - 🇿🇦 约翰内斯堡① - 疾速cloud
+  - 🇦🇪 迪拜① - 疾速cloud
+  - 🇧🇷 巴西① - 疾速cloud
+  - 🇨🇱 智利① - 疾速cloud
+  - 🇨🇴 哥伦比亚① - 疾速cloud
+  - 🇰🇷 韩国[01]中转 - Heima
+  - 🇫🇷 法国[01]中转 - Heima
+  - 🇩🇪 德国[01]中转 - Heima
+  - 🇨🇦 加拿大[01]中转 - Heima
+  - 🇧🇷 巴西[01]中转 - Heima
+  - 🇷🇺 俄罗斯[01]中转 - Heima
+  - 🇲🇾 马来西亚[01] - Heima
+  - 🇲🇾 马来西亚[02] - Heima
   - 'ℹ️ 官网: www.yas66.com - 火箭cloud'
   - ℹ️ as250366399@gmail.com - 火箭cloud
   - 'ℹ️ 续费网址: www.yas66.com - 火箭cloud'
@@ -417,57 +445,96 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 🇺🇸 美國 01 - V2Lnk, server: uswest.nexifyspark.com, port: 16010, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇺🇸 美國 02 - V2Lnk, server: uswest.nexifyspark.com, port: 16011, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇺🇸 美國 03 - V2Lnk, server: uswest.nexifyspark.com, port: 16012, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇺🇸 美國 04 - V2Lnk, server: useast.nexifyspark.com, port: 16013, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇺🇸 美國 05 - V2Lnk, server: useast.nexifyspark.com, port: 16014, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇺🇸 美國 06 - V2Lnk, server: useast.nexifyspark.com, port: 16015, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇹🇼 台湾 01 - V2Lnk, server: ap-e3.nexifyspark.com, port: 21001, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇹🇼 台湾 02 - V2Lnk, server: ap-e3.nexifyspark.com, port: 21002, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇹🇼 台湾 03 - V2Lnk, server: ap-e3.nexifyspark.com, port: 21003, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇸🇬 新加坡 01 - V2Lnk, server: singad.nexifyspark.com, port: 21008, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇸🇬 新加坡 02 - V2Lnk, server: singad.nexifyspark.com, port: 21009, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇸🇬 新加坡 03 - V2Lnk, server: singad.nexifyspark.com, port: 21010, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇸🇬 新加坡 04 - V2Lnk, server: sgwest.nexifyspark.com, port: 10351, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇸🇬 新加坡 05 - V2Lnk, server: sgwest.nexifyspark.com, port: 10352, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇸🇬 新加坡 06 - V2Lnk, server: sgwest.nexifyspark.com, port: 10353, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 'ℹ️ [官网] ww1.v2lnk.com - V2Lnk', server: expa.nexifyspark.com, port: 17133, type: vmess, uuid: cccaccf5-4ea4-40ad-8887-e1f51d57b521, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /Microsoft, headers: {Host: expa.nexifyspark.com}}, udp: true}
-- {name: '[优惠] 新用户特惠 5元优惠  ,结算输入 2025 - V2Lnk', server: expa.nexifyspark.com, port: 18600, type: vmess, uuid: cccaccf5-4ea4-40ad-8887-e1f51d57b521, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /Microsoft, headers: {Host: expa.nexifyspark.com}}, udp: true}
-- {name: 🇰🇷 韩国 01 - V2Lnk, server: ap-e2.nexifyspark.com, port: 21004, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇰🇷 韩国 02 - V2Lnk, server: ap-e2.nexifyspark.com, port: 21006, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇹🇭 泰国 - V2Lnk, server: sgwest.nexifyspark.com, port: 21005, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇻🇳 越南 - V2Lnk, server: singad.nexifyspark.com, port: 21007, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇲🇾 马来西亚 - V2Lnk, server: sgwest.nexifyspark.com, port: 20010, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇨🇦 加拿大 - V2Lnk, server: useast.nexifyspark.com, port: 16018, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇬🇧 英国 01 - V2Lnk, server: eulondon.nexifyspark.com, port: 34401, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇬🇧 英国 02 - V2Lnk, server: eulondon.nexifyspark.com, port: 34402, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇩🇪 德国 01 - V2Lnk, server: reg2.nexifyspark.com, port: 34901, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇩🇪 德国 02 - V2Lnk, server: reg2.nexifyspark.com, port: 34902, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇫🇷 法国 - V2Lnk, server: reg2.nexifyspark.com, port: 34903, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇮🇹 意大利 - V2Lnk, server: reg2.nexifyspark.com, port: 34904, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇳🇱 荷兰 - V2Lnk, server: ozwest.nexifyspark.com, port: 34906, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇦🇺 悉尼 - V2Lnk, server: ozwest.nexifyspark.com, port: 20061, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇧🇷 巴西 - V2Lnk, server: reg3.nexifyspark.com, port: 20062, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇮🇳 印度 - V2Lnk, server: reg1.nexifyspark.com, port: 10911, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇦🇪 迪拜 - V2Lnk, server: mid.nexifyspark.com, port: 20071, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇷🇺 莫斯科 - V2Lnk, server: reg3.nexifyspark.com, port: 19003, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇹🇷 土耳其 - V2Lnk, server: reg3.nexifyspark.com, port: 19008, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇺🇦 乌克兰 - V2Lnk, server: reg3.nexifyspark.com, port: 19009, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇭🇰 香港 01 - V2Lnk, server: about.aliyunsebu.xyz, port: 30501, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇭🇰 香港 02 - V2Lnk, server: account.aliyunsebu.xyz, port: 30502, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇭🇰 香港 03 - V2Lnk, server: alpha.aliyunsebu.xyz, port: 30503, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇭🇰 香港 04 - V2Lnk, server: analytics.aliyunsebu.xyz, port: 30504, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇭🇰 香港 05 - V2Lnk, server: api.aliyunsebu.xyz, port: 30505, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇭🇰 香港 06 - V2Lnk, server: audio.aliyunsebu.xyz, port: 30506, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇭🇰 香港 07 - V2Lnk, server: beta.aliyunsebu.xyz, port: 30507, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇭🇰 香港 08 - V2Lnk, server: blog.aliyunsebu.xyz, port: 30508, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇯🇵 日本 01 - V2Lnk, server: jptokyo.nexifyspark.com, port: 30601, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇯🇵 日本 02 - V2Lnk, server: jptokyo.nexifyspark.com, port: 30602, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇯🇵 日本 03 - V2Lnk, server: jptokyo.nexifyspark.com, port: 30603, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇯🇵 日本 04 - V2Lnk, server: ap-e1.nexifyspark.com, port: 30604, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇯🇵 日本 05 - V2Lnk, server: ap-e1.nexifyspark.com, port: 30605, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
-- {name: 🇯🇵 日本 06 - V2Lnk, server: ap-e1.nexifyspark.com, port: 30606, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
+- {name: 🇺🇸 美国① - 疾速cloud, server: diao.arken8379.com, port: 26004, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇺🇸 美国② - 疾速cloud, server: diao.arken8379.com, port: 26004, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇺🇸 美国③ - 疾速cloud, server: diao.arken8379.com, port: 26004, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇺🇸 美国④ - 疾速cloud, server: diao.arken8379.com, port: 26004, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇺🇸 美国|Gpt - 疾速cloud, server: diao.arken8379.com, port: 26004, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: '🇹🇼 台湾??|TikTok - 疾速cloud', server: diao.arken8379.com, port: 26001, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: '🇹🇼 台湾??|gpt - 疾速cloud', server: diao.arken8379.com, port: 26001, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇹🇼 台湾② - 疾速cloud, server: diao.arken8379.com, port: 26001, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇹🇼 台湾③ - 疾速cloud, server: diao.arken8379.com, port: 26001, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇹🇼 台湾④ - 疾速cloud, server: diao.arken8379.com, port: 26001, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇸🇬 新加坡① - 疾速cloud, server: diao.arken8379.com, port: 26003, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇸🇬 新加坡② - 疾速cloud, server: diao.arken8379.com, port: 26003, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇸🇬 新加坡③ - 疾速cloud, server: diao.arken8379.com, port: 26003, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇸🇬 新加坡④ - 疾速cloud, server: diao.arken8379.com, port: 26003, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇸🇬 新加坡|Gpt - 疾速cloud, server: diao.arken8379.com, port: 26003, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: ℹ️ 官网:www.vam166.com - 疾速cloud, server: diao.arken8379.com, port: 26002, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: ℹ️ sss250366399@gmail.com - 疾速cloud, server: diao.arken8379.com, port: 26002, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: ℹ️ 卡.慢.用不了.更新线路 - 疾速cloud, server: diao.arken8379.com, port: 26002, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: ↑↑↑以上节点无网络 - 疾速cloud, server: diao.arken8379.com, port: 26003, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇮🇳 印度① - 疾速cloud, server: diao.arken8379.com, port: 26050, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: '🇰🇷 ??韩国|解锁Gpt - 疾速cloud', server: diao.arken8379.com, port: 26001, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: '🇰🇷 ??韩国|解锁流媒体 - 疾速cloud', server: diao.arken8379.com, port: 26001, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇰🇷 韩国② - 疾速cloud, server: diao.arken8379.com, port: 26001, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇰🇷 韩国③ - 疾速cloud, server: diao.arken8379.com, port: 26001, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇰🇷 韩国④ - 疾速cloud, server: diao.arken8379.com, port: 26001, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇷🇺 俄罗斯① - 疾速cloud, server: diao.arken8379.com, port: 26009, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇷🇺 俄罗斯② - 疾速cloud, server: diao.arken8379.com, port: 26009, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇷🇺 俄罗斯③ - 疾速cloud, server: diao.arken8379.com, port: 26009, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇷🇺 俄罗斯④ - 疾速cloud, server: diao.arken8379.com, port: 26009, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇷🇺 俄罗斯⑤ - 疾速cloud, server: diao.arken8379.com, port: 26009, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇫🇷 法国① - 疾速cloud, server: diao.arken8379.com, port: 26006, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇫🇷 法国② - 疾速cloud, server: diao.arken8379.com, port: 26006, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇫🇷 法国③ - 疾速cloud, server: diao.arken8379.com, port: 26006, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇫🇷 法国④ - 疾速cloud, server: diao.arken8379.com, port: 26006, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇫🇷 法国|Gpt - 疾速cloud, server: diao.arken8379.com, port: 26006, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇩🇪 德国① - 疾速cloud, server: diao.arken8379.com, port: 26007, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇩🇪 德国② - 疾速cloud, server: diao.arken8379.com, port: 26007, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇩🇪 德国③ - 疾速cloud, server: diao.arken8379.com, port: 26007, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇩🇪 德国④ - 疾速cloud, server: diao.arken8379.com, port: 26007, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇩🇪 德国|Gpt - 疾速cloud, server: diao.arken8379.com, port: 26007, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇬🇧 英国① - 疾速cloud, server: diao.arken8379.com, port: 26008, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇬🇧 英国② - 疾速cloud, server: diao.arken8379.com, port: 26008, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇬🇧 英国③ - 疾速cloud, server: diao.arken8379.com, port: 26008, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇬🇧 英国④ - 疾速cloud, server: diao.arken8379.com, port: 26008, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇬🇧 英国|Gpt - 疾速cloud, server: diao.arken8379.com, port: 26008, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇦🇺 悉尼① - 疾速cloud, server: diao.arken8379.com, port: 26031, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇨🇦 加拿大① - 疾速cloud, server: diao.arken8379.com, port: 35031, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇲🇽 墨西哥① - 疾速cloud, server: diao.arken8379.com, port: 26033, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇳🇱 荷兰① - 疾速cloud, server: diao.arken8379.com, port: 26035, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇪🇸 西班牙① - 疾速cloud, server: diao.arken8379.com, port: 26036, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇸🇪 瑞典① - 疾速cloud, server: diao.arken8379.com, port: 26037, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇨🇭 瑞士① - 疾速cloud, server: diao.arken8379.com, port: 26038, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇮🇱 以色列① - 疾速cloud, server: diao.arken8379.com, port: 26039, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇸🇦 吉达① - 疾速cloud, server: diao.arken8379.com, port: 26053, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇿🇦 约翰内斯堡① - 疾速cloud, server: diao.arken8379.com, port: 26041, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇦🇪 迪拜① - 疾速cloud, server: diao.arken8379.com, port: 26042, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇧🇷 巴西① - 疾速cloud, server: diao.arken8379.com, port: 26043, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇨🇱 智利① - 疾速cloud, server: diao.arken8379.com, port: 26044, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇨🇴 哥伦比亚① - 疾速cloud, server: diao.arken8379.com, port: 26045, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇭🇰 香港 - 疾速cloud, server: diao.arken8379.com, port: 26000, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇭🇰 香港|解锁流媒体 - 疾速cloud, server: diao.arken8379.com, port: 26000, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇭🇰 香港② - 疾速cloud, server: diao.arken8379.com, port: 26000, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇭🇰 香港③ - 疾速cloud, server: diao.arken8379.com, port: 26000, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇭🇰 香港④ - 疾速cloud, server: diao.arken8379.com, port: 26000, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇯🇵 日本① - 疾速cloud, server: diao.arken8379.com, port: 26002, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇯🇵 日本② - 疾速cloud, server: diao.arken8379.com, port: 26002, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇯🇵 日本③ - 疾速cloud, server: diao.arken8379.com, port: 26002, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇯🇵 日本④ - 疾速cloud, server: diao.arken8379.com, port: 26002, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇯🇵 日本|Gpt - 疾速cloud, server: diao.arken8379.com, port: 26002, type: ss, cipher: chacha20-ietf-poly1305, password: 579f286e-b3d5-4cc5-8d95-9036604b8a81, udp: true}
+- {name: 🇺🇸美 低倍率 - F2ray, server: c.f2oo.net, port: 8443, type: vmess, uuid: 1c679b2f-acbe-4b32-86cf-f1b418e97d6c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: s-us1.f2oo.net}}, udp: true}
+- {name: '🇭🇰香港[1] <- 广移⌛️10倍费率 - F2ray', server: gdhk1-07312200.666888.biz, port: 30609, type: ss, cipher: chacha20-ietf-poly1305, password: 1c679b2f-acbe-4b32-86cf-f1b418e97d6c, udp: true}
+- {name: '🇺🇸 美国[02] - Heima', server: pop.ede9314c-61e5-4c9a-8e41-275a29f5120e.heima360.cc, port: 443, type: trojan, password: dda7ac3c-9782-4e2f-9eaa-8d7d56c090d4, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 美国[03]中转 - Heima', server: vip.baima360.com, port: 17941, type: ss, cipher: chacha20-ietf-poly1305, password: dda7ac3c-9782-4e2f-9eaa-8d7d56c090d4, udp: true}
+- {name: '🇺🇸 美国[04] - Heima', server: 45.83.140.22, port: 658, type: trojan, password: dda7ac3c-9782-4e2f-9eaa-8d7d56c090d4, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 台湾[01]中转 - Heima', server: vip.baima360.com, port: 41004, type: ss, cipher: chacha20-ietf-poly1305, password: dda7ac3c-9782-4e2f-9eaa-8d7d56c090d4, udp: true}
+- {name: '🇸🇬 新加坡[02] - Heima', server: pop.09d21837-9b89-4490-92bf-eabf449e3321.heima360.cc, port: 443, type: trojan, password: dda7ac3c-9782-4e2f-9eaa-8d7d56c090d4, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 韩国[01]中转 - Heima', server: vip.baima360.com, port: 42344, type: ss, cipher: chacha20-ietf-poly1305, password: dda7ac3c-9782-4e2f-9eaa-8d7d56c090d4, udp: true}
+- {name: '🇫🇷 法国[01]中转 - Heima', server: vip.baima360.com, port: 35330, type: ss, cipher: chacha20-ietf-poly1305, password: dda7ac3c-9782-4e2f-9eaa-8d7d56c090d4, udp: true}
+- {name: '🇩🇪 德国[01]中转 - Heima', server: vip.baima360.com, port: 55997, type: ss, cipher: chacha20-ietf-poly1305, password: dda7ac3c-9782-4e2f-9eaa-8d7d56c090d4, udp: true}
+- {name: '🇨🇦 加拿大[01]中转 - Heima', server: vip.baima360.com, port: 29292, type: ss, cipher: chacha20-ietf-poly1305, password: dda7ac3c-9782-4e2f-9eaa-8d7d56c090d4, udp: true}
+- {name: '🇧🇷 巴西[01]中转 - Heima', server: vip.baima360.com, port: 30752, type: ss, cipher: chacha20-ietf-poly1305, password: dda7ac3c-9782-4e2f-9eaa-8d7d56c090d4, udp: true}
+- {name: '🇷🇺 俄罗斯[01]中转 - Heima', server: vip.baima360.com, port: 23499, type: ss, cipher: chacha20-ietf-poly1305, password: dda7ac3c-9782-4e2f-9eaa-8d7d56c090d4, udp: true}
+- {name: '🇲🇾 马来西亚[01] - Heima', server: 103.75.189.152, port: 100, type: trojan, password: dda7ac3c-9782-4e2f-9eaa-8d7d56c090d4, skip-cert-verify: true, udp: true}
+- {name: '🇲🇾 马来西亚[02] - Heima', server: 103.75.188.189, port: 101, type: trojan, password: dda7ac3c-9782-4e2f-9eaa-8d7d56c090d4, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 香港[01] - Heima', server: 107.149.254.26, port: 158, type: trojan, password: dda7ac3c-9782-4e2f-9eaa-8d7d56c090d4, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 香港[04]中转 - Heima', server: vip.baima360.com, port: 65519, type: ss, cipher: chacha20-ietf-poly1305, password: dda7ac3c-9782-4e2f-9eaa-8d7d56c090d4, udp: true}
+- {name: '🇭🇰 香港[05]中转 - Heima', server: vip.baima360.com, port: 36511, type: ss, cipher: chacha20-ietf-poly1305, password: dda7ac3c-9782-4e2f-9eaa-8d7d56c090d4, udp: true}
+- {name: '🇭🇰 香港[06] - Heima', server: 107.149.254.26, port: 159, type: trojan, password: dda7ac3c-9782-4e2f-9eaa-8d7d56c090d4, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 香港[07]中转 - Heima', server: vip.baima360.com, port: 36214, type: ss, cipher: chacha20-ietf-poly1305, password: dda7ac3c-9782-4e2f-9eaa-8d7d56c090d4, udp: true}
+- {name: '🇯🇵 日本[01] - Heima', server: vip.baima360.com, port: 15888, type: ss, cipher: chacha20-ietf-poly1305, password: dda7ac3c-9782-4e2f-9eaa-8d7d56c090d4, udp: true}
 - {name: 🇺🇸 美国|Netflix - 火箭cloud, server: huojian.arken8379.com, port: 23003, type: trojan, password: 3782cf86-170e-463f-bee4-2acff3997f21, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国|TikTok - 火箭cloud, server: huojian.arken8379.com, port: 23003, type: trojan, password: 3782cf86-170e-463f-bee4-2acff3997f21, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国|ChatGpt - 火箭cloud, server: huojian-js.arken8379.com, port: 23003, type: trojan, password: 3782cf86-170e-463f-bee4-2acff3997f21, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
@@ -506,29 +573,6 @@ proxies:
 - {name: 🇯🇵 日本|ChatGpt-3 - 火箭cloud, server: huojian-js.arken8379.com, port: 23001, type: trojan, password: 3782cf86-170e-463f-bee4-2acff3997f21, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本|ChatGpt-4 - 火箭cloud, server: huojian-js.arken8379.com, port: 23001, type: trojan, password: 3782cf86-170e-463f-bee4-2acff3997f21, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 韩国-三网优化2 - 青云互联网-, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: e828e6ec-0e4b-4ffe-b78a-db7dc366e0ca, sni: kr-qingyun.dwyun.me, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼TW TPE TWDS T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 19416, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇹🇼TW TPE TWDS T深圳CM 1.2x - PassGFW, server: tysz.rcmnk.cn, port: 41018, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇹🇼TW TPE TWDS T深圳CM2 1.2x - PassGFW, server: szhx.rcmnk.cn, port: 41018, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇹🇼TW TPE TWDS T长沙CM 1.2x - PassGFW, server: csyd.rcmnk.cn, port: 14939, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇹🇼TW TPE TWDS T宁夏CM 1.2x - PassGFW, server: awslx.rcmnk.cn, port: 24869, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇸🇬SG Akile T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 16732, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇸🇬SG Constant T深圳CM 1.2x - PassGFW, server: tysz.rcmnk.cn, port: 51410, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇸🇬SG Constant T深圳CM2 1.2x - PassGFW, server: szhx.rcmnk.cn, port: 51410, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: '🇸🇬JP Osaka Choopa T长沙CM[IPV6] 1.2x - PassGFW', server: 2409:8c50:a00:200d:fffe:0:2:12, port: 35145, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇸🇬SG Akile T深圳CM 1.2x - PassGFW, server: tysz.rcmnk.cn, port: 50563, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇸🇬SG Akile T深圳CM2 1.2x - PassGFW, server: szhx.rcmnk.cn, port: 50563, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇸🇬SG Akile T长沙CM - PassGFW, server: csyd.rcmnk.cn, port: 60912, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇭🇰HK Akile T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 16732, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇭🇰HK Akile T宁夏CM 1.2x - PassGFW, server: awslx.rcmnk.cn, port: 55872, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇭🇰HK Akile T深圳CM 1.2x - PassGFW, server: tysz.rcmnk.cn, port: 41124, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇭🇰HK Akile T深圳CM2 1.2x - PassGFW, server: szhx.rcmnk.cn, port: 41124, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇭🇰HK Akile T长沙CM 1.2x - PassGFW, server: csyd.rcmnk.cn, port: 41124, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇯🇵JP Akile T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 45790, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: '🇯🇵JP Akile T长沙CM [IPV6] 1.2x - PassGFW', server: 2409:8c50:a00:200d:fffe:0:2:12, port: 63640, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇯🇵JP Akile T长沙CM 1.2x - PassGFW, server: csyd.rcmnk.cn, port: 16127, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇯🇵JP Akile T宁夏CM 1.2x - PassGFW, server: awslx.rcmnk.cn, port: 35454, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇯🇵JP Osaka Choopa T深圳CM 1.2x - PassGFW, server: tysz.rcmnk.cn, port: 22947, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
-- {name: 🇯🇵JP Osaka Choopa T深圳CM2 1.2x - PassGFW, server: szhx.rcmnk.cn, port: 22947, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
 - {name: 🇺🇸 United States#1 - 虚幻加速, server: svip1.pingboy.top, port: 15327, type: vmess, uuid: 4f0119ad-171e-4b4e-afed-17d3919d4969, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 United States#3 - 虚幻加速, server: svip1.pingboy.top, port: 15327, type: vmess, uuid: 4f0119ad-171e-4b4e-afed-17d3919d4969, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 Singapore#1 - 虚幻加速, server: svip1.pingboy.top, port: 28673, type: vmess, uuid: 4f0119ad-171e-4b4e-afed-17d3919d4969, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -538,7 +582,7 @@ proxies:
 - {name: 🇭🇰 Hongkong#5 - 虚幻加速, server: svip1.pingboy.top, port: 39840, type: vmess, uuid: 4f0119ad-171e-4b4e-afed-17d3919d4969, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 Japan#1 - 虚幻加速, server: svip1.pingboy.top, port: 19015, type: vmess, uuid: 4f0119ad-171e-4b4e-afed-17d3919d4969, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 Japan#3 - 虚幻加速, server: svip1.pingboy.top, port: 19015, type: vmess, uuid: 4f0119ad-171e-4b4e-afed-17d3919d4969, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: ℹ️ 永久官网:www.猫云.net - 猫云, server: 8.8.8.8, port: 10086, type: ss, cipher: chacha20-ietf-poly1305, password: lIDG9hzlUXbHlPyv, udp: true}
+- {name: ℹ️ 永久官网:www.猫云.net - 猫云, server: 8.8.8.8, port: 10086, type: ss, cipher: chacha20-ietf-poly1305, password: ZoI1Wh9cqULicHZz, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
