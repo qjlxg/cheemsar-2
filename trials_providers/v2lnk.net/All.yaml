@@ -1,0 +1,54 @@
+%YAML 1.1
+---
+proxies:
+- {name: 'ℹ️ [官网] ww1.v2lnk.com - V2Lnk', server: expa.nexifyspark.com, port: 17133, tfo: true, type: vmess, uuid: 29b5c759-b2b4-4aae-af8e-848dce53c64d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /Microsoft, headers: {Host: expa.nexifyspark.com}}, udp: true}
+- {name: '[优惠] 新用户特惠 5元优惠  ,结算输入 2025 - V2Lnk', server: expa.nexifyspark.com, port: 18600, tfo: true, type: vmess, uuid: 29b5c759-b2b4-4aae-af8e-848dce53c64d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /Microsoft, headers: {Host: expa.nexifyspark.com}}, udp: true}
+- {name: 🇭🇰 香港 01 - V2Lnk, server: about.aliyunsebu.xyz, port: 30501, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇭🇰 香港 02 - V2Lnk, server: account.aliyunsebu.xyz, port: 30502, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇭🇰 香港 03 - V2Lnk, server: alpha.aliyunsebu.xyz, port: 30503, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇭🇰 香港 04 - V2Lnk, server: analytics.aliyunsebu.xyz, port: 30504, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇭🇰 香港 05 - V2Lnk, server: api.aliyunsebu.xyz, port: 30505, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇭🇰 香港 06 - V2Lnk, server: audio.aliyunsebu.xyz, port: 30506, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇭🇰 香港 07 - V2Lnk, server: beta.aliyunsebu.xyz, port: 30507, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇭🇰 香港 08 - V2Lnk, server: blog.aliyunsebu.xyz, port: 30508, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇯🇵 日本 01 - V2Lnk, server: jptokyo.nexifyspark.com, port: 30601, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇯🇵 日本 02 - V2Lnk, server: jptokyo.nexifyspark.com, port: 30602, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇯🇵 日本 03 - V2Lnk, server: jptokyo.nexifyspark.com, port: 30603, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇯🇵 日本 04 - V2Lnk, server: ap-e1.nexifyspark.com, port: 30604, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇯🇵 日本 05 - V2Lnk, server: ap-e1.nexifyspark.com, port: 30605, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇯🇵 日本 06 - V2Lnk, server: ap-e1.nexifyspark.com, port: 30606, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇹🇼 台湾 01 - V2Lnk, server: ap-e3.nexifyspark.com, port: 21001, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇹🇼 台湾 02 - V2Lnk, server: ap-e3.nexifyspark.com, port: 21002, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇹🇼 台湾 03 - V2Lnk, server: ap-e3.nexifyspark.com, port: 21003, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇰🇷 韩国 01 - V2Lnk, server: ap-e2.nexifyspark.com, port: 21004, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇰🇷 韩国 02 - V2Lnk, server: ap-e2.nexifyspark.com, port: 21006, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇹🇭 泰国 - V2Lnk, server: sgwest.nexifyspark.com, port: 21005, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇻🇳 越南 - V2Lnk, server: singad.nexifyspark.com, port: 21007, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇲🇾 马来西亚 - V2Lnk, server: sgwest.nexifyspark.com, port: 20010, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇸🇬 新加坡 01 - V2Lnk, server: singad.nexifyspark.com, port: 21008, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇸🇬 新加坡 02 - V2Lnk, server: singad.nexifyspark.com, port: 21009, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇸🇬 新加坡 03 - V2Lnk, server: singad.nexifyspark.com, port: 21010, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇸🇬 新加坡 04 - V2Lnk, server: sgwest.nexifyspark.com, port: 10351, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇸🇬 新加坡 05 - V2Lnk, server: sgwest.nexifyspark.com, port: 10352, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇸🇬 新加坡 06 - V2Lnk, server: sgwest.nexifyspark.com, port: 10353, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇺🇸 美國 01 - V2Lnk, server: uswest.nexifyspark.com, port: 16010, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇺🇸 美國 02 - V2Lnk, server: uswest.nexifyspark.com, port: 16011, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇺🇸 美國 03 - V2Lnk, server: uswest.nexifyspark.com, port: 16012, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇺🇸 美國 04 - V2Lnk, server: useast.nexifyspark.com, port: 16013, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇺🇸 美國 05 - V2Lnk, server: useast.nexifyspark.com, port: 16014, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇺🇸 美國 06 - V2Lnk, server: useast.nexifyspark.com, port: 16015, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇨🇦 加拿大 - V2Lnk, server: useast.nexifyspark.com, port: 16018, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇬🇧 英国 01 - V2Lnk, server: eulondon.nexifyspark.com, port: 34401, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇬🇧 英国 02 - V2Lnk, server: eulondon.nexifyspark.com, port: 34402, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇩🇪 德国 01 - V2Lnk, server: reg2.nexifyspark.com, port: 34901, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇩🇪 德国 02 - V2Lnk, server: reg2.nexifyspark.com, port: 34902, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇫🇷 法国 - V2Lnk, server: reg2.nexifyspark.com, port: 34903, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇮🇹 意大利 - V2Lnk, server: reg2.nexifyspark.com, port: 34904, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇳🇱 荷兰 - V2Lnk, server: ozwest.nexifyspark.com, port: 34906, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇦🇺 悉尼 - V2Lnk, server: ozwest.nexifyspark.com, port: 20061, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇧🇷 巴西 - V2Lnk, server: reg3.nexifyspark.com, port: 20062, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇮🇳 印度 - V2Lnk, server: reg1.nexifyspark.com, port: 10911, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇦🇪 迪拜 - V2Lnk, server: mid.nexifyspark.com, port: 20071, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇷🇺 莫斯科 - V2Lnk, server: reg3.nexifyspark.com, port: 19003, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇹🇷 土耳其 - V2Lnk, server: reg3.nexifyspark.com, port: 19008, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇺🇦 乌克兰 - V2Lnk, server: reg3.nexifyspark.com, port: 19009, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}

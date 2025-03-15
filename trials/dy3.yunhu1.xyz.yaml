@@ -29,17 +29,67 @@ proxy-groups:
   - REJECT
 - name: ⚡ ‍低延迟
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id001
-  - HK
-  - TW
-  - SG
-  - JP
-  - US
-  - Other
+  proxies: &id001
+  - 🇭🇰 香港01（高速） - CloudFox
+  - 🇭🇰 香港02（高速） - CloudFox
+  - 🇭🇰 香港03（IPLC稳定） - CloudFox
+  - 🇭🇰 香港04（IPLC稳定） - CloudFox
+  - 🇭🇰 香港05 - CloudFox
+  - 🇭🇰 香港06 - CloudFox
+  - 🇹🇼 台湾01（高速） - CloudFox
+  - 🇹🇼 台湾02（高速） - CloudFox
+  - 🇹🇼 台湾03（IPLC稳定） - CloudFox
+  - 🇹🇼 台湾04（IPLC稳定） - CloudFox
+  - 🇹🇼 台湾05（GPT专用） - CloudFox
+  - 🇹🇼 台湾06（GPT专用） - CloudFox
+  - 🇸🇬 新加坡01（高速） - CloudFox
+  - 🇸🇬 新加坡02（高速） - CloudFox
+  - 🇸🇬 新加坡03（IPLC稳定） - CloudFox
+  - 🇸🇬 新加坡04（IPLC稳定） - CloudFox
+  - 🇸🇬 新加坡05（GPT专用） - CloudFox
+  - 🇸🇬 新加坡06（GPT专用） - CloudFox
+  - 🇯🇵 日本01（高速） - CloudFox
+  - 🇯🇵 日本02（高速） - CloudFox
+  - 🇯🇵 日本03（IPLC稳定） - CloudFox
+  - 🇯🇵 日本04（IPLC稳定） - CloudFox
+  - 🇯🇵 日本05（GPT专用） - CloudFox
+  - 🇯🇵 日本06（GPT专用） - CloudFox
+  - 🇺🇸 美国01（高速） - CloudFox
+  - 🇺🇸 美国02（高速） - CloudFox
+  - 🇺🇸 美国03（IPLC稳定） - CloudFox
+  - 🇺🇸 美国04（IPLC稳定） - CloudFox
+  - 🇺🇸 美国05（GPT专用） - CloudFox
+  - 🇺🇸 美国06（GPT专用） - CloudFox
+  - ℹ️ 牢记域名:yh12.xyz - CloudFox
+  - ℹ️ 有问题访问:yh12.xyz - CloudFox
+  - ℹ️ 订阅失败访问:yh12.xyz - CloudFox
+  - ℹ️ 防失联:yh12.xyz - CloudFox
+  - 🇰🇷 韩国01（高速） - CloudFox
+  - 🇰🇷 韩国02（高速） - CloudFox
+  - 🇰🇷 韩国03（IPLC稳定） - CloudFox
+  - 🇰🇷 韩国04（IPLC稳定） - CloudFox
+  - 🇰🇷 韩国05（GPT专用） - CloudFox
+  - 🇰🇷 韩国06（GPT专用） - CloudFox
+  - 🇳🇱 荷兰01 - CloudFox
+  - 🇳🇱 荷兰02 - CloudFox
+  - 🇹🇷 土耳其01 (高速） - CloudFox
+  - 🇹🇷 土耳其02 (高速） - CloudFox
+  - 🇦🇺 澳大利亚01（高速） - CloudFox
+  - 🇦🇺 澳大利亚02（高速） - CloudFox
+  - 🇬🇧 英国01（高速） - CloudFox
+  - 🇬🇧 英国02（高速） - CloudFox
+  - 🇬🇧 英国03（IPLC稳定） - CloudFox
+  - 🇬🇧 英国04（IPLC稳定） - CloudFox
+  - 🇬🇧 英国05（GPT专用） - CloudFox
+  - 🇬🇧 英国06（GPT专用） - CloudFox
+  - 🇨🇦 加拿大01（高速） - CloudFox
+  - 🇨🇦 加拿大02（高速） - CloudFox
 - name: 👆🏻 ‍指定
   type: select
-  use: *id001
+  proxies: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -88,116 +138,188 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id002
-  - HK
+  proxies: &id002
+  - 🇭🇰 香港01（高速） - CloudFox
+  - 🇭🇰 香港02（高速） - CloudFox
+  - 🇭🇰 香港03（IPLC稳定） - CloudFox
+  - 🇭🇰 香港04（IPLC稳定） - CloudFox
+  - 🇭🇰 香港05 - CloudFox
+  - 🇭🇰 香港06 - CloudFox
 - name: 🇹🇼 ‍台湾
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id003
-  - TW
+  proxies: &id003
+  - 🇹🇼 台湾01（高速） - CloudFox
+  - 🇹🇼 台湾02（高速） - CloudFox
+  - 🇹🇼 台湾03（IPLC稳定） - CloudFox
+  - 🇹🇼 台湾04（IPLC稳定） - CloudFox
+  - 🇹🇼 台湾05（GPT专用） - CloudFox
+  - 🇹🇼 台湾06（GPT专用） - CloudFox
 - name: 🇨🇳 ‍中国
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id004
-  - HK
-  - TW
+  proxies: &id004
+  - 🇭🇰 香港01（高速） - CloudFox
+  - 🇭🇰 香港02（高速） - CloudFox
+  - 🇭🇰 香港03（IPLC稳定） - CloudFox
+  - 🇭🇰 香港04（IPLC稳定） - CloudFox
+  - 🇭🇰 香港05 - CloudFox
+  - 🇭🇰 香港06 - CloudFox
+  - 🇹🇼 台湾01（高速） - CloudFox
+  - 🇹🇼 台湾02（高速） - CloudFox
+  - 🇹🇼 台湾03（IPLC稳定） - CloudFox
+  - 🇹🇼 台湾04（IPLC稳定） - CloudFox
+  - 🇹🇼 台湾05（GPT专用） - CloudFox
+  - 🇹🇼 台湾06（GPT专用） - CloudFox
 - name: 🇸🇬 ‍新加坡
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id005
-  - SG
+  proxies: &id005
+  - 🇸🇬 新加坡01（高速） - CloudFox
+  - 🇸🇬 新加坡02（高速） - CloudFox
+  - 🇸🇬 新加坡03（IPLC稳定） - CloudFox
+  - 🇸🇬 新加坡04（IPLC稳定） - CloudFox
+  - 🇸🇬 新加坡05（GPT专用） - CloudFox
+  - 🇸🇬 新加坡06（GPT专用） - CloudFox
 - name: 🇯🇵 ‍日本
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id006
-  - JP
+  proxies: &id006
+  - 🇯🇵 日本01（高速） - CloudFox
+  - 🇯🇵 日本02（高速） - CloudFox
+  - 🇯🇵 日本03（IPLC稳定） - CloudFox
+  - 🇯🇵 日本04（IPLC稳定） - CloudFox
+  - 🇯🇵 日本05（GPT专用） - CloudFox
+  - 🇯🇵 日本06（GPT专用） - CloudFox
 - name: 🇺🇸 ‍美国
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 300
-  use: &id007
-  - US
+  proxies: &id007
+  - 🇺🇸 美国01（高速） - CloudFox
+  - 🇺🇸 美国02（高速） - CloudFox
+  - 🇺🇸 美国03（IPLC稳定） - CloudFox
+  - 🇺🇸 美国04（IPLC稳定） - CloudFox
+  - 🇺🇸 美国05（GPT专用） - CloudFox
+  - 🇺🇸 美国06（GPT专用） - CloudFox
 - name: 🎏 ‍其他
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id008
-  - Other
+  proxies: &id008
+  - ℹ️ 牢记域名:yh12.xyz - CloudFox
+  - ℹ️ 有问题访问:yh12.xyz - CloudFox
+  - ℹ️ 订阅失败访问:yh12.xyz - CloudFox
+  - ℹ️ 防失联:yh12.xyz - CloudFox
+  - 🇰🇷 韩国01（高速） - CloudFox
+  - 🇰🇷 韩国02（高速） - CloudFox
+  - 🇰🇷 韩国03（IPLC稳定） - CloudFox
+  - 🇰🇷 韩国04（IPLC稳定） - CloudFox
+  - 🇰🇷 韩国05（GPT专用） - CloudFox
+  - 🇰🇷 韩国06（GPT专用） - CloudFox
+  - 🇳🇱 荷兰01 - CloudFox
+  - 🇳🇱 荷兰02 - CloudFox
+  - 🇹🇷 土耳其01 (高速） - CloudFox
+  - 🇹🇷 土耳其02 (高速） - CloudFox
+  - 🇦🇺 澳大利亚01（高速） - CloudFox
+  - 🇦🇺 澳大利亚02（高速） - CloudFox
+  - 🇬🇧 英国01（高速） - CloudFox
+  - 🇬🇧 英国02（高速） - CloudFox
+  - 🇬🇧 英国03（IPLC稳定） - CloudFox
+  - 🇬🇧 英国04（IPLC稳定） - CloudFox
+  - 🇬🇧 英国05（GPT专用） - CloudFox
+  - 🇬🇧 英国06（GPT专用） - CloudFox
+  - 🇨🇦 加拿大01（高速） - CloudFox
+  - 🇨🇦 加拿大02（高速） - CloudFox
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  use: *id002
+  proxies: *id002
 - name: 👆🏻🇹🇼 ‍台湾
   type: select
-  use: *id003
+  proxies: *id003
 - name: 👆🏻🇨🇳 ‍中国
   type: select
-  use: *id004
+  proxies: *id004
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  use: *id005
+  proxies: *id005
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  use: *id006
+  proxies: *id006
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  use: *id007
+  proxies: *id007
 - name: 👆🏻🎏 ‍其他
   type: select
-  use: *id008
-proxy-providers:
-  HK:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/HK.yaml
-    interval: 180
-    path: trials_providers/HK.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  TW:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/TW.yaml
-    interval: 180
-    path: trials_providers/TW.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  SG:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/SG.yaml
-    interval: 180
-    path: trials_providers/SG.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  JP:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/JP.yaml
-    interval: 180
-    path: trials_providers/JP.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  US:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/US.yaml
-    interval: 180
-    path: trials_providers/US.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  Other:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/Other.yaml
-    interval: 180
-    path: trials_providers/Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
+  proxies: *id008
+proxies:
+- {name: ℹ️ 牢记域名:yh12.xyz - CloudFox, server: hk01.x.woyh.xyz, port: 38632, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: ℹ️ 有问题访问:yh12.xyz - CloudFox, server: hk01.x.woyh.xyz, port: 38632, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: ℹ️ 订阅失败访问:yh12.xyz - CloudFox, server: hk01.x.woyh.xyz, port: 38632, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: ℹ️ 防失联:yh12.xyz - CloudFox, server: hk01.x.woyh.xyz, port: 38632, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇭🇰 香港01（高速） - CloudFox, server: hk01.x.woyh.xyz, port: 38632, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇭🇰 香港02（高速） - CloudFox, server: hk02.x.woyh.xyz, port: 38632, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇭🇰 香港03（IPLC稳定） - CloudFox, server: hk03.x.woyh.xyz, port: 38633, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇭🇰 香港04（IPLC稳定） - CloudFox, server: hk04.x.woyh.xyz, port: 38634, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇭🇰 香港05 - CloudFox, server: hk05.x.woyh.xyz, port: 38635, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇭🇰 香港06 - CloudFox, server: hk06.x.woyh.xyz, port: 38636, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇹🇼 台湾01（高速） - CloudFox, server: tw01.x.woyh.xyz, port: 38601, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇹🇼 台湾02（高速） - CloudFox, server: tw02.x.woyh.xyz, port: 38611, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇹🇼 台湾03（IPLC稳定） - CloudFox, server: tw03.x.woyh.xyz, port: 38612, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇹🇼 台湾04（IPLC稳定） - CloudFox, server: tw04.x.woyh.xyz, port: 38613, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇹🇼 台湾05（GPT专用） - CloudFox, server: tw05.x.woyh.xyz, port: 38615, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇹🇼 台湾06（GPT专用） - CloudFox, server: tw06.x.woyh.xyz, port: 38616, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇯🇵 日本01（高速） - CloudFox, server: jp01.x.woyh.xyz, port: 38621, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇯🇵 日本02（高速） - CloudFox, server: jp02.x.woyh.xyz, port: 38622, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇯🇵 日本03（IPLC稳定） - CloudFox, server: jp03.x.woyh.xyz, port: 38623, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇯🇵 日本04（IPLC稳定） - CloudFox, server: jp04.x.woyh.xyz, port: 38624, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇯🇵 日本05（GPT专用） - CloudFox, server: jp05.x.woyh.xyz, port: 38625, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇯🇵 日本06（GPT专用） - CloudFox, server: jp06.x.woyh.xyz, port: 38627, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇰🇷 韩国01（高速） - CloudFox, server: kr01.x.woyh.xyz, port: 38641, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇰🇷 韩国02（高速） - CloudFox, server: kr02.x.woyh.xyz, port: 38642, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇰🇷 韩国03（IPLC稳定） - CloudFox, server: kr03.x.woyh.xyz, port: 38643, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇰🇷 韩国04（IPLC稳定） - CloudFox, server: kr04.x.woyh.xyz, port: 38644, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇰🇷 韩国05（GPT专用） - CloudFox, server: kr05.x.woyh.xyz, port: 38645, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇰🇷 韩国06（GPT专用） - CloudFox, server: kr06.x.woyh.xyz, port: 38646, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇸🇬 新加坡01（高速） - CloudFox, server: sg01.x.woyh.xyz, port: 38651, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇸🇬 新加坡02（高速） - CloudFox, server: sg02.x.woyh.xyz, port: 38652, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇸🇬 新加坡03（IPLC稳定） - CloudFox, server: sg03.x.woyh.xyz, port: 38653, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇸🇬 新加坡04（IPLC稳定） - CloudFox, server: sg04.x.woyh.xyz, port: 38654, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇸🇬 新加坡05（GPT专用） - CloudFox, server: sg05.x.woyh.xyz, port: 38655, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇸🇬 新加坡06（GPT专用） - CloudFox, server: sg06.x.woyh.xyz, port: 38657, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇳🇱 荷兰01 - CloudFox, server: nl01.x.woyh.xyz, port: 38794, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇳🇱 荷兰02 - CloudFox, server: nl02.x.woyh.xyz, port: 38795, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇹🇷 土耳其01 (高速） - CloudFox, server: tur01.x.woyh.xyz, port: 38790, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇹🇷 土耳其02 (高速） - CloudFox, server: tur02.x.woyh.xyz, port: 38791, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇦🇺 澳大利亚01（高速） - CloudFox, server: au01.x.woyh.xyz, port: 38778, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇦🇺 澳大利亚02（高速） - CloudFox, server: au02.x.woyh.xyz, port: 38779, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇬🇧 英国01（高速） - CloudFox, server: uk01.x.woyh.xyz, port: 38661, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇬🇧 英国02（高速） - CloudFox, server: uk02.x.woyh.xyz, port: 38662, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇬🇧 英国03（IPLC稳定） - CloudFox, server: uk03.x.woyh.xyz, port: 38663, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇬🇧 英国04（IPLC稳定） - CloudFox, server: uk04.x.woyh.xyz, port: 38664, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇬🇧 英国05（GPT专用） - CloudFox, server: uk05.x.woyh.xyz, port: 38665, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇬🇧 英国06（GPT专用） - CloudFox, server: uk06.x.woyh.xyz, port: 38667, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇺🇸 美国01（高速） - CloudFox, server: us01.x.woyh.xyz, port: 38670, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇺🇸 美国02（高速） - CloudFox, server: us02.x.woyh.xyz, port: 38672, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇺🇸 美国03（IPLC稳定） - CloudFox, server: us03.x.woyh.xyz, port: 38673, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇺🇸 美国04（IPLC稳定） - CloudFox, server: us04.x.woyh.xyz, port: 38674, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇺🇸 美国05（GPT专用） - CloudFox, server: us05.x.woyh.xyz, port: 38675, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇺🇸 美国06（GPT专用） - CloudFox, server: us06.x.woyh.xyz, port: 38676, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇨🇦 加拿大01（高速） - CloudFox, server: ca01.x.woyh.xyz, port: 38780, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇨🇦 加拿大02（高速） - CloudFox, server: ca01.x.woyh.xyz, port: 38781, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

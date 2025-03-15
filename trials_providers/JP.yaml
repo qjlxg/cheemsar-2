@@ -1,0 +1,23 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 日本 01 - V2Lnk, server: jptokyo.nexifyspark.com, port: 30601, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇯🇵 日本 02 - V2Lnk, server: jptokyo.nexifyspark.com, port: 30602, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇯🇵 日本 03 - V2Lnk, server: jptokyo.nexifyspark.com, port: 30603, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇯🇵 日本 04 - V2Lnk, server: ap-e1.nexifyspark.com, port: 30604, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇯🇵 日本 05 - V2Lnk, server: ap-e1.nexifyspark.com, port: 30605, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇯🇵 日本 06 - V2Lnk, server: ap-e1.nexifyspark.com, port: 30606, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇯🇵 日本01（高速） - CloudFox, server: jp01.x.woyh.xyz, port: 38621, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇯🇵 日本02（高速） - CloudFox, server: jp02.x.woyh.xyz, port: 38622, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇯🇵 日本03（IPLC稳定） - CloudFox, server: jp03.x.woyh.xyz, port: 38623, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇯🇵 日本04（IPLC稳定） - CloudFox, server: jp04.x.woyh.xyz, port: 38624, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇯🇵 日本05（GPT专用） - CloudFox, server: jp05.x.woyh.xyz, port: 38625, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇯🇵 日本06（GPT专用） - CloudFox, server: jp06.x.woyh.xyz, port: 38627, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇯🇵JP Akile T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 45790, type: ss, cipher: aes-128-gcm, password: 93aef16b-9959-4ac1-b0c5-0f2b2e9e2bed, udp: true}
+- {name: '🇯🇵JP Akile T长沙CM [IPV6] 1.2x - PassGFW', server: 2409:8c50:a00:200d:fffe:0:2:12, port: 63640, type: ss, cipher: aes-128-gcm, password: 93aef16b-9959-4ac1-b0c5-0f2b2e9e2bed, udp: true}
+- {name: 🇯🇵JP Akile T长沙CM 1.2x - PassGFW, server: csyd.rcmnk.cn, port: 16127, type: ss, cipher: aes-128-gcm, password: 93aef16b-9959-4ac1-b0c5-0f2b2e9e2bed, udp: true}
+- {name: 🇯🇵JP Akile T宁夏CM 1.2x - PassGFW, server: awslx.rcmnk.cn, port: 35454, type: ss, cipher: aes-128-gcm, password: 93aef16b-9959-4ac1-b0c5-0f2b2e9e2bed, udp: true}
+- {name: 🇯🇵JP Osaka Choopa T深圳CM 1.2x - PassGFW, server: tysz.rcmnk.cn, port: 22947, type: ss, cipher: aes-128-gcm, password: 93aef16b-9959-4ac1-b0c5-0f2b2e9e2bed, udp: true}
+- {name: 🇯🇵JP Osaka Choopa T深圳CM2 1.2x - PassGFW, server: szhx.rcmnk.cn, port: 22947, type: ss, cipher: aes-128-gcm, password: 93aef16b-9959-4ac1-b0c5-0f2b2e9e2bed, udp: true}
+- {name: 🇯🇵 Japan#1 - 虚幻加速, server: svip1.pingboy.top, port: 19015, type: vmess, uuid: 7b3ae160-abe8-48db-bf06-887f1bf60d1d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 Japan#3 - 虚幻加速, server: svip1.pingboy.top, port: 19015, type: vmess, uuid: 7b3ae160-abe8-48db-bf06-887f1bf60d1d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

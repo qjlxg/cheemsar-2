@@ -1,0 +1,18 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸美 低倍率 - F2ray, server: c.f2oo.net, port: 8443, tfo: true, type: vmess, uuid: f9a69a4c-f0ab-4f02-a7a8-71612778d3eb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: s-us1.f2oo.net}}, udp: true}
+- {name: 🇺🇸 美國 01 - V2Lnk, server: uswest.nexifyspark.com, port: 16010, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇺🇸 美國 02 - V2Lnk, server: uswest.nexifyspark.com, port: 16011, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇺🇸 美國 03 - V2Lnk, server: uswest.nexifyspark.com, port: 16012, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇺🇸 美國 04 - V2Lnk, server: useast.nexifyspark.com, port: 16013, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇺🇸 美國 05 - V2Lnk, server: useast.nexifyspark.com, port: 16014, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇺🇸 美國 06 - V2Lnk, server: useast.nexifyspark.com, port: 16015, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇺🇸 美国01（高速） - CloudFox, server: us01.x.woyh.xyz, port: 38670, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇺🇸 美国02（高速） - CloudFox, server: us02.x.woyh.xyz, port: 38672, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇺🇸 美国03（IPLC稳定） - CloudFox, server: us03.x.woyh.xyz, port: 38673, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇺🇸 美国04（IPLC稳定） - CloudFox, server: us04.x.woyh.xyz, port: 38674, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇺🇸 美国05（GPT专用） - CloudFox, server: us05.x.woyh.xyz, port: 38675, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇺🇸 美国06（GPT专用） - CloudFox, server: us06.x.woyh.xyz, port: 38676, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇺🇸 United States#1 - 虚幻加速, server: svip1.pingboy.top, port: 15327, type: vmess, uuid: 7b3ae160-abe8-48db-bf06-887f1bf60d1d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 United States#3 - 虚幻加速, server: svip1.pingboy.top, port: 15327, type: vmess, uuid: 7b3ae160-abe8-48db-bf06-887f1bf60d1d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

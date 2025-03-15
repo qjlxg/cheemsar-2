@@ -1,0 +1,24 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇸🇬 新加坡 01 - V2Lnk, server: singad.nexifyspark.com, port: 21008, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇸🇬 新加坡 02 - V2Lnk, server: singad.nexifyspark.com, port: 21009, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇸🇬 新加坡 03 - V2Lnk, server: singad.nexifyspark.com, port: 21010, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇸🇬 新加坡 04 - V2Lnk, server: sgwest.nexifyspark.com, port: 10351, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇸🇬 新加坡 05 - V2Lnk, server: sgwest.nexifyspark.com, port: 10352, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇸🇬 新加坡 06 - V2Lnk, server: sgwest.nexifyspark.com, port: 10353, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
+- {name: 🇸🇬 新加坡01（高速） - CloudFox, server: sg01.x.woyh.xyz, port: 38651, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇸🇬 新加坡02（高速） - CloudFox, server: sg02.x.woyh.xyz, port: 38652, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇸🇬 新加坡03（IPLC稳定） - CloudFox, server: sg03.x.woyh.xyz, port: 38653, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇸🇬 新加坡04（IPLC稳定） - CloudFox, server: sg04.x.woyh.xyz, port: 38654, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇸🇬 新加坡05（GPT专用） - CloudFox, server: sg05.x.woyh.xyz, port: 38655, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇸🇬 新加坡06（GPT专用） - CloudFox, server: sg06.x.woyh.xyz, port: 38657, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
+- {name: 🇸🇬SG Akile T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 16732, type: ss, cipher: aes-128-gcm, password: 93aef16b-9959-4ac1-b0c5-0f2b2e9e2bed, udp: true}
+- {name: 🇸🇬SG Constant T深圳CM 1.2x - PassGFW, server: tysz.rcmnk.cn, port: 51410, type: ss, cipher: aes-128-gcm, password: 93aef16b-9959-4ac1-b0c5-0f2b2e9e2bed, udp: true}
+- {name: 🇸🇬SG Constant T深圳CM2 1.2x - PassGFW, server: szhx.rcmnk.cn, port: 51410, type: ss, cipher: aes-128-gcm, password: 93aef16b-9959-4ac1-b0c5-0f2b2e9e2bed, udp: true}
+- {name: '🇸🇬JP Osaka Choopa T长沙CM[IPV6] 1.2x - PassGFW', server: 2409:8c50:a00:200d:fffe:0:2:12, port: 35145, type: ss, cipher: aes-128-gcm, password: 93aef16b-9959-4ac1-b0c5-0f2b2e9e2bed, udp: true}
+- {name: 🇸🇬SG Akile T深圳CM 1.2x - PassGFW, server: tysz.rcmnk.cn, port: 50563, type: ss, cipher: aes-128-gcm, password: 93aef16b-9959-4ac1-b0c5-0f2b2e9e2bed, udp: true}
+- {name: 🇸🇬SG Akile T深圳CM2 1.2x - PassGFW, server: szhx.rcmnk.cn, port: 50563, type: ss, cipher: aes-128-gcm, password: 93aef16b-9959-4ac1-b0c5-0f2b2e9e2bed, udp: true}
+- {name: 🇸🇬SG Akile T长沙CM - PassGFW, server: csyd.rcmnk.cn, port: 60912, type: ss, cipher: aes-128-gcm, password: 93aef16b-9959-4ac1-b0c5-0f2b2e9e2bed, udp: true}
+- {name: 🇸🇬 Singapore#1 - 虚幻加速, server: svip1.pingboy.top, port: 28673, type: vmess, uuid: 7b3ae160-abe8-48db-bf06-887f1bf60d1d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 Singapore#3 - 虚幻加速, server: svip1.pingboy.top, port: 28673, type: vmess, uuid: 7b3ae160-abe8-48db-bf06-887f1bf60d1d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
