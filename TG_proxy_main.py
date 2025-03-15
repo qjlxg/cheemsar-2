@@ -293,8 +293,7 @@ home_urls =(
 'https://app.cloudlion.me',
 'https://app.gomeow.cloud',
 'https://app.jisovpn.site',
-'https://app.legeth.cc',
-'https://app.lwjyj.com',
+
 'https://app.tline.website',
 'https://aq.louwangzhiyu.xyz',
 'https://artislg.com',
