@@ -1,9 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇸🇬 新加坡01（高速） - CloudFox, server: sg01.x.woyh.xyz, port: 38651, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
-- {name: 🇸🇬 新加坡02（高速） - CloudFox, server: sg02.x.woyh.xyz, port: 38652, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
-- {name: 🇸🇬 新加坡03（IPLC稳定） - CloudFox, server: sg03.x.woyh.xyz, port: 38653, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
-- {name: 🇸🇬 新加坡04（IPLC稳定） - CloudFox, server: sg04.x.woyh.xyz, port: 38654, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
-- {name: 🇸🇬 新加坡05（GPT专用） - CloudFox, server: sg05.x.woyh.xyz, port: 38655, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}
-- {name: 🇸🇬 新加坡06（GPT专用） - CloudFox, server: sg06.x.woyh.xyz, port: 38657, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 28c0456c-da5b-4459-a7c8-a0903b5042f9, udp: true}

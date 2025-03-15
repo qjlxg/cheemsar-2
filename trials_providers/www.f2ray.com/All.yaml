@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: '🇭🇰香港[1] <- 广移⌛️10倍费率 - F2ray', server: gdhk1-07312200.666888.biz, port: 30609, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f9a69a4c-f0ab-4f02-a7a8-71612778d3eb, udp: true}
-- {name: 🇺🇸美 低倍率 - F2ray, server: c.f2oo.net, port: 8443, tfo: true, type: vmess, uuid: f9a69a4c-f0ab-4f02-a7a8-71612778d3eb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: s-us1.f2oo.net}}, udp: true}

@@ -1,6 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇹🇼 台湾 01 - V2Lnk, server: ap-e3.nexifyspark.com, port: 21001, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
-- {name: 🇹🇼 台湾 02 - V2Lnk, server: ap-e3.nexifyspark.com, port: 21002, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}
-- {name: 🇹🇼 台湾 03 - V2Lnk, server: ap-e3.nexifyspark.com, port: 21003, tfo: true, type: ss, cipher: aes-256-gcm, password: 29b5c759-b2b4-4aae-af8e-848dce53c64d, udp: true}

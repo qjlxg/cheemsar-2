@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸美 低倍率 - F2ray, server: c.f2oo.net, port: 8443, tfo: true, type: vmess, uuid: f9a69a4c-f0ab-4f02-a7a8-71612778d3eb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: s-us1.f2oo.net}}, udp: true}
