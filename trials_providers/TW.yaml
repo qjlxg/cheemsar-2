@@ -1,0 +1,11 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇹🇼 台湾 01 - V2Lnk, server: ap-e3.nexifyspark.com, port: 21001, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
+- {name: 🇹🇼 台湾 02 - V2Lnk, server: ap-e3.nexifyspark.com, port: 21002, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
+- {name: 🇹🇼 台湾 03 - V2Lnk, server: ap-e3.nexifyspark.com, port: 21003, type: ss, cipher: aes-256-gcm, password: cccaccf5-4ea4-40ad-8887-e1f51d57b521, udp: true}
+- {name: 🇹🇼TW TPE TWDS T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 19416, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
+- {name: 🇹🇼TW TPE TWDS T深圳CM 1.2x - PassGFW, server: tysz.rcmnk.cn, port: 41018, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
+- {name: 🇹🇼TW TPE TWDS T深圳CM2 1.2x - PassGFW, server: szhx.rcmnk.cn, port: 41018, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
+- {name: 🇹🇼TW TPE TWDS T长沙CM 1.2x - PassGFW, server: csyd.rcmnk.cn, port: 14939, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
+- {name: 🇹🇼TW TPE TWDS T宁夏CM 1.2x - PassGFW, server: awslx.rcmnk.cn, port: 24869, tfo: true, type: ss, cipher: aes-128-gcm, password: d7abc099-9509-4846-9375-f2f9e7ad5711, udp: true}
