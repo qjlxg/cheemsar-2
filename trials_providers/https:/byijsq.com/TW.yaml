@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾节点(推荐) - byi加速器, server: g4bk7yx3nd5q.byijsq.com, port: 20101, tfo: true, type: vmess, uuid: 15168964-81dd-3a7a-be23-6b03c22db545, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: byjsq.kozow.com, udp: true}
+- {name: 🇹🇼 台湾节点(推荐) - byi加速器, server: g4bk7yx3nd5q.byijsq.com, port: 20101, type: vmess, uuid: 6a9f04e7-9ca1-388a-bf53-8b9049941dd5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: byjsq.kozow.com, udp: true}
