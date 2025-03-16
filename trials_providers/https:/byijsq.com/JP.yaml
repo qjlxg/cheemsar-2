@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本节点3 - byi加速器, server: g4bk7yx3nd5q.byijsq.com, port: 20103, type: vmess, uuid: 6a9f04e7-9ca1-388a-bf53-8b9049941dd5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: jp3.byijsq.com, udp: true}
+- {name: 🇯🇵 日本节点3 - byi加速器, server: g4bk7yx3nd5q.byijsq.com, port: 20103, type: vmess, uuid: 7f59eac6-c4d6-3b4b-b7c6-ea3f3638fc2f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: jp3.byijsq.com, udp: true}
