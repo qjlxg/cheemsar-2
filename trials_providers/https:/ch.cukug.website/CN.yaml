@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 中国-香港-F1-001 - 漏网之鱼, server: 212.192.13.110, port: 21011, type: vmess, uuid: 26eba4d3-d515-4e46-8b5b-668525683f81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇭🇰 中国-香港-F2-001 - 漏网之鱼, server: 45.144.174.90, port: 22015, type: vmess, uuid: 26eba4d3-d515-4e46-8b5b-668525683f81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇭🇰 中国-香港-F3-001 - 漏网之鱼, server: 212.192.13.68, port: 23015, type: vmess, uuid: 26eba4d3-d515-4e46-8b5b-668525683f81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇭🇰 中国-香港-F1-001 - 漏网之鱼, server: 212.192.13.110, port: 21012, tfo: true, type: vmess, uuid: 6e9924c3-342e-4132-8a43-07ccfa3e2b7b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇭🇰 中国-香港-F2-001 - 漏网之鱼, server: 45.144.174.90, port: 22016, tfo: true, type: vmess, uuid: 6e9924c3-342e-4132-8a43-07ccfa3e2b7b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇭🇰 中国-香港-F3-001 - 漏网之鱼, server: 212.192.13.68, port: 23016, tfo: true, type: vmess, uuid: 6e9924c3-342e-4132-8a43-07ccfa3e2b7b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
