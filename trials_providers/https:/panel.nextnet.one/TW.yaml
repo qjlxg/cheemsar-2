@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: '🇹🇼  TaiWan (台灣) (VIP) [trial] - NextNet', server: next2.orz.my.id, port: 53240, type: vmess, uuid: 1eec87ff-2474-47e0-84fd-6b7eee0f1578, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: next2.orz.my.id}}, udp: true}
