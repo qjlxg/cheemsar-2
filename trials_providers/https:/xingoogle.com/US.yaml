@@ -1,0 +1,10 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 美US22|2x - 新谷歌, server: n22.xingoooogle.xyz, port: 41522, type: vmess, uuid: 60cca311-e1c2-306d-b353-7aaef5a3f292, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇺🇸 美US23|2x - 新谷歌, server: n23.xingoooogle.xyz, port: 41523, type: vmess, uuid: 60cca311-e1c2-306d-b353-7aaef5a3f292, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇺🇸 美US4|1x - 新谷歌, server: n4.xingoooogle.xyz, port: 41504, type: vmess, uuid: 60cca311-e1c2-306d-b353-7aaef5a3f292, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: n4.xingoooogle.xyz, udp: true}
+- {name: 🇺🇸 美US5|2x - 新谷歌, server: n5.xingoooogle.xyz, port: 41505, type: vmess, uuid: 60cca311-e1c2-306d-b353-7aaef5a3f292, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇺🇸 美US6|2x - 新谷歌, server: n6.xingoooogle.xyz, port: 41506, type: vmess, uuid: 60cca311-e1c2-306d-b353-7aaef5a3f292, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇺🇸 美US7|2x - 新谷歌, server: n7.xingoooogle.xyz, port: 41507, type: vmess, uuid: 60cca311-e1c2-306d-b353-7aaef5a3f292, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇺🇸 美US8|2x - 新谷歌, server: n8.xingoooogle.xyz, port: 41508, type: vmess, uuid: 60cca311-e1c2-306d-b353-7aaef5a3f292, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}

@@ -16,11 +16,15 @@ proxy-groups:
   - 🇨🇳 ‍中国
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
+  - 🇺🇸 ‍美国
+  - 🎏 ‍其他
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
   - DIRECT
   - REJECT
 - name: ⚡ ‍低延迟
@@ -29,29 +33,26 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇭🇰HK Akile T成都CM 1.2x - PassGFW
-  - 🇭🇰HK Akile T宁夏CM 1.2x - PassGFW
-  - 🇭🇰HK Akile T深圳CM 1.2x - PassGFW
-  - 🇭🇰HK Akile T深圳CM2 1.2x - PassGFW
-  - 🇭🇰HK Akile T长沙CM 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T成都CM 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T深圳CM 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T深圳CM2 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T长沙CM 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T宁夏CM 1.2x - PassGFW
-  - 🇸🇬SG Akile T成都CM 1.2x - PassGFW
-  - 🇸🇬SG Constant T深圳CM 1.2x - PassGFW
-  - 🇸🇬SG Constant T深圳CM2 1.2x - PassGFW
-  - 🇸🇬JP Osaka Choopa T长沙CM[IPV6] 1.2x - PassGFW
-  - 🇸🇬SG Akile T深圳CM 1.2x - PassGFW
-  - 🇸🇬SG Akile T深圳CM2 1.2x - PassGFW
-  - 🇸🇬SG Akile T长沙CM - PassGFW
-  - 🇯🇵JP Akile T成都CM 1.2x - PassGFW
-  - 🇯🇵JP Akile T长沙CM [IPV6] 1.2x - PassGFW
-  - 🇯🇵JP Akile T长沙CM 1.2x - PassGFW
-  - 🇯🇵JP Akile T宁夏CM 1.2x - PassGFW
-  - 🇯🇵JP Osaka Choopa T深圳CM 1.2x - PassGFW
-  - 🇯🇵JP Osaka Choopa T深圳CM2 1.2x - PassGFW
+  - 🇭🇰 港HK16|2x - 新谷歌
+  - 🇭🇰 港HK17|2x - 新谷歌
+  - 🇭🇰 港HK18|3x - 新谷歌
+  - 🇭🇰 港HK19|3x - 新谷歌
+  - 🇹🇼 台TW10|2x - 新谷歌
+  - 🇹🇼 台TW9|1x - 新谷歌
+  - 🇸🇬 新SG20|2x - 新谷歌
+  - 🇸🇬 新SG21|2x - 新谷歌
+  - 🇯🇵 日JP11|2x - 新谷歌
+  - 🇯🇵 日JP12|2x - 新谷歌
+  - 🇯🇵 日JP13|2x - 新谷歌
+  - 🇺🇸 美US22|2x - 新谷歌
+  - 🇺🇸 美US23|2x - 新谷歌
+  - 🇺🇸 美US4|1x - 新谷歌
+  - 🇺🇸 美US5|2x - 新谷歌
+  - 🇺🇸 美US6|2x - 新谷歌
+  - 🇺🇸 美US7|2x - 新谷歌
+  - 🇺🇸 美US8|2x - 新谷歌
+  - ℹ️ 最新网址xingoogle1.cc - 新谷歌
+  - 🇬🇧 英UK24|2x - 新谷歌
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -82,13 +83,17 @@ proxy-groups:
 - name: 🤖 ‍AI
   type: select
   proxies:
+  - 🇺🇸 ‍美国
   - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
+  - 🎏 ‍其他
   - ✈️ ‍起飞
+  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -103,63 +108,68 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
-  - 🇭🇰HK Akile T成都CM 1.2x - PassGFW
-  - 🇭🇰HK Akile T宁夏CM 1.2x - PassGFW
-  - 🇭🇰HK Akile T深圳CM 1.2x - PassGFW
-  - 🇭🇰HK Akile T深圳CM2 1.2x - PassGFW
-  - 🇭🇰HK Akile T长沙CM 1.2x - PassGFW
+  - 🇭🇰 港HK16|2x - 新谷歌
+  - 🇭🇰 港HK17|2x - 新谷歌
+  - 🇭🇰 港HK18|3x - 新谷歌
+  - 🇭🇰 港HK19|3x - 新谷歌
 - name: 🇹🇼 ‍台湾
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id003
-  - 🇹🇼TW TPE TWDS T成都CM 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T深圳CM 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T深圳CM2 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T长沙CM 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T宁夏CM 1.2x - PassGFW
+  - 🇹🇼 台TW10|2x - 新谷歌
+  - 🇹🇼 台TW9|1x - 新谷歌
 - name: 🇨🇳 ‍中国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id004
-  - 🇭🇰HK Akile T成都CM 1.2x - PassGFW
-  - 🇭🇰HK Akile T宁夏CM 1.2x - PassGFW
-  - 🇭🇰HK Akile T深圳CM 1.2x - PassGFW
-  - 🇭🇰HK Akile T深圳CM2 1.2x - PassGFW
-  - 🇭🇰HK Akile T长沙CM 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T成都CM 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T深圳CM 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T深圳CM2 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T长沙CM 1.2x - PassGFW
-  - 🇹🇼TW TPE TWDS T宁夏CM 1.2x - PassGFW
+  - 🇭🇰 港HK16|2x - 新谷歌
+  - 🇭🇰 港HK17|2x - 新谷歌
+  - 🇭🇰 港HK18|3x - 新谷歌
+  - 🇭🇰 港HK19|3x - 新谷歌
+  - 🇹🇼 台TW10|2x - 新谷歌
+  - 🇹🇼 台TW9|1x - 新谷歌
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id005
-  - 🇸🇬SG Akile T成都CM 1.2x - PassGFW
-  - 🇸🇬SG Constant T深圳CM 1.2x - PassGFW
-  - 🇸🇬SG Constant T深圳CM2 1.2x - PassGFW
-  - 🇸🇬JP Osaka Choopa T长沙CM[IPV6] 1.2x - PassGFW
-  - 🇸🇬SG Akile T深圳CM 1.2x - PassGFW
-  - 🇸🇬SG Akile T深圳CM2 1.2x - PassGFW
-  - 🇸🇬SG Akile T长沙CM - PassGFW
+  - 🇸🇬 新SG20|2x - 新谷歌
+  - 🇸🇬 新SG21|2x - 新谷歌
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id006
-  - 🇯🇵JP Akile T成都CM 1.2x - PassGFW
-  - 🇯🇵JP Akile T长沙CM [IPV6] 1.2x - PassGFW
-  - 🇯🇵JP Akile T长沙CM 1.2x - PassGFW
-  - 🇯🇵JP Akile T宁夏CM 1.2x - PassGFW
-  - 🇯🇵JP Osaka Choopa T深圳CM 1.2x - PassGFW
-  - 🇯🇵JP Osaka Choopa T深圳CM2 1.2x - PassGFW
+  - 🇯🇵 日JP11|2x - 新谷歌
+  - 🇯🇵 日JP12|2x - 新谷歌
+  - 🇯🇵 日JP13|2x - 新谷歌
+- name: 🇺🇸 ‍美国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 300
+  proxies: &id007
+  - 🇺🇸 美US22|2x - 新谷歌
+  - 🇺🇸 美US23|2x - 新谷歌
+  - 🇺🇸 美US4|1x - 新谷歌
+  - 🇺🇸 美US5|2x - 新谷歌
+  - 🇺🇸 美US6|2x - 新谷歌
+  - 🇺🇸 美US7|2x - 新谷歌
+  - 🇺🇸 美US8|2x - 新谷歌
+- name: 🎏 ‍其他
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 100
+  proxies: &id008
+  - ℹ️ 最新网址xingoogle1.cc - 新谷歌
+  - 🇬🇧 英UK24|2x - 新谷歌
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
@@ -175,30 +185,33 @@ proxy-groups:
 - name: 👆🏻🇯🇵 ‍日本
   type: select
   proxies: *id006
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id007
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id008
 proxies:
-- {name: 🇭🇰HK Akile T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 16732, tfo: true, type: ss, cipher: aes-128-gcm, password: 827a2380-dc55-4b3c-8a5f-5e749b74d4f3, udp: true}
-- {name: 🇭🇰HK Akile T宁夏CM 1.2x - PassGFW, server: awslx.rcmnk.cn, port: 55872, tfo: true, type: ss, cipher: aes-128-gcm, password: 827a2380-dc55-4b3c-8a5f-5e749b74d4f3, udp: true}
-- {name: 🇭🇰HK Akile T深圳CM 1.2x - PassGFW, server: tysz.rcmnk.cn, port: 41124, tfo: true, type: ss, cipher: aes-128-gcm, password: 827a2380-dc55-4b3c-8a5f-5e749b74d4f3, udp: true}
-- {name: 🇭🇰HK Akile T深圳CM2 1.2x - PassGFW, server: szhx.rcmnk.cn, port: 41124, tfo: true, type: ss, cipher: aes-128-gcm, password: 827a2380-dc55-4b3c-8a5f-5e749b74d4f3, udp: true}
-- {name: 🇭🇰HK Akile T长沙CM 1.2x - PassGFW, server: csyd.rcmnk.cn, port: 41124, tfo: true, type: ss, cipher: aes-128-gcm, password: 827a2380-dc55-4b3c-8a5f-5e749b74d4f3, udp: true}
-- {name: 🇹🇼TW TPE TWDS T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 19416, tfo: true, type: ss, cipher: aes-128-gcm, password: 827a2380-dc55-4b3c-8a5f-5e749b74d4f3, udp: true}
-- {name: 🇹🇼TW TPE TWDS T深圳CM 1.2x - PassGFW, server: tysz.rcmnk.cn, port: 41018, tfo: true, type: ss, cipher: aes-128-gcm, password: 827a2380-dc55-4b3c-8a5f-5e749b74d4f3, udp: true}
-- {name: 🇹🇼TW TPE TWDS T深圳CM2 1.2x - PassGFW, server: szhx.rcmnk.cn, port: 41018, tfo: true, type: ss, cipher: aes-128-gcm, password: 827a2380-dc55-4b3c-8a5f-5e749b74d4f3, udp: true}
-- {name: 🇹🇼TW TPE TWDS T长沙CM 1.2x - PassGFW, server: csyd.rcmnk.cn, port: 14939, tfo: true, type: ss, cipher: aes-128-gcm, password: 827a2380-dc55-4b3c-8a5f-5e749b74d4f3, udp: true}
-- {name: 🇹🇼TW TPE TWDS T宁夏CM 1.2x - PassGFW, server: awslx.rcmnk.cn, port: 24869, tfo: true, type: ss, cipher: aes-128-gcm, password: 827a2380-dc55-4b3c-8a5f-5e749b74d4f3, udp: true}
-- {name: 🇯🇵JP Akile T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 45790, tfo: true, type: ss, cipher: aes-128-gcm, password: 827a2380-dc55-4b3c-8a5f-5e749b74d4f3, udp: true}
-- {name: '🇯🇵JP Akile T长沙CM [IPV6] 1.2x - PassGFW', server: 2409:8c50:a00:200d:fffe:0:2:12, port: 63640, tfo: true, type: ss, cipher: aes-128-gcm, password: 827a2380-dc55-4b3c-8a5f-5e749b74d4f3, udp: true}
-- {name: 🇯🇵JP Akile T长沙CM 1.2x - PassGFW, server: csyd.rcmnk.cn, port: 16127, tfo: true, type: ss, cipher: aes-128-gcm, password: 827a2380-dc55-4b3c-8a5f-5e749b74d4f3, udp: true}
-- {name: 🇯🇵JP Akile T宁夏CM 1.2x - PassGFW, server: awslx.rcmnk.cn, port: 35454, tfo: true, type: ss, cipher: aes-128-gcm, password: 827a2380-dc55-4b3c-8a5f-5e749b74d4f3, udp: true}
-- {name: 🇸🇬SG Akile T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 16732, tfo: true, type: ss, cipher: aes-128-gcm, password: 827a2380-dc55-4b3c-8a5f-5e749b74d4f3, udp: true}
-- {name: 🇸🇬SG Constant T深圳CM 1.2x - PassGFW, server: tysz.rcmnk.cn, port: 51410, tfo: true, type: ss, cipher: aes-128-gcm, password: 827a2380-dc55-4b3c-8a5f-5e749b74d4f3, udp: true}
-- {name: 🇸🇬SG Constant T深圳CM2 1.2x - PassGFW, server: szhx.rcmnk.cn, port: 51410, tfo: true, type: ss, cipher: aes-128-gcm, password: 827a2380-dc55-4b3c-8a5f-5e749b74d4f3, udp: true}
-- {name: '🇸🇬JP Osaka Choopa T长沙CM[IPV6] 1.2x - PassGFW', server: 2409:8c50:a00:200d:fffe:0:2:12, port: 35145, tfo: true, type: ss, cipher: aes-128-gcm, password: 827a2380-dc55-4b3c-8a5f-5e749b74d4f3, udp: true}
-- {name: 🇯🇵JP Osaka Choopa T深圳CM 1.2x - PassGFW, server: tysz.rcmnk.cn, port: 22947, tfo: true, type: ss, cipher: aes-128-gcm, password: 827a2380-dc55-4b3c-8a5f-5e749b74d4f3, udp: true}
-- {name: 🇯🇵JP Osaka Choopa T深圳CM2 1.2x - PassGFW, server: szhx.rcmnk.cn, port: 22947, tfo: true, type: ss, cipher: aes-128-gcm, password: 827a2380-dc55-4b3c-8a5f-5e749b74d4f3, udp: true}
-- {name: 🇸🇬SG Akile T深圳CM 1.2x - PassGFW, server: tysz.rcmnk.cn, port: 50563, tfo: true, type: ss, cipher: aes-128-gcm, password: 827a2380-dc55-4b3c-8a5f-5e749b74d4f3, udp: true}
-- {name: 🇸🇬SG Akile T深圳CM2 1.2x - PassGFW, server: szhx.rcmnk.cn, port: 50563, tfo: true, type: ss, cipher: aes-128-gcm, password: 827a2380-dc55-4b3c-8a5f-5e749b74d4f3, udp: true}
-- {name: 🇸🇬SG Akile T长沙CM - PassGFW, server: csyd.rcmnk.cn, port: 60912, tfo: true, type: ss, cipher: aes-128-gcm, password: 827a2380-dc55-4b3c-8a5f-5e749b74d4f3, udp: true}
+- {name: 🇹🇼 台TW10|2x - 新谷歌, server: n10.xingoooogle.xyz, port: 41510, type: vmess, uuid: 60cca311-e1c2-306d-b353-7aaef5a3f292, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇹🇼 台TW9|1x - 新谷歌, server: twn.xinnn.cc, port: 41509, type: vmess, uuid: 60cca311-e1c2-306d-b353-7aaef5a3f292, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: twn.xinnn.cc, udp: true}
+- {name: 🇸🇬 新SG20|2x - 新谷歌, server: n20.xingoooogle.xyz, port: 41520, type: vmess, uuid: 60cca311-e1c2-306d-b353-7aaef5a3f292, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇸🇬 新SG21|2x - 新谷歌, server: n21.xingoooogle.xyz, port: 41521, type: vmess, uuid: 60cca311-e1c2-306d-b353-7aaef5a3f292, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇯🇵 日JP11|2x - 新谷歌, server: n11.xingoooogle.xyz, port: 41511, type: vmess, uuid: 60cca311-e1c2-306d-b353-7aaef5a3f292, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇯🇵 日JP12|2x - 新谷歌, server: n12.xingoooogle.xyz, port: 41512, type: vmess, uuid: 60cca311-e1c2-306d-b353-7aaef5a3f292, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇯🇵 日JP13|2x - 新谷歌, server: n13.xingoooogle.xyz, port: 41513, type: vmess, uuid: 60cca311-e1c2-306d-b353-7aaef5a3f292, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: ℹ️ 最新网址xingoogle1.cc - 新谷歌, server: freen.san95.xyz, port: 41503, type: vmess, uuid: 60cca311-e1c2-306d-b353-7aaef5a3f292, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: freen.san95.xyz, udp: true}
+- {name: 🇭🇰 港HK16|2x - 新谷歌, server: n16.xingoooogle.xyz, port: 41516, type: vmess, uuid: 60cca311-e1c2-306d-b353-7aaef5a3f292, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇭🇰 港HK17|2x - 新谷歌, server: n17.xingoooogle.xyz, port: 41517, type: vmess, uuid: 60cca311-e1c2-306d-b353-7aaef5a3f292, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇭🇰 港HK18|3x - 新谷歌, server: n18.xingoooogle.xyz, port: 41518, type: vmess, uuid: 60cca311-e1c2-306d-b353-7aaef5a3f292, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇭🇰 港HK19|3x - 新谷歌, server: n19.xingoooogle.xyz, port: 41519, type: vmess, uuid: 60cca311-e1c2-306d-b353-7aaef5a3f292, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇺🇸 美US22|2x - 新谷歌, server: n22.xingoooogle.xyz, port: 41522, type: vmess, uuid: 60cca311-e1c2-306d-b353-7aaef5a3f292, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇺🇸 美US23|2x - 新谷歌, server: n23.xingoooogle.xyz, port: 41523, type: vmess, uuid: 60cca311-e1c2-306d-b353-7aaef5a3f292, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇺🇸 美US4|1x - 新谷歌, server: n4.xingoooogle.xyz, port: 41504, type: vmess, uuid: 60cca311-e1c2-306d-b353-7aaef5a3f292, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: n4.xingoooogle.xyz, udp: true}
+- {name: 🇺🇸 美US5|2x - 新谷歌, server: n5.xingoooogle.xyz, port: 41505, type: vmess, uuid: 60cca311-e1c2-306d-b353-7aaef5a3f292, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇺🇸 美US6|2x - 新谷歌, server: n6.xingoooogle.xyz, port: 41506, type: vmess, uuid: 60cca311-e1c2-306d-b353-7aaef5a3f292, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇺🇸 美US7|2x - 新谷歌, server: n7.xingoooogle.xyz, port: 41507, type: vmess, uuid: 60cca311-e1c2-306d-b353-7aaef5a3f292, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇺🇸 美US8|2x - 新谷歌, server: n8.xingoooogle.xyz, port: 41508, type: vmess, uuid: 60cca311-e1c2-306d-b353-7aaef5a3f292, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇬🇧 英UK24|2x - 新谷歌, server: n24.xingoooogle.xyz, port: 41524, type: vmess, uuid: 60cca311-e1c2-306d-b353-7aaef5a3f292, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
