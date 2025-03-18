@@ -1,208 +1,184 @@
-[https://c4.notesync.org]
-api_host  nclouds.link
+[https://doubledou.win]
+
+[https://download-conf.lovecq1314.buzz]
+
+[https://download-config.cdn-dao.xyz]
+
+[https://download-config.windows98.link]
+
+[https://duijie.cfyun.top]
 type  v2board
-更新订阅链接/续费续签失败  注册失败(ympcsddl393@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (301 Moved Permanently '<html>\r\n<head><title>301 Moved Permanently</title></head>\r\n<body>\r\n<center><h1>301 Moved Permanently</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n')
+更新订阅链接/续费续签失败  发送邮箱验证码失败(axvngdac329@snapmail.cc): {'message': '邮箱后缀不处于白名单中'}
 
-[https://caidao.ml]
+[https://duijie.pingziyun.top]
 
-[https://cdn.huojian999.xyz]
-banned_domains  tmpmail.net
-name  登录小火箭 - 您身边的专属互联网隐私管家
-type  sspanel
-更新订阅链接/续费续签失败  获取邮箱验证码超时(rmlpphp990@tmpmail.net)
+[https://dwz.mk]
 
-[https://cdn.jsdelivr.net]
+[https://dy.651568.xyz]
 
-[https://cdn.jsdelivr.us]
+[https://dy.72vpn.xyz]
+api_host  ww38.dy.72vpn.xyz
+error  <string>:2 Unexpected "u" at column 14
+type  v2board
+更新订阅链接/续费续签失败  注册失败(oafniwfe790@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
+
+[https://dy.bestiepl.com]
 name  Loading...
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(efgmhyfee265@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found 'Redirecting')
+更新订阅链接/续费续签失败  注册失败(eolggchbb446@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found 'Redirecting')
 
-[https://cdn.xmrth.one]
+[https://dy.chaozhijc.xyz]
 
-[https://ceshi.888451.xyz]
+[https://dy.csjc.win]
 
-[https://cf.070429.xyz:8443]
+[https://dy.fnyun.online]
 
-[https://cf.ghproxy.cc]
+[https://dy.jimao.icu]
 
-[https://cf.lemshow.top]
+[https://dy.jimaoyun.top]
 
-[https://cf-workers-sub-9s8.pages.dev]
-
-[https://ch.freephonenum]
-
-[https://charityhost.org]
-
-[https://chat.deepseek.com]
-
-[https://chat.openai.com]
-
-[https://checkhere.top]
-
-[https://chiguayun.com]
+[https://dy.naisicloud.xyz]
 buy  pass
-email  mtpazpy900@gmail.com
-name  ChiguaYun
+email  lnwtbiqfo268@gmail.com
+name  奈斯云
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://chiguayun.me/api/v1/client/subscribe?token=6a26015614d6c7f3fb2312fec462f1b3
-time  2025-03-18 21:30:44.657398+08:00
+sub_url  https://dy.naisicloud.xyz/api/v1/client/subscribe?token=1ed14ac6e7e23bc7317e2c0af577c9da
+time  2025-03-18 21:35:26.922177+08:00
 type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
+保存base64/clash订阅失败  string indices must be integers
 
-[https://chiguayun.pro]
+[https://dy.nnnn2.xyz]
+error  HTTPSConnectionPool(host='dy.nnnn2.xyz', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f96950cdf90>, 'Connection to dy.nnnn2.xyz timed out. (connect timeout=30)'))
+type  v2board
+更新订阅链接/续费续签失败  注册失败(hsknycv683@gmail.com): HTTPSConnectionPool(host='dy.nnnn2.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f9694d3f760>, 'Connection to dy.nnnn2.xyz timed out. (connect timeout=30)'))
+
+[https://dy.pmxu.xyz]
+
+[https://dy.qjfjc.top]
+
+[https://dy.sbgfw.info]
+
+[https://dy.smjc.top]
+
+[https://dy.suscribir.one]
+
+[https://dy.v-too.cloud]
+
+[https://dy11.baipiaoyes.com]
+
+[https://dydz.xn--mesv8bx6xtx3b.com]
+
+[https://ednovas.world]
+name  EdNovas云
+type  v2board
+更新订阅链接/续费续签失败  注册失败(vasxbjkpa673@tmpbox.net): 邮箱后缀不处于白名单中
+
+[https://eee.fanfan667.uk]
+
+[https://eggtartcloud.biz]
+
+[https://ei2z64gntpgimmtw.duboji.vip]
+
+[https://emm-7zy.pages.dev]
+
+[https://enetsub.egeturl.com]
+name  Easyinternet
+type  v2board
+更新订阅链接/续费续签失败  注册失败(rnklyyi998@gmail.com): 'NoneType' object is not subscriptable
+
+[https://entrance.facmata.net]
+
+[https://ep.0318.cyou]
+
+[https://erciyun.net]
+
+[https://etproxypool.ga]
+
+[https://exo123.club]
+
+[https://fast.losadhwselfff2332dasd.xyz]
+
+[https://fast.lycorisrecoil.org]
+
+[https://fast.sudatech]
+
+[https://fastconnect.ml]
+
+[https://fastly.jsdelivr.net]
+
+[https://fastraw.ixnic.net]
+
+[https://fastsocks.xyz]
+
+[https://feiniaoyun.org]
+
+[https://feiniaoyun.top]
 buy  pass
-email  xblghnkc538@gmail.com
-name  ChiguaYun
+email  kpqnvit75@gmail.com
+name  飞鸟云
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://chiguayun.me/api/v1/client/subscribe?token=09a7f921b399c9afc769978e6581642a
-time  2025-03-18 21:30:45.138509+08:00
+sub_url  https://fn2.feiniaoyun13.life/api/v1/client/subscribe?token=eb881d4aa66e3042c9c1d3e605e1ab03
+time  2025-03-18 21:35:29.392787+08:00
 type  v2board
 保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
 
-[https://chromego-sub.netlify.app]
-
-[https://chromewebstore.google.com]
-
-[https://circloud123.com]
-
-[https://ck2.yunxiangvip.mom]
-
-[https://claw.cloud]
-
-[https://client.fhlsep.cn]
-
-[https://cloud.chaozhijc.xyz]
-
-[https://cloud.gyyun.top]
-
-[https://cloud.jsfx.tech]
-name  🚀优速Cloud
-type  v2board
-更新订阅链接/续费续签失败  注册失败(ihcnhng702@gmail.com): 'NoneType' object is not subscriptable
-
-[https://cloud.mochen.one]
-
-[https://cloud.pasyun.com]
-
-[https://cloud.starvm.cn]
-
-[https://cloud.wusdee.club]
-
-[https://cloud.xjyjc.top]
+[https://feiniaoyun.xyz]
 buy  pass
-email  uvrlsvj325@gmail.com
-name  小金鱼
+email  fwxwdkqpk256@gmail.com
+name  飞鸟云
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=374ee7b6eadf8252b1fcb29a918b0001
-time  2025-03-18 21:30:45.130553+08:00
+sub_url  https://fn2.feiniaoyun13.life/api/v1/client/subscribe?token=4ac443d501620f05eba776b0e4b010dc
+time  2025-03-18 21:35:29.611896+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
-[https://cloud.ykkk.tech]
+[https://fgqwtq5.pronetwork.top:8443]
 
-[https://cloudfisher.net]
+[https://fku-ppg.co.uk]
 
-[https://cloudfront-cdn-hk-iplc1.com]
+[https://fly.piaole.me]
 
-[https://cloudlink123.me]
+[https://fly.puroc.cc]
 
-[https://cloudreve.top]
+[https://flynb.site]
 
-[https://cm-sub.pz.pe]
+[https://flyport.cc]
 
-[https://cn.raksmart.com]
+[https://free.gcup.wiki]
 
-[https://cnmksjs-nextchat000000.hf.space]
+[https://free.iosapp]
 
-[https://colaleo.top]
+[https://free.legeth.com]
 
-[https://config.51mdss.com]
-name  MDSSCLOUD
+[https://free.ninecloud.co]
+
+[https://free.shadowrocket.online]
+
+[https://freeappleid.ygxlj.xyz]
+
+[https://freedog.buzz]
+
+[https://freephonenum.com]
+
+[https://freevps.polarbear.works]
+
+[https://front.coffeecloud.top]
+
+[https://fs.v2rayse.com]
+
+[https://fsc.jiediandingyuejiji.homes]
+
+[https://fun513.top]
+
+[https://futawall.com]
+
+[https://g.luxury]
+
+[https://g1.subjsm.cyou]
+
+[https://gauss.lol]
+
+[https://gbtgurl.me]
+name  果宝特攻
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(mnfqvqlyf45@guerrillamail.org): {'message': '图形验证码不正确请重新输入'}
-
-[https://console.groq.com]
-
-[https://console.xrcloud.com]
-
-[https://cpdd.one]
-
-[https://crushs.top]
-name  Loading...
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(zjbhcfd282@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found 'Redirecting')
-
-[https://cwv5876.com]
-
-[https://cylink.moe]
-
-[https://d.cumen.xyz]
-
-[https://d.palu123.com]
-
-[https://dadiangan.xyz]
-
-[https://dash.duckyci.com]
-error  <string>:2 Unexpected "p" at column 13
-type  v2board
-更新订阅链接/续费续签失败  注册失败(beifpafme32@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;max-width:60rem;padding-left:1.5rem}@media (width <= 720px){.main-content{margin-top:4rem}}.h2{font-size:1.5rem;font-weight:500;line-height:2.25rem}@media (width <= 720px){.h2{font-size:1.25rem;line-height:1.5rem}}#challenge-error-text{background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+);background-repeat:no-repeat;background-size:contain;padding-left:34px}@media (prefers-color-scheme:dark){body{background-color:#222;color:#d9d9d9}}</style><meta http-equiv="refresh" content="390"></head><body class="no-js"><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt={cvId: \'3\',cZone: "dash.duckyci.com",cType: \'managed\',cRay: \'9225161b0d7858ae\',cH: \'Rx6hrds0qwWLpJ1QVDPOpxOtV1hoBtwvZCfHnmN.BG8-1742304644-1.2.1.1-HSlkeqjp.fkhdrtiiWs8re_twMC9OXruOEgzqVuUQU71CGmgjOk8kU5WP6m5AYqW\',cUPMDTk: "\\/api\\/v1\\/passport\\/auth\\/register?__cf_chl_tk=DZqsODSfiSzfqrwCFtHk94eiNDyWRCSysfPLvRCvqcI-1742304644-1.0.1.1-zTPI9g.n85VdG6jR6hAKyKKAGgpmSsloXDBagMjSf5c",cFPWv: \'g\',cITimeS: \'1742304644\',cTTimeMs: \'1000\',cMTimeMs: \'390000\',cTplC: 0,cTplV: 5,cTplB: \'cf\',cK: "",fa: "\\/api\\/v1\\/passport\\/auth\\/register?__cf_chl_f_tk=DZqsODSfiSzfqrwCFtHk94eiNDyWRCSysfPLvRCvqcI-1742304644-1.0.1.1-zTPI9g.n85VdG6jR6hAKyKKAGgpmSsloXDBagMjSf5c",md: "APiVm4ExJ.4EXiwy_nDQG6y4YZZQ7lTLK1xWDUCdXRc-1742304644-1.2.1.1-QslVXEBNtTujXmWm_t3k6Y6V8Qzk4wosLOvfzmUEWd1wxD1hTpzKklyqSHNb2_EfZ_ASlzK3_v6_69mfceWM_1WsczQak7QklD6ulFLeXTpk6O3gKY9H7co.IhzOMzaBlE.Thx1EJ4skRfmoDt9QFAXJrADWej2qL7lH42coD33H._QxI.TDdp.1qaOT7rBuLGzKJTMd.rKUkZmSNuuTHe2lhr95BZUmXjNncuhZFVeMU7pQ4uNgFkjqoyI5hphZi2mEVYPDhX66pGdoq38Wh5hUgBnCj9WsknQhDWHSd2VzPdeUZM8kLlOF0En3BuFdp1H72WS_c.LFhavBWChN1bx7r1SDa_YYXVskmV_EV_4URNbDAf2PtazRaQQeBg9kK.dlgklW4iAPsLOS.ABOf8S0bqwtfCDUKXXyM1UYQ9N_L6Qz.yoK8f3.HUPZ3vwQ0pr2f.uc27k3gu4oGluwzBkYWIimFMM1qOdsvyLQ84EItcdHwoLK2SR1Ph527rUz.iDimNR_lZopCj.r95A9PoZyiVmbMYGN4gJpLl8qUZ3QFoPG_QIpbm4hP8PeXS9SXWINzD01B2NB_ZWl_pXB1AsA9Kk.xPCY7Zihi4WWxqf.kzKpsM9vgerLa5k3gjCgRcZd2h.XdaBIMm4XOS8ZI1sHpYxgfF8mvc14M8euvLpWTFxT2w17LDDwkuQsDllXDZ.2QOSFkkoGN4l9XrtWMX2NY2xTo31mPKlIrweDJJtGf4FHoQb1IOj5J_yp9C5.AFL6_gP5AGWeRQkrSIm8vacGvxMwgxDHED5RvUIYnQ0Y3QQQmACak54dE9Bwwc7qpC2QIQrZn9eIYiBmkM3nPMMcn486gPeVG.U_AA5ymsQwYiuUxYZ6Ogku65Rl5emUodx.nUU1KjESRGUCxPgREZCi3eQ45.p.WfEwrlvr9.pjQMDZ3uthIMDdsmP3g8LY2wWKugl46maazi40lAt2XD1Bi.4BYm2igWU.7FhSjAfVRnmazV2kkBMhSwHHBwKd7QKPuLHXnk1DP7oC1ANjRHhC0cN3WzApNX8UODGKbHIxIwxxcVi4eY5Y0DyxJZvf",mdrd: "nriJEajnmaPe7w.jWBBWqG55ooM8gndWenbfcALtnIw-1742304644-1.2.1.1-MsfAytqh878d7qMxSveYLoL1.Ms4MJDRBIQ9X0WPAERjuvRlwehwoUnmAFhNaJR5qllKfvhHy1I4yymbNXsRsmJSA7DLyCvdkxWFMLyh6M8nRGQGUgzcwOs3M3NcJFK5xb3ZqSUjTCjrQGbCg2eSVL6hgTyoEKZlOxbuT1kDcgXs2odzvJXkRCmBXwSsbvJnC5J0Wa1IoR7uJkephFfXZmacFum2PyPUjMVsvkf_b8a97WWi6aBEoNVVgV.AW7CwJjfB_KondTsWPyitIFJjDCViTg1cMZBXBHUFk4Mj.LLBZCv0ONAH8szPWFwL6N3ozdjaGr1L_kF3VuqWAL5YY81fQx9T.pgxo1P2.1o68djiUWenwnjdw_SXhFtM9u901_tA0Tcyqjs5fEdnJjiyoFjxiKFfzbnJVtepYU1lUSO0zgo9ux69rD3k43VeekjUMBpMedJnk56oEDN0ED6LWWF5Fv5Y5VdkZTdFRPtLbuBJ.gSIyfEmnyE1dlR_mR.tpFAJ93TASeW_cD11Qp1Z9JkFaZe5dgLTUSCK3TMenUp2fZYIlg7EsB8ciNF12ypoJlpYAYyYZJi89NzKwVwewwMnvBiGusPJ8OahTc1WPtJddUpFrENIJ8eiVOdgf5Xtby2jOJORBhXL8BrMMe4.B8wL3Q19H3LFw.T3F8hd.6FvTvvFOFObjZvrbOnyT4KjnF5SYoeub5SVcgAwgYB3cSYbZOiLlZCYivbpzt0fNhUkwzn8ALV0ZLI_D38yZS5eEmfFgiKGywDFeUEj26nX..93V_3s7M5bpOl4Xgs6hEw5_jj6RT1SSsSX1CNmftT_jNr92QKqJjm4nmQOmxphLrsHvzts.sg0zG3PJVHVIAV7JBOxzBC5ipOKfoSDCB0.no0CBn4WquZJh8SV4L6gNIa.LrWyJOo8TatVTb76PVCg9OYeuwhGfJS80jrHD0P7Qy2oEs.oB.bTFfETr5_.OJ7Jj15Ks2bfS6kYm4zIM18F3ZxMSZnv7TJxyG1qWkoeJTALl2r1JfPieGXO29H9_ZmMPoCerrheqAhr50nDrctzddOGj5YUaLhQSF7VckG4XWsqc3963rX_rHLIeDPJhzyRxJ5.TlbrPiVImyV9kK5sSY6xUWQUvXazEJIL4VKUcCLOKJSAolj1EmrG2krq0lEW0LOTFuxtQQVQmNlo5NRsMfL2UmiZFSiUEhHRfwmrpPB5v2c7NTmKH8iLwfqLvOXnUAd3yl_skQ6mNVauHUHNLpYk2W1bAV2P29PxlhrPS1rKF5sDKK4Fs42POWioz7l4XeGRbsSHmUhoCjnDhXJjLRw3OkaC1zwx0UqFQ78reQZLH0MCltMeAg4Mh4ZHJiymZudVxUsmXGeidFOZCTZyJKfRyBsDezrf8hicMiFXgXp.MfreLpHDW6NmD6bDtcu6KMrI_pglPnB5TkjDS9Q_DOD_zxkhQcvL._.r4HiP15SIsJ0ijHCrAgnbDc.yn5u0aA9fqOZb4UeAGdbw7_xPig..Fz9vpHOc0mUK98eKqgz6uR2.cv3IwJ7Qk.NEtrXNnmloSTSUU7nYFPbQz1UWbWlizgRTqp3HhfKg0MsYAUhdVwzni6YO38hHuNZpEByeNZYfb3deE.0MrXBpIqx_3PpfEhLOpE996UtpcxdJRT9rS3yx.FHaTg2VpWivtwCBw05rgGMsgDt5lHBv9bHKF8WFUXfpHh_h12vAmps4MlX1HPIBpQflbZ9.mZNQcEm.oFI4tadmqW4GRLjN0fy99m05Xp29U21Ofcbv2bMeje56i3cgPwhkCyWG.80rTHFZyrDzf78xi4jQgwEikqPzs_CwinXtHu5WBUIpghkmfVUn4YCC2ETwXxJmJNM5.DG2AOwb3AtyQAZxZnb_vcDC7cz_jePrtuuElF0e5tkh6TbBu5EeCImDDIwNigj82Jmw8.S_ilS9ckxB279ne32KLZwM225MFhvA5M3QE8DaEkzv2ED2j4O9rzSFaI_dUxHgtifhGS3hWoS1Q0xaL9pItZu3T8rrnWRELnkTPF0JfC.QqUVWNvTWnyNViDucHHr_kPGUjdNx274BvsGSUO_TEO_udpcYyyr..96KAmg3IaJl.qD2DK1Mk466L.E8GQja07Cslq_2navZ0HDaRj1x.zVfxWLbIPCOdisQRfSoWfuN4DQeSdqR1l8lBIxOFElLbJ0voWV1R.b9V3LAYaO.9DrS9Dn3QfVsUem98L95WVPWCxt7Vt6LW1mUtfNWCxK72WKa4adTettzK65jkYWuxafhkjjfP.JFvtfxULZuZMaTLH92dl4_E.P4jcWN2IoT6MStU.h6TCDR1knTOLbYCmzoPYFjXjtXCjDUFnWQy139QgTcQpXXM5KBZprANVCPN39TKvaUEP_MZz51DO3qJnCzCFjHvK_5wynaSuPLJ3qbS6bIK.km7HKK1qiXgm8.LhfTOTg7It5dYhLW6TKItbY6uVhbDvyI3dSUQpyqojAx.KHM2REILWRkZdC3TQ"};var cpo = document.createElement(\'script\');cpo.src = \'/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=9225161b0d7858ae\';window._cf_chl_opt.cOgUHash = location.hash === \'\' && location.href.indexOf(\'#\') !== -1 ? \'#\' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === \'\' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf(\'?\') !== -1 ? \'?\' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null, "\\/api\\/v1\\/passport\\/auth\\/register?__cf_chl_rt_tk=DZqsODSfiSzfqrwCFtHk94eiNDyWRCSysfPLvRCvqcI-1742304644-1.0.1.1-zTPI9g.n85VdG6jR6hAKyKKAGgpmSsloXDBagMjSf5c" + window._cf_chl_opt.cOgUHash);cpo.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName(\'head\')[0].appendChild(cpo);}());</script></body></html>')
-
-[https://dash.fscloud.cc]
-name  FSCloud
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(nbyotfn49@tmpbox.net): {'message': '邮箱后缀不处于白名单中'}
-
-[https://dash.yfjc.xyz]
-
-[https://dawson0207.xn--3iq226gfdb94q.com]
-api_host  www.xn--3iq226gfdb94q.com
-name  久盛电缆
-type  v2board
-更新订阅链接/续费续签失败  注册失败(bijhcvceq198@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (502 Bad Gateway '<!DOCTYPE html>\r\n<html lang="en">\r\n<head>\r\n <meta charset="UTF-8">\r\n <meta name="viewport" content="width=device-width, initial-scale=1.0">\r\n <title>502 Bad Gateway</title>\r\n <style>\r\n body {\r\n font-family: \'PingFang SC\', sans-serif;\r\n background-color: #f4f4f4;\r\n color: #333;\r\n padding: 10px;\r\n margin: 0;\r\n box-sizing: border-box;\r\n }\r\n .error-container {\r\n background-color: #fff;\r\n border-left: 5px solid #ff4757;\r\n padding: 15px;\r\n box-shadow: 0 2px 4px rgba(0,0,0,0.1);\r\n margin: 10px;\r\n box-sizing: border-box;\r\n }\r\n .error-title {\r\n color: #ff4757;\r\n font-size: 16px; /* slightly smaller font for mobile */\r\n }\r\n .error-content {\r\n margin-top: 10px;\r\n line-height: 1.6;\r\n }\r\n pre {\r\n background-color: #eee;\r\n padding: 10px;\r\n overflow-x: auto;\r\n white-space: pre-wrap; /* Wraps the text in pre tag */\r\n word-wrap: break-word;\r\n }\r\n @media (min-width: 600px) {\r\n body {\r\n padding: 20px;\r\n }\r\n .error-container {\r\n margin: 20px auto; /* Center the container in larger screens */\r\n max-width: 600px;\r\n }\r\n .error-title {\r\n font-size: 18px;\r\n }\r\n }\r\n </style>\r\n</head>\r\n<body>\r\n <div class="error-container">\r\n <div class="error-title">502 Bad Gateway</div>\r\n <div class="error-content">\r\n <pre>网页读取失败，原因：源站读取超时，请将错误ID发送给管理员</pre>\r\n <!-- 显示错误ID -->\r\n <p>错误ID 1742304634925691000014</p>\r\n </div>\r\n </div>\r\n</body>\r\n</html>')
-
-[https://daxun.buzz]
-banned_domains  guerrillamail.de
-name  大讯云
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(rdhzfpty111@guerrillamail.de)
-
-[https://degyax.one]
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(vsscyfe289@femailtor.com): {'message': '邮箱后缀不处于白名单中'}
-
-[https://developer.huaweicloud.com]
-
-[https://deyniac.xyz]
-
-[https://dh.dtcloud.xyz]
-
-[https://ding.ov2rayo.top]
-buy  pass
-email  dxzdcvyxx638@gmail.com
-name  FreeCloud
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://fr.frgov.top/api/v1/client/subscribe?token=ce805395b3ea05fccec1a65839b7e13e
-time  2025-03-18 21:30:45.487864+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[https://dingyue.cloudaccess.icu]
-
-[https://dingyue.suying666.info]
-
-[https://dingyue.timeswath.uk]
-
-[https://dingyue.wenlianyun.vip]
-
-[https://dingyue.xn--9kqr64b41s.gq]
-
-[https://dingyuedizhi.com]
-
-[https://direct.gfwservice.xyz]
-
-[https://djjc.cfd]
-
-[https://dler.cloud]
-
-[https://dlj.tf]
+更新订阅链接/续费续签失败  注册失败(fxwerwxzf250@gmail.com): 'NoneType' object is not subscriptable
