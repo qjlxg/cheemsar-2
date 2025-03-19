@@ -11,18 +11,13 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
-  - 🇺🇸 ‍美国
-  - 🎏 ‍其他
-  - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - DIRECT
   - REJECT
 - name: ⚡ ‍低延迟
   type: url-test
   tolerance: 100
   use: &id001
-  - US
-  - Other
+  - All
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
@@ -47,11 +42,7 @@ proxy-groups:
 - name: 🤖 ‍AI
   type: select
   proxies:
-  - 🇺🇸 ‍美国
-  - 🎏 ‍其他
   - ✈️ ‍起飞
-  - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -60,37 +51,12 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇺🇸 ‍美国
-  type: url-test
-  tolerance: 300
-  use: &id002
-  - US
-- name: 🎏 ‍其他
-  type: url-test
-  tolerance: 100
-  use: &id003
-  - Other
-- name: 👆🏻🇺🇸 ‍美国
-  type: select
-  use: *id002
-- name: 👆🏻🎏 ‍其他
-  type: select
-  use: *id003
 proxy-providers:
-  US:
+  All:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/https://ch.cukug.website/US.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/https://qingyun.zybs.eu.org/All.yaml
     interval: 180
-    path: trials_providers/https://ch.cukug.website/US.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  Other:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/https://ch.cukug.website/Other.yaml
-    interval: 180
-    path: trials_providers/https://ch.cukug.website/Other.yaml
+    path: trials_providers/https://qingyun.zybs.eu.org/All.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
