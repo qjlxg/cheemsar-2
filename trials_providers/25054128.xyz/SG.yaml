@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇸🇬 Singapore#1 - 虚幻加速, server: svip1.pingboy.top, port: 28673, type: vmess, uuid: 62612ffd-ce78-462b-a477-b27040a45ff3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 Singapore#3 - 虚幻加速, server: svip1.pingboy.top, port: 28673, type: vmess, uuid: 62612ffd-ce78-462b-a477-b27040a45ff3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

@@ -1,9 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇸🇬 新加坡 01 - V2Lnk, server: singad.nexifyspark.com, port: 21008, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
-- {name: 🇸🇬 新加坡 02 - V2Lnk, server: singad.nexifyspark.com, port: 21009, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
-- {name: 🇸🇬 新加坡 03 - V2Lnk, server: singad.nexifyspark.com, port: 21010, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
-- {name: 🇸🇬 新加坡 04 - V2Lnk, server: sgwest.nexifyspark.com, port: 10351, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
-- {name: 🇸🇬 新加坡 05 - V2Lnk, server: sgwest.nexifyspark.com, port: 10352, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
-- {name: 🇸🇬 新加坡 06 - V2Lnk, server: sgwest.nexifyspark.com, port: 10353, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
