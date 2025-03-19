@@ -1,0 +1,79 @@
+%YAML 1.1
+---
+proxies:
+- {name: ℹ️ 最新网址xingoogle1.cc - 新谷歌, server: freen.san95.xyz, port: 41503, type: vmess, uuid: f3a78b6b-a4b3-32a9-a985-96858c20233e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: freen.san95.xyz, udp: true}
+- {name: 🇬🇧 英UK24|2x - 新谷歌, server: n24.xingoooogle.xyz, port: 41524, type: vmess, uuid: f3a78b6b-a4b3-32a9-a985-96858c20233e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 'ℹ️ [官网] ww1.v2lnk.com - V2Lnk', server: expa.nexifyspark.com, port: 17133, type: vmess, uuid: 124cc947-a7e8-4651-a46b-f1a171355ecf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /Microsoft, headers: {Host: expa.nexifyspark.com}}, udp: true}
+- {name: '[优惠] 新用户特惠 5元优惠  ,结算输入 2025 - V2Lnk', server: expa.nexifyspark.com, port: 18600, type: vmess, uuid: 124cc947-a7e8-4651-a46b-f1a171355ecf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /Microsoft, headers: {Host: expa.nexifyspark.com}}, udp: true}
+- {name: 🇰🇷 韩国 01 - V2Lnk, server: ap-e2.nexifyspark.com, port: 21004, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇰🇷 韩国 02 - V2Lnk, server: ap-e2.nexifyspark.com, port: 21006, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇹🇭 泰国 - V2Lnk, server: sgwest.nexifyspark.com, port: 21005, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇻🇳 越南 - V2Lnk, server: singad.nexifyspark.com, port: 21007, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇲🇾 马来西亚 - V2Lnk, server: sgwest.nexifyspark.com, port: 20010, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇨🇦 加拿大 - V2Lnk, server: useast.nexifyspark.com, port: 16018, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇬🇧 英国 01 - V2Lnk, server: eulondon.nexifyspark.com, port: 34401, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇬🇧 英国 02 - V2Lnk, server: eulondon.nexifyspark.com, port: 34402, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇩🇪 德国 01 - V2Lnk, server: reg2.nexifyspark.com, port: 34901, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇩🇪 德国 02 - V2Lnk, server: reg2.nexifyspark.com, port: 34902, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇫🇷 法国 - V2Lnk, server: reg2.nexifyspark.com, port: 34903, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇮🇹 意大利 - V2Lnk, server: reg2.nexifyspark.com, port: 34904, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇳🇱 荷兰 - V2Lnk, server: ozwest.nexifyspark.com, port: 34906, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇦🇺 悉尼 - V2Lnk, server: ozwest.nexifyspark.com, port: 20061, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇧🇷 巴西 - V2Lnk, server: reg3.nexifyspark.com, port: 20062, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇮🇳 印度 - V2Lnk, server: reg1.nexifyspark.com, port: 10911, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇦🇪 迪拜 - V2Lnk, server: mid.nexifyspark.com, port: 20071, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇷🇺 莫斯科 - V2Lnk, server: reg3.nexifyspark.com, port: 19003, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇹🇷 土耳其 - V2Lnk, server: reg3.nexifyspark.com, port: 19008, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇺🇦 乌克兰 - V2Lnk, server: reg3.nexifyspark.com, port: 19009, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: '🇳🇱 Eygelshoven (NLD) [a] Free - NextNet', server: next1.orz.my.id, port: 53520, type: ss, cipher: chacha20-ietf-poly1305, password: 6223a847-d926-4c7b-b7e6-2365537209ff, udp: true}
+- {name: 🇦🇿 最新节点支持Hysteria2协议，请到官网下载最新客户端（最新官网az.170203.xyz） - AZ云, server: twjpzznew.564659.xyz, port: 19667, type: trojan, password: 4deec958-e364-46b3-a8b8-ee52dffae2b0, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}
+- {name: 'ℹ️ 官网: www.yas66.com - 火箭cloud', server: huojian.arken8379.com, port: 23040, type: ss, cipher: chacha20-ietf-poly1305, password: ce289729-c076-40b5-895e-c687fef41b5b, udp: true}
+- {name: ℹ️ as250366399@gmail.com - 火箭cloud, server: huojian.arken8379.com, port: 23000, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 'ℹ️ 续费网址: www.yas66.com - 火箭cloud', server: huojian.arken8379.com, port: 23000, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 'ℹ️ 官_网: www.yas66.com - 火箭cloud', server: huojian-js.arken8379.com, port: 23000, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 续费:www.yas66.com - 火箭cloud, server: huojian-js.arken8379.com, port: 23000, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国|Netflix - 火箭cloud, server: huojian-js.arken8379.com, port: 23031, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国|TikTok - 火箭cloud, server: huojian-js.arken8379.com, port: 23031, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国|ChatGpt - 火箭cloud, server: huojian-js.arken8379.com, port: 23031, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国|ChatGpt2 - 火箭cloud, server: huojian-js.arken8379.com, port: 23031, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 'ℹ️ 续费~网址: www.yas66.com - 火箭cloud', server: huojian-js.arken8379.com, port: 23001, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国|Netflix - 火箭cloud, server: huojian-js.arken8379.com, port: 23004, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国|TikTok - 火箭cloud, server: huojian-js.arken8379.com, port: 23004, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国|ChatGpt - 火箭cloud, server: huojian-js.arken8379.com, port: 23004, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国|ChatGpt2 - 火箭cloud, server: huojian-js.arken8379.com, port: 23004, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国|Netflix - 火箭cloud, server: huojian-js.arken8379.com, port: 23005, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国|TikTok - 火箭cloud, server: huojian-js.arken8379.com, port: 23005, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国|ChatGpt - 火箭cloud, server: huojian-js.arken8379.com, port: 23005, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国|ChatGpt2 - 火箭cloud, server: huojian-js.arken8379.com, port: 23005, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇭 泰国|Netflix - 火箭cloud, server: huojian.arken8379.com, port: 23008, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇭 泰国|TikTok - 火箭cloud, server: huojian.arken8379.com, port: 23008, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇭 泰国|ChatGpt - 火箭cloud, server: huojian.arken8379.com, port: 23008, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇭 泰国|ChatGpt2 - 火箭cloud, server: huojian.arken8379.com, port: 23008, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国-三网优化2 - 青云互联网-, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: a4e8b100-6b66-4cb6-9bdd-7b6d15a3e5f5, sni: kr-qingyun.dwyun.me, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 牢记域名:yh12.xyz - CloudFox, server: hk01.x.woyh.xyz, port: 38632, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: ℹ️ 有问题访问:yh12.xyz - CloudFox, server: hk01.x.woyh.xyz, port: 38632, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: ℹ️ 订阅失败访问:yh12.xyz - CloudFox, server: hk01.x.woyh.xyz, port: 38632, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: ℹ️ 防失联:yh12.xyz - CloudFox, server: hk01.x.woyh.xyz, port: 38632, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇰🇷 韩国01（高速） - CloudFox, server: kr01.x.woyh.xyz, port: 38641, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇰🇷 韩国02（高速） - CloudFox, server: kr02.x.woyh.xyz, port: 38642, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇰🇷 韩国03（IPLC稳定） - CloudFox, server: kr03.x.woyh.xyz, port: 38643, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇰🇷 韩国04（IPLC稳定） - CloudFox, server: kr04.x.woyh.xyz, port: 38644, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇰🇷 韩国05（GPT专用） - CloudFox, server: kr05.x.woyh.xyz, port: 38645, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇰🇷 韩国06（GPT专用） - CloudFox, server: kr06.x.woyh.xyz, port: 38646, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇳🇱 荷兰01 - CloudFox, server: nl01.x.woyh.xyz, port: 38794, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇳🇱 荷兰02 - CloudFox, server: nl02.x.woyh.xyz, port: 38795, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇹🇷 土耳其01 (高速） - CloudFox, server: tur01.x.woyh.xyz, port: 38790, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇹🇷 土耳其02 (高速） - CloudFox, server: tur02.x.woyh.xyz, port: 38791, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇦🇺 澳大利亚01（高速） - CloudFox, server: au01.x.woyh.xyz, port: 38778, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇦🇺 澳大利亚02（高速） - CloudFox, server: au02.x.woyh.xyz, port: 38779, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇬🇧 英国01（高速） - CloudFox, server: uk01.x.woyh.xyz, port: 38661, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇬🇧 英国02（高速） - CloudFox, server: uk02.x.woyh.xyz, port: 38662, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇬🇧 英国03（IPLC稳定） - CloudFox, server: uk03.x.woyh.xyz, port: 38663, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇬🇧 英国04（IPLC稳定） - CloudFox, server: uk04.x.woyh.xyz, port: 38664, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇬🇧 英国05（GPT专用） - CloudFox, server: uk05.x.woyh.xyz, port: 38665, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇬🇧 英国06（GPT专用） - CloudFox, server: uk06.x.woyh.xyz, port: 38667, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇨🇦 加拿大01（高速） - CloudFox, server: ca01.x.woyh.xyz, port: 38780, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇨🇦 加拿大02（高速） - CloudFox, server: ca01.x.woyh.xyz, port: 38781, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: Gói của bạn đã hết hạn - VPN Panel, server: https://ban4g.com, port: 443, tfo: true, type: vmess, uuid: uuid-uuid-uuid-uuid-uuid, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国01_免费 - 山海, server: de01.sh-cloudflare.sbs, port: 8443, type: vmess, uuid: bae40f2d-cb06-4701-9c1e-6e180a30d389, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: de01.sh-cloudflare.sbs, network: ws, ws-opts: {path: /, headers: {Host: de01.sh-cloudflare.sbs}}, udp: true}
+- {name: ℹ️ 永久官网:www.猫云.net - 猫云, server: 8.8.8.8, port: 10086, type: ss, cipher: chacha20-ietf-poly1305, password: mzCJA5auLp90YtQo, udp: true}

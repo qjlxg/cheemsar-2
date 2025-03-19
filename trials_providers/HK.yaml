@@ -1,0 +1,36 @@
+%YAML 1.1
+---
+proxies:
+- {name: '🇭🇰香港[1] <- 广移⌛️10倍费率 - F2ray', server: gdhk1-07312200.666888.biz, port: 30609, type: ss, cipher: chacha20-ietf-poly1305, password: cf045e14-cfe7-48d9-9aec-7534f57bd1d0, udp: true}
+- {name: 🇭🇰 港HK16|2x - 新谷歌, server: n16.xingoooogle.xyz, port: 41516, type: vmess, uuid: f3a78b6b-a4b3-32a9-a985-96858c20233e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇭🇰 港HK17|2x - 新谷歌, server: n17.xingoooogle.xyz, port: 41517, type: vmess, uuid: f3a78b6b-a4b3-32a9-a985-96858c20233e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇭🇰 港HK18|3x - 新谷歌, server: n18.xingoooogle.xyz, port: 41518, type: vmess, uuid: f3a78b6b-a4b3-32a9-a985-96858c20233e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇭🇰 港HK19|3x - 新谷歌, server: n19.xingoooogle.xyz, port: 41519, type: vmess, uuid: f3a78b6b-a4b3-32a9-a985-96858c20233e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇭🇰 香港 01 - V2Lnk, server: as-c6.nexifyspark.com, port: 30501, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇭🇰 香港 02 - V2Lnk, server: as-c6.nexifyspark.com, port: 30502, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇭🇰 香港 03 - V2Lnk, server: as-c6.nexifyspark.com, port: 30503, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇭🇰 香港 04 - V2Lnk, server: as-c6.nexifyspark.com, port: 30504, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇭🇰 香港 05 - V2Lnk, server: as-c6.nexifyspark.com, port: 30505, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇭🇰 香港 06 - V2Lnk, server: as-c6.nexifyspark.com, port: 30506, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇭🇰 香港 07 - V2Lnk, server: as-c6.nexifyspark.com, port: 30507, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇭🇰 香港 08 - V2Lnk, server: as-c6.nexifyspark.com, port: 30508, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: '🇭🇰 HongKong (VIP) [trial] - NextNet', server: next1.orz.my.id, port: 53030, type: vmess, uuid: 6223a847-d926-4c7b-b7e6-2365537209ff, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: next1.orz.my.id}}, udp: true}
+- {name: 🇭🇰 香港|奈飞 - 火箭cloud, server: huojian.arken8379.com, port: 23000, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港|奈飞-2 - 火箭cloud, server: huojian.arken8379.com, port: 23000, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港|奈飞-3 - 火箭cloud, server: huojian-js.arken8379.com, port: 23000, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港01（高速） - CloudFox, server: hk01.x.woyh.xyz, port: 38632, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇭🇰 香港02（高速） - CloudFox, server: hk02.x.woyh.xyz, port: 38632, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇭🇰 香港03（IPLC稳定） - CloudFox, server: hk03.x.woyh.xyz, port: 38633, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇭🇰 香港04（IPLC稳定） - CloudFox, server: hk04.x.woyh.xyz, port: 38634, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇭🇰 香港05 - CloudFox, server: hk05.x.woyh.xyz, port: 38635, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇭🇰 香港06 - CloudFox, server: hk06.x.woyh.xyz, port: 38636, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇭🇰HK Akile T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 16732, type: ss, cipher: aes-128-gcm, password: 99406a01-7b5c-4be9-aa9b-959ecba472cd, udp: true}
+- {name: 🇭🇰HK Akile T宁夏CM 1.2x - PassGFW, server: awslx.rcmnk.cn, port: 55872, type: ss, cipher: aes-128-gcm, password: 99406a01-7b5c-4be9-aa9b-959ecba472cd, udp: true}
+- {name: 🇭🇰HK Akile T深圳CM 1.2x - PassGFW, server: tysz.rcmnk.cn, port: 41124, type: ss, cipher: aes-128-gcm, password: 99406a01-7b5c-4be9-aa9b-959ecba472cd, udp: true}
+- {name: 🇭🇰HK Akile T深圳CM2 1.2x - PassGFW, server: szhx.rcmnk.cn, port: 41124, type: ss, cipher: aes-128-gcm, password: 99406a01-7b5c-4be9-aa9b-959ecba472cd, udp: true}
+- {name: 🇭🇰HK Akile T长沙CM 1.2x - PassGFW, server: csyd.rcmnk.cn, port: 41124, type: ss, cipher: aes-128-gcm, password: 99406a01-7b5c-4be9-aa9b-959ecba472cd, udp: true}
+- {name: 🇭🇰 Hongkong#1 - 虚幻加速, server: svip1.pingboy.top, port: 17993, type: vmess, uuid: 62612ffd-ce78-462b-a477-b27040a45ff3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 Hongkong#3 - 虚幻加速, server: svip1.pingboy.top, port: 38913, type: vmess, uuid: 62612ffd-ce78-462b-a477-b27040a45ff3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 Hongkong#5 - 虚幻加速, server: svip1.pingboy.top, port: 39840, type: vmess, uuid: 62612ffd-ce78-462b-a477-b27040a45ff3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载, server: hkt.littleqqq.co, port: 20759, type: vmess, uuid: ace86dc1-02f3-41dc-be9e-42d761f726b4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: hkt.littleqqq.co}}, udp: true}
+- {name: 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载 2, server: hkt.littleqqq.co, port: 20759, type: vmess, uuid: ace86dc1-02f3-41dc-be9e-42d761f726b4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: hkt.littleqqq.co}}, udp: true}

@@ -1,0 +1,6 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇹🇼 台湾 01 - V2Lnk, server: ap-e3.nexifyspark.com, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇹🇼 台湾 02 - V2Lnk, server: ap-e3.nexifyspark.com, port: 21002, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇹🇼 台湾 03 - V2Lnk, server: ap-e3.nexifyspark.com, port: 21003, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}

@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: ℹ️ 最新网址xingoogle1.cc - 新谷歌, server: freen.san95.xyz, port: 41503, type: vmess, uuid: f3a78b6b-a4b3-32a9-a985-96858c20233e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: freen.san95.xyz, udp: true}
+- {name: 🇬🇧 英UK24|2x - 新谷歌, server: n24.xingoooogle.xyz, port: 41524, type: vmess, uuid: f3a78b6b-a4b3-32a9-a985-96858c20233e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}

@@ -9,8 +9,255 @@ proxy-groups:
 - name: ✈️ ‍起飞
   type: select
   proxies:
+  - ⚡ ‍低延迟
+  - 👆🏻 ‍指定
+  - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
+  - 🇨🇳 ‍中国
+  - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
+  - 🇺🇸 ‍美国
+  - 🎏 ‍其他
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
+  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
   - DIRECT
   - REJECT
+- name: ⚡ ‍低延迟
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 100
+  proxies: &id001
+  - 🇭🇰香港[1] <- 广移⌛️10倍费率 - F2ray
+  - 🇭🇰 港HK16|2x - 新谷歌
+  - 🇭🇰 港HK17|2x - 新谷歌
+  - 🇭🇰 港HK18|3x - 新谷歌
+  - 🇭🇰 港HK19|3x - 新谷歌
+  - 🇭🇰 香港 01 - V2Lnk
+  - 🇭🇰 香港 02 - V2Lnk
+  - 🇭🇰 香港 03 - V2Lnk
+  - 🇭🇰 香港 04 - V2Lnk
+  - 🇭🇰 香港 05 - V2Lnk
+  - 🇭🇰 香港 06 - V2Lnk
+  - 🇭🇰 香港 07 - V2Lnk
+  - 🇭🇰 香港 08 - V2Lnk
+  - 🇭🇰 HongKong (VIP) [trial] - NextNet
+  - 🇭🇰 香港|奈飞 - 火箭cloud
+  - 🇭🇰 香港|奈飞-2 - 火箭cloud
+  - 🇭🇰 香港|奈飞-3 - 火箭cloud
+  - 🇭🇰 香港01（高速） - CloudFox
+  - 🇭🇰 香港02（高速） - CloudFox
+  - 🇭🇰 香港03（IPLC稳定） - CloudFox
+  - 🇭🇰 香港04（IPLC稳定） - CloudFox
+  - 🇭🇰 香港05 - CloudFox
+  - 🇭🇰 香港06 - CloudFox
+  - 🇭🇰HK Akile T成都CM 1.2x - PassGFW
+  - 🇭🇰HK Akile T宁夏CM 1.2x - PassGFW
+  - 🇭🇰HK Akile T深圳CM 1.2x - PassGFW
+  - 🇭🇰HK Akile T深圳CM2 1.2x - PassGFW
+  - 🇭🇰HK Akile T长沙CM 1.2x - PassGFW
+  - 🇭🇰 Hongkong#1 - 虚幻加速
+  - 🇭🇰 Hongkong#3 - 虚幻加速
+  - 🇭🇰 Hongkong#5 - 虚幻加速
+  - 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载
+  - 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载 2
+  - 🇹🇼 台TW10|2x - 新谷歌
+  - 🇹🇼 台TW9|1x - 新谷歌
+  - 🇹🇼 台湾 01 - V2Lnk
+  - 🇹🇼 台湾 02 - V2Lnk
+  - 🇹🇼 台湾 03 - V2Lnk
+  - 🇹🇼  TaiWan (台灣) (VIP) [trial] - NextNet
+  - 🇹🇼 台湾01直连 - AZ云
+  - 🇹🇼 台湾03直连 - AZ云
+  - 🇹🇼 台湾节点(推荐) - byi加速器
+  - 🇹🇼 台湾01（高速） - CloudFox
+  - 🇹🇼 台湾02（高速） - CloudFox
+  - 🇹🇼 台湾03（IPLC稳定） - CloudFox
+  - 🇹🇼 台湾04（IPLC稳定） - CloudFox
+  - 🇹🇼 台湾05（GPT专用） - CloudFox
+  - 🇹🇼 台湾06（GPT专用） - CloudFox
+  - 🇹🇼TW TPE TWDS T成都CM 1.2x - PassGFW
+  - 🇹🇼TW TPE TWDS T深圳CM 1.2x - PassGFW
+  - 🇹🇼TW TPE TWDS T深圳CM2 1.2x - PassGFW
+  - 🇹🇼TW TPE TWDS T长沙CM 1.2x - PassGFW
+  - 🇹🇼TW TPE TWDS T宁夏CM 1.2x - PassGFW
+  - 🇸🇬 新SG20|2x - 新谷歌
+  - 🇸🇬 新SG21|2x - 新谷歌
+  - 🇸🇬 新加坡 01 - V2Lnk
+  - 🇸🇬 新加坡 02 - V2Lnk
+  - 🇸🇬 新加坡 03 - V2Lnk
+  - 🇸🇬 新加坡 04 - V2Lnk
+  - 🇸🇬 新加坡 05 - V2Lnk
+  - 🇸🇬 新加坡 06 - V2Lnk
+  - 🇸🇬 新加坡01隧道快 - AZ云
+  - 🇸🇬 新加坡01隧道4 - AZ云
+  - 🇸🇬 新加坡01隧道5 - AZ云
+  - 🇸🇬 新加坡|Netflix - 火箭cloud
+  - 🇸🇬 新加坡|TikTok - 火箭cloud
+  - 🇸🇬 新加坡|ChatGpt - 火箭cloud
+  - 🇸🇬 新加坡|ChatGpt2 - 火箭cloud
+  - 🇸🇬 新加坡节点 - byi加速器
+  - 🇸🇬 新加坡01（高速） - CloudFox
+  - 🇸🇬 新加坡02（高速） - CloudFox
+  - 🇸🇬 新加坡03（IPLC稳定） - CloudFox
+  - 🇸🇬 新加坡04（IPLC稳定） - CloudFox
+  - 🇸🇬 新加坡05（GPT专用） - CloudFox
+  - 🇸🇬 新加坡06（GPT专用） - CloudFox
+  - 🇸🇬SG Akile T成都CM 1.2x - PassGFW
+  - 🇸🇬SG Constant T深圳CM 1.2x - PassGFW
+  - 🇸🇬SG Constant T深圳CM2 1.2x - PassGFW
+  - 🇸🇬JP Osaka Choopa T长沙CM[IPV6] 1.2x - PassGFW
+  - 🇸🇬SG Akile T深圳CM 1.2x - PassGFW
+  - 🇸🇬SG Akile T深圳CM2 1.2x - PassGFW
+  - 🇸🇬SG Akile T长沙CM - PassGFW
+  - 🇸🇬 Singapore#1 - 虚幻加速
+  - 🇸🇬 Singapore#3 - 虚幻加速
+  - 🇯🇵 日JP11|2x - 新谷歌
+  - 🇯🇵 日JP12|2x - 新谷歌
+  - 🇯🇵 日JP13|2x - 新谷歌
+  - 🇯🇵 日本 01 - V2Lnk
+  - 🇯🇵 日本 02 - V2Lnk
+  - 🇯🇵 日本 03 - V2Lnk
+  - 🇯🇵 日本 04 - V2Lnk
+  - 🇯🇵 日本 05 - V2Lnk
+  - 🇯🇵 日本 06 - V2Lnk
+  - 🇯🇵 日本03直连 - AZ云
+  - 🇯🇵 日本04直连 - AZ云
+  - 🇯🇵 日本04隧道快 - AZ云
+  - 🇯🇵 日本04隧道1 - AZ云
+  - 🇯🇵 日本03隧道快 - AZ云
+  - 🇯🇵 日本03隧道1 - AZ云
+  - 🇯🇵 日本|ChatGpt-1 - 火箭cloud
+  - 🇯🇵 日本|ChatGpt-2 - 火箭cloud
+  - 🇯🇵 日本|ChatGpt-3 - 火箭cloud
+  - 🇯🇵 日本|ChatGpt-4 - 火箭cloud
+  - 🇯🇵 日本节点3 - byi加速器
+  - 🇯🇵 日本01（高速） - CloudFox
+  - 🇯🇵 日本02（高速） - CloudFox
+  - 🇯🇵 日本03（IPLC稳定） - CloudFox
+  - 🇯🇵 日本04（IPLC稳定） - CloudFox
+  - 🇯🇵 日本05（GPT专用） - CloudFox
+  - 🇯🇵 日本06（GPT专用） - CloudFox
+  - 🇯🇵JP Akile T成都CM 1.2x - PassGFW
+  - 🇯🇵JP Akile T长沙CM [IPV6] 1.2x - PassGFW
+  - 🇯🇵JP Akile T长沙CM 1.2x - PassGFW
+  - 🇯🇵JP Akile T宁夏CM 1.2x - PassGFW
+  - 🇯🇵JP Osaka Choopa T深圳CM 1.2x - PassGFW
+  - 🇯🇵JP Osaka Choopa T深圳CM2 1.2x - PassGFW
+  - 🇯🇵 Japan#1 - 虚幻加速
+  - 🇯🇵 Japan#3 - 虚幻加速
+  - 🇺🇸美 低倍率 - F2ray
+  - 🇺🇸 美US22|2x - 新谷歌
+  - 🇺🇸 美US23|2x - 新谷歌
+  - 🇺🇸 美US4|1x - 新谷歌
+  - 🇺🇸 美US5|2x - 新谷歌
+  - 🇺🇸 美US6|2x - 新谷歌
+  - 🇺🇸 美US7|2x - 新谷歌
+  - 🇺🇸 美US8|2x - 新谷歌
+  - 🇺🇸 美國 01 - V2Lnk
+  - 🇺🇸 美國 02 - V2Lnk
+  - 🇺🇸 美國 03 - V2Lnk
+  - 🇺🇸 美國 04 - V2Lnk
+  - 🇺🇸 美國 05 - V2Lnk
+  - 🇺🇸 美國 06 - V2Lnk
+  - 🇺🇸 美国|Netflix - 火箭cloud
+  - 🇺🇸 美国|TikTok - 火箭cloud
+  - 🇺🇸 美国|ChatGpt - 火箭cloud
+  - 🇺🇸 美国|ChatGpt2 - 火箭cloud
+  - 🇺🇸 美国节点 - byi加速器
+  - 🇺🇸 美国01（高速） - CloudFox
+  - 🇺🇸 美国02（高速） - CloudFox
+  - 🇺🇸 美国03（IPLC稳定） - CloudFox
+  - 🇺🇸 美国04（IPLC稳定） - CloudFox
+  - 🇺🇸 美国05（GPT专用） - CloudFox
+  - 🇺🇸 美国06（GPT专用） - CloudFox
+  - 🇺🇸 美国01_免费 - 山海
+  - 🇺🇸 United States#1 - 虚幻加速
+  - 🇺🇸 United States#3 - 虚幻加速
+  - ℹ️ 最新网址xingoogle1.cc - 新谷歌
+  - 🇬🇧 英UK24|2x - 新谷歌
+  - ℹ️ [官网] ww1.v2lnk.com - V2Lnk
+  - '[优惠] 新用户特惠 5元优惠  ,结算输入 2025 - V2Lnk'
+  - 🇰🇷 韩国 01 - V2Lnk
+  - 🇰🇷 韩国 02 - V2Lnk
+  - 🇹🇭 泰国 - V2Lnk
+  - 🇻🇳 越南 - V2Lnk
+  - 🇲🇾 马来西亚 - V2Lnk
+  - 🇨🇦 加拿大 - V2Lnk
+  - 🇬🇧 英国 01 - V2Lnk
+  - 🇬🇧 英国 02 - V2Lnk
+  - 🇩🇪 德国 01 - V2Lnk
+  - 🇩🇪 德国 02 - V2Lnk
+  - 🇫🇷 法国 - V2Lnk
+  - 🇮🇹 意大利 - V2Lnk
+  - 🇳🇱 荷兰 - V2Lnk
+  - 🇦🇺 悉尼 - V2Lnk
+  - 🇧🇷 巴西 - V2Lnk
+  - 🇮🇳 印度 - V2Lnk
+  - 🇦🇪 迪拜 - V2Lnk
+  - 🇷🇺 莫斯科 - V2Lnk
+  - 🇹🇷 土耳其 - V2Lnk
+  - 🇺🇦 乌克兰 - V2Lnk
+  - 🇳🇱 Eygelshoven (NLD) [a] Free - NextNet
+  - 🇦🇿 最新节点支持Hysteria2协议，请到官网下载最新客户端（最新官网az.170203.xyz） - AZ云
+  - 'ℹ️ 官网: www.yas66.com - 火箭cloud'
+  - ℹ️ as250366399@gmail.com - 火箭cloud
+  - 'ℹ️ 续费网址: www.yas66.com - 火箭cloud'
+  - 'ℹ️ 官_网: www.yas66.com - 火箭cloud'
+  - ℹ️ 续费:www.yas66.com - 火箭cloud
+  - 🇰🇷 韩国|Netflix - 火箭cloud
+  - 🇰🇷 韩国|TikTok - 火箭cloud
+  - 🇰🇷 韩国|ChatGpt - 火箭cloud
+  - 🇰🇷 韩国|ChatGpt2 - 火箭cloud
+  - 'ℹ️ 续费~网址: www.yas66.com - 火箭cloud'
+  - 🇩🇪 德国|Netflix - 火箭cloud
+  - 🇩🇪 德国|TikTok - 火箭cloud
+  - 🇩🇪 德国|ChatGpt - 火箭cloud
+  - 🇩🇪 德国|ChatGpt2 - 火箭cloud
+  - 🇬🇧 英国|Netflix - 火箭cloud
+  - 🇬🇧 英国|TikTok - 火箭cloud
+  - 🇬🇧 英国|ChatGpt - 火箭cloud
+  - 🇬🇧 英国|ChatGpt2 - 火箭cloud
+  - 🇹🇭 泰国|Netflix - 火箭cloud
+  - 🇹🇭 泰国|TikTok - 火箭cloud
+  - 🇹🇭 泰国|ChatGpt - 火箭cloud
+  - 🇹🇭 泰国|ChatGpt2 - 火箭cloud
+  - 🇰🇷 韩国-三网优化2 - 青云互联网-
+  - ℹ️ 牢记域名:yh12.xyz - CloudFox
+  - ℹ️ 有问题访问:yh12.xyz - CloudFox
+  - ℹ️ 订阅失败访问:yh12.xyz - CloudFox
+  - ℹ️ 防失联:yh12.xyz - CloudFox
+  - 🇰🇷 韩国01（高速） - CloudFox
+  - 🇰🇷 韩国02（高速） - CloudFox
+  - 🇰🇷 韩国03（IPLC稳定） - CloudFox
+  - 🇰🇷 韩国04（IPLC稳定） - CloudFox
+  - 🇰🇷 韩国05（GPT专用） - CloudFox
+  - 🇰🇷 韩国06（GPT专用） - CloudFox
+  - 🇳🇱 荷兰01 - CloudFox
+  - 🇳🇱 荷兰02 - CloudFox
+  - 🇹🇷 土耳其01 (高速） - CloudFox
+  - 🇹🇷 土耳其02 (高速） - CloudFox
+  - 🇦🇺 澳大利亚01（高速） - CloudFox
+  - 🇦🇺 澳大利亚02（高速） - CloudFox
+  - 🇬🇧 英国01（高速） - CloudFox
+  - 🇬🇧 英国02（高速） - CloudFox
+  - 🇬🇧 英国03（IPLC稳定） - CloudFox
+  - 🇬🇧 英国04（IPLC稳定） - CloudFox
+  - 🇬🇧 英国05（GPT专用） - CloudFox
+  - 🇬🇧 英国06（GPT专用） - CloudFox
+  - 🇨🇦 加拿大01（高速） - CloudFox
+  - 🇨🇦 加拿大02（高速） - CloudFox
+  - Gói của bạn đã hết hạn - VPN Panel
+  - 🇩🇪 德国01_免费 - 山海
+  - ℹ️ 永久官网:www.猫云.net - 猫云
+- name: 👆🏻 ‍指定
+  type: select
+  proxies: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -27,11 +274,29 @@ proxy-groups:
   type: select
   proxies:
   - 🛩️ ‍墙内
+  - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
+  - 🇨🇳 ‍中国
   - ✈️ ‍起飞
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
+  - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
+  - 🇺🇸 ‍美国
+  - 🇹🇼 ‍台湾
+  - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
+  - 🎏 ‍其他
   - ✈️ ‍起飞
+  - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🎏 ‍其他
+  - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
   type: select
@@ -39,7 +304,567 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-proxies: []
+- name: 🇭🇰 ‍香港
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id002
+  - 🇭🇰香港[1] <- 广移⌛️10倍费率 - F2ray
+  - 🇭🇰 港HK16|2x - 新谷歌
+  - 🇭🇰 港HK17|2x - 新谷歌
+  - 🇭🇰 港HK18|3x - 新谷歌
+  - 🇭🇰 港HK19|3x - 新谷歌
+  - 🇭🇰 香港 01 - V2Lnk
+  - 🇭🇰 香港 02 - V2Lnk
+  - 🇭🇰 香港 03 - V2Lnk
+  - 🇭🇰 香港 04 - V2Lnk
+  - 🇭🇰 香港 05 - V2Lnk
+  - 🇭🇰 香港 06 - V2Lnk
+  - 🇭🇰 香港 07 - V2Lnk
+  - 🇭🇰 香港 08 - V2Lnk
+  - 🇭🇰 HongKong (VIP) [trial] - NextNet
+  - 🇭🇰 香港|奈飞 - 火箭cloud
+  - 🇭🇰 香港|奈飞-2 - 火箭cloud
+  - 🇭🇰 香港|奈飞-3 - 火箭cloud
+  - 🇭🇰 香港01（高速） - CloudFox
+  - 🇭🇰 香港02（高速） - CloudFox
+  - 🇭🇰 香港03（IPLC稳定） - CloudFox
+  - 🇭🇰 香港04（IPLC稳定） - CloudFox
+  - 🇭🇰 香港05 - CloudFox
+  - 🇭🇰 香港06 - CloudFox
+  - 🇭🇰HK Akile T成都CM 1.2x - PassGFW
+  - 🇭🇰HK Akile T宁夏CM 1.2x - PassGFW
+  - 🇭🇰HK Akile T深圳CM 1.2x - PassGFW
+  - 🇭🇰HK Akile T深圳CM2 1.2x - PassGFW
+  - 🇭🇰HK Akile T长沙CM 1.2x - PassGFW
+  - 🇭🇰 Hongkong#1 - 虚幻加速
+  - 🇭🇰 Hongkong#3 - 虚幻加速
+  - 🇭🇰 Hongkong#5 - 虚幻加速
+  - 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载
+  - 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载 2
+- name: 🇹🇼 ‍台湾
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id003
+  - 🇹🇼 台TW10|2x - 新谷歌
+  - 🇹🇼 台TW9|1x - 新谷歌
+  - 🇹🇼 台湾 01 - V2Lnk
+  - 🇹🇼 台湾 02 - V2Lnk
+  - 🇹🇼 台湾 03 - V2Lnk
+  - 🇹🇼  TaiWan (台灣) (VIP) [trial] - NextNet
+  - 🇹🇼 台湾01直连 - AZ云
+  - 🇹🇼 台湾03直连 - AZ云
+  - 🇹🇼 台湾节点(推荐) - byi加速器
+  - 🇹🇼 台湾01（高速） - CloudFox
+  - 🇹🇼 台湾02（高速） - CloudFox
+  - 🇹🇼 台湾03（IPLC稳定） - CloudFox
+  - 🇹🇼 台湾04（IPLC稳定） - CloudFox
+  - 🇹🇼 台湾05（GPT专用） - CloudFox
+  - 🇹🇼 台湾06（GPT专用） - CloudFox
+  - 🇹🇼TW TPE TWDS T成都CM 1.2x - PassGFW
+  - 🇹🇼TW TPE TWDS T深圳CM 1.2x - PassGFW
+  - 🇹🇼TW TPE TWDS T深圳CM2 1.2x - PassGFW
+  - 🇹🇼TW TPE TWDS T长沙CM 1.2x - PassGFW
+  - 🇹🇼TW TPE TWDS T宁夏CM 1.2x - PassGFW
+- name: 🇨🇳 ‍中国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id004
+  - 🇭🇰香港[1] <- 广移⌛️10倍费率 - F2ray
+  - 🇭🇰 港HK16|2x - 新谷歌
+  - 🇭🇰 港HK17|2x - 新谷歌
+  - 🇭🇰 港HK18|3x - 新谷歌
+  - 🇭🇰 港HK19|3x - 新谷歌
+  - 🇭🇰 香港 01 - V2Lnk
+  - 🇭🇰 香港 02 - V2Lnk
+  - 🇭🇰 香港 03 - V2Lnk
+  - 🇭🇰 香港 04 - V2Lnk
+  - 🇭🇰 香港 05 - V2Lnk
+  - 🇭🇰 香港 06 - V2Lnk
+  - 🇭🇰 香港 07 - V2Lnk
+  - 🇭🇰 香港 08 - V2Lnk
+  - 🇭🇰 HongKong (VIP) [trial] - NextNet
+  - 🇭🇰 香港|奈飞 - 火箭cloud
+  - 🇭🇰 香港|奈飞-2 - 火箭cloud
+  - 🇭🇰 香港|奈飞-3 - 火箭cloud
+  - 🇭🇰 香港01（高速） - CloudFox
+  - 🇭🇰 香港02（高速） - CloudFox
+  - 🇭🇰 香港03（IPLC稳定） - CloudFox
+  - 🇭🇰 香港04（IPLC稳定） - CloudFox
+  - 🇭🇰 香港05 - CloudFox
+  - 🇭🇰 香港06 - CloudFox
+  - 🇭🇰HK Akile T成都CM 1.2x - PassGFW
+  - 🇭🇰HK Akile T宁夏CM 1.2x - PassGFW
+  - 🇭🇰HK Akile T深圳CM 1.2x - PassGFW
+  - 🇭🇰HK Akile T深圳CM2 1.2x - PassGFW
+  - 🇭🇰HK Akile T长沙CM 1.2x - PassGFW
+  - 🇭🇰 Hongkong#1 - 虚幻加速
+  - 🇭🇰 Hongkong#3 - 虚幻加速
+  - 🇭🇰 Hongkong#5 - 虚幻加速
+  - 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载
+  - 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载 2
+  - 🇹🇼 台TW10|2x - 新谷歌
+  - 🇹🇼 台TW9|1x - 新谷歌
+  - 🇹🇼 台湾 01 - V2Lnk
+  - 🇹🇼 台湾 02 - V2Lnk
+  - 🇹🇼 台湾 03 - V2Lnk
+  - 🇹🇼  TaiWan (台灣) (VIP) [trial] - NextNet
+  - 🇹🇼 台湾01直连 - AZ云
+  - 🇹🇼 台湾03直连 - AZ云
+  - 🇹🇼 台湾节点(推荐) - byi加速器
+  - 🇹🇼 台湾01（高速） - CloudFox
+  - 🇹🇼 台湾02（高速） - CloudFox
+  - 🇹🇼 台湾03（IPLC稳定） - CloudFox
+  - 🇹🇼 台湾04（IPLC稳定） - CloudFox
+  - 🇹🇼 台湾05（GPT专用） - CloudFox
+  - 🇹🇼 台湾06（GPT专用） - CloudFox
+  - 🇹🇼TW TPE TWDS T成都CM 1.2x - PassGFW
+  - 🇹🇼TW TPE TWDS T深圳CM 1.2x - PassGFW
+  - 🇹🇼TW TPE TWDS T深圳CM2 1.2x - PassGFW
+  - 🇹🇼TW TPE TWDS T长沙CM 1.2x - PassGFW
+  - 🇹🇼TW TPE TWDS T宁夏CM 1.2x - PassGFW
+- name: 🇸🇬 ‍新加坡
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id005
+  - 🇸🇬 新SG20|2x - 新谷歌
+  - 🇸🇬 新SG21|2x - 新谷歌
+  - 🇸🇬 新加坡 01 - V2Lnk
+  - 🇸🇬 新加坡 02 - V2Lnk
+  - 🇸🇬 新加坡 03 - V2Lnk
+  - 🇸🇬 新加坡 04 - V2Lnk
+  - 🇸🇬 新加坡 05 - V2Lnk
+  - 🇸🇬 新加坡 06 - V2Lnk
+  - 🇸🇬 新加坡01隧道快 - AZ云
+  - 🇸🇬 新加坡01隧道4 - AZ云
+  - 🇸🇬 新加坡01隧道5 - AZ云
+  - 🇸🇬 新加坡|Netflix - 火箭cloud
+  - 🇸🇬 新加坡|TikTok - 火箭cloud
+  - 🇸🇬 新加坡|ChatGpt - 火箭cloud
+  - 🇸🇬 新加坡|ChatGpt2 - 火箭cloud
+  - 🇸🇬 新加坡节点 - byi加速器
+  - 🇸🇬 新加坡01（高速） - CloudFox
+  - 🇸🇬 新加坡02（高速） - CloudFox
+  - 🇸🇬 新加坡03（IPLC稳定） - CloudFox
+  - 🇸🇬 新加坡04（IPLC稳定） - CloudFox
+  - 🇸🇬 新加坡05（GPT专用） - CloudFox
+  - 🇸🇬 新加坡06（GPT专用） - CloudFox
+  - 🇸🇬SG Akile T成都CM 1.2x - PassGFW
+  - 🇸🇬SG Constant T深圳CM 1.2x - PassGFW
+  - 🇸🇬SG Constant T深圳CM2 1.2x - PassGFW
+  - 🇸🇬JP Osaka Choopa T长沙CM[IPV6] 1.2x - PassGFW
+  - 🇸🇬SG Akile T深圳CM 1.2x - PassGFW
+  - 🇸🇬SG Akile T深圳CM2 1.2x - PassGFW
+  - 🇸🇬SG Akile T长沙CM - PassGFW
+  - 🇸🇬 Singapore#1 - 虚幻加速
+  - 🇸🇬 Singapore#3 - 虚幻加速
+- name: 🇯🇵 ‍日本
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id006
+  - 🇯🇵 日JP11|2x - 新谷歌
+  - 🇯🇵 日JP12|2x - 新谷歌
+  - 🇯🇵 日JP13|2x - 新谷歌
+  - 🇯🇵 日本 01 - V2Lnk
+  - 🇯🇵 日本 02 - V2Lnk
+  - 🇯🇵 日本 03 - V2Lnk
+  - 🇯🇵 日本 04 - V2Lnk
+  - 🇯🇵 日本 05 - V2Lnk
+  - 🇯🇵 日本 06 - V2Lnk
+  - 🇯🇵 日本03直连 - AZ云
+  - 🇯🇵 日本04直连 - AZ云
+  - 🇯🇵 日本04隧道快 - AZ云
+  - 🇯🇵 日本04隧道1 - AZ云
+  - 🇯🇵 日本03隧道快 - AZ云
+  - 🇯🇵 日本03隧道1 - AZ云
+  - 🇯🇵 日本|ChatGpt-1 - 火箭cloud
+  - 🇯🇵 日本|ChatGpt-2 - 火箭cloud
+  - 🇯🇵 日本|ChatGpt-3 - 火箭cloud
+  - 🇯🇵 日本|ChatGpt-4 - 火箭cloud
+  - 🇯🇵 日本节点3 - byi加速器
+  - 🇯🇵 日本01（高速） - CloudFox
+  - 🇯🇵 日本02（高速） - CloudFox
+  - 🇯🇵 日本03（IPLC稳定） - CloudFox
+  - 🇯🇵 日本04（IPLC稳定） - CloudFox
+  - 🇯🇵 日本05（GPT专用） - CloudFox
+  - 🇯🇵 日本06（GPT专用） - CloudFox
+  - 🇯🇵JP Akile T成都CM 1.2x - PassGFW
+  - 🇯🇵JP Akile T长沙CM [IPV6] 1.2x - PassGFW
+  - 🇯🇵JP Akile T长沙CM 1.2x - PassGFW
+  - 🇯🇵JP Akile T宁夏CM 1.2x - PassGFW
+  - 🇯🇵JP Osaka Choopa T深圳CM 1.2x - PassGFW
+  - 🇯🇵JP Osaka Choopa T深圳CM2 1.2x - PassGFW
+  - 🇯🇵 Japan#1 - 虚幻加速
+  - 🇯🇵 Japan#3 - 虚幻加速
+- name: 🇺🇸 ‍美国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 300
+  proxies: &id007
+  - 🇺🇸美 低倍率 - F2ray
+  - 🇺🇸 美US22|2x - 新谷歌
+  - 🇺🇸 美US23|2x - 新谷歌
+  - 🇺🇸 美US4|1x - 新谷歌
+  - 🇺🇸 美US5|2x - 新谷歌
+  - 🇺🇸 美US6|2x - 新谷歌
+  - 🇺🇸 美US7|2x - 新谷歌
+  - 🇺🇸 美US8|2x - 新谷歌
+  - 🇺🇸 美國 01 - V2Lnk
+  - 🇺🇸 美國 02 - V2Lnk
+  - 🇺🇸 美國 03 - V2Lnk
+  - 🇺🇸 美國 04 - V2Lnk
+  - 🇺🇸 美國 05 - V2Lnk
+  - 🇺🇸 美國 06 - V2Lnk
+  - 🇺🇸 美国|Netflix - 火箭cloud
+  - 🇺🇸 美国|TikTok - 火箭cloud
+  - 🇺🇸 美国|ChatGpt - 火箭cloud
+  - 🇺🇸 美国|ChatGpt2 - 火箭cloud
+  - 🇺🇸 美国节点 - byi加速器
+  - 🇺🇸 美国01（高速） - CloudFox
+  - 🇺🇸 美国02（高速） - CloudFox
+  - 🇺🇸 美国03（IPLC稳定） - CloudFox
+  - 🇺🇸 美国04（IPLC稳定） - CloudFox
+  - 🇺🇸 美国05（GPT专用） - CloudFox
+  - 🇺🇸 美国06（GPT专用） - CloudFox
+  - 🇺🇸 美国01_免费 - 山海
+  - 🇺🇸 United States#1 - 虚幻加速
+  - 🇺🇸 United States#3 - 虚幻加速
+- name: 🎏 ‍其他
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 100
+  proxies: &id008
+  - ℹ️ 最新网址xingoogle1.cc - 新谷歌
+  - 🇬🇧 英UK24|2x - 新谷歌
+  - ℹ️ [官网] ww1.v2lnk.com - V2Lnk
+  - '[优惠] 新用户特惠 5元优惠  ,结算输入 2025 - V2Lnk'
+  - 🇰🇷 韩国 01 - V2Lnk
+  - 🇰🇷 韩国 02 - V2Lnk
+  - 🇹🇭 泰国 - V2Lnk
+  - 🇻🇳 越南 - V2Lnk
+  - 🇲🇾 马来西亚 - V2Lnk
+  - 🇨🇦 加拿大 - V2Lnk
+  - 🇬🇧 英国 01 - V2Lnk
+  - 🇬🇧 英国 02 - V2Lnk
+  - 🇩🇪 德国 01 - V2Lnk
+  - 🇩🇪 德国 02 - V2Lnk
+  - 🇫🇷 法国 - V2Lnk
+  - 🇮🇹 意大利 - V2Lnk
+  - 🇳🇱 荷兰 - V2Lnk
+  - 🇦🇺 悉尼 - V2Lnk
+  - 🇧🇷 巴西 - V2Lnk
+  - 🇮🇳 印度 - V2Lnk
+  - 🇦🇪 迪拜 - V2Lnk
+  - 🇷🇺 莫斯科 - V2Lnk
+  - 🇹🇷 土耳其 - V2Lnk
+  - 🇺🇦 乌克兰 - V2Lnk
+  - 🇳🇱 Eygelshoven (NLD) [a] Free - NextNet
+  - 🇦🇿 最新节点支持Hysteria2协议，请到官网下载最新客户端（最新官网az.170203.xyz） - AZ云
+  - 'ℹ️ 官网: www.yas66.com - 火箭cloud'
+  - ℹ️ as250366399@gmail.com - 火箭cloud
+  - 'ℹ️ 续费网址: www.yas66.com - 火箭cloud'
+  - 'ℹ️ 官_网: www.yas66.com - 火箭cloud'
+  - ℹ️ 续费:www.yas66.com - 火箭cloud
+  - 🇰🇷 韩国|Netflix - 火箭cloud
+  - 🇰🇷 韩国|TikTok - 火箭cloud
+  - 🇰🇷 韩国|ChatGpt - 火箭cloud
+  - 🇰🇷 韩国|ChatGpt2 - 火箭cloud
+  - 'ℹ️ 续费~网址: www.yas66.com - 火箭cloud'
+  - 🇩🇪 德国|Netflix - 火箭cloud
+  - 🇩🇪 德国|TikTok - 火箭cloud
+  - 🇩🇪 德国|ChatGpt - 火箭cloud
+  - 🇩🇪 德国|ChatGpt2 - 火箭cloud
+  - 🇬🇧 英国|Netflix - 火箭cloud
+  - 🇬🇧 英国|TikTok - 火箭cloud
+  - 🇬🇧 英国|ChatGpt - 火箭cloud
+  - 🇬🇧 英国|ChatGpt2 - 火箭cloud
+  - 🇹🇭 泰国|Netflix - 火箭cloud
+  - 🇹🇭 泰国|TikTok - 火箭cloud
+  - 🇹🇭 泰国|ChatGpt - 火箭cloud
+  - 🇹🇭 泰国|ChatGpt2 - 火箭cloud
+  - 🇰🇷 韩国-三网优化2 - 青云互联网-
+  - ℹ️ 牢记域名:yh12.xyz - CloudFox
+  - ℹ️ 有问题访问:yh12.xyz - CloudFox
+  - ℹ️ 订阅失败访问:yh12.xyz - CloudFox
+  - ℹ️ 防失联:yh12.xyz - CloudFox
+  - 🇰🇷 韩国01（高速） - CloudFox
+  - 🇰🇷 韩国02（高速） - CloudFox
+  - 🇰🇷 韩国03（IPLC稳定） - CloudFox
+  - 🇰🇷 韩国04（IPLC稳定） - CloudFox
+  - 🇰🇷 韩国05（GPT专用） - CloudFox
+  - 🇰🇷 韩国06（GPT专用） - CloudFox
+  - 🇳🇱 荷兰01 - CloudFox
+  - 🇳🇱 荷兰02 - CloudFox
+  - 🇹🇷 土耳其01 (高速） - CloudFox
+  - 🇹🇷 土耳其02 (高速） - CloudFox
+  - 🇦🇺 澳大利亚01（高速） - CloudFox
+  - 🇦🇺 澳大利亚02（高速） - CloudFox
+  - 🇬🇧 英国01（高速） - CloudFox
+  - 🇬🇧 英国02（高速） - CloudFox
+  - 🇬🇧 英国03（IPLC稳定） - CloudFox
+  - 🇬🇧 英国04（IPLC稳定） - CloudFox
+  - 🇬🇧 英国05（GPT专用） - CloudFox
+  - 🇬🇧 英国06（GPT专用） - CloudFox
+  - 🇨🇦 加拿大01（高速） - CloudFox
+  - 🇨🇦 加拿大02（高速） - CloudFox
+  - Gói của bạn đã hết hạn - VPN Panel
+  - 🇩🇪 德国01_免费 - 山海
+  - ℹ️ 永久官网:www.猫云.net - 猫云
+- name: 👆🏻🇭🇰 ‍香港
+  type: select
+  proxies: *id002
+- name: 👆🏻🇹🇼 ‍台湾
+  type: select
+  proxies: *id003
+- name: 👆🏻🇨🇳 ‍中国
+  type: select
+  proxies: *id004
+- name: 👆🏻🇸🇬 ‍新加坡
+  type: select
+  proxies: *id005
+- name: 👆🏻🇯🇵 ‍日本
+  type: select
+  proxies: *id006
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id007
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id008
+proxies:
+- {name: 🇺🇸美 低倍率 - F2ray, server: c.f2oo.net, port: 8443, type: vmess, uuid: cf045e14-cfe7-48d9-9aec-7534f57bd1d0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: s-us1.f2oo.net}}, udp: true}
+- {name: '🇭🇰香港[1] <- 广移⌛️10倍费率 - F2ray', server: gdhk1-07312200.666888.biz, port: 30609, type: ss, cipher: chacha20-ietf-poly1305, password: cf045e14-cfe7-48d9-9aec-7534f57bd1d0, udp: true}
+- {name: 🇺🇸 美US22|2x - 新谷歌, server: n22.xingoooogle.xyz, port: 41522, type: vmess, uuid: f3a78b6b-a4b3-32a9-a985-96858c20233e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇺🇸 美US23|2x - 新谷歌, server: n23.xingoooogle.xyz, port: 41523, type: vmess, uuid: f3a78b6b-a4b3-32a9-a985-96858c20233e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇺🇸 美US4|1x - 新谷歌, server: n4.xingoooogle.xyz, port: 41504, type: vmess, uuid: f3a78b6b-a4b3-32a9-a985-96858c20233e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: n4.xingoooogle.xyz, udp: true}
+- {name: 🇺🇸 美US5|2x - 新谷歌, server: n5.xingoooogle.xyz, port: 41505, type: vmess, uuid: f3a78b6b-a4b3-32a9-a985-96858c20233e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇺🇸 美US6|2x - 新谷歌, server: n6.xingoooogle.xyz, port: 41506, type: vmess, uuid: f3a78b6b-a4b3-32a9-a985-96858c20233e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇺🇸 美US7|2x - 新谷歌, server: n7.xingoooogle.xyz, port: 41507, type: vmess, uuid: f3a78b6b-a4b3-32a9-a985-96858c20233e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇺🇸 美US8|2x - 新谷歌, server: n8.xingoooogle.xyz, port: 41508, type: vmess, uuid: f3a78b6b-a4b3-32a9-a985-96858c20233e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇹🇼 台TW10|2x - 新谷歌, server: n10.xingoooogle.xyz, port: 41510, type: vmess, uuid: f3a78b6b-a4b3-32a9-a985-96858c20233e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇹🇼 台TW9|1x - 新谷歌, server: twn.xinnn.cc, port: 41509, type: vmess, uuid: f3a78b6b-a4b3-32a9-a985-96858c20233e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: twn.xinnn.cc, udp: true}
+- {name: 🇸🇬 新SG20|2x - 新谷歌, server: n20.xingoooogle.xyz, port: 41520, type: vmess, uuid: f3a78b6b-a4b3-32a9-a985-96858c20233e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇸🇬 新SG21|2x - 新谷歌, server: n21.xingoooogle.xyz, port: 41521, type: vmess, uuid: f3a78b6b-a4b3-32a9-a985-96858c20233e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: ℹ️ 最新网址xingoogle1.cc - 新谷歌, server: freen.san95.xyz, port: 41503, type: vmess, uuid: f3a78b6b-a4b3-32a9-a985-96858c20233e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: freen.san95.xyz, udp: true}
+- {name: 🇬🇧 英UK24|2x - 新谷歌, server: n24.xingoooogle.xyz, port: 41524, type: vmess, uuid: f3a78b6b-a4b3-32a9-a985-96858c20233e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇭🇰 港HK16|2x - 新谷歌, server: n16.xingoooogle.xyz, port: 41516, type: vmess, uuid: f3a78b6b-a4b3-32a9-a985-96858c20233e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇭🇰 港HK17|2x - 新谷歌, server: n17.xingoooogle.xyz, port: 41517, type: vmess, uuid: f3a78b6b-a4b3-32a9-a985-96858c20233e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇭🇰 港HK18|3x - 新谷歌, server: n18.xingoooogle.xyz, port: 41518, type: vmess, uuid: f3a78b6b-a4b3-32a9-a985-96858c20233e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇭🇰 港HK19|3x - 新谷歌, server: n19.xingoooogle.xyz, port: 41519, type: vmess, uuid: f3a78b6b-a4b3-32a9-a985-96858c20233e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇯🇵 日JP11|2x - 新谷歌, server: n11.xingoooogle.xyz, port: 41511, type: vmess, uuid: f3a78b6b-a4b3-32a9-a985-96858c20233e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇯🇵 日JP12|2x - 新谷歌, server: n12.xingoooogle.xyz, port: 41512, type: vmess, uuid: f3a78b6b-a4b3-32a9-a985-96858c20233e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇯🇵 日JP13|2x - 新谷歌, server: n13.xingoooogle.xyz, port: 41513, type: vmess, uuid: f3a78b6b-a4b3-32a9-a985-96858c20233e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇺🇸 美國 01 - V2Lnk, server: uswest.nexifyspark.com, port: 16010, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇺🇸 美國 02 - V2Lnk, server: uswest.nexifyspark.com, port: 16011, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇺🇸 美國 03 - V2Lnk, server: uswest.nexifyspark.com, port: 16012, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇺🇸 美國 04 - V2Lnk, server: useast.nexifyspark.com, port: 16013, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇺🇸 美國 05 - V2Lnk, server: useast.nexifyspark.com, port: 16014, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇺🇸 美國 06 - V2Lnk, server: useast.nexifyspark.com, port: 16015, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇹🇼 台湾 01 - V2Lnk, server: ap-e3.nexifyspark.com, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇹🇼 台湾 02 - V2Lnk, server: ap-e3.nexifyspark.com, port: 21002, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇹🇼 台湾 03 - V2Lnk, server: ap-e3.nexifyspark.com, port: 21003, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇸🇬 新加坡 01 - V2Lnk, server: singad.nexifyspark.com, port: 21008, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇸🇬 新加坡 02 - V2Lnk, server: singad.nexifyspark.com, port: 21009, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇸🇬 新加坡 03 - V2Lnk, server: singad.nexifyspark.com, port: 21010, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇸🇬 新加坡 04 - V2Lnk, server: sgwest.nexifyspark.com, port: 10351, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇸🇬 新加坡 05 - V2Lnk, server: sgwest.nexifyspark.com, port: 10352, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇸🇬 新加坡 06 - V2Lnk, server: sgwest.nexifyspark.com, port: 10353, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 'ℹ️ [官网] ww1.v2lnk.com - V2Lnk', server: expa.nexifyspark.com, port: 17133, type: vmess, uuid: 124cc947-a7e8-4651-a46b-f1a171355ecf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /Microsoft, headers: {Host: expa.nexifyspark.com}}, udp: true}
+- {name: '[优惠] 新用户特惠 5元优惠  ,结算输入 2025 - V2Lnk', server: expa.nexifyspark.com, port: 18600, type: vmess, uuid: 124cc947-a7e8-4651-a46b-f1a171355ecf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /Microsoft, headers: {Host: expa.nexifyspark.com}}, udp: true}
+- {name: 🇰🇷 韩国 01 - V2Lnk, server: ap-e2.nexifyspark.com, port: 21004, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇰🇷 韩国 02 - V2Lnk, server: ap-e2.nexifyspark.com, port: 21006, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇹🇭 泰国 - V2Lnk, server: sgwest.nexifyspark.com, port: 21005, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇻🇳 越南 - V2Lnk, server: singad.nexifyspark.com, port: 21007, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇲🇾 马来西亚 - V2Lnk, server: sgwest.nexifyspark.com, port: 20010, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇨🇦 加拿大 - V2Lnk, server: useast.nexifyspark.com, port: 16018, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇬🇧 英国 01 - V2Lnk, server: eulondon.nexifyspark.com, port: 34401, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇬🇧 英国 02 - V2Lnk, server: eulondon.nexifyspark.com, port: 34402, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇩🇪 德国 01 - V2Lnk, server: reg2.nexifyspark.com, port: 34901, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇩🇪 德国 02 - V2Lnk, server: reg2.nexifyspark.com, port: 34902, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇫🇷 法国 - V2Lnk, server: reg2.nexifyspark.com, port: 34903, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇮🇹 意大利 - V2Lnk, server: reg2.nexifyspark.com, port: 34904, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇳🇱 荷兰 - V2Lnk, server: ozwest.nexifyspark.com, port: 34906, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇦🇺 悉尼 - V2Lnk, server: ozwest.nexifyspark.com, port: 20061, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇧🇷 巴西 - V2Lnk, server: reg3.nexifyspark.com, port: 20062, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇮🇳 印度 - V2Lnk, server: reg1.nexifyspark.com, port: 10911, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇦🇪 迪拜 - V2Lnk, server: mid.nexifyspark.com, port: 20071, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇷🇺 莫斯科 - V2Lnk, server: reg3.nexifyspark.com, port: 19003, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇹🇷 土耳其 - V2Lnk, server: reg3.nexifyspark.com, port: 19008, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇺🇦 乌克兰 - V2Lnk, server: reg3.nexifyspark.com, port: 19009, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇭🇰 香港 01 - V2Lnk, server: as-c6.nexifyspark.com, port: 30501, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇭🇰 香港 02 - V2Lnk, server: as-c6.nexifyspark.com, port: 30502, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇭🇰 香港 03 - V2Lnk, server: as-c6.nexifyspark.com, port: 30503, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇭🇰 香港 04 - V2Lnk, server: as-c6.nexifyspark.com, port: 30504, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇭🇰 香港 05 - V2Lnk, server: as-c6.nexifyspark.com, port: 30505, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇭🇰 香港 06 - V2Lnk, server: as-c6.nexifyspark.com, port: 30506, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇭🇰 香港 07 - V2Lnk, server: as-c6.nexifyspark.com, port: 30507, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇭🇰 香港 08 - V2Lnk, server: as-c6.nexifyspark.com, port: 30508, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇯🇵 日本 01 - V2Lnk, server: jptokyo.nexifyspark.com, port: 30601, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇯🇵 日本 02 - V2Lnk, server: jptokyo.nexifyspark.com, port: 30602, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇯🇵 日本 03 - V2Lnk, server: jptokyo.nexifyspark.com, port: 30603, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇯🇵 日本 04 - V2Lnk, server: ap-e1.nexifyspark.com, port: 30604, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇯🇵 日本 05 - V2Lnk, server: ap-e1.nexifyspark.com, port: 30605, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: 🇯🇵 日本 06 - V2Lnk, server: ap-e1.nexifyspark.com, port: 30606, type: ss, cipher: chacha20-ietf-poly1305, password: 124cc947-a7e8-4651-a46b-f1a171355ecf, udp: true}
+- {name: '🇹🇼  TaiWan (台灣) (VIP) [trial] - NextNet', server: next2.orz.my.id, port: 53240, type: vmess, uuid: 6223a847-d926-4c7b-b7e6-2365537209ff, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: next2.orz.my.id}}, udp: true}
+- {name: '🇳🇱 Eygelshoven (NLD) [a] Free - NextNet', server: next1.orz.my.id, port: 53520, type: ss, cipher: chacha20-ietf-poly1305, password: 6223a847-d926-4c7b-b7e6-2365537209ff, udp: true}
+- {name: '🇭🇰 HongKong (VIP) [trial] - NextNet', server: next1.orz.my.id, port: 53030, type: vmess, uuid: 6223a847-d926-4c7b-b7e6-2365537209ff, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: next1.orz.my.id}}, udp: true}
+- {name: 🇹🇼 台湾01直连 - AZ云, server: 2gzdx21.233235.xyz, port: 8909, type: trojan, password: 4deec958-e364-46b3-a8b8-ee52dffae2b0, sni: 2gzdx21.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾03直连 - AZ云, server: tw5.233235.xyz, port: 3421, type: trojan, password: 4deec958-e364-46b3-a8b8-ee52dffae2b0, sni: tw5.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡01隧道快 - AZ云, server: twjpzznew.564659.xyz, port: 22252, type: trojan, password: 4deec958-e364-46b3-a8b8-ee52dffae2b0, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡01隧道4 - AZ云, server: twjpzz2.595780.xyz, port: 60562, type: trojan, password: 4deec958-e364-46b3-a8b8-ee52dffae2b0, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡01隧道5 - AZ云, server: twjpzz2.595780.xyz, port: 13855, type: trojan, password: 4deec958-e364-46b3-a8b8-ee52dffae2b0, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇦🇿 最新节点支持Hysteria2协议，请到官网下载最新客户端（最新官网az.170203.xyz） - AZ云, server: twjpzznew.564659.xyz, port: 19667, type: trojan, password: 4deec958-e364-46b3-a8b8-ee52dffae2b0, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本03直连 - AZ云, server: 1yunazyunjp03.564659.xyz, port: 11111, type: trojan, password: 4deec958-e364-46b3-a8b8-ee52dffae2b0, sni: 1yunazyunjp03.564659.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本04直连 - AZ云, server: 1azyunjp04f1cff6fb-5b3d-4d70-bd2a-a22eac74de31.233235.xyz, port: 454, type: trojan, password: 4deec958-e364-46b3-a8b8-ee52dffae2b0, sni: 1azyunjp04f1cff6fb-5b3d-4d70-bd2a-a22eac74de31.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本04隧道快 - AZ云, server: twjpzznew.564659.xyz, port: 11461, type: trojan, password: 4deec958-e364-46b3-a8b8-ee52dffae2b0, sni: 1azyunjp04f1cff6fb-5b3d-4d70-bd2a-a22eac74de31.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本04隧道1 - AZ云, server: twjpzz2.595780.xyz, port: 24828, type: trojan, password: 4deec958-e364-46b3-a8b8-ee52dffae2b0, sni: 1azyunjp04f1cff6fb-5b3d-4d70-bd2a-a22eac74de31.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本03隧道快 - AZ云, server: twjpzznew.564659.xyz, port: 58273, type: trojan, password: 4deec958-e364-46b3-a8b8-ee52dffae2b0, sni: 1yunazyunjp03.564659.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本03隧道1 - AZ云, server: twjpzz2.595780.xyz, port: 21750, type: trojan, password: 4deec958-e364-46b3-a8b8-ee52dffae2b0, sni: 1yunazyunjp03.564659.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国|Netflix - 火箭cloud, server: huojian.arken8379.com, port: 23003, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国|TikTok - 火箭cloud, server: huojian.arken8379.com, port: 23003, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国|ChatGpt - 火箭cloud, server: huojian-js.arken8379.com, port: 23003, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国|ChatGpt2 - 火箭cloud, server: huojian-js.arken8379.com, port: 23003, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡|Netflix - 火箭cloud, server: huojian.arken8379.com, port: 23002, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡|TikTok - 火箭cloud, server: huojian.arken8379.com, port: 23002, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡|ChatGpt - 火箭cloud, server: huojian-js.arken8379.com, port: 23002, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡|ChatGpt2 - 火箭cloud, server: huojian-js.arken8379.com, port: 23002, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 'ℹ️ 官网: www.yas66.com - 火箭cloud', server: huojian.arken8379.com, port: 23040, type: ss, cipher: chacha20-ietf-poly1305, password: ce289729-c076-40b5-895e-c687fef41b5b, udp: true}
+- {name: ℹ️ as250366399@gmail.com - 火箭cloud, server: huojian.arken8379.com, port: 23000, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 'ℹ️ 续费网址: www.yas66.com - 火箭cloud', server: huojian.arken8379.com, port: 23000, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 'ℹ️ 官_网: www.yas66.com - 火箭cloud', server: huojian-js.arken8379.com, port: 23000, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 续费:www.yas66.com - 火箭cloud, server: huojian-js.arken8379.com, port: 23000, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国|Netflix - 火箭cloud, server: huojian-js.arken8379.com, port: 23031, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国|TikTok - 火箭cloud, server: huojian-js.arken8379.com, port: 23031, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国|ChatGpt - 火箭cloud, server: huojian-js.arken8379.com, port: 23031, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国|ChatGpt2 - 火箭cloud, server: huojian-js.arken8379.com, port: 23031, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 'ℹ️ 续费~网址: www.yas66.com - 火箭cloud', server: huojian-js.arken8379.com, port: 23001, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国|Netflix - 火箭cloud, server: huojian-js.arken8379.com, port: 23004, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国|TikTok - 火箭cloud, server: huojian-js.arken8379.com, port: 23004, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国|ChatGpt - 火箭cloud, server: huojian-js.arken8379.com, port: 23004, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国|ChatGpt2 - 火箭cloud, server: huojian-js.arken8379.com, port: 23004, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国|Netflix - 火箭cloud, server: huojian-js.arken8379.com, port: 23005, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国|TikTok - 火箭cloud, server: huojian-js.arken8379.com, port: 23005, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国|ChatGpt - 火箭cloud, server: huojian-js.arken8379.com, port: 23005, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国|ChatGpt2 - 火箭cloud, server: huojian-js.arken8379.com, port: 23005, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇭 泰国|Netflix - 火箭cloud, server: huojian.arken8379.com, port: 23008, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇭 泰国|TikTok - 火箭cloud, server: huojian.arken8379.com, port: 23008, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇭 泰国|ChatGpt - 火箭cloud, server: huojian.arken8379.com, port: 23008, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇭 泰国|ChatGpt2 - 火箭cloud, server: huojian.arken8379.com, port: 23008, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港|奈飞 - 火箭cloud, server: huojian.arken8379.com, port: 23000, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港|奈飞-2 - 火箭cloud, server: huojian.arken8379.com, port: 23000, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港|奈飞-3 - 火箭cloud, server: huojian-js.arken8379.com, port: 23000, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本|ChatGpt-1 - 火箭cloud, server: huojian.arken8379.com, port: 23001, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本|ChatGpt-2 - 火箭cloud, server: huojian.arken8379.com, port: 23001, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本|ChatGpt-3 - 火箭cloud, server: huojian-js.arken8379.com, port: 23001, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本|ChatGpt-4 - 火箭cloud, server: huojian-js.arken8379.com, port: 23001, type: trojan, password: ce289729-c076-40b5-895e-c687fef41b5b, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国节点 - byi加速器, server: g4bk7yx3nd5q.byijsq.com, port: 20106, type: vmess, uuid: 2adcc185-9e08-3ab6-b5f1-1b54cf308e18, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: usnode.byijsq.com, udp: true}
+- {name: 🇹🇼 台湾节点(推荐) - byi加速器, server: g4bk7yx3nd5q.byijsq.com, port: 20101, type: vmess, uuid: 2adcc185-9e08-3ab6-b5f1-1b54cf308e18, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: byjsq.kozow.com, udp: true}
+- {name: 🇸🇬 新加坡节点 - byi加速器, server: g4bk7yx3nd5q.byijsq.com, port: 27604, type: vmess, uuid: 2adcc185-9e08-3ab6-b5f1-1b54cf308e18, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: sg.byijsq.com, udp: true}
+- {name: 🇯🇵 日本节点3 - byi加速器, server: g4bk7yx3nd5q.byijsq.com, port: 20103, type: vmess, uuid: 2adcc185-9e08-3ab6-b5f1-1b54cf308e18, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: jp3.byijsq.com, udp: true}
+- {name: 🇰🇷 韩国-三网优化2 - 青云互联网-, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: a4e8b100-6b66-4cb6-9bdd-7b6d15a3e5f5, sni: kr-qingyun.dwyun.me, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国01（高速） - CloudFox, server: us01.x.woyh.xyz, port: 38670, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇺🇸 美国02（高速） - CloudFox, server: us02.x.woyh.xyz, port: 38672, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇺🇸 美国03（IPLC稳定） - CloudFox, server: us03.x.woyh.xyz, port: 38673, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇺🇸 美国04（IPLC稳定） - CloudFox, server: us04.x.woyh.xyz, port: 38674, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇺🇸 美国05（GPT专用） - CloudFox, server: us05.x.woyh.xyz, port: 38675, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇺🇸 美国06（GPT专用） - CloudFox, server: us06.x.woyh.xyz, port: 38676, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇹🇼 台湾01（高速） - CloudFox, server: tw01.x.woyh.xyz, port: 38601, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇹🇼 台湾02（高速） - CloudFox, server: tw02.x.woyh.xyz, port: 38611, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇹🇼 台湾03（IPLC稳定） - CloudFox, server: tw03.x.woyh.xyz, port: 38612, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇹🇼 台湾04（IPLC稳定） - CloudFox, server: tw04.x.woyh.xyz, port: 38613, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇹🇼 台湾05（GPT专用） - CloudFox, server: tw05.x.woyh.xyz, port: 38615, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇹🇼 台湾06（GPT专用） - CloudFox, server: tw06.x.woyh.xyz, port: 38616, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇸🇬 新加坡01（高速） - CloudFox, server: sg01.x.woyh.xyz, port: 38651, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇸🇬 新加坡02（高速） - CloudFox, server: sg02.x.woyh.xyz, port: 38652, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇸🇬 新加坡03（IPLC稳定） - CloudFox, server: sg03.x.woyh.xyz, port: 38653, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇸🇬 新加坡04（IPLC稳定） - CloudFox, server: sg04.x.woyh.xyz, port: 38654, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇸🇬 新加坡05（GPT专用） - CloudFox, server: sg05.x.woyh.xyz, port: 38655, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇸🇬 新加坡06（GPT专用） - CloudFox, server: sg06.x.woyh.xyz, port: 38657, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: ℹ️ 牢记域名:yh12.xyz - CloudFox, server: hk01.x.woyh.xyz, port: 38632, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: ℹ️ 有问题访问:yh12.xyz - CloudFox, server: hk01.x.woyh.xyz, port: 38632, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: ℹ️ 订阅失败访问:yh12.xyz - CloudFox, server: hk01.x.woyh.xyz, port: 38632, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: ℹ️ 防失联:yh12.xyz - CloudFox, server: hk01.x.woyh.xyz, port: 38632, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇰🇷 韩国01（高速） - CloudFox, server: kr01.x.woyh.xyz, port: 38641, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇰🇷 韩国02（高速） - CloudFox, server: kr02.x.woyh.xyz, port: 38642, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇰🇷 韩国03（IPLC稳定） - CloudFox, server: kr03.x.woyh.xyz, port: 38643, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇰🇷 韩国04（IPLC稳定） - CloudFox, server: kr04.x.woyh.xyz, port: 38644, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇰🇷 韩国05（GPT专用） - CloudFox, server: kr05.x.woyh.xyz, port: 38645, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇰🇷 韩国06（GPT专用） - CloudFox, server: kr06.x.woyh.xyz, port: 38646, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇳🇱 荷兰01 - CloudFox, server: nl01.x.woyh.xyz, port: 38794, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇳🇱 荷兰02 - CloudFox, server: nl02.x.woyh.xyz, port: 38795, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇹🇷 土耳其01 (高速） - CloudFox, server: tur01.x.woyh.xyz, port: 38790, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇹🇷 土耳其02 (高速） - CloudFox, server: tur02.x.woyh.xyz, port: 38791, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇦🇺 澳大利亚01（高速） - CloudFox, server: au01.x.woyh.xyz, port: 38778, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇦🇺 澳大利亚02（高速） - CloudFox, server: au02.x.woyh.xyz, port: 38779, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇬🇧 英国01（高速） - CloudFox, server: uk01.x.woyh.xyz, port: 38661, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇬🇧 英国02（高速） - CloudFox, server: uk02.x.woyh.xyz, port: 38662, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇬🇧 英国03（IPLC稳定） - CloudFox, server: uk03.x.woyh.xyz, port: 38663, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇬🇧 英国04（IPLC稳定） - CloudFox, server: uk04.x.woyh.xyz, port: 38664, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇬🇧 英国05（GPT专用） - CloudFox, server: uk05.x.woyh.xyz, port: 38665, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇬🇧 英国06（GPT专用） - CloudFox, server: uk06.x.woyh.xyz, port: 38667, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇨🇦 加拿大01（高速） - CloudFox, server: ca01.x.woyh.xyz, port: 38780, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇨🇦 加拿大02（高速） - CloudFox, server: ca01.x.woyh.xyz, port: 38781, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇭🇰 香港01（高速） - CloudFox, server: hk01.x.woyh.xyz, port: 38632, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇭🇰 香港02（高速） - CloudFox, server: hk02.x.woyh.xyz, port: 38632, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇭🇰 香港03（IPLC稳定） - CloudFox, server: hk03.x.woyh.xyz, port: 38633, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇭🇰 香港04（IPLC稳定） - CloudFox, server: hk04.x.woyh.xyz, port: 38634, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇭🇰 香港05 - CloudFox, server: hk05.x.woyh.xyz, port: 38635, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇭🇰 香港06 - CloudFox, server: hk06.x.woyh.xyz, port: 38636, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇯🇵 日本01（高速） - CloudFox, server: jp01.x.woyh.xyz, port: 38621, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇯🇵 日本02（高速） - CloudFox, server: jp02.x.woyh.xyz, port: 38622, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇯🇵 日本03（IPLC稳定） - CloudFox, server: jp03.x.woyh.xyz, port: 38623, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇯🇵 日本04（IPLC稳定） - CloudFox, server: jp04.x.woyh.xyz, port: 38624, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇯🇵 日本05（GPT专用） - CloudFox, server: jp05.x.woyh.xyz, port: 38625, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇯🇵 日本06（GPT专用） - CloudFox, server: jp06.x.woyh.xyz, port: 38627, type: ss, cipher: chacha20-ietf-poly1305, password: 559df151-c0b5-42db-98f5-e97af48b7d87, udp: true}
+- {name: 🇹🇼TW TPE TWDS T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 19416, type: ss, cipher: aes-128-gcm, password: 99406a01-7b5c-4be9-aa9b-959ecba472cd, udp: true}
+- {name: 🇹🇼TW TPE TWDS T深圳CM 1.2x - PassGFW, server: tysz.rcmnk.cn, port: 41018, type: ss, cipher: aes-128-gcm, password: 99406a01-7b5c-4be9-aa9b-959ecba472cd, udp: true}
+- {name: 🇹🇼TW TPE TWDS T深圳CM2 1.2x - PassGFW, server: szhx.rcmnk.cn, port: 41018, type: ss, cipher: aes-128-gcm, password: 99406a01-7b5c-4be9-aa9b-959ecba472cd, udp: true}
+- {name: 🇹🇼TW TPE TWDS T长沙CM 1.2x - PassGFW, server: csyd.rcmnk.cn, port: 14939, type: ss, cipher: aes-128-gcm, password: 99406a01-7b5c-4be9-aa9b-959ecba472cd, udp: true}
+- {name: 🇹🇼TW TPE TWDS T宁夏CM 1.2x - PassGFW, server: awslx.rcmnk.cn, port: 24869, type: ss, cipher: aes-128-gcm, password: 99406a01-7b5c-4be9-aa9b-959ecba472cd, udp: true}
+- {name: 🇸🇬SG Akile T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 16732, type: ss, cipher: aes-128-gcm, password: 99406a01-7b5c-4be9-aa9b-959ecba472cd, udp: true}
+- {name: 🇸🇬SG Constant T深圳CM 1.2x - PassGFW, server: tysz.rcmnk.cn, port: 51410, type: ss, cipher: aes-128-gcm, password: 99406a01-7b5c-4be9-aa9b-959ecba472cd, udp: true}
+- {name: 🇸🇬SG Constant T深圳CM2 1.2x - PassGFW, server: szhx.rcmnk.cn, port: 51410, type: ss, cipher: aes-128-gcm, password: 99406a01-7b5c-4be9-aa9b-959ecba472cd, udp: true}
+- {name: '🇸🇬JP Osaka Choopa T长沙CM[IPV6] 1.2x - PassGFW', server: 2409:8c50:a00:200d:fffe:0:2:12, port: 35145, type: ss, cipher: aes-128-gcm, password: 99406a01-7b5c-4be9-aa9b-959ecba472cd, udp: true}
+- {name: 🇸🇬SG Akile T深圳CM 1.2x - PassGFW, server: tysz.rcmnk.cn, port: 50563, type: ss, cipher: aes-128-gcm, password: 99406a01-7b5c-4be9-aa9b-959ecba472cd, udp: true}
+- {name: 🇸🇬SG Akile T深圳CM2 1.2x - PassGFW, server: szhx.rcmnk.cn, port: 50563, type: ss, cipher: aes-128-gcm, password: 99406a01-7b5c-4be9-aa9b-959ecba472cd, udp: true}
+- {name: 🇸🇬SG Akile T长沙CM - PassGFW, server: csyd.rcmnk.cn, port: 60912, type: ss, cipher: aes-128-gcm, password: 99406a01-7b5c-4be9-aa9b-959ecba472cd, udp: true}
+- {name: 🇭🇰HK Akile T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 16732, type: ss, cipher: aes-128-gcm, password: 99406a01-7b5c-4be9-aa9b-959ecba472cd, udp: true}
+- {name: 🇭🇰HK Akile T宁夏CM 1.2x - PassGFW, server: awslx.rcmnk.cn, port: 55872, type: ss, cipher: aes-128-gcm, password: 99406a01-7b5c-4be9-aa9b-959ecba472cd, udp: true}
+- {name: 🇭🇰HK Akile T深圳CM 1.2x - PassGFW, server: tysz.rcmnk.cn, port: 41124, type: ss, cipher: aes-128-gcm, password: 99406a01-7b5c-4be9-aa9b-959ecba472cd, udp: true}
+- {name: 🇭🇰HK Akile T深圳CM2 1.2x - PassGFW, server: szhx.rcmnk.cn, port: 41124, type: ss, cipher: aes-128-gcm, password: 99406a01-7b5c-4be9-aa9b-959ecba472cd, udp: true}
+- {name: 🇭🇰HK Akile T长沙CM 1.2x - PassGFW, server: csyd.rcmnk.cn, port: 41124, type: ss, cipher: aes-128-gcm, password: 99406a01-7b5c-4be9-aa9b-959ecba472cd, udp: true}
+- {name: 🇯🇵JP Akile T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 45790, type: ss, cipher: aes-128-gcm, password: 99406a01-7b5c-4be9-aa9b-959ecba472cd, udp: true}
+- {name: '🇯🇵JP Akile T长沙CM [IPV6] 1.2x - PassGFW', server: 2409:8c50:a00:200d:fffe:0:2:12, port: 63640, type: ss, cipher: aes-128-gcm, password: 99406a01-7b5c-4be9-aa9b-959ecba472cd, udp: true}
+- {name: 🇯🇵JP Akile T长沙CM 1.2x - PassGFW, server: csyd.rcmnk.cn, port: 16127, type: ss, cipher: aes-128-gcm, password: 99406a01-7b5c-4be9-aa9b-959ecba472cd, udp: true}
+- {name: 🇯🇵JP Akile T宁夏CM 1.2x - PassGFW, server: awslx.rcmnk.cn, port: 35454, type: ss, cipher: aes-128-gcm, password: 99406a01-7b5c-4be9-aa9b-959ecba472cd, udp: true}
+- {name: 🇯🇵JP Osaka Choopa T深圳CM 1.2x - PassGFW, server: tysz.rcmnk.cn, port: 22947, type: ss, cipher: aes-128-gcm, password: 99406a01-7b5c-4be9-aa9b-959ecba472cd, udp: true}
+- {name: 🇯🇵JP Osaka Choopa T深圳CM2 1.2x - PassGFW, server: szhx.rcmnk.cn, port: 22947, type: ss, cipher: aes-128-gcm, password: 99406a01-7b5c-4be9-aa9b-959ecba472cd, udp: true}
+- {name: Gói của bạn đã hết hạn - VPN Panel, server: https://ban4g.com, port: 443, tfo: true, type: vmess, uuid: uuid-uuid-uuid-uuid-uuid, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国01_免费 - 山海, server: us01.sh-cloudflare.sbs, port: 8443, type: vmess, uuid: bae40f2d-cb06-4701-9c1e-6e180a30d389, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us01.sh-cloudflare.sbs, network: ws, ws-opts: {path: /, headers: {Host: us01.sh-cloudflare.sbs}}, udp: true}
+- {name: 🇩🇪 德国01_免费 - 山海, server: de01.sh-cloudflare.sbs, port: 8443, type: vmess, uuid: bae40f2d-cb06-4701-9c1e-6e180a30d389, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: de01.sh-cloudflare.sbs, network: ws, ws-opts: {path: /, headers: {Host: de01.sh-cloudflare.sbs}}, udp: true}
+- {name: 🇺🇸 United States#1 - 虚幻加速, server: svip1.pingboy.top, port: 15327, type: vmess, uuid: 62612ffd-ce78-462b-a477-b27040a45ff3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 United States#3 - 虚幻加速, server: svip1.pingboy.top, port: 15327, type: vmess, uuid: 62612ffd-ce78-462b-a477-b27040a45ff3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 Singapore#1 - 虚幻加速, server: svip1.pingboy.top, port: 28673, type: vmess, uuid: 62612ffd-ce78-462b-a477-b27040a45ff3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 Singapore#3 - 虚幻加速, server: svip1.pingboy.top, port: 28673, type: vmess, uuid: 62612ffd-ce78-462b-a477-b27040a45ff3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 Hongkong#1 - 虚幻加速, server: svip1.pingboy.top, port: 17993, type: vmess, uuid: 62612ffd-ce78-462b-a477-b27040a45ff3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 Hongkong#3 - 虚幻加速, server: svip1.pingboy.top, port: 38913, type: vmess, uuid: 62612ffd-ce78-462b-a477-b27040a45ff3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 Hongkong#5 - 虚幻加速, server: svip1.pingboy.top, port: 39840, type: vmess, uuid: 62612ffd-ce78-462b-a477-b27040a45ff3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 Japan#1 - 虚幻加速, server: svip1.pingboy.top, port: 19015, type: vmess, uuid: 62612ffd-ce78-462b-a477-b27040a45ff3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 Japan#3 - 虚幻加速, server: svip1.pingboy.top, port: 19015, type: vmess, uuid: 62612ffd-ce78-462b-a477-b27040a45ff3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载, server: hkt.littleqqq.co, port: 20759, type: vmess, uuid: ace86dc1-02f3-41dc-be9e-42d761f726b4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: hkt.littleqqq.co}}, udp: true}
+- {name: 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载 2, server: hkt.littleqqq.co, port: 20759, type: vmess, uuid: ace86dc1-02f3-41dc-be9e-42d761f726b4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: hkt.littleqqq.co}}, udp: true}
+- {name: ℹ️ 永久官网:www.猫云.net - 猫云, server: 8.8.8.8, port: 10086, type: ss, cipher: chacha20-ietf-poly1305, password: mzCJA5auLp90YtQo, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
