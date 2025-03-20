@@ -1,9 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇭🇰 香港01（高速） - CloudFox, server: hk01.x.woyh.xyz, port: 38632, type: ss, cipher: chacha20-ietf-poly1305, password: 5bc81a55-7c6c-40b6-b51f-83fcd7f76537, udp: true}
-- {name: 🇭🇰 香港02（高速） - CloudFox, server: hk02.x.woyh.xyz, port: 38632, type: ss, cipher: chacha20-ietf-poly1305, password: 5bc81a55-7c6c-40b6-b51f-83fcd7f76537, udp: true}
-- {name: 🇭🇰 香港03（IPLC稳定） - CloudFox, server: hk03.x.woyh.xyz, port: 38633, type: ss, cipher: chacha20-ietf-poly1305, password: 5bc81a55-7c6c-40b6-b51f-83fcd7f76537, udp: true}
-- {name: 🇭🇰 香港04（IPLC稳定） - CloudFox, server: hk04.x.woyh.xyz, port: 38634, type: ss, cipher: chacha20-ietf-poly1305, password: 5bc81a55-7c6c-40b6-b51f-83fcd7f76537, udp: true}
-- {name: 🇭🇰 香港05 - CloudFox, server: hk05.x.woyh.xyz, port: 38635, type: ss, cipher: chacha20-ietf-poly1305, password: 5bc81a55-7c6c-40b6-b51f-83fcd7f76537, udp: true}
-- {name: 🇭🇰 香港06 - CloudFox, server: hk06.x.woyh.xyz, port: 38636, type: ss, cipher: chacha20-ietf-poly1305, password: 5bc81a55-7c6c-40b6-b51f-83fcd7f76537, udp: true}

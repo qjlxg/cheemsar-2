@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇸🇬 新SG20|2x - 新谷歌, server: n20.xingoooogle.xyz, port: 41520, type: vmess, uuid: 165dc2d7-cb4c-3548-a848-48fa14032df1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇸🇬 新SG21|2x - 新谷歌, server: n21.xingoooogle.xyz, port: 41521, type: vmess, uuid: 165dc2d7-cb4c-3548-a848-48fa14032df1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}

@@ -1,6 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇯🇵 日JP11|2x - 新谷歌, server: n11.xingoooogle.xyz, port: 41511, type: vmess, uuid: 165dc2d7-cb4c-3548-a848-48fa14032df1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇯🇵 日JP12|2x - 新谷歌, server: n12.xingoooogle.xyz, port: 41512, type: vmess, uuid: 165dc2d7-cb4c-3548-a848-48fa14032df1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇯🇵 日JP13|2x - 新谷歌, server: n13.xingoooogle.xyz, port: 41513, type: vmess, uuid: 165dc2d7-cb4c-3548-a848-48fa14032df1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
