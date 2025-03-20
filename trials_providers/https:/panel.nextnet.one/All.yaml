@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇭🇰 HongKong (VIP) [trial] - NextNet', server: next1.orz.my.id, port: 53030, type: vmess, uuid: 1eec87ff-2474-47e0-84fd-6b7eee0f1578, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: next1.orz.my.id}}, udp: true}
-- {name: '🇹🇼  TaiWan (台灣) (VIP) [trial] - NextNet', server: next2.orz.my.id, port: 53240, type: vmess, uuid: 1eec87ff-2474-47e0-84fd-6b7eee0f1578, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: next2.orz.my.id}}, udp: true}
-- {name: '🇳🇱 Eygelshoven (NLD) [a] Free - NextNet', server: next1.orz.my.id, port: 53520, type: ss, cipher: chacha20-ietf-poly1305, password: 1eec87ff-2474-47e0-84fd-6b7eee0f1578, udp: true}
+- {name: '🇭🇰 HongKong (VIP) [trial] - NextNet', server: next1.orz.my.id, port: 53030, type: vmess, uuid: e2739dc7-0aa4-47cb-8dd3-b8fa1f534ca8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: next1.orz.my.id}}, udp: true}
+- {name: '🇹🇼  TaiWan (台灣) (VIP) [trial] - NextNet', server: next2.orz.my.id, port: 53240, type: vmess, uuid: e2739dc7-0aa4-47cb-8dd3-b8fa1f534ca8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: next2.orz.my.id}}, udp: true}
+- {name: '🇳🇱 Eygelshoven (NLD) [a] Free - NextNet', server: next1.orz.my.id, port: 53520, type: ss, cipher: chacha20-ietf-poly1305, password: e2739dc7-0aa4-47cb-8dd3-b8fa1f534ca8, udp: true}

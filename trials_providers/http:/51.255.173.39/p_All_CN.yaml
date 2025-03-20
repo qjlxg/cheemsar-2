@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇨🇳 新疆测试线路 - Bingo加速, server: xj88.cctv14.xyz, port: 19201, type: ss, cipher: aes-256-gcm, password: f2204e91-6b04-460c-aab2-b4acebabb0e6, udp: true}

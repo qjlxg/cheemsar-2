@@ -162,18 +162,18 @@ proxy-groups:
   type: select
   proxies: *id007
 proxies:
-- {name: ℹ️ xueyejiasu.com发布地址不迷路 - 血液加速器, server: hk.kfsldflk.xyz, port: 1200, type: ss, cipher: aes-256-gcm, password: 920c1a89-6fec-4576-9958-2f336e824059, udp: true}
-- {name: 🇹🇼 台湾 1 - 血液加速器, server: gy.666666222.shop, port: 20032, type: ss, cipher: chacha20-ietf-poly1305, password: 920c1a89-6fec-4576-9958-2f336e824059, udp: true}
-- {name: 🇹🇼 台湾01 - 血液加速器, server: gy.666666222.shop, port: 47564, type: ss, cipher: chacha20-ietf-poly1305, password: 920c1a89-6fec-4576-9958-2f336e824059, udp: true}
-- {name: 🇭🇰 香港01 - 血液加速器, server: gy.666666222.shop, port: 34338, type: ss, cipher: chacha20-ietf-poly1305, password: 920c1a89-6fec-4576-9958-2f336e824059, udp: true}
-- {name: 🇭🇰 香港02 - 血液加速器, server: gy.666666222.shop, port: 20035, type: ss, cipher: chacha20-ietf-poly1305, password: 920c1a89-6fec-4576-9958-2f336e824059, udp: true}
-- {name: 🇭🇰 香港03 - 血液加速器, server: gy.666666222.shop, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 920c1a89-6fec-4576-9958-2f336e824059, udp: true}
-- {name: 🇯🇵 日本01 - 血液加速器, server: gy.666666222.shop, port: 20002, type: ss, cipher: chacha20-ietf-poly1305, password: 920c1a89-6fec-4576-9958-2f336e824059, udp: true}
-- {name: 🇯🇵 日本02 - 血液加速器, server: gy.666666222.shop, port: 20004, type: ss, cipher: chacha20-ietf-poly1305, password: 920c1a89-6fec-4576-9958-2f336e824059, udp: true}
-- {name: 🇯🇵 日本03 - 血液加速器, server: gy.666666222.shop, port: 20006, type: ss, cipher: chacha20-ietf-poly1305, password: 920c1a89-6fec-4576-9958-2f336e824059, udp: true}
-- {name: 🇯🇵 日本04 - 血液加速器, server: gy.666666222.shop, port: 20008, type: ss, cipher: chacha20-ietf-poly1305, password: 920c1a89-6fec-4576-9958-2f336e824059, udp: true}
-- {name: 🇺🇸 美国 纽约01 - 血液加速器, server: gy.666666222.shop, port: 20013, type: ss, cipher: chacha20-ietf-poly1305, password: 920c1a89-6fec-4576-9958-2f336e824059, udp: true}
-- {name: 🇺🇸 美国 纽约2 - 血液加速器, server: gy.666666222.shop, port: 20016, type: ss, cipher: chacha20-ietf-poly1305, password: 920c1a89-6fec-4576-9958-2f336e824059, udp: true}
+- {name: ℹ️ xueyejiasu.com发布地址不迷路 - 血液加速器, server: hk.kfsldflk.xyz, port: 1200, type: ss, cipher: aes-256-gcm, password: ef514b19-1bb3-4c03-ad29-177332fe1cb1, udp: true}
+- {name: 🇹🇼 台湾 1 - 血液加速器, server: gy.666666222.shop, port: 20032, type: ss, cipher: chacha20-ietf-poly1305, password: ef514b19-1bb3-4c03-ad29-177332fe1cb1, udp: true}
+- {name: 🇹🇼 台湾01 - 血液加速器, server: gy.666666222.shop, port: 47564, type: ss, cipher: chacha20-ietf-poly1305, password: ef514b19-1bb3-4c03-ad29-177332fe1cb1, udp: true}
+- {name: 🇭🇰 香港01 - 血液加速器, server: gy.666666222.shop, port: 34338, type: ss, cipher: chacha20-ietf-poly1305, password: ef514b19-1bb3-4c03-ad29-177332fe1cb1, udp: true}
+- {name: 🇭🇰 香港02 - 血液加速器, server: gy.666666222.shop, port: 20035, type: ss, cipher: chacha20-ietf-poly1305, password: ef514b19-1bb3-4c03-ad29-177332fe1cb1, udp: true}
+- {name: 🇭🇰 香港03 - 血液加速器, server: gy.666666222.shop, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: ef514b19-1bb3-4c03-ad29-177332fe1cb1, udp: true}
+- {name: 🇯🇵 日本01 - 血液加速器, server: gy.666666222.shop, port: 20002, type: ss, cipher: chacha20-ietf-poly1305, password: ef514b19-1bb3-4c03-ad29-177332fe1cb1, udp: true}
+- {name: 🇯🇵 日本02 - 血液加速器, server: gy.666666222.shop, port: 20004, type: ss, cipher: chacha20-ietf-poly1305, password: ef514b19-1bb3-4c03-ad29-177332fe1cb1, udp: true}
+- {name: 🇯🇵 日本03 - 血液加速器, server: gy.666666222.shop, port: 20006, type: ss, cipher: chacha20-ietf-poly1305, password: ef514b19-1bb3-4c03-ad29-177332fe1cb1, udp: true}
+- {name: 🇯🇵 日本04 - 血液加速器, server: gy.666666222.shop, port: 20008, type: ss, cipher: chacha20-ietf-poly1305, password: ef514b19-1bb3-4c03-ad29-177332fe1cb1, udp: true}
+- {name: 🇺🇸 美国 纽约01 - 血液加速器, server: gy.666666222.shop, port: 20013, type: ss, cipher: chacha20-ietf-poly1305, password: ef514b19-1bb3-4c03-ad29-177332fe1cb1, udp: true}
+- {name: 🇺🇸 美国 纽约2 - 血液加速器, server: gy.666666222.shop, port: 20016, type: ss, cipher: chacha20-ietf-poly1305, password: ef514b19-1bb3-4c03-ad29-177332fe1cb1, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
