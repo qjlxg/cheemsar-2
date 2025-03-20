@@ -1,0 +1,26 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇹🇼 台TW10|2x - 新谷歌, server: n10.xingoooogle.xyz, port: 41510, type: vmess, uuid: 165dc2d7-cb4c-3548-a848-48fa14032df1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇹🇼 台TW9|1x - 新谷歌, server: twn.xinnn.cc, port: 41509, type: vmess, uuid: 165dc2d7-cb4c-3548-a848-48fa14032df1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: twn.xinnn.cc, udp: true}
+- {name: '🇹🇼 台湾[01]中转 - Heima', server: vip.baima360.com, port: 41004, type: ss, cipher: chacha20-ietf-poly1305, password: ad6c84f3-c19d-4387-aea0-c1080481ee7d, udp: true}
+- {name: 🇹🇼 TW 台湾 101 - V2Lnk, server: ap-e3.nexifyspark.com, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: 001fccdd-02af-4f4a-ac12-c3dc1f5685e6, udp: true}
+- {name: 🇹🇼 TW 台湾 050 - V2Lnk, server: ap-e3.nexifyspark.com, port: 21002, type: ss, cipher: chacha20-ietf-poly1305, password: 001fccdd-02af-4f4a-ac12-c3dc1f5685e6, udp: true}
+- {name: 🇹🇼 TW 台湾 102 - V2Lnk, server: ap-e3.nexifyspark.com, port: 21003, type: ss, cipher: chacha20-ietf-poly1305, password: 001fccdd-02af-4f4a-ac12-c3dc1f5685e6, udp: true}
+- {name: '🇹🇼  TaiWan (台灣) (VIP) [trial] - NextNet', server: next2.orz.my.id, port: 53240, type: vmess, uuid: 0a735495-2be9-42e1-9f48-a148817b09dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: next2.orz.my.id}}, udp: true}
+- {name: 🇹🇼 台湾01直连 - AZ云, server: 2gzdx21.233235.xyz, port: 8909, type: trojan, password: 6a53e62b-0019-4bec-8ddd-9909c2b15f1a, sni: 2gzdx21.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾03直连 - AZ云, server: tw5.233235.xyz, port: 3421, type: trojan, password: 6a53e62b-0019-4bec-8ddd-9909c2b15f1a, sni: tw5.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾节点(推荐) - byi加速器, server: g4bk7yx3nd5q.byijsq.com, port: 20101, type: vmess, uuid: 54e551f3-c97f-3e88-abf1-76302d15bf70, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: byjsq.kozow.com, udp: true}
+- {name: 🇹🇼 台湾01（高速） - CloudFox, server: tw01.x.woyh.xyz, port: 38601, type: ss, cipher: chacha20-ietf-poly1305, password: 5bc81a55-7c6c-40b6-b51f-83fcd7f76537, udp: true}
+- {name: 🇹🇼 台湾02（高速） - CloudFox, server: tw02.x.woyh.xyz, port: 38611, type: ss, cipher: chacha20-ietf-poly1305, password: 5bc81a55-7c6c-40b6-b51f-83fcd7f76537, udp: true}
+- {name: 🇹🇼 台湾03（IPLC稳定） - CloudFox, server: tw03.x.woyh.xyz, port: 38612, type: ss, cipher: chacha20-ietf-poly1305, password: 5bc81a55-7c6c-40b6-b51f-83fcd7f76537, udp: true}
+- {name: 🇹🇼 台湾04（IPLC稳定） - CloudFox, server: tw04.x.woyh.xyz, port: 38613, type: ss, cipher: chacha20-ietf-poly1305, password: 5bc81a55-7c6c-40b6-b51f-83fcd7f76537, udp: true}
+- {name: 🇹🇼 台湾05（GPT专用） - CloudFox, server: tw05.x.woyh.xyz, port: 38615, type: ss, cipher: chacha20-ietf-poly1305, password: 5bc81a55-7c6c-40b6-b51f-83fcd7f76537, udp: true}
+- {name: 🇹🇼 台湾06（GPT专用） - CloudFox, server: tw06.x.woyh.xyz, port: 38616, type: ss, cipher: chacha20-ietf-poly1305, password: 5bc81a55-7c6c-40b6-b51f-83fcd7f76537, udp: true}
+- {name: 🇹🇼TW TPE TWDS T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 19416, type: ss, cipher: aes-128-gcm, password: 2760c359-a237-4027-bf2e-ad186aef60db, udp: true}
+- {name: 🇹🇼TW TPE TWDS T深圳CM 1.2x - PassGFW, server: tysz.rcmnk.cn, port: 41018, type: ss, cipher: aes-128-gcm, password: 2760c359-a237-4027-bf2e-ad186aef60db, udp: true}
+- {name: 🇹🇼TW TPE TWDS T深圳CM2 1.2x - PassGFW, server: szhx.rcmnk.cn, port: 41018, type: ss, cipher: aes-128-gcm, password: 2760c359-a237-4027-bf2e-ad186aef60db, udp: true}
+- {name: 🇹🇼TW TPE TWDS T长沙CM 1.2x - PassGFW, server: csyd.rcmnk.cn, port: 14939, type: ss, cipher: aes-128-gcm, password: 2760c359-a237-4027-bf2e-ad186aef60db, udp: true}
+- {name: 🇹🇼TW TPE TWDS T宁夏CM 1.2x - PassGFW, server: awslx.rcmnk.cn, port: 24869, type: ss, cipher: aes-128-gcm, password: 2760c359-a237-4027-bf2e-ad186aef60db, udp: true}
+- {name: 🇹🇼 台湾 1 - 血液加速器, server: gy.666666222.shop, port: 20032, type: ss, cipher: chacha20-ietf-poly1305, password: aecdf090-a6c8-43b1-b77e-bd5263e5baf9, udp: true}
+- {name: 🇹🇼 台湾01 - 血液加速器, server: gy.666666222.shop, port: 47564, type: ss, cipher: chacha20-ietf-poly1305, password: aecdf090-a6c8-43b1-b77e-bd5263e5baf9, udp: true}
