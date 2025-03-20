@@ -1,6 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇷🇺 俄罗斯-莫斯科-F1-001 - 漏网之鱼, server: 176.32.35.148, port: 21012, type: vmess, uuid: ad2ab425-9cc7-49f3-b289-83691aaffaec, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-莫斯科-F2-001 - 漏网之鱼, server: 46.17.43.122, port: 22009, type: vmess, uuid: ad2ab425-9cc7-49f3-b289-83691aaffaec, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-莫斯科-F3-001 - 漏网之鱼, server: 185.22.152.236, port: 23016, type: vmess, uuid: ad2ab425-9cc7-49f3-b289-83691aaffaec, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}

@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇹🇼 V1 | 台湾1 - Bingo加速, server: 223.244.16.218, port: 49021, type: ss, cipher: aes-256-gcm, password: f2204e91-6b04-460c-aab2-b4acebabb0e6, udp: true}
-- {name: 🇹🇼 V1 | 台湾2 - Bingo加速, server: 223.244.16.218, port: 49022, type: ss, cipher: aes-256-gcm, password: f2204e91-6b04-460c-aab2-b4acebabb0e6, udp: true}

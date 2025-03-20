@@ -1,9 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇯🇵JP Akile T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 45790, type: ss, cipher: aes-128-gcm, password: bbf05766-6c17-4cf0-94f7-7c4b6a64997e, udp: true}
-- {name: '🇯🇵JP Akile T长沙CM [IPV6] 1.2x - PassGFW', server: 2409:8c50:a00:200d:fffe:0:2:12, port: 63640, type: ss, cipher: aes-128-gcm, password: bbf05766-6c17-4cf0-94f7-7c4b6a64997e, udp: true}
-- {name: 🇯🇵JP Akile T长沙CM 1.2x - PassGFW, server: csyd.rcmnk.cn, port: 16127, type: ss, cipher: aes-128-gcm, password: bbf05766-6c17-4cf0-94f7-7c4b6a64997e, udp: true}
-- {name: 🇯🇵JP Akile T宁夏CM 1.2x - PassGFW, server: awslx.rcmnk.cn, port: 35454, type: ss, cipher: aes-128-gcm, password: bbf05766-6c17-4cf0-94f7-7c4b6a64997e, udp: true}
-- {name: 🇯🇵JP Osaka Choopa T深圳CM 1.2x - PassGFW, server: tysz.rcmnk.cn, port: 22947, type: ss, cipher: aes-128-gcm, password: bbf05766-6c17-4cf0-94f7-7c4b6a64997e, udp: true}
-- {name: 🇯🇵JP Osaka Choopa T深圳CM2 1.2x - PassGFW, server: szhx.rcmnk.cn, port: 22947, type: ss, cipher: aes-128-gcm, password: bbf05766-6c17-4cf0-94f7-7c4b6a64997e, udp: true}

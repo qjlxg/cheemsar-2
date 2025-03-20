@@ -1,8 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: '🇭🇰 香港[01] - Heima', server: 107.149.254.26, port: 158, type: trojan, password: faf8d26b-a14c-4309-be38-803f7c739798, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 香港[04]中转 - Heima', server: vip.baima360.com, port: 65519, type: ss, cipher: chacha20-ietf-poly1305, password: faf8d26b-a14c-4309-be38-803f7c739798, udp: true}
-- {name: '🇭🇰 香港[05]中转 - Heima', server: vip.baima360.com, port: 36511, type: ss, cipher: chacha20-ietf-poly1305, password: faf8d26b-a14c-4309-be38-803f7c739798, udp: true}
-- {name: '🇭🇰 香港[06] - Heima', server: 107.149.254.26, port: 159, type: trojan, password: faf8d26b-a14c-4309-be38-803f7c739798, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 香港[07]中转 - Heima', server: vip.baima360.com, port: 36214, type: ss, cipher: chacha20-ietf-poly1305, password: faf8d26b-a14c-4309-be38-803f7c739798, udp: true}
