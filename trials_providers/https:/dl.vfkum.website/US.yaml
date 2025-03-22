@@ -1,0 +1,8 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 美国-纽约-001 - 漏网之鱼, server: 207.90.238.136, port: 20022, type: vmess, uuid: 6c222bc6-9a73-4984-b145-516050304a1c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇺🇸 美国-纽约-F1-001 - 漏网之鱼, server: 207.90.236.21, port: 21010, type: vmess, uuid: 6c222bc6-9a73-4984-b145-516050304a1c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇺🇸 美国-纽约-F2-001 - 漏网之鱼, server: 207.90.237.179, port: 22002, type: vmess, uuid: 6c222bc6-9a73-4984-b145-516050304a1c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇺🇸 美国-纽约-F3-001 - 漏网之鱼, server: 207.90.237.96, port: 23010, type: vmess, uuid: 6c222bc6-9a73-4984-b145-516050304a1c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇺🇸 美国-拉斯维加斯-001 - 漏网之鱼, server: biazh.mmzhk.website, port: 443, type: vmess, uuid: 6c222bc6-9a73-4984-b145-516050304a1c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: biazh.mmzhk.website}}, udp: true}

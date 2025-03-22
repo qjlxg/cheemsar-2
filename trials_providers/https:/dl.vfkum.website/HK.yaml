@@ -1,0 +1,6 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 中国-香港-F1-001 - 漏网之鱼, server: 212.192.13.110, port: 21023, type: vmess, uuid: 6c222bc6-9a73-4984-b145-516050304a1c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇭🇰 中国-香港-F2-001 - 漏网之鱼, server: 212.192.13.198, port: 22023, type: vmess, uuid: 6c222bc6-9a73-4984-b145-516050304a1c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇭🇰 中国-香港-F3-001 - 漏网之鱼, server: 212.192.13.68, port: 23023, type: vmess, uuid: 6c222bc6-9a73-4984-b145-516050304a1c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
