@@ -1,10 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 HK.香港.A | 负载均衡 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 21552, tfo: true, type: vmess, uuid: 214cd852-e3d7-4c09-83b7-edff6b97155e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK.香港.B | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 45449, tfo: true, type: vmess, uuid: 214cd852-e3d7-4c09-83b7-edff6b97155e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK.香港.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 38630, tfo: true, type: vmess, uuid: 214cd852-e3d7-4c09-83b7-edff6b97155e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK.香港.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 33575, tfo: true, type: vmess, uuid: 214cd852-e3d7-4c09-83b7-edff6b97155e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK.香港.E - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 12672, tfo: true, type: vmess, uuid: 214cd852-e3d7-4c09-83b7-edff6b97155e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK.香港.F - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 45861, tfo: true, type: vmess, uuid: 214cd852-e3d7-4c09-83b7-edff6b97155e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK.香港.G | 多入口 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 44489, tfo: true, type: vmess, uuid: 214cd852-e3d7-4c09-83b7-edff6b97155e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK.香港.A | 负载均衡 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 21552, type: vmess, uuid: b3813a51-0e15-4b30-9ffd-b515daa277fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK.香港.B | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 45449, type: vmess, uuid: b3813a51-0e15-4b30-9ffd-b515daa277fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK.香港.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 38630, type: vmess, uuid: b3813a51-0e15-4b30-9ffd-b515daa277fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK.香港.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 33575, type: vmess, uuid: b3813a51-0e15-4b30-9ffd-b515daa277fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK.香港.E - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 12672, type: vmess, uuid: b3813a51-0e15-4b30-9ffd-b515daa277fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK.香港.F - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 45861, type: vmess, uuid: b3813a51-0e15-4b30-9ffd-b515daa277fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK.香港.G | 多入口 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 44489, type: vmess, uuid: b3813a51-0e15-4b30-9ffd-b515daa277fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
