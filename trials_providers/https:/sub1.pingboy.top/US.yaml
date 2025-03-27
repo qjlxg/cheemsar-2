@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 United States#1 - 虚幻加速, server: svip1.pingboy.top, port: 15327, type: vmess, uuid: 62abe88e-6c81-4147-9e79-ef3c02543d96, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 United States#3 - 虚幻加速, server: svip1.pingboy.top, port: 15327, type: vmess, uuid: 62abe88e-6c81-4147-9e79-ef3c02543d96, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

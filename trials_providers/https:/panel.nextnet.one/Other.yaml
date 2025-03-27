@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: '🇳🇱 Eygelshoven (NLD) [a] Free - NextNet', server: next1.orz.my.id, port: 53520, type: ss, cipher: chacha20-ietf-poly1305, password: ae6a4255-48f1-4de1-bc8e-8b3807e2f595, udp: true}

@@ -1,0 +1,7 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 日本vultr1 - 七点公益, server: time.is, port: 443, type: vmess, uuid: 6ebf4e69-9d02-4903-8bab-8e8a96cd35a9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jpv.xiaoqi555.xyz, network: ws, ws-opts: {path: /, headers: {Host: jpv.xiaoqi555.xyz}}, udp: true}
+- {name: 🇯🇵 日本vultr2 - 七点公益, server: bestcf.mfwl.art, port: 443, type: vmess, uuid: 6ebf4e69-9d02-4903-8bab-8e8a96cd35a9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jpv.xiaoqi555.xyz, network: ws, ws-opts: {path: /, headers: {Host: jpv.xiaoqi555.xyz}}, udp: true}
+- {name: 🇯🇵 日本vultr3 - 七点公益, server: cn2.ansh.top, port: 443, type: vmess, uuid: 6ebf4e69-9d02-4903-8bab-8e8a96cd35a9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jpv.xiaoqi555.xyz, network: ws, ws-opts: {path: /, headers: {Host: jpv.xiaoqi555.xyz}}, udp: true}
+- {name: 🇯🇵 日本v - 七点公益, server: bookmyshow.com, port: 443, type: vmess, uuid: 6ebf4e69-9d02-4903-8bab-8e8a96cd35a9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jpv.xiaoqi555.xyz, network: ws, ws-opts: {path: /, headers: {Host: jpv.xiaoqi555.xyz}}, udp: true}
