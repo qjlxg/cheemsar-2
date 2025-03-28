@@ -1,13 +1,13 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 V1 | 香港1 - Bingo加速, server: hk91.cctv14.xyz, port: 49011, type: ss, cipher: aes-256-gcm, password: a05df93b-b7ae-4736-9136-101c665ad76e, udp: true}
-- {name: 🇭🇰 V1 | 香港2 - Bingo加速, server: hk92.cctv14.xyz, port: 49012, type: ss, cipher: aes-256-gcm, password: a05df93b-b7ae-4736-9136-101c665ad76e, udp: true}
-- {name: 🇭🇰 V1 | 香港3 - Bingo加速, server: hk93.cctv14.xyz, port: 49013, type: ss, cipher: aes-256-gcm, password: a05df93b-b7ae-4736-9136-101c665ad76e, udp: true}
-- {name: 🇭🇰 V1 | 香港4 - Bingo加速, server: hk94.cctv14.xyz, port: 49014, type: ss, cipher: aes-256-gcm, password: a05df93b-b7ae-4736-9136-101c665ad76e, udp: true}
-- {name: 🇭🇰 V1 | 香港5 - Bingo加速, server: hk95.cctv14.xyz, port: 49015, type: ss, cipher: aes-256-gcm, password: a05df93b-b7ae-4736-9136-101c665ad76e, udp: true}
-- {name: 🇭🇰 V1 | 香港6 - Bingo加速, server: hk96.cctv14.xyz, port: 49016, type: ss, cipher: aes-256-gcm, password: a05df93b-b7ae-4736-9136-101c665ad76e, udp: true}
-- {name: 🇭🇰 V1 | 香港7 - Bingo加速, server: hk97.cctv14.xyz, port: 49017, type: ss, cipher: aes-256-gcm, password: a05df93b-b7ae-4736-9136-101c665ad76e, udp: true}
-- {name: 🇭🇰 V1 | 香港8 - Bingo加速, server: hk98.cctv14.xyz, port: 49018, type: ss, cipher: aes-256-gcm, password: a05df93b-b7ae-4736-9136-101c665ad76e, udp: true}
-- {name: 🇭🇰 V1 | 香港9 - Bingo加速, server: hk99.cctv14.xyz, port: 49019, type: ss, cipher: aes-256-gcm, password: a05df93b-b7ae-4736-9136-101c665ad76e, udp: true}
-- {name: 🇭🇰 V1 | 香港10 - Bingo加速, server: hk9a.cctv14.xyz, port: 49020, type: ss, cipher: aes-256-gcm, password: a05df93b-b7ae-4736-9136-101c665ad76e, udp: true}
+- {name: 🇭🇰 V1 | 香港1 - Bingo加速, server: hk91.cctv14.xyz, port: 49011, type: ss, cipher: aes-256-gcm, password: af356aff-bff8-4c9b-b2f8-3fdb5fdd92fc, udp: true}
+- {name: 🇭🇰 V1 | 香港2 - Bingo加速, server: hk92.cctv14.xyz, port: 49012, type: ss, cipher: aes-256-gcm, password: af356aff-bff8-4c9b-b2f8-3fdb5fdd92fc, udp: true}
+- {name: 🇭🇰 V1 | 香港3 - Bingo加速, server: hk93.cctv14.xyz, port: 49013, type: ss, cipher: aes-256-gcm, password: af356aff-bff8-4c9b-b2f8-3fdb5fdd92fc, udp: true}
+- {name: 🇭🇰 V1 | 香港4 - Bingo加速, server: hk94.cctv14.xyz, port: 49014, type: ss, cipher: aes-256-gcm, password: af356aff-bff8-4c9b-b2f8-3fdb5fdd92fc, udp: true}
+- {name: 🇭🇰 V1 | 香港5 - Bingo加速, server: hk95.cctv14.xyz, port: 49015, type: ss, cipher: aes-256-gcm, password: af356aff-bff8-4c9b-b2f8-3fdb5fdd92fc, udp: true}
+- {name: 🇭🇰 V1 | 香港6 - Bingo加速, server: hk96.cctv14.xyz, port: 49016, type: ss, cipher: aes-256-gcm, password: af356aff-bff8-4c9b-b2f8-3fdb5fdd92fc, udp: true}
+- {name: 🇭🇰 V1 | 香港7 - Bingo加速, server: hk97.cctv14.xyz, port: 49017, type: ss, cipher: aes-256-gcm, password: af356aff-bff8-4c9b-b2f8-3fdb5fdd92fc, udp: true}
+- {name: 🇭🇰 V1 | 香港8 - Bingo加速, server: hk98.cctv14.xyz, port: 49018, type: ss, cipher: aes-256-gcm, password: af356aff-bff8-4c9b-b2f8-3fdb5fdd92fc, udp: true}
+- {name: 🇭🇰 V1 | 香港9 - Bingo加速, server: hk99.cctv14.xyz, port: 49019, type: ss, cipher: aes-256-gcm, password: af356aff-bff8-4c9b-b2f8-3fdb5fdd92fc, udp: true}
+- {name: 🇭🇰 V1 | 香港10 - Bingo加速, server: hk9a.cctv14.xyz, port: 49020, type: ss, cipher: aes-256-gcm, password: af356aff-bff8-4c9b-b2f8-3fdb5fdd92fc, udp: true}
