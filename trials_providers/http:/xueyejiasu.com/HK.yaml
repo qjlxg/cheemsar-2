@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港01 - 血液加速器, server: gy.666666222.shop, port: 34338, type: ss, cipher: chacha20-ietf-poly1305, password: 823ae9cf-06be-4369-9c02-b4132f0954b6, udp: true}
-- {name: 🇭🇰 香港02 - 血液加速器, server: gy.666666222.shop, port: 20035, type: ss, cipher: chacha20-ietf-poly1305, password: 823ae9cf-06be-4369-9c02-b4132f0954b6, udp: true}
-- {name: 🇭🇰 香港03 - 血液加速器, server: gy.666666222.shop, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 823ae9cf-06be-4369-9c02-b4132f0954b6, udp: true}
+- {name: 🇭🇰 香港01 - 血液加速器, server: gy.666666222.shop, port: 34338, type: ss, cipher: chacha20-ietf-poly1305, password: 086c3ad9-e764-4130-8095-6dca100d8d3a, udp: true}
+- {name: 🇭🇰 香港02 - 血液加速器, server: gy.666666222.shop, port: 20035, type: ss, cipher: chacha20-ietf-poly1305, password: 086c3ad9-e764-4130-8095-6dca100d8d3a, udp: true}
+- {name: 🇭🇰 香港03 - 血液加速器, server: gy.666666222.shop, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 086c3ad9-e764-4130-8095-6dca100d8d3a, udp: true}
