@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼TW TPE TWDS T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 19416, tfo: true, type: ss, cipher: aes-128-gcm, password: ffcad1aa-da29-432d-aca3-32875136e1d0, udp: true}
-- {name: 🇹🇼TW TPE TWDS T深圳CM 1.2x - PassGFW, server: 183.236.59.92, port: 41018, tfo: true, type: ss, cipher: aes-128-gcm, password: ffcad1aa-da29-432d-aca3-32875136e1d0, udp: true}
-- {name: 🇹🇼TW TPE TWDS T深圳CM2 1.2x - PassGFW, server: 36.151.192.209, port: 41018, tfo: true, type: ss, cipher: aes-128-gcm, password: ffcad1aa-da29-432d-aca3-32875136e1d0, udp: true}
-- {name: 🇹🇼TW TPE TWDS T长沙CM 1.2x - PassGFW, server: 36.151.192.209, port: 14939, tfo: true, type: ss, cipher: aes-128-gcm, password: ffcad1aa-da29-432d-aca3-32875136e1d0, udp: true}
-- {name: '🇹🇼TW TPE TWDS T深圳CT[IPV6] 1.2x - PassGFW', server: 240e:980:9920:313c:1847:6571:98fe:3f72, port: 20308, tfo: true, type: ss, cipher: aes-128-gcm, password: ffcad1aa-da29-432d-aca3-32875136e1d0, udp: true}
-- {name: 🇹🇼TW TPE TWDS T遂宁CM 1.2x - PassGFW, server: 218.203.252.135, port: 24869, tfo: true, type: ss, cipher: aes-128-gcm, password: ffcad1aa-da29-432d-aca3-32875136e1d0, udp: true}
+- {name: 🇹🇼TW TPE TWDS T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 19416, type: ss, cipher: aes-128-gcm, password: ffcad1aa-da29-432d-aca3-32875136e1d0, udp: true}
+- {name: 🇹🇼TW TPE TWDS T深圳CM 1.2x - PassGFW, server: 183.236.59.92, port: 41018, type: ss, cipher: aes-128-gcm, password: ffcad1aa-da29-432d-aca3-32875136e1d0, udp: true}
+- {name: 🇹🇼TW TPE TWDS T深圳CM2 1.2x - PassGFW, server: 36.151.192.209, port: 41018, type: ss, cipher: aes-128-gcm, password: ffcad1aa-da29-432d-aca3-32875136e1d0, udp: true}
+- {name: 🇹🇼TW TPE TWDS T长沙CM 1.2x - PassGFW, server: 36.151.251.37, port: 14939, type: ss, cipher: aes-128-gcm, password: ffcad1aa-da29-432d-aca3-32875136e1d0, udp: true}
+- {name: '🇹🇼TW TPE TWDS T深圳CT[IPV6] 1.2x - PassGFW', server: 240e:980:9920:313c:1847:6571:98fe:3f72, port: 20308, type: ss, cipher: aes-128-gcm, password: ffcad1aa-da29-432d-aca3-32875136e1d0, udp: true}
+- {name: 🇹🇼TW TPE TWDS T深圳临时CM 1.2x - PassGFW, server: 183.236.51.167, port: 24869, type: ss, cipher: aes-128-gcm, password: ffcad1aa-da29-432d-aca3-32875136e1d0, udp: true}

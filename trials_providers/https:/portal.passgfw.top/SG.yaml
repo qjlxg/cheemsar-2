@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬SG Akile T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 16732, tfo: true, type: ss, cipher: aes-128-gcm, password: ffcad1aa-da29-432d-aca3-32875136e1d0, udp: true}
-- {name: 🇸🇬SG Constant T深圳CM 1.2x - PassGFW, server: 183.236.59.92, port: 51410, tfo: true, type: ss, cipher: aes-128-gcm, password: ffcad1aa-da29-432d-aca3-32875136e1d0, udp: true}
-- {name: 🇸🇬SG Constant T深圳CM2 1.2x - PassGFW, server: 36.151.192.209, port: 51410, tfo: true, type: ss, cipher: aes-128-gcm, password: ffcad1aa-da29-432d-aca3-32875136e1d0, udp: true}
-- {name: 🇸🇬SG Akile T深圳CM 1.2x - PassGFW, server: 183.236.59.92, port: 50563, tfo: true, type: ss, cipher: aes-128-gcm, password: ffcad1aa-da29-432d-aca3-32875136e1d0, udp: true}
-- {name: 🇸🇬SG Akile T深圳CM2 1.2x - PassGFW, server: 36.151.192.209, port: 50563, tfo: true, type: ss, cipher: aes-128-gcm, password: ffcad1aa-da29-432d-aca3-32875136e1d0, udp: true}
-- {name: 🇸🇬SG Akile T长沙CM - PassGFW, server: 36.151.192.209, port: 60912, tfo: true, type: ss, cipher: aes-128-gcm, password: ffcad1aa-da29-432d-aca3-32875136e1d0, udp: true}
+- {name: 🇸🇬SG Akile T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 16732, type: ss, cipher: aes-128-gcm, password: ffcad1aa-da29-432d-aca3-32875136e1d0, udp: true}
+- {name: 🇸🇬SG Constant T深圳CM 1.2x - PassGFW, server: 183.236.59.92, port: 51410, type: ss, cipher: aes-128-gcm, password: ffcad1aa-da29-432d-aca3-32875136e1d0, udp: true}
+- {name: 🇸🇬SG Constant T深圳CM2 1.2x - PassGFW, server: 36.151.192.209, port: 51410, type: ss, cipher: aes-128-gcm, password: ffcad1aa-da29-432d-aca3-32875136e1d0, udp: true}
+- {name: 🇸🇬SG Akile T深圳CM 1.2x - PassGFW, server: 183.236.59.92, port: 50563, type: ss, cipher: aes-128-gcm, password: ffcad1aa-da29-432d-aca3-32875136e1d0, udp: true}
+- {name: 🇸🇬SG Akile T深圳CM2 1.2x - PassGFW, server: 36.151.192.209, port: 50563, type: ss, cipher: aes-128-gcm, password: ffcad1aa-da29-432d-aca3-32875136e1d0, udp: true}
+- {name: 🇸🇬SG Akile T长沙CM - PassGFW, server: 36.151.251.37, port: 60912, type: ss, cipher: aes-128-gcm, password: ffcad1aa-da29-432d-aca3-32875136e1d0, udp: true}
