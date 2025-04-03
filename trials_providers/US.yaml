@@ -9,3 +9,6 @@ proxies:
 - {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gy.58n.net, port: 30767, tfo: true, type: trojan, password: b56de7dc-4891-3451-a64d-a13afe0d0f89, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 广港•美国266•高速 - 飞翔吧, server: gy.58n.net, port: 56783, tfo: true, type: trojan, password: b56de7dc-4891-3451-a64d-a13afe0d0f89, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 广港•美国288•高速 - 飞翔吧, server: gy.58n.net, port: 20288, tfo: true, type: trojan, password: b56de7dc-4891-3451-a64d-a13afe0d0f89, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 AWS *1 - 独孤乐天, server: us-1.anewstart.cyou, port: 5061, type: vmess, uuid: 3c2a3f9a-07a6-39e1-b5c2-4fbc48e92ff7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天, server: us6-1.anewstart.cyou, port: 5061, type: vmess, uuid: 3c2a3f9a-07a6-39e1-b5c2-4fbc48e92ff7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: eb51908d-652e-3a5e-a49f-b37c473e3bce, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
