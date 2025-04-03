@@ -1,10 +1,59 @@
-[https://portal.passgfw.top]
+[mgnet.vip]
+auto_invite  F
 buy  pass
-email  cpkdbia275@gmail.com
+email  iumreftn86@gmail.com
+last_checkin  2025-04-03 20:36:19.476603+08:00
+name  MG Network
+sub_url  https://www.mgnet.sbs/link/eZ6gPSh9GLZloKNG?sub=3
+time  2025-04-03 20:36:19.802402+08:00
+type  sspanel
+保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
+保存订阅信息失败  no sub info
+
+[mooooobai.top]
+name  Loading...
+type  sspanel
+更新订阅链接/续费续签失败  注册失败(glqxvmezr131@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found 'Redirecting')
+
+[nova.live]
+banned_domains  ipiso.tmmad.com
+name  NovaLive
+type  sspanel
+更新订阅链接/续费续签失败  获取邮箱验证码超时(gatihqwnk581@ipiso.tmmad.com)
+
+[pkqvpn.com]
+
+[portal.passgfw.top]
+buy  pass
+email  ydoadnk944@gmail.com
 name  PassGFW
 node_n  24
-sub_info  2.843G  100G  2025-04-06 19:53:06+08:00  (剩余 97.16G 2 days, 23:35:45.515796)
-sub_url  https://sub.flygfw.top/HonkaiStarRail/e1187652029cde3b84f855e422b35645
-time  2025-03-27 19:53:06.721844+08:00
+sub_info  0B  100G  2025-04-13 20:36:19+08:00  (剩余 100G 9 days, 23:59:53.884391)
+sub_url  https://sub.flygfw.top/HonkaiStarRail/09f6f3f08445994ea5bdd80255286862
+time  2025-04-03 20:36:19.953348+08:00
 type  v2board
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
+
+[www.qlgq.top]
+
+[uuvpn.cloud:1080]
+
+[vipxgyun.com]
+
+[www.duguletian.com]
+banned_domains  psnator.com
+name  独孤乐天
+type  sspanel
+更新订阅链接/续费续签失败  获取邮箱验证码超时(dcmitgdt991@psnator.com)
+
+[www.flybar4.cc]
+auto_invite  T
+buy  shop=9
+email  cmlwkspb790@guerrillamail.org
+invite_code  FrDG  10000
+last_checkin  2025-04-03 20:36:52.760254+08:00
+name  飞翔吧
+node_n  46
+sub_info  0B  10.18G  2025-04-04 20:36:51+08:00  (剩余 10.18G 23:59:54.430476)
+sub_url  http://175.178.9.20/link/4TlB0YQQXpsJXWiK?sub=3
+time  2025-04-03 20:36:54.291277+08:00
+type  sspanel
