@@ -5,7 +5,7 @@ email  xsqwsddq360@gmail.com
 last_checkin  2025-04-06 02:10:47.083428+08:00
 name  MG Network
 node_n  10
-sub_info  29.01M  5.993G  2025-04-07 12:23:05+08:00  (剩余 5.965G 22:10:39.835683)
+sub_info  29.01M  5.993G  2025-04-07 12:23:05+08:00  (剩余 5.965G 19:14:46.211410)
 sub_url  https://www.mgnet.sbs/link/R5sNfNtUozTOlgT1?sub=3
 time  2025-04-05 11:23:06.038713+08:00
 type  sspanel
@@ -13,7 +13,7 @@ type  sspanel
 [mooooobai.top]
 name  Loading...
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(mvkciipqm219@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found 'Redirecting')
+更新订阅链接/续费续签失败  注册失败(jwjxdorju410@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found 'Redirecting')
 
 [nova.live]
 auto_invite  F
@@ -23,11 +23,11 @@ email  zuevxasgk994@965.tmmad.com
 last_checkin  2025-04-06 02:10:47.084569+08:00
 name  NovaLive
 node_n  5
-sub_info  29.68K  1.219G  2025-04-05 05:08:26+08:00  (剩余 1.219G -2 days, 14:52:50.172563)
+sub_info  29.68K  1.219G  2025-04-05 05:08:26+08:00  (剩余 1.219G -2 days, 11:59:33.839351)
 sub_url  https://new.gfw.news/link/xDKxSNr3xl7V6P6z?sub=3
 time  2025-04-05 05:08:26.955356+08:00
 type  sspanel
-更新订阅链接/续费续签失败  获取邮箱验证码超时(ooqadun468@sharklasers.com)
+更新订阅链接/续费续签失败  获取邮箱失败: HTTPSConnectionPool(host='api.mail.gw', port=443): Read timed out. (read timeout=30)
 
 [pkqvpn.com]
 
@@ -36,10 +36,11 @@ buy  pass
 email  ydoadnk944@gmail.com
 name  PassGFW
 node_n  24
-sub_info  63.76G  100G  2025-04-13 20:36:19+08:00  (剩余 36.24G 7 days, 6:23:52.444018)
+sub_info  64.3G  100G  2025-04-13 20:36:19+08:00  (剩余 35.7G 7 days, 3:28:00.270287)
 sub_url  https://sub.flygfw.top/HonkaiStarRail/09f6f3f08445994ea5bdd80255286862
 time  2025-04-03 20:36:19.953348+08:00
 type  v2board
+保存base64/clash订阅失败  string indices must be integers
 
 [www.qlgq.top]
 
@@ -54,14 +55,14 @@ email  qqlwore356@ipiso.tmmad.com
 last_checkin  2025-04-06 02:10:47.093478+08:00
 name  独孤乐天
 node_n  4
-sub_info  0B  1.023G  2025-04-06 23:07:58+08:00  (剩余 1.023G 8:55:32.044163)
+sub_info  0B  1.023G  2025-04-06 23:07:58+08:00  (剩余 1.023G 5:59:41.706169)
 sub_url  https://www.duguletian.com/link/eiYVAHFoXzrmWfeL?sub=3
 time  2025-04-05 23:07:59.563567+08:00
 type  sspanel
 
 [www.flybar4.cc]
 auto_invite  T
-banned_domains  tmails.net  disbox.org  xxxhi.cc  moakt.co
+banned_domains  tmails.net  disbox.org  xxxhi.cc  moakt.co  lista.cc
 buy  shop=9
 email  ctccbhsh33@youxiang.dev
 invite_code  Xt3X  10000
@@ -72,3 +73,6 @@ sub_info  60.6M  10.33G  2025-04-06 23:08:47+08:00  (剩余 10.27G 8:56:18.05707
 sub_url  http://175.178.9.20/link/e5PD8FMqZ3IZeQxM?sub=3
 time  2025-04-05 23:08:50.878781+08:00
 type  sspanel
+保存base64/clash订阅失败  string indices must be integers
+保存订阅信息失败  no sub info
+更新订阅链接/续费续签失败  获取邮箱验证码超时(hqzxgjhwr284@lista.cc)
