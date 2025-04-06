@@ -1,14 +1,14 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 中转•美国295•高速 - 飞翔吧, server: gy.58n.net, port: 20295, type: trojan, password: dd1c7c8d-ecc8-3a20-a1f0-5cf660ca845a, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: gy.58n.net, port: 20296, type: trojan, password: dd1c7c8d-ecc8-3a20-a1f0-5cf660ca845a, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国308•高速 - 飞翔吧, server: gy.58n.net, port: 20308, type: trojan, password: dd1c7c8d-ecc8-3a20-a1f0-5cf660ca845a, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国40•高速 - 飞翔吧, server: gy.58n.net, port: 16895, type: trojan, password: dd1c7c8d-ecc8-3a20-a1f0-5cf660ca845a, sni: x40.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国41•原生 - 飞翔吧, server: gy.58n.net, port: 21970, type: trojan, password: dd1c7c8d-ecc8-3a20-a1f0-5cf660ca845a, sni: x41.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gy.58n.net, port: 30767, type: trojan, password: dd1c7c8d-ecc8-3a20-a1f0-5cf660ca845a, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 广港•美国266•高速 - 飞翔吧, server: gy.58n.net, port: 56783, type: trojan, password: dd1c7c8d-ecc8-3a20-a1f0-5cf660ca845a, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 广港•美国288•高速 - 飞翔吧, server: gy.58n.net, port: 20288, type: trojan, password: dd1c7c8d-ecc8-3a20-a1f0-5cf660ca845a, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国295•高速 - 飞翔吧, server: gy.58n.net, port: 20295, tfo: true, type: trojan, password: dd1c7c8d-ecc8-3a20-a1f0-5cf660ca845a, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: gy.58n.net, port: 20296, tfo: true, type: trojan, password: dd1c7c8d-ecc8-3a20-a1f0-5cf660ca845a, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国308•高速 - 飞翔吧, server: gy.58n.net, port: 20308, tfo: true, type: trojan, password: dd1c7c8d-ecc8-3a20-a1f0-5cf660ca845a, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国40•高速 - 飞翔吧, server: gy.58n.net, port: 16895, tfo: true, type: trojan, password: dd1c7c8d-ecc8-3a20-a1f0-5cf660ca845a, sni: x40.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国41•原生 - 飞翔吧, server: gy.58n.net, port: 21970, tfo: true, type: trojan, password: dd1c7c8d-ecc8-3a20-a1f0-5cf660ca845a, sni: x41.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gy.58n.net, port: 30767, tfo: true, type: trojan, password: dd1c7c8d-ecc8-3a20-a1f0-5cf660ca845a, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 广港•美国266•高速 - 飞翔吧, server: gy.58n.net, port: 56783, tfo: true, type: trojan, password: dd1c7c8d-ecc8-3a20-a1f0-5cf660ca845a, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 广港•美国288•高速 - 飞翔吧, server: gy.58n.net, port: 20288, tfo: true, type: trojan, password: dd1c7c8d-ecc8-3a20-a1f0-5cf660ca845a, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 US000高速 - NovaLive, server: 54.218.102.128, port: 443, type: trojan, password: 7dc34ee6-d3aa-32bc-8663-51d4249d5c97, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5535, type: trojan, password: 7dc34ee6-d3aa-32bc-8663-51d4249d5c97, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3516, type: trojan, password: 7dc34ee6-d3aa-32bc-8663-51d4249d5c97, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
