@@ -56,30 +56,30 @@ proxies:
 - {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.anewstart.cyou, port: 5061, type: vmess, uuid: 475f4bd7-2ee5-335e-80ca-3c2293716afa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 AWS *1 - 独孤乐天, server: us-1.anewstart.cyou, port: 5061, type: vmess, uuid: 475f4bd7-2ee5-335e-80ca-3c2293716afa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天, server: us6-1.anewstart.cyou, port: 5061, type: vmess, uuid: 475f4bd7-2ee5-335e-80ca-3c2293716afa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰HK Akile T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 16732, tfo: true, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇭🇰HK Akile T深圳临时CM 1.2x - PassGFW, server: 183.236.51.167, port: 55872, tfo: true, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇭🇰HK Akile T深圳CM 1.2x - PassGFW, server: 183.236.59.92, port: 41124, tfo: true, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇭🇰HK Akile T深圳CM2 1.2x - PassGFW, server: 36.151.192.209, port: 41124, tfo: true, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇭🇰HK Akile T长沙CM 1.2x - PassGFW, server: 36.151.251.37, port: 41124, tfo: true, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇹🇼TW TPE TWDS T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 19416, tfo: true, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇹🇼TW TPE TWDS T深圳CM 1.2x - PassGFW, server: 183.236.59.92, port: 41018, tfo: true, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇹🇼TW TPE TWDS T深圳CM2 1.2x - PassGFW, server: 36.151.192.209, port: 41018, tfo: true, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇹🇼TW TPE TWDS T长沙CM 1.2x - PassGFW, server: 36.151.251.37, port: 14939, tfo: true, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: '🇹🇼TW TPE TWDS T深圳CT[IPV6] 1.2x - PassGFW', server: 240e:980:9920:313c:1847:6571:98fe:3f72, port: 20308, tfo: true, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇹🇼TW TPE TWDS T深圳临时CM 1.2x - PassGFW, server: 183.236.51.167, port: 24869, tfo: true, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇯🇵JP Akile T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 45790, tfo: true, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: '🇯🇵JP Akile T深圳CT[IPV6] 1.2x - PassGFW', server: 240e:980:9920:313c:1847:6571:98fe:3f72, port: 35471, tfo: true, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇯🇵JP Akile T长沙CM 1.2x - PassGFW, server: 36.151.251.37, port: 16127, tfo: true, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇯🇵JP Akile T深圳临时CM 1.2x - PassGFW, server: 183.236.51.167, port: 35454, tfo: true, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇸🇬SG Akile T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 16732, tfo: true, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇸🇬SG Constant T深圳CM 1.2x - PassGFW, server: 183.236.59.92, port: 51410, tfo: true, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇸🇬SG Constant T深圳CM2 1.2x - PassGFW, server: 36.151.192.209, port: 51410, tfo: true, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇯🇵JP Osaka Choopa T深圳临时CM 1.2x - PassGFW, server: 183.236.51.167, port: 35145, tfo: true, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇯🇵JP Osaka Choopa T深圳CM 1.2x - PassGFW, server: 183.236.59.92, port: 22947, tfo: true, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇯🇵JP Osaka Choopa T深圳CM2 1.2x - PassGFW, server: 36.151.192.209, port: 22947, tfo: true, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇸🇬SG Akile T深圳CM 1.2x - PassGFW, server: 183.236.59.92, port: 50563, tfo: true, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇸🇬SG Akile T深圳CM2 1.2x - PassGFW, server: 36.151.192.209, port: 50563, tfo: true, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇸🇬SG Akile T长沙CM - PassGFW, server: 36.151.251.37, port: 60912, tfo: true, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
+- {name: 🇭🇰HK Akile T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 16732, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
+- {name: 🇭🇰HK Akile T深圳临时CM 1.2x - PassGFW, server: 183.236.51.167, port: 55872, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
+- {name: 🇭🇰HK Akile T深圳CM 1.2x - PassGFW, server: 183.236.59.92, port: 41124, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
+- {name: 🇭🇰HK Akile T深圳CM2 1.2x - PassGFW, server: 36.151.192.209, port: 41124, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
+- {name: 🇭🇰HK Akile T长沙CM 1.2x - PassGFW, server: 36.151.251.37, port: 41124, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
+- {name: 🇹🇼TW TPE TWDS T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 19416, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
+- {name: 🇹🇼TW TPE TWDS T深圳CM 1.2x - PassGFW, server: 183.236.59.92, port: 41018, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
+- {name: 🇹🇼TW TPE TWDS T深圳CM2 1.2x - PassGFW, server: 36.151.192.209, port: 41018, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
+- {name: 🇹🇼TW TPE TWDS T长沙CM 1.2x - PassGFW, server: 36.151.251.37, port: 14939, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
+- {name: '🇹🇼TW TPE TWDS T深圳CT[IPV6] 1.2x - PassGFW', server: 240e:980:9920:313c:1847:6571:98fe:3f72, port: 20308, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
+- {name: 🇹🇼TW TPE TWDS T深圳临时CM 1.2x - PassGFW, server: 183.236.51.167, port: 24869, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
+- {name: 🇯🇵JP Akile T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 45790, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
+- {name: '🇯🇵JP Akile T深圳CT[IPV6] 1.2x - PassGFW', server: 240e:980:9920:313c:1847:6571:98fe:3f72, port: 35471, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
+- {name: 🇯🇵JP Akile T长沙CM 1.2x - PassGFW, server: 36.151.251.37, port: 16127, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
+- {name: 🇯🇵JP Akile T深圳临时CM 1.2x - PassGFW, server: 183.236.51.167, port: 35454, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
+- {name: 🇸🇬SG Akile T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 16732, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
+- {name: 🇸🇬SG Constant T深圳CM 1.2x - PassGFW, server: 183.236.59.92, port: 51410, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
+- {name: 🇸🇬SG Constant T深圳CM2 1.2x - PassGFW, server: 36.151.192.209, port: 51410, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
+- {name: 🇯🇵JP Osaka Choopa T深圳临时CM 1.2x - PassGFW, server: 183.236.51.167, port: 35145, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
+- {name: 🇯🇵JP Osaka Choopa T深圳CM 1.2x - PassGFW, server: 183.236.59.92, port: 22947, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
+- {name: 🇯🇵JP Osaka Choopa T深圳CM2 1.2x - PassGFW, server: 36.151.192.209, port: 22947, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
+- {name: 🇸🇬SG Akile T深圳CM 1.2x - PassGFW, server: 183.236.59.92, port: 50563, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
+- {name: 🇸🇬SG Akile T深圳CM2 1.2x - PassGFW, server: 36.151.192.209, port: 50563, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
+- {name: 🇸🇬SG Akile T长沙CM - PassGFW, server: 36.151.251.37, port: 60912, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
 - {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 17585a81-ed4f-3364-bc10-04516ecbae9f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
 - {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 17585a81-ed4f-3364-bc10-04516ecbae9f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
 - {name: '🇮🇳 [vip①]印度1 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: 17585a81-ed4f-3364-bc10-04516ecbae9f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.mamamajd.site}}, udp: true}

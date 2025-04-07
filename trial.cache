@@ -5,30 +5,29 @@ email  xsqwsddq360@gmail.com
 last_checkin  2025-04-07 09:20:37.011818+08:00
 name  MG Network
 node_n  10
-sub_info  6.05G  6.45G  2025-04-07 12:23:05+08:00  (剩余 409.6M 2:44:21.398333)
+sub_info  6.05G  6.45G  2025-04-07 12:23:05+08:00  (剩余 409.6M 2:10:59.497146)
 sub_url  https://www.mgnet.sbs/link/R5sNfNtUozTOlgT1?sub=3
 time  2025-04-05 11:23:06.038713+08:00
 type  sspanel
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
 
 [mooooobai.top]
 name  Loading...
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(zmmtdhvq464@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found 'Redirecting')
+更新订阅链接/续费续签失败  注册失败(ozblrtrjs31@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found 'Redirecting')
 
 [nova.live]
 auto_invite  F
-banned_domains  ipiso.tmmad.com  moakt.ws  tmpmail.net  x866.cc  hwe6fgh8.icu  mail.shouyou789.com  tmail.ws  linshiyou.com  disbox.org  wfes.site  spam4.me  lyx13.xyz  disbox.net  lplso.tmmad.com  sharklasers.com  moakt.cc  tmpmail.org  tmails.net
+banned_domains  ipiso.tmmad.com  moakt.ws  tmpmail.net  x866.cc  hwe6fgh8.icu  mail.shouyou789.com  tmail.ws  linshiyou.com  disbox.org  wfes.site  spam4.me  lyx13.xyz  disbox.net  lplso.tmmad.com  sharklasers.com  moakt.cc  tmpmail.org  tmails.net  directservbms.com
 buy  pass
 email  zuevxasgk994@965.tmmad.com
 last_checkin  2025-04-07 09:20:37.274331+08:00
 name  NovaLive
 node_n  5
-sub_info  29.68K  1.326G  2025-04-05 05:08:26+08:00  (剩余 1.326G -3 days, 19:28:37.165998)
+sub_info  29.68K  1.326G  2025-04-05 05:08:26+08:00  (剩余 1.326G -3 days, 18:55:14.075126)
 sub_url  https://new.gfw.news/link/xDKxSNr3xl7V6P6z?sub=3
 time  2025-04-05 05:08:26.955356+08:00
 type  sspanel
-更新订阅链接/续费续签失败  获取邮箱验证码超时(twptxqxw885@tmails.net)
+更新订阅链接/续费续签失败  获取邮箱验证码超时(ylrznqh322@directservbms.com)
 
 [pkqvpn.com]
 
@@ -37,7 +36,7 @@ buy  pass
 email  ydoadnk944@gmail.com
 name  PassGFW
 node_n  24
-sub_info  80G  100G  2025-04-13 20:36:19+08:00  (剩余 20G 6 days, 10:57:31.630977)
+sub_info  80.01G  100G  2025-04-13 20:36:19+08:00  (剩余 19.99G 6 days, 10:24:06.746811)
 sub_url  https://sub.flygfw.top/HonkaiStarRail/09f6f3f08445994ea5bdd80255286862
 time  2025-04-03 20:36:19.953348+08:00
 type  v2board
@@ -55,7 +54,7 @@ email  yudlzey137@965.tmmad.com
 last_checkin  2025-04-07 09:38:53.446687+08:00
 name  独孤乐天
 node_n  4
-sub_info  0B  1.042G  2025-04-08 09:38:52+08:00  (剩余 1.042G 23:59:57.142682)
+sub_info  0B  1.042G  2025-04-08 09:38:52+08:00  (剩余 1.042G 23:26:41.703135)
 sub_url  https://www.duguletian.com/link/neakRm3FROCdgjgd?sub=3
 time  2025-04-07 09:38:54.136743+08:00
 type  sspanel
@@ -69,748 +68,61 @@ invite_code  RgEf  9999
 last_checkin  2025-04-07 09:21:15.217150+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.18G  2025-04-08 09:21:15+08:00  (剩余 10.18G 23:42:26.769947)
+sub_info  0B  10.18G  2025-04-08 09:21:15+08:00  (剩余 10.18G 23:09:09.306753)
 sub_url  http://175.178.9.20/link/f0mqZqsFKoVnRfuE?sub=3
 time  2025-04-07 09:21:16.556629+08:00
 type  sspanel
 
-[http://www.bluetile.buzz]
-api_host  www.bluetile.buzz
-banned_domains  linshiyou.com
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"jorpqmtv901@965.tmmad.com","success":"false"}'
-
-[https://www.bluetile.buzz]
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: HTTPSConnectionPool(host='api.mail.gw', port=443): Read timed out. (read timeout=30)
-
-[https://px.bluetile.buzz]
-banned_domains  linshiyou.com
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"qbcwqaivh208@safsd88nb.icu","success":"false"}'
-
-[http://103.118.40.164]
-name  海牛加速器
-type  v2board
-更新订阅链接/续费续签失败  注册失败(ntiuuqzdt195@gmail.com): 本站已关闭注册
-
-[https://pxx.bluetile.art]
-banned_domains  xxxhi.cc
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(tdmcaec645@xxxhi.cc)
-
-[http://sub5.bluetile.art]
-api_host  sub5.bluetile.art
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(bjgiidqpm179@moakt.ws): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989903053351000593</address>\n</body>\n</html>')
-
-[https://sub4.bluetile.art]
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"quaytnp439@bccto.cc","success":"false"}'
-
-[http://pxi.bluetile.art]
-api_host  pxi.bluetile.art
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"nkttechzh595@jkb.tmmad.com","success":"false"}'
-
-[http://sub4.bluetile.art]
-api_host  sub4.bluetile.art
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(vhbhxtsrs821@nqmo.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989904056351000340</address>\n</body>\n</html>')
-
-[http://sub1.bluetile.art]
-api_host  sub1.bluetile.art
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"nbpbkvbkb740@x866.cc","success":"false"}'
-
-[http://pxx.bluetile.art]
-api_host  pxx.bluetile.art
-banned_domains  lista.cc
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(xxfodgfgu125@lista.cc)
-
-[http://sub2.bluetile.art]
-api_host  sub2.bluetile.art
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"rvjsyely619@careandcompare.com","success":"false"}'
-
-[https://sub2.bluetile.art]
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(hbhpbjdt697@uuf.me): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989904056351000152</address>\n</body>\n</html>')
-
-[https://sub1.bluetile.art]
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"ewdzyvm413@mail.shouyou789.com","success":"false"}'
-
-[http://sub3.bluetile.art]
-api_host  sub3.bluetile.art
-banned_domains  lista.cc
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(chnrfdm945@lista.cc)
-
-[https://sub3.bluetile.art]
-banned_domains  youxiang.dev  linshiyou.com
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(ylqydpxdc227@linshiyou.com)
-
-[https://pxi.bluetile.art]
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"zkehkhn332@mail.shouyou789.com","success":"false"}'
-
-[https://www.bluetile.site]
-banned_domains  jkb.tmmad.com
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(rvxpxbcks601@nqmo.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989904056351000042</address>\n</body>\n</html>')
-
-[http://www.bluetile.site]
-api_host  www.bluetile.site
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(crcrjqpuy44@linshiyou.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989903053351000075</address>\n</body>\n</html>')
-
-[http://www.bluetile.click]
-api_host  www.bluetile.click
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"byszmexmf914@jkb.tmmad.com","success":"false"}'
-
-[https://www.bluetile.click]
-banned_domains  cefcayman.com
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(xxoauhb381@cefcayman.com)
-
-[http://www.bluetile.cloud]
-api_host  www.bluetile.cloud
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"isganpho23@bccto.cc","success":"false"}'
-
-[http://www.bluetile.club]
-api_host  www.bluetile.club
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"esftnnxu44@rgzx.tmmad.com","success":"false"}'
-
-[https://www.bluetile.club]
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"srcowugau79@lplso.tmmad.com","success":"false"}'
-
-[http://www.bluetile.co]
-api_host  www.bluetile.co
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"lijwprmj658@mail.shouyou789.com","success":"false"}'
-
-[https://www.bluetile.cloud]
-banned_domains  youxiang.dev
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(yjdluqmv425@tmpmail.org): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989903053351000736</address>\n</body>\n</html>')
-
-[https://www.bluetile.co]
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(ctwhnfc312@femailtor.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989904260351000495</address>\n</body>\n</html>')
-
-[http://api-qw.02000.net]
-api_host  api-qw.02000.net
-banned_domains  linshiyou.com
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(hutbavhyx922@linshiyou.com)
-
-[https://api-qw.02000.net]
-banned_domains  tmail.ws
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  注册失败(ziayidwdq995@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-
-[http://api-hy.02000.net]
-api_host  api-hy.02000.net
-banned_domains  smartnator.com
-name  紅葉
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(upldzyr969@smartnator.com)
-
-[https://api-hy.02000.net]
-name  紅葉
-type  v2board
-更新订阅链接/续费续签失败  注册失败(pmlcwacg497@guerrillamail.biz): 邮箱后缀不处于白名单中
-
-[http://px.bluetile.art]
-api_host  px.bluetile.art
-banned_domains  jkb.tmmad.com  grr.la
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(qupkdew860@grr.la)
-
-[http://v2.456388.xyz]
-
-[https://v2.456388.xyz]
-
-[https://hainiu.fun]
-name  海牛加速器
-type  v2board
-更新订阅链接/续费续签失败  注册失败(oprmvjcr330@gmail.com): 本站已关闭注册
-
-[http://hainiu.fun]
-name  海牛加速器
-type  v2board
-更新订阅链接/续费续签失败  注册失败(nsitmozwf462@gmail.com): 本站已关闭注册
-
-[https://api1.rux.cloud]
-name  Moon
-type  v2board
-更新订阅链接/续费续签失败  注册失败(aclxdes928@uuf.me): 邮箱后缀不处于白名单中
-
-[http://www.hainiu.fun]
-name  海牛加速器
-type  v2board
-更新订阅链接/续费续签失败  注册失败(emsifszaq605@gmail.com): 本站已关闭注册
-
-[https://www.hainiu.fun]
-name  海牛加速器
-type  v2board
-更新订阅链接/续费续签失败  注册失败(rusjpfa231@gmail.com): 本站已关闭注册
-
-[https://103.118.40.164]
-
-[https://98.126.213.130]
-
-[https://www.xawii.cn]
-
-[https://45.145.74.151]
-
-[http://api1.rux.cloud]
-banned_domains  tmpnator.live
-name  Moon
-type  v2board
-更新订阅链接/续费续签失败  注册失败(rcriwkd561@tmpbox.net): 邮箱后缀不处于白名单中
-
-[https://45.150.227.133]
-
-[http://98.126.213.130:8088]
-name  Moon
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"ihjhfgn741@965.tmmad.com","success":"false"}'
-
-[http://www.xawii.cn]
-
-[http://45.145.74.151]
-name  Moon
-type  v2board
-更新订阅链接/续费续签失败  注册失败(gzditmqza104@disbox.net): 邮箱后缀不处于白名单中
-
-[https://a.bluetile.art]
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(canthalp135@qabq.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989904653351000944</address>\n</body>\n</html>')
-
-[http://b.bluetile.art]
-api_host  b.bluetile.art
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: HTTPSConnectionPool(host='api.mail.gw', port=443): Read timed out. (read timeout=30)
-
-[https://b.bluetile.art]
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"dqpqduya401@ipiso.tmmad.com","success":"false"}'
-
-[http://a.bluetile.art]
-api_host  a.bluetile.art
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(amvubwf64@guerrillamailblock.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989905252351001259</address>\n</body>\n</html>')
-
-[http://my3.newbee.shop]
-buy  pass
-email  yozixpgb864@gmail.com
-name  新蜂
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://my.ndcdd.com/api/v1/client/subscribe?token=9870b57680054bed5ea37c247ddcf9f2
-time  2025-04-07 09:38:32.047276+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[http://51.79.153.155:88]
-email  geozgom203@gmail.com
-name  test1222
-node_n  1
-sub_info  0B  1000G  2025-04-07 10:20:19+08:00  (剩余 1000G 0:41:35.227987)
-sub_url  http://51.79.153.155:88/api/v1/client/subscribe?token=6a296e030fa6e6f677a96493feb2cfd5
-time  2025-04-07 09:20:20.209644+08:00
-type  v2board
-
-[http://node.xinyo.vip]
-api_host  node.xinyo.vip
-name  星遇.Next
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"troqtjxxh786@mail.wvwvw.tech","success":"false"}'
-
-[https://node.xinyo.vip]
-name  星遇.Next
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(bmzddnmpt652@snapmail.cc): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989904653351001344</address>\n</body>\n</html>')
-
-[http://a.xinyo.one]
-api_host  a.xinyo.one
-name  星遇.Next
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(hebugaz678@spam4.me): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989906052351001863</address>\n</body>\n</html>')
-
-[http://a.xinyo.club]
-api_host  a.xinyo.club
-name  星遇.Next
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(ifynhxu133@yzm.de): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989905452351000029</address>\n</body>\n</html>')
-
-[https://b.xinyo.one]
-name  星遇.Next
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"ucxsrdnn22@lplso.tmmad.com","success":"false"}'
-
-[https://a.xinyo.one]
-name  星遇.Next
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(cvspqjltf600@disbox.net): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989905252351001915</address>\n</body>\n</html>')
-
-[http://b.xinyo.one]
-api_host  b.xinyo.one
-name  星遇.Next
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(vwmmxoq93@tmail.ws): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989905865351000890</address>\n</body>\n</html>')
-
-[http://b.xinyo.club]
-api_host  b.xinyo.club
-name  星遇.Next
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(tmjxdql942@tmails.net): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989906052351000047</address>\n</body>\n</html>')
-
-[https://b.xinyo.club]
-name  星遇.Next
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(qfwazol730@lista.cc): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989905452351000288</address>\n</body>\n</html>')
-
-[http://www.bluetile.icu]
-api_host  www.bluetile.icu
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(lfmtpawoj325@sharklasers.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989906262351001738</address>\n</body>\n</html>')
-
-[https://www.bluetile.icu]
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(zhmywhyfg43@tmail.ws): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989905655351001238</address>\n</body>\n</html>')
-
-[https://px.bluetile.icu]
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(lbjmbnjjn376@mydefipet.live): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989906853351001767</address>\n</body>\n</html>')
-
-[http://px.bluetile.icu]
-api_host  px.bluetile.icu
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(cqzwdrx121@tmpbox.net): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989905655351001022</address>\n</body>\n</html>')
-
-[https://doc.xinyo.biz]
-name  星遇.Next
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(cdlnzuns227@guerrillamail.biz): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989916652351000777</address>\n</body>\n</html>')
-
 [http://moon6.xyz]
 
-[https://moon8.xn--c-mn0bu59bpi8b.xn--fiqs8s]
-name  Moon
-type  v2board
-更新订阅链接/续费续签失败  注册失败(hxowkrmm176@mydefipet.live): 邮箱后缀不处于白名单中
-
-[https://v22.rux.cloud]
-name  Moon
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"kkbpleld333@jkb.tmmad.com","success":"false"}'
-
-[https://v33.rux.cloud]
-name  Moon
-type  v2board
-更新订阅链接/续费续签失败  注册失败(lvkxumrx458@moakt.cc): 邮箱后缀不处于白名单中
-
-[http://v33.rux.cloud]
-name  Moon
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"konqmvd633@bookmorpho.cfd","success":"false"}'
-
-[http://v22.rux.cloud]
-name  Moon
-type  v2board
-更新订阅链接/续费续签失败  注册失败(hajjkigii593@nqmo.com): 邮箱后缀不处于白名单中
-
-[https://wljra.wljhealth.net]
-
-[https://www.bluetile.art]
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(ottxjmd282@tmpeml.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989907453351000250</address>\n</body>\n</html>')
-
-[http://www.bluetile.art]
-api_host  www.bluetile.art
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(rnqyscbt710@bareed.ws): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989907453351001237</address>\n</body>\n</html>')
-
-[https://px.bluetile.art]
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"kzmjkmnwy664@careandcompare.com","success":"false"}'
-
-[http://98.126.213.130]
-banned_domains  smartnator.com
-name  Moon
-type  v2board
-更新订阅链接/续费续签失败  注册失败(xagmyvl9@guerrillamail.net): 邮箱后缀不处于白名单中
-
-[https://b.bluetile.click]
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(zpggtovr324@guerrillamail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989908052351000337</address>\n</body>\n</html>')
-
-[https://a.bluetile.click]
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(zxdiujprz250@smartnator.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989909052351000559</address>\n</body>\n</html>')
-
-[http://a.bluetile.click]
-api_host  a.bluetile.click
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(owszpseyy554@grr.la): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989908852351000935</address>\n</body>\n</html>')
-
-[http://b.bluetile.click]
-api_host  b.bluetile.click
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(xlxzkrah366@moakt.co): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989907453351000893</address>\n</body>\n</html>')
-
-[https://b.bluetile.club]
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"xxdcdbxj559@cefcayman.com","success":"false"}'
-
-[http://b.bluetile.club]
-api_host  b.bluetile.club
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(rljazyj903@guerrillamail.de): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989908852351000864</address>\n</body>\n</html>')
-
-[http://a.bluetile.club]
-api_host  a.bluetile.club
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(ktuyfchyt701@tmail.ws): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989908253351000058</address>\n</body>\n</html>')
-
-[https://a.bluetile.club]
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(etidiid342@tmpmail.org): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989908457351000189</address>\n</body>\n</html>')
-
-[http://45.150.227.133]
-name  Moon
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"pdvvoidf495@mxl001.win","success":"false"}'
-
-[https://174.139.137.159]
-
-[http://admin.hainiu.site]
-
-[https://admin.hainiu.site]
-
-[http://www.hainiu.site]
-
-[https://hainiu.site]
-
-[https://www.hainiu.site]
-
-[https://my.ndcdd.com]
-buy  pass
-email  dfrooebd78@gmail.com
-name  新蜂
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://my.ndcdd.com/api/v1/client/subscribe?token=85ff7a25282f54f738cfe62927c40b1a
-time  2025-04-07 09:38:31.394284+08:00
-type  v2board
-保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
-
-[http://my.ndcdd.com]
-buy  pass
-email  cvsukcyt719@gmail.com
-name  新蜂
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://my.ndcdd.com/api/v1/client/subscribe?token=5edd43e57b8608a79c4c43c36a87628b
-time  2025-04-07 09:38:31.399855+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[http://my.ndcd.shop]
-buy  pass
-email  hvjupcphw689@gmail.com
-name  新蜂
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://my.ndcdd.com/api/v1/client/subscribe?token=59c5d4f765086fbb7da72482ef33c42e
-time  2025-04-07 09:38:33.148535+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[https://my.ndcd.shop]
-buy  pass
-email  bhfjwxsbf531@gmail.com
-name  新蜂
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://my.ndcdd.com/api/v1/client/subscribe?token=3049554661797ee7cb69820e5179d0b0
-time  2025-04-07 09:38:35.661934+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[https://205.198.64.176]
-
-[https://b.bluetile.cloud]
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(dbrhafebx167@guerrillamail.biz): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989911053351001043</address>\n</body>\n</html>')
-
-[http://a.bluetile.cloud]
-api_host  a.bluetile.cloud
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(awamzwycz22@guerrillamail.org): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989911053351001083</address>\n</body>\n</html>')
-
-[http://b.bluetile.cloud]
-api_host  b.bluetile.cloud
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"hafxauuf523@mail.wvwvw.tech","success":"false"}'
-
-[https://a.bluetile.cloud]
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(gynfbtnd393@tmails.net): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989910052351000490</address>\n</body>\n</html>')
-
-[https://moon7.xn--lms17gwych1ah8prxyri0c.xn--55qx5d]
-
-[http://hainiu.shop]
-
-[https://b.bluetile.wang]
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(brtaotmqq656@guerrillamail.de): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989911652351000129</address>\n</body>\n</html>')
-
-[http://moon7.xn--lms17gwych1ah8prxyri0c.xn--55qx5d]
-
-[https://hainiu.shop]
-
-[http://b.bluetile.wang]
-api_host  b.bluetile.wang
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: HTTPSConnectionPool(host='api.mail.gw', port=443): Read timed out. (read timeout=30)
-
-[http://moon8.xn--c-mn0bu59bpi8b.xn--fiqs8s]
-
-[http://www.hainiu.shop]
-
-[https://a.bluetile.wang]
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(cmvoubd378@tmpeml.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989911652351000112</address>\n</body>\n</html>')
-
-[http://a.bluetile.wang]
-api_host  a.bluetile.wang
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(hgadskde640@linshiyou.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989912252351000312</address>\n</body>\n</html>')
-
-[http://my.newbee.shop]
-buy  pass
-email  sxvyprhp575@gmail.com
-name  新蜂
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://my.ndcdd.com/api/v1/client/subscribe?token=44ecf94359dae7c34cdfd02d77c9835f
-time  2025-04-07 09:38:40.817570+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[https://www.hainiu.shop]
-
-[http://hainiu.site]
-
-[https://qw.bluetile.cloud]
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(vdxdrygha116@guerrillamail.org): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989913452351001201</address>\n</body>\n</html>')
-
-[https://qw-ble.02000.net]
-banned_domains  xxxhi.cc  lyx13.xyz
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(mfntvxuyt674@lyx13.xyz)
-
-[https://my3.newbee.shop]
-buy  pass
-email  youulgald190@gmail.com
-name  新蜂
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://my.ndcdd.com/api/v1/client/subscribe?token=499942df8a67a16fe19f0cea73db8f54
-time  2025-04-07 09:38:35.521466+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
+[http://yongjie.tech]
 
-[http://174.139.137.159]
+[https://yongjie.tech]
 
-[https://www.newbee.shop]
+[https://vip4.xm41.com]
 
-[http://bluetile.wang]
+[http://vip4.xm41.com]
 
-[https://bluetile.wang]
+[https://download-vpn.ak005.com]
 
-[http://www.bluetile.wang]
-api_host  www.bluetile.wang
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(qsdunpqq288@sharklasers.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989914464351001101</address>\n</body>\n</html>')
+[http://download-vpn.ak005.com]
 
-[https://www.bluetile.wang]
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(rszkabzvp10@yzm.de): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989914852351000777</address>\n</body>\n</html>')
+[http://xm41.com]
 
-[https://my2.newbee.shop]
-buy  pass
-email  txyiyaaf325@gmail.com
-name  新蜂
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://my.ndcdd.com/api/v1/client/subscribe?token=e6e356eecf62a41c3380764b8ed4369b
-time  2025-04-07 09:38:37.903101+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
+[http://103.118.41.118:10443]
 
-[http://my2.newbee.shop]
-buy  pass
-email  rpkctxe333@gmail.com
-name  新蜂
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://my.ndcdd.com/api/v1/client/subscribe?token=a8513ed456403185e84c9b770e243ea9
-time  2025-04-07 09:38:37.261901+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
+[http://vip6.xm41.com]
 
-[https://mod.newbee.shop]
+[http://43.138.47.84]
 
-[https://my.newbee.shop]
-buy  pass
-email  ddiocull674@gmail.com
-name  新蜂
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://my.ndcdd.com/api/v1/client/subscribe?token=c0ba68b83a9ac6aa5dd99d1c38506056
-time  2025-04-07 09:38:38.199573+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
+[https://xm41.com]
 
-[https://cdn163.dz1066.2223.pub]
+[https://vip5.xm41.com]
 
-[https://cdn91.dz1081.2223.pub]
+[http://vip5.xm41.com]
 
-[https://hn.2223.pub]
+[https://vip3.xm41.com]
 
-[https://pxpx.bluetile.art]
-name  Bluetile.biz
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(cbgudrkhh279@moakt.ws): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 128.85.161.175 (Client) -&gt; (Server)</address>\n<address>Request ID: 1743989915852351000806</address>\n</body>\n</html>')
+[http://vip3.xm41.com]
 
-[https://web2.moon6.xyz]
+[http://103.118.41.118]
 
-[https://v33.sun7.shop]
+[https://vip6.xm41.com]
 
-[http://web2.moon6.xyz]
-name  Moon
-type  v2board
-更新订阅链接/续费续签失败  注册失败(wujzhor591@965.tmmad.com): 邮箱后缀不处于白名单中
+[https://vip2.xm41.com]
 
-[http://103.118.41.118:10002]
+[https://vip1.xm41.com]
 
-[http://www.hainiu.pro]
+[http://vip2.xm41.com]
 
-[https://www.hainiu.pro]
+[http://vip1.xm41.com]
 
-[https://hainiu.pro]
+[http://154.12.37.186:1200]
 
-[http://103.118.41.118:85]
+[https://103.118.41.118]
 
-[https://8.218.184.11]
+[http://205.198.64.233:91]
 
-[https://cdnimg.2933021.xyz]
+[http://205.198.64.233]
 
-[http://18.163.99.2:7001]
-
-[https://anitcloud.art]
-
-[https://www.anitcloud.art]
-
-[http://anitcloud.art]
-
-[http://45.151.132.10]
-
-[http://154.217.93.147:7001]
-
-[http://v66.sun7.shop]
-
-[https://v66.sun7.shop]
-
-[https://api20240106.wangdawohaoaini.com]
-
-[http://api20240106.wangdawohaoaini.com]
-
-[https://45.151.132.10]
-
-[https://flyus.site]
-name  PUSHDOOR
-type  v2board
-更新订阅链接/续费续签失败  注册失败(osjqbncsg616@gmail.com): 'NoneType' object is not subscriptable
-
-[https://sn100.zoooooole.co]
-api_host  ww38.sn100.zoooooole.co
-error  <string>:2 Unexpected "u" at column 14
-type  v2board
-更新订阅链接/续费续签失败  注册失败(txsffmjey61@gmail.com): HTTPSConnectionPool(host='ww38.sn100.zoooooole.co', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ww38.sn100.zoooooole.co'. (_ssl.c:1007)")))
-
-[http://sn100.zoooooole.co]
-api_host  ww38.sn100.zoooooole.co
-error  <string>:2 Unexpected "u" at column 14
-type  v2board
-更新订阅链接/续费续签失败  注册失败(nlmsqskc667@gmail.com): HTTPSConnectionPool(host='ww38.sn100.zoooooole.co', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ww38.sn100.zoooooole.co'. (_ssl.c:1007)")))
-
-[http://hainiu.online:85]
-
-[http://hainiu.shop:85]
-
-[http://163jsq.top:10001]
-
-[https://167.179.72.16]
+[http://hainiu.site:10443]
