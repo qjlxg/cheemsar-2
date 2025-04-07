@@ -1,10 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, tfo: true, type: trojan, password: dd1c7c8d-ecc8-3a20-a1f0-5cf660ca845a, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, tfo: true, type: trojan, password: dd1c7c8d-ecc8-3a20-a1f0-5cf660ca845a, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, tfo: true, type: trojan, password: dd1c7c8d-ecc8-3a20-a1f0-5cf660ca845a, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gy.58n.net, port: 36821, tfo: true, type: trojan, password: dd1c7c8d-ecc8-3a20-a1f0-5cf660ca845a, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, type: trojan, password: 36a196d6-7595-3fa8-9b22-b876fd41d462, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: 36a196d6-7595-3fa8-9b22-b876fd41d462, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, type: trojan, password: 36a196d6-7595-3fa8-9b22-b876fd41d462, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gy.58n.net, port: 36821, type: trojan, password: 36a196d6-7595-3fa8-9b22-b876fd41d462, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼TW TPE TWDS T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 19416, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
 - {name: 🇹🇼TW TPE TWDS T深圳CM 1.2x - PassGFW, server: 183.236.59.92, port: 41018, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
 - {name: 🇹🇼TW TPE TWDS T深圳CM2 1.2x - PassGFW, server: 36.151.192.209, port: 41018, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
