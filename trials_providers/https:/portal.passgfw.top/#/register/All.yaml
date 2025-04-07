@@ -1,0 +1,27 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰HK Akile T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 16732, type: ss, cipher: aes-128-gcm, password: cbd2e07a-af2a-4d7f-8d25-d89c09d8e0b0, udp: true}
+- {name: 🇭🇰HK Akile T深圳临时CM 1.2x - PassGFW, server: 183.236.51.167, port: 55872, type: ss, cipher: aes-128-gcm, password: cbd2e07a-af2a-4d7f-8d25-d89c09d8e0b0, udp: true}
+- {name: 🇭🇰HK Akile T深圳CM 1.2x - PassGFW, server: 183.236.59.92, port: 41124, type: ss, cipher: aes-128-gcm, password: cbd2e07a-af2a-4d7f-8d25-d89c09d8e0b0, udp: true}
+- {name: 🇭🇰HK Akile T深圳CM2 1.2x - PassGFW, server: 36.151.192.209, port: 41124, type: ss, cipher: aes-128-gcm, password: cbd2e07a-af2a-4d7f-8d25-d89c09d8e0b0, udp: true}
+- {name: 🇭🇰HK Akile T长沙CM 1.2x - PassGFW, server: 36.151.251.37, port: 41124, type: ss, cipher: aes-128-gcm, password: cbd2e07a-af2a-4d7f-8d25-d89c09d8e0b0, udp: true}
+- {name: 🇹🇼TW TPE TWDS T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 19416, type: ss, cipher: aes-128-gcm, password: cbd2e07a-af2a-4d7f-8d25-d89c09d8e0b0, udp: true}
+- {name: 🇹🇼TW TPE TWDS T深圳CM 1.2x - PassGFW, server: 183.236.59.92, port: 41018, type: ss, cipher: aes-128-gcm, password: cbd2e07a-af2a-4d7f-8d25-d89c09d8e0b0, udp: true}
+- {name: 🇹🇼TW TPE TWDS T深圳CM2 1.2x - PassGFW, server: 36.151.192.209, port: 41018, type: ss, cipher: aes-128-gcm, password: cbd2e07a-af2a-4d7f-8d25-d89c09d8e0b0, udp: true}
+- {name: 🇹🇼TW TPE TWDS T长沙CM 1.2x - PassGFW, server: 36.151.251.37, port: 14939, type: ss, cipher: aes-128-gcm, password: cbd2e07a-af2a-4d7f-8d25-d89c09d8e0b0, udp: true}
+- {name: '🇹🇼TW TPE TWDS T深圳CT[IPV6] 1.2x - PassGFW', server: 240e:980:9920:313c:1847:6571:98fe:3f72, port: 20308, type: ss, cipher: aes-128-gcm, password: cbd2e07a-af2a-4d7f-8d25-d89c09d8e0b0, udp: true}
+- {name: 🇹🇼TW TPE TWDS T深圳临时CM 1.2x - PassGFW, server: 183.236.51.167, port: 24869, type: ss, cipher: aes-128-gcm, password: cbd2e07a-af2a-4d7f-8d25-d89c09d8e0b0, udp: true}
+- {name: 🇯🇵JP Akile T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 45790, type: ss, cipher: aes-128-gcm, password: cbd2e07a-af2a-4d7f-8d25-d89c09d8e0b0, udp: true}
+- {name: '🇯🇵JP Akile T深圳CT[IPV6] 1.2x - PassGFW', server: 240e:980:9920:313c:1847:6571:98fe:3f72, port: 35471, type: ss, cipher: aes-128-gcm, password: cbd2e07a-af2a-4d7f-8d25-d89c09d8e0b0, udp: true}
+- {name: 🇯🇵JP Akile T长沙CM 1.2x - PassGFW, server: 36.151.251.37, port: 16127, type: ss, cipher: aes-128-gcm, password: cbd2e07a-af2a-4d7f-8d25-d89c09d8e0b0, udp: true}
+- {name: 🇯🇵JP Akile T深圳临时CM 1.2x - PassGFW, server: 183.236.51.167, port: 35454, type: ss, cipher: aes-128-gcm, password: cbd2e07a-af2a-4d7f-8d25-d89c09d8e0b0, udp: true}
+- {name: 🇸🇬SG Akile T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 16732, type: ss, cipher: aes-128-gcm, password: cbd2e07a-af2a-4d7f-8d25-d89c09d8e0b0, udp: true}
+- {name: 🇸🇬SG Constant T深圳CM 1.2x - PassGFW, server: 183.236.59.92, port: 51410, type: ss, cipher: aes-128-gcm, password: cbd2e07a-af2a-4d7f-8d25-d89c09d8e0b0, udp: true}
+- {name: 🇸🇬SG Constant T深圳CM2 1.2x - PassGFW, server: 36.151.192.209, port: 51410, type: ss, cipher: aes-128-gcm, password: cbd2e07a-af2a-4d7f-8d25-d89c09d8e0b0, udp: true}
+- {name: 🇯🇵JP Osaka Choopa T深圳临时CM 1.2x - PassGFW, server: 183.236.51.167, port: 35145, type: ss, cipher: aes-128-gcm, password: cbd2e07a-af2a-4d7f-8d25-d89c09d8e0b0, udp: true}
+- {name: 🇯🇵JP Osaka Choopa T深圳CM 1.2x - PassGFW, server: 183.236.59.92, port: 22947, type: ss, cipher: aes-128-gcm, password: cbd2e07a-af2a-4d7f-8d25-d89c09d8e0b0, udp: true}
+- {name: 🇯🇵JP Osaka Choopa T深圳CM2 1.2x - PassGFW, server: 36.151.192.209, port: 22947, type: ss, cipher: aes-128-gcm, password: cbd2e07a-af2a-4d7f-8d25-d89c09d8e0b0, udp: true}
+- {name: 🇸🇬SG Akile T深圳CM 1.2x - PassGFW, server: 183.236.59.92, port: 50563, type: ss, cipher: aes-128-gcm, password: cbd2e07a-af2a-4d7f-8d25-d89c09d8e0b0, udp: true}
+- {name: 🇸🇬SG Akile T深圳CM2 1.2x - PassGFW, server: 36.151.192.209, port: 50563, type: ss, cipher: aes-128-gcm, password: cbd2e07a-af2a-4d7f-8d25-d89c09d8e0b0, udp: true}
+- {name: 🇸🇬SG Akile T长沙CM - PassGFW, server: 36.151.251.37, port: 60912, type: ss, cipher: aes-128-gcm, password: cbd2e07a-af2a-4d7f-8d25-d89c09d8e0b0, udp: true}
