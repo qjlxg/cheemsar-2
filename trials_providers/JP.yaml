@@ -12,14 +12,14 @@ proxies:
 - {name: 🇯🇵 日本•高速59•青铜 - 飞翔吧, server: gy.58n.net, port: 20059, type: trojan, password: 36a196d6-7595-3fa8-9b22-b876fd41d462, sni: x59.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速71•高速 - 飞翔吧, server: gy.58n.net, port: 20071, type: trojan, password: 36a196d6-7595-3fa8-9b22-b876fd41d462, sni: x71.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速76•高速 - 飞翔吧, server: gy.58n.net, port: 20076, type: trojan, password: 36a196d6-7595-3fa8-9b22-b876fd41d462, sni: x76.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 54.178.237.21, port: 443, tfo: true, type: trojan, password: 7dc34ee6-d3aa-32bc-8663-51d4249d5c97, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.77.24.250, port: 443, tfo: true, type: trojan, password: 7dc34ee6-d3aa-32bc-8663-51d4249d5c97, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.anewstart.cyou, port: 5061, type: vmess, uuid: 25209016-ca62-3737-b006-7929f167f449, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.anewstart.cyou, port: 5061, type: vmess, uuid: 25209016-ca62-3737-b006-7929f167f449, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵JP Akile T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 45790, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: '🇯🇵JP Akile T深圳CT[IPV6] 1.2x - PassGFW', server: 240e:980:9920:313c:1847:6571:98fe:3f72, port: 35471, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇯🇵JP Akile T长沙CM 1.2x - PassGFW, server: 36.151.251.37, port: 16127, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇯🇵JP Akile T深圳临时CM 1.2x - PassGFW, server: 183.236.51.167, port: 35454, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇯🇵JP Osaka Choopa T深圳临时CM 1.2x - PassGFW, server: 183.236.51.167, port: 35145, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇯🇵JP Osaka Choopa T深圳CM 1.2x - PassGFW, server: 183.236.59.92, port: 22947, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇯🇵JP Osaka Choopa T深圳CM2 1.2x - PassGFW, server: 36.151.192.209, port: 22947, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
+- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 54.178.237.21, port: 443, type: trojan, password: 7dc34ee6-d3aa-32bc-8663-51d4249d5c97, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.77.24.250, port: 443, type: trojan, password: 7dc34ee6-d3aa-32bc-8663-51d4249d5c97, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.anewstart.cyou, port: 5061, type: vmess, uuid: 475f4bd7-2ee5-335e-80ca-3c2293716afa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.anewstart.cyou, port: 5061, type: vmess, uuid: 475f4bd7-2ee5-335e-80ca-3c2293716afa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵JP Akile T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 45790, tfo: true, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
+- {name: '🇯🇵JP Akile T深圳CT[IPV6] 1.2x - PassGFW', server: 240e:980:9920:313c:1847:6571:98fe:3f72, port: 35471, tfo: true, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
+- {name: 🇯🇵JP Akile T长沙CM 1.2x - PassGFW, server: 36.151.251.37, port: 16127, tfo: true, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
+- {name: 🇯🇵JP Akile T深圳临时CM 1.2x - PassGFW, server: 183.236.51.167, port: 35454, tfo: true, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
+- {name: 🇯🇵JP Osaka Choopa T深圳临时CM 1.2x - PassGFW, server: 183.236.51.167, port: 35145, tfo: true, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
+- {name: 🇯🇵JP Osaka Choopa T深圳CM 1.2x - PassGFW, server: 183.236.59.92, port: 22947, tfo: true, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
+- {name: 🇯🇵JP Osaka Choopa T深圳CM2 1.2x - PassGFW, server: 36.151.192.209, port: 22947, tfo: true, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
