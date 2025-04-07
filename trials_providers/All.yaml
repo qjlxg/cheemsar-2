@@ -1,57 +1,49 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ️ 1最新网址xingoogle1.cc - 新谷歌, server: freen.san95.xyz, port: 41503, type: vmess, uuid: 54a02ac0-e4df-39c9-a5db-8965aa4a555a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: freen.san95.xyz, udp: true}
-- {name: 🇹🇼 台TW10|2x - 新谷歌, server: n10.xingoooogle.xyz, port: 41510, type: vmess, uuid: 54a02ac0-e4df-39c9-a5db-8965aa4a555a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇹🇼 台TW9|1x - 新谷歌, server: twn.xinnn.cc, port: 41509, type: vmess, uuid: 54a02ac0-e4df-39c9-a5db-8965aa4a555a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: twn.xinnn.cc, udp: true}
-- {name: 🇸🇬 新SG20|2x - 新谷歌, server: n20.xingoooogle.xyz, port: 41520, type: vmess, uuid: 54a02ac0-e4df-39c9-a5db-8965aa4a555a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇸🇬 新SG21|2x - 新谷歌, server: n21.xingoooogle.xyz, port: 41521, type: vmess, uuid: 54a02ac0-e4df-39c9-a5db-8965aa4a555a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇯🇵 日JP11|2x - 新谷歌, server: n11.xingoooogle.xyz, port: 41511, type: vmess, uuid: 54a02ac0-e4df-39c9-a5db-8965aa4a555a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇯🇵 日JP12|2x - 新谷歌, server: n12.xingoooogle.xyz, port: 41512, type: vmess, uuid: 54a02ac0-e4df-39c9-a5db-8965aa4a555a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇯🇵 日JP13|2x - 新谷歌, server: n13.xingoooogle.xyz, port: 41513, type: vmess, uuid: 54a02ac0-e4df-39c9-a5db-8965aa4a555a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇭🇰 港HK16|2x - 新谷歌, server: n16.xingoooogle.xyz, port: 41516, type: vmess, uuid: 54a02ac0-e4df-39c9-a5db-8965aa4a555a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇭🇰 港HK17|2x - 新谷歌, server: n17.xingoooogle.xyz, port: 41517, type: vmess, uuid: 54a02ac0-e4df-39c9-a5db-8965aa4a555a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇭🇰 港HK18|3x - 新谷歌, server: n18.xingoooogle.xyz, port: 41518, type: vmess, uuid: 54a02ac0-e4df-39c9-a5db-8965aa4a555a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇭🇰 港HK19|3x - 新谷歌, server: n19.xingoooogle.xyz, port: 41519, type: vmess, uuid: 54a02ac0-e4df-39c9-a5db-8965aa4a555a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇺🇸 美US22|2x - 新谷歌, server: n22.xingoooogle.xyz, port: 41522, type: vmess, uuid: 54a02ac0-e4df-39c9-a5db-8965aa4a555a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇺🇸 美US23|2x - 新谷歌, server: n23.xingoooogle.xyz, port: 41523, type: vmess, uuid: 54a02ac0-e4df-39c9-a5db-8965aa4a555a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇺🇸 美US4|1x - 新谷歌, server: n4.xingoooogle.xyz, port: 41504, type: vmess, uuid: 54a02ac0-e4df-39c9-a5db-8965aa4a555a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: n4.xingoooogle.xyz, udp: true}
-- {name: 🇺🇸 美US5|2x - 新谷歌, server: n5.xingoooogle.xyz, port: 41505, type: vmess, uuid: 54a02ac0-e4df-39c9-a5db-8965aa4a555a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇺🇸 美US6|2x - 新谷歌, server: n6.xingoooogle.xyz, port: 41506, type: vmess, uuid: 54a02ac0-e4df-39c9-a5db-8965aa4a555a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇺🇸 美US7|2x - 新谷歌, server: n7.xingoooogle.xyz, port: 41507, type: vmess, uuid: 54a02ac0-e4df-39c9-a5db-8965aa4a555a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇺🇸 美US8|2x - 新谷歌, server: n8.xingoooogle.xyz, port: 41508, type: vmess, uuid: 54a02ac0-e4df-39c9-a5db-8965aa4a555a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇬🇧 英UK24|2x - 新谷歌, server: n24.xingoooogle.xyz, port: 41524, type: vmess, uuid: 54a02ac0-e4df-39c9-a5db-8965aa4a555a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇭🇰HK Akile T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 16732, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇭🇰HK Akile T深圳临时CM 1.2x - PassGFW, server: 183.236.51.167, port: 55872, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇭🇰HK Akile T深圳CM 1.2x - PassGFW, server: 183.236.59.92, port: 41124, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇭🇰HK Akile T深圳CM2 1.2x - PassGFW, server: 36.151.192.209, port: 41124, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇭🇰HK Akile T长沙CM 1.2x - PassGFW, server: 36.151.251.37, port: 41124, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇹🇼TW TPE TWDS T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 19416, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇹🇼TW TPE TWDS T深圳CM 1.2x - PassGFW, server: 183.236.59.92, port: 41018, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇹🇼TW TPE TWDS T深圳CM2 1.2x - PassGFW, server: 36.151.192.209, port: 41018, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇹🇼TW TPE TWDS T长沙CM 1.2x - PassGFW, server: 36.151.251.37, port: 14939, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: '🇹🇼TW TPE TWDS T深圳CT[IPV6] 1.2x - PassGFW', server: 240e:980:9920:313c:1847:6571:98fe:3f72, port: 20308, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇹🇼TW TPE TWDS T深圳临时CM 1.2x - PassGFW, server: 183.236.51.167, port: 24869, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇯🇵JP Akile T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 45790, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: '🇯🇵JP Akile T深圳CT[IPV6] 1.2x - PassGFW', server: 240e:980:9920:313c:1847:6571:98fe:3f72, port: 35471, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇯🇵JP Akile T长沙CM 1.2x - PassGFW, server: 36.151.251.37, port: 16127, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇯🇵JP Akile T深圳临时CM 1.2x - PassGFW, server: 183.236.51.167, port: 35454, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇸🇬SG Akile T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 16732, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇸🇬SG Constant T深圳CM 1.2x - PassGFW, server: 183.236.59.92, port: 51410, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇸🇬SG Constant T深圳CM2 1.2x - PassGFW, server: 36.151.192.209, port: 51410, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇯🇵JP Osaka Choopa T深圳临时CM 1.2x - PassGFW, server: 183.236.51.167, port: 35145, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇯🇵JP Osaka Choopa T深圳CM 1.2x - PassGFW, server: 183.236.59.92, port: 22947, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇯🇵JP Osaka Choopa T深圳CM2 1.2x - PassGFW, server: 36.151.192.209, port: 22947, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇸🇬SG Akile T深圳CM 1.2x - PassGFW, server: 183.236.59.92, port: 50563, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇸🇬SG Akile T深圳CM2 1.2x - PassGFW, server: 36.151.192.209, port: 50563, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: 🇸🇬SG Akile T长沙CM - PassGFW, server: 36.151.251.37, port: 60912, type: ss, cipher: aes-128-gcm, password: 1b3185a2-eca9-4bcf-ab6a-e0967984d8b9, udp: true}
-- {name: '[1]› VNPT - VPN Panel', server: dns.zenpn.com, port: 443, type: trojan, password: 2cfcca24-26c1-4cb5-b191-b1a1fb8fe3cd, sni: csapp.catch.net.tw, skip-cert-verify: true, udp: true}
-- {name: '🇹🇱 [2]› sing TLS - VPN Panel', server: 15.235.142.32, port: 443, type: trojan, password: 2cfcca24-26c1-4cb5-b191-b1a1fb8fe3cd, sni: csapp.catch.net.tw, skip-cert-verify: true, udp: true}
-- {name: '[3]› SING 2 - VPN Panel', server: 146.190.94.237, port: 443, type: trojan, password: 2cfcca24-26c1-4cb5-b191-b1a1fb8fe3cd, sni: csapp.catch.net.tw, skip-cert-verify: true, udp: true}
-- {name: '🇹🇱 [4]› VPN PRO 1 TLS - VPN Panel', server: 103.232.120.151, port: 443, type: trojan, password: 2cfcca24-26c1-4cb5-b191-b1a1fb8fe3cd, sni: csapp.catch.net.tw, skip-cert-verify: true, udp: true}
-- {name: '[5]› VPN PRO 2 - VPN Panel', server: 160.30.45.47, port: 443, type: vmess, uuid: 2cfcca24-26c1-4cb5-b191-b1a1fb8fe3cd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /d2, headers: {Host: csapp.catch.net.tw}}, udp: true}
-- {name: '[6]› VPN PRO 3 - VPN Panel', server: 160.30.45.47, port: 443, type: vmess, uuid: 2cfcca24-26c1-4cb5-b191-b1a1fb8fe3cd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /443d2, headers: {Host: csapp.catch.net.tw}}, udp: true}
-- {name: '[7]› Server 1 - VPN Panel', server: tw1.zenpn.com, port: 443, type: trojan, password: 2cfcca24-26c1-4cb5-b191-b1a1fb8fe3cd, sni: csapp.catch.net.tw, skip-cert-verify: true, udp: true}
-- {name: '[8]› Server 2 - VPN Panel', server: twdns1.zenpn.com, port: 443, type: trojan, password: 2cfcca24-26c1-4cb5-b191-b1a1fb8fe3cd, sni: csapp.catch.net.tw, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国01_免费 - 山海, server: us01.sh-cloudflare.sbs, port: 8443, type: vmess, uuid: 47f9db95-fe8f-4d72-a616-c2e666036c3e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us01.sh-cloudflare.sbs, network: ws, ws-opts: {path: /, headers: {Host: us01.sh-cloudflare.sbs}}, udp: true}
-- {name: 🇩🇪 德国01_免费 - 山海, server: de01.sh-cloudflare.sbs, port: 2096, type: vmess, uuid: 47f9db95-fe8f-4d72-a616-c2e666036c3e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: de01.sh-cloudflare.sbs, network: ws, ws-opts: {path: /, headers: {Host: de01.sh-cloudflare.sbs}}, udp: true}
+- &id001 {name: 🇺🇸 美国01_免费 - 山海, server: us01.sh-cloudflare.sbs, port: 8443, type: vmess, uuid: 38995fe6-43cb-490d-aaa6-23a670ef1f19, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us01.sh-cloudflare.sbs, network: ws, ws-opts: {path: /, headers: {Host: us01.sh-cloudflare.sbs}}, udp: true}
+- &id002 {name: 🇩🇪 德国01_免费 - 山海, server: de01.sh-cloudflare.sbs, port: 2096, type: vmess, uuid: 38995fe6-43cb-490d-aaa6-23a670ef1f19, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: de01.sh-cloudflare.sbs, network: ws, ws-opts: {path: /, headers: {Host: de01.sh-cloudflare.sbs}}, udp: true}
+- *id001
+- *id002
+- *id001
+- *id002
+- *id001
+- *id002
+- *id001
+- *id002
+- *id001
+- *id002
+- *id001
+- *id002
+- *id001
+- *id002
+- *id001
+- *id002
+- *id001
+- *id002
+- *id001
+- *id002
+- *id001
+- *id002
+- *id001
+- *id002
+- *id001
+- *id002
+- *id001
+- *id002
+- *id001
+- *id002
+- *id001
+- *id002
+- *id001
+- *id002
+- *id001
+- *id002
+- *id001
+- *id002
+- *id001
+- *id002
+- *id001
+- *id002
+- *id001
+- *id002
