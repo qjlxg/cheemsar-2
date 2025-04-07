@@ -1,0 +1,79 @@
+[portal.passgfw.top]
+buy  pass
+email  tiejrhrwm549@gmail.com
+name  PassGFW
+sub_url  https://sub.flygfw.top/HonkaiStarRail/c6ad6f1dedd1f1c58516efc993b774e7
+time  2025-04-07 15:09:17.798417+08:00
+type  v2board
+获取订阅失败  (https://portal.passgfw.top/HonkaiStarRail/c6ad6f1dedd1f1c58516efc993b774e7): 403 Forbidden '{"message":"Account unavailable"}'
+
+[shopvpn.net]
+api_host  ban4g.com
+buy  period=month_price&plan_id=29
+email  aglpajyi367@gmail.com
+name  VPN Panel
+node_n  8
+sub_info  0B  100G  2025-05-07 15:09:21+08:00  (剩余 100G 29 days, 23:59:55.202725)
+sub_url  https://ban4g.com/api/v1/client/subscribe?token=87b42a50c830a579042b414091dc2c58
+time  2025-04-07 15:09:22.505367+08:00
+type  v2board
+
+[xingoogle.com]
+auto_invite  F
+buy  pass
+email  gmhjmzsy314@gmail.com
+last_checkin  2025-04-07 15:09:18.098677+08:00
+name  新谷歌
+node_n  20
+sub_info  0B  2G  2025-04-14 15:09:17+08:00  (剩余 2G 6 days, 23:59:54.322126)
+sub_url  https://haoyong0.top/link/615gFi9NuOJHkqGj?sub=3
+time  2025-04-07 15:09:21.126083+08:00
+type  sspanel
+
+[www.jwfree.us]
+name  JWFREE
+type  v2board
+更新订阅链接/续费续签失败  注册失败(jwgxysyuz834@gmail.com): 'NoneType' object is not subscriptable
+
+[www.f2ray.com]
+banned_domains  sharklasers.com
+name  F2ray
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱验证码超时(ldthxkjut278@sharklasers.com)
+
+[shanhai.me]
+buy  pass
+email  qkixrtbv216@gmail.com
+name  山海
+node_n  2
+sub_info  0B  10G  2125-03-14 15:09:18+08:00  (剩余 10G 36499 days, 23:59:55.411922)
+sub_url  https://link08.shanhai.me/api/v1/client/subscribe?token=78f4fdf44b19c469fee11d49a7c8c618
+time  2025-04-07 15:09:19.393773+08:00
+type  v2board
+
+[w2.ddnsgo.xyz]
+api_host  go.runba.cyou
+name  V2free
+type  sspanel
+更新订阅链接/续费续签失败  获取邮箱失败: HTTPSConnectionPool(host='rootsh.com', port=443): Read timed out. (read timeout=30)
+
+[https://my.emovpns.top]
+name  EMO
+type  v2board
+更新订阅链接/续费续签失败  can only concatenate str (not "NoneType") to str
+
+[https://vvs.e54.site]
+buy  period=onetime_price&plan_id=2
+email  vaeuqdhy83@gmail.com
+name  七点公益
+node_n  27
+sub_info  0B  50G  永不过期  (剩余 50G)
+sub_url  https://xqsub.e54.site/api/v1/client/subscribe?token=696d9939e9e4725426a777e0cec6a0b7
+time  2025-04-07 15:09:18.080752+08:00
+type  v2board
+
+[http://ywl.201593.xyz]
+api_host  ywl.201593.xyz
+name  星月夜微澜
+type  v2board
+更新订阅链接/续费续签失败  注册失败(zoqshbn838@gmail.com): 'NoneType' object is not subscriptable

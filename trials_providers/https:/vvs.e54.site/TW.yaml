@@ -1,5 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾家宽直连 20x - 七点公益, server: hinetiw0k.yooddns.stream, port: 26900, type: ss, cipher: chacha20-ietf-poly1305, password: 6ebf4e69-9d02-4903-8bab-8e8a96cd35a9, udp: true}
-- {name: 🇹🇼 台湾原生100x - 七点公益, server: bookmyshow.com, port: 443, type: vmess, uuid: 6ebf4e69-9d02-4903-8bab-8e8a96cd35a9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: twys.kejixiaoqi666.store, network: ws, ws-opts: {path: /, headers: {Host: twys.kejixiaoqi666.store}}, udp: true}
+- {name: 🇹🇼 台湾家宽直连 20x - 七点公益, server: hinetiw0k.yooddns.stream, port: 26900, type: ss, cipher: chacha20-ietf-poly1305, password: 339b1f27-bf63-403d-94df-a04abe1d2466, udp: true}

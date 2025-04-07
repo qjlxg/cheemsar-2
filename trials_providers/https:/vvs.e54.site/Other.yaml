@@ -1,6 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇪🇸 西班牙极速 - 七点公益, server: wenxiaohong.9sjd2dkesl2.shop, port: 26888, type: ss, cipher: chacha20-ietf-poly1305, password: 6ebf4e69-9d02-4903-8bab-8e8a96cd35a9, udp: true}
-- {name: ℹ️ 官网：vvs.e54.site - 七点公益, server: bestcf.mfwl.art, port: 443, type: vmess, uuid: 6ebf4e69-9d02-4903-8bab-8e8a96cd35a9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xjpmo.xiaoqi555.xyz, network: ws, ws-opts: {path: /, headers: {Host: xjpmo.xiaoqi555.xyz}}, udp: true}
-- {name: 🇪🇸西班牙 - 七点公益, server: time.is, port: 80, type: vmess, uuid: 6ebf4e69-9d02-4903-8bab-8e8a96cd35a9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: xby.xiaoqi555.xyz}}, udp: true}
+- {name: 🇦🇪 迪拜 - 七点公益, server: time.is, port: 80, type: vmess, uuid: 339b1f27-bf63-403d-94df-a04abe1d2466, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: dibai.xiaoqi555.xyz}}, udp: true}
+- {name: 🇫🇷 法国大革命 - 七点公益, server: time.is, port: 80, type: vmess, uuid: 339b1f27-bf63-403d-94df-a04abe1d2466, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: faguo111.xiaoqi555.xyz}}, udp: true}
+- {name: 🇫🇷 法国 - 七点公益, server: time.is, port: 80, type: vmess, uuid: 339b1f27-bf63-403d-94df-a04abe1d2466, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: faguo.xiaoqi555.xyz}}, udp: true}
+- {name: ℹ️ 官网：vvs.e54.site - 七点公益, server: bestcf.mfwl.art, port: 443, type: vmess, uuid: 339b1f27-bf63-403d-94df-a04abe1d2466, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xjpmo.xiaoqi555.xyz, network: ws, ws-opts: {path: /, headers: {Host: xjpmo.xiaoqi555.xyz}}, udp: true}
+- {name: 🇪🇸西班牙 - 七点公益, server: time.is, port: 80, type: vmess, uuid: 339b1f27-bf63-403d-94df-a04abe1d2466, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: xby.xiaoqi555.xyz}}, udp: true}
