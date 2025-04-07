@@ -29,17 +29,37 @@ proxy-groups:
   - REJECT
 - name: ⚡ ‍低延迟
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id001
-  - HK
-  - TW
-  - SG
-  - JP
-  - US
-  - Other
+  proxies: &id001
+  - 🇭🇰香港01 - 主页 | OKANC 全球网络加速代理服务
+  - 🇭🇰香港02 - 主页 | OKANC 全球网络加速代理服务
+  - 🇭🇰香港03 - 主页 | OKANC 全球网络加速代理服务
+  - 🇹🇼台湾01 - 主页 | OKANC 全球网络加速代理服务
+  - 🇹🇼台湾02 - 主页 | OKANC 全球网络加速代理服务
+  - 🇹🇼台湾03 - 主页 | OKANC 全球网络加速代理服务
+  - 🇸🇬新加坡01 - 主页 | OKANC 全球网络加速代理服务
+  - 🇸🇬新加坡02 - 主页 | OKANC 全球网络加速代理服务
+  - 🇸🇬新加坡03 - 主页 | OKANC 全球网络加速代理服务
+  - 🇯🇵日本01 - 主页 | OKANC 全球网络加速代理服务
+  - 🇯🇵日本02 - 主页 | OKANC 全球网络加速代理服务
+  - 🇯🇵日本03 - 主页 | OKANC 全球网络加速代理服务
+  - 🇺🇸美国01 - 主页 | OKANC 全球网络加速代理服务
+  - 🇺🇸美国02 - 主页 | OKANC 全球网络加速代理服务
+  - 🇺🇸美国03 - 主页 | OKANC 全球网络加速代理服务
+  - 🇰🇷韩国01 - 主页 | OKANC 全球网络加速代理服务
+  - 🇰🇷韩国02 - 主页 | OKANC 全球网络加速代理服务
+  - 🇰🇷韩国03 - 主页 | OKANC 全球网络加速代理服务
+  - 🇲🇾马来西亚 - 主页 | OKANC 全球网络加速代理服务
+  - 🇹🇭泰国 - 主页 | OKANC 全球网络加速代理服务
+  - 🇻🇳越南 - 主页 | OKANC 全球网络加速代理服务
+  - 🇵🇭菲律宾 - 主页 | OKANC 全球网络加速代理服务
+  - 🇹🇷土耳其 - 主页 | OKANC 全球网络加速代理服务
+  - 🇨🇳永久地址：www.okanc.com - 主页 | OKANC 全球网络加速代理服务
 - name: 👆🏻 ‍指定
   type: select
-  use: *id001
+  proxies: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -88,116 +108,122 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id002
-  - HK
+  proxies: &id002
+  - 🇭🇰香港01 - 主页 | OKANC 全球网络加速代理服务
+  - 🇭🇰香港02 - 主页 | OKANC 全球网络加速代理服务
+  - 🇭🇰香港03 - 主页 | OKANC 全球网络加速代理服务
 - name: 🇹🇼 ‍台湾
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id003
-  - TW
+  proxies: &id003
+  - 🇹🇼台湾01 - 主页 | OKANC 全球网络加速代理服务
+  - 🇹🇼台湾02 - 主页 | OKANC 全球网络加速代理服务
+  - 🇹🇼台湾03 - 主页 | OKANC 全球网络加速代理服务
 - name: 🇨🇳 ‍中国
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id004
-  - HK
-  - TW
+  proxies: &id004
+  - 🇭🇰香港01 - 主页 | OKANC 全球网络加速代理服务
+  - 🇭🇰香港02 - 主页 | OKANC 全球网络加速代理服务
+  - 🇭🇰香港03 - 主页 | OKANC 全球网络加速代理服务
+  - 🇹🇼台湾01 - 主页 | OKANC 全球网络加速代理服务
+  - 🇹🇼台湾02 - 主页 | OKANC 全球网络加速代理服务
+  - 🇹🇼台湾03 - 主页 | OKANC 全球网络加速代理服务
+  - 🇨🇳永久地址：www.okanc.com - 主页 | OKANC 全球网络加速代理服务
 - name: 🇸🇬 ‍新加坡
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id005
-  - SG
+  proxies: &id005
+  - 🇸🇬新加坡01 - 主页 | OKANC 全球网络加速代理服务
+  - 🇸🇬新加坡02 - 主页 | OKANC 全球网络加速代理服务
+  - 🇸🇬新加坡03 - 主页 | OKANC 全球网络加速代理服务
 - name: 🇯🇵 ‍日本
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id006
-  - JP
+  proxies: &id006
+  - 🇯🇵日本01 - 主页 | OKANC 全球网络加速代理服务
+  - 🇯🇵日本02 - 主页 | OKANC 全球网络加速代理服务
+  - 🇯🇵日本03 - 主页 | OKANC 全球网络加速代理服务
 - name: 🇺🇸 ‍美国
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 300
-  use: &id007
-  - US
+  proxies: &id007
+  - 🇺🇸美国01 - 主页 | OKANC 全球网络加速代理服务
+  - 🇺🇸美国02 - 主页 | OKANC 全球网络加速代理服务
+  - 🇺🇸美国03 - 主页 | OKANC 全球网络加速代理服务
 - name: 🎏 ‍其他
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id008
-  - Other
+  proxies: &id008
+  - 🇰🇷韩国01 - 主页 | OKANC 全球网络加速代理服务
+  - 🇰🇷韩国02 - 主页 | OKANC 全球网络加速代理服务
+  - 🇰🇷韩国03 - 主页 | OKANC 全球网络加速代理服务
+  - 🇲🇾马来西亚 - 主页 | OKANC 全球网络加速代理服务
+  - 🇹🇭泰国 - 主页 | OKANC 全球网络加速代理服务
+  - 🇻🇳越南 - 主页 | OKANC 全球网络加速代理服务
+  - 🇵🇭菲律宾 - 主页 | OKANC 全球网络加速代理服务
+  - 🇹🇷土耳其 - 主页 | OKANC 全球网络加速代理服务
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  use: *id002
+  proxies: *id002
 - name: 👆🏻🇹🇼 ‍台湾
   type: select
-  use: *id003
+  proxies: *id003
 - name: 👆🏻🇨🇳 ‍中国
   type: select
-  use: *id004
+  proxies: *id004
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  use: *id005
+  proxies: *id005
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  use: *id006
+  proxies: *id006
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  use: *id007
+  proxies: *id007
 - name: 👆🏻🎏 ‍其他
   type: select
-  use: *id008
-proxy-providers:
-  HK:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/cokecloud.net/HK.yaml
-    interval: 180
-    path: trials_providers/cokecloud.net/HK.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  TW:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/cokecloud.net/TW.yaml
-    interval: 180
-    path: trials_providers/cokecloud.net/TW.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  SG:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/cokecloud.net/SG.yaml
-    interval: 180
-    path: trials_providers/cokecloud.net/SG.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  JP:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/cokecloud.net/JP.yaml
-    interval: 180
-    path: trials_providers/cokecloud.net/JP.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  US:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/cokecloud.net/US.yaml
-    interval: 180
-    path: trials_providers/cokecloud.net/US.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  Other:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/cokecloud.net/Other.yaml
-    interval: 180
-    path: trials_providers/cokecloud.net/Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
+  proxies: *id008
+proxies:
+- {name: 🇭🇰香港01 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21101, type: ss, cipher: chacha20-ietf-poly1305, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
+- {name: 🇭🇰香港02 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21102, type: ss, cipher: chacha20-ietf-poly1305, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
+- {name: 🇭🇰香港03 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21103, type: ss, cipher: chacha20-ietf-poly1305, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
+- {name: 🇺🇸美国01 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21104, type: ss, cipher: chacha20-ietf-poly1305, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
+- {name: 🇺🇸美国02 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21105, type: ss, cipher: chacha20-ietf-poly1305, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
+- {name: 🇺🇸美国03 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21106, type: ss, cipher: chacha20-ietf-poly1305, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
+- {name: 🇯🇵日本01 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21107, type: ss, cipher: aes-256-gcm, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
+- {name: 🇯🇵日本02 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21108, type: ss, cipher: aes-256-gcm, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
+- {name: 🇯🇵日本03 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21109, type: ss, cipher: aes-256-gcm, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
+- {name: 🇹🇼台湾01 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21110, type: ss, cipher: chacha20-ietf-poly1305, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
+- {name: 🇹🇼台湾02 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21111, type: ss, cipher: chacha20-ietf-poly1305, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
+- {name: 🇹🇼台湾03 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21112, type: ss, cipher: chacha20-ietf-poly1305, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
+- {name: 🇸🇬新加坡01 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21113, type: ss, cipher: aes-256-gcm, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
+- {name: 🇸🇬新加坡02 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21114, type: ss, cipher: aes-256-gcm, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
+- {name: 🇸🇬新加坡03 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21115, type: ss, cipher: aes-256-gcm, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
+- {name: 🇰🇷韩国01 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 23116, type: ss, cipher: aes-256-gcm, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
+- {name: 🇰🇷韩国02 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 23117, type: ss, cipher: aes-256-gcm, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
+- {name: 🇰🇷韩国03 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 23118, type: ss, cipher: aes-256-gcm, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
+- {name: 🇲🇾马来西亚 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 23201, type: ss, cipher: aes-256-gcm, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
+- {name: 🇹🇭泰国 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 23203, type: ss, cipher: aes-256-gcm, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
+- {name: 🇻🇳越南 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 23205, type: ss, cipher: aes-256-gcm, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
+- {name: 🇵🇭菲律宾 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 23207, type: ss, cipher: aes-256-gcm, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
+- {name: 🇹🇷土耳其 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 23209, type: ss, cipher: aes-256-gcm, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
+- {name: 🇨🇳永久地址：www.okanc.com - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21101, type: ss, cipher: chacha20-ietf-poly1305, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
