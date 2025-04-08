@@ -1,0 +1,8 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇦🇪 迪拜 - 七点公益, server: time.is, port: 80, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: dibai.xiaoqi555.xyz}}, udp: true}
+- {name: 🇫🇷 法国大革命 - 七点公益, server: time.is, port: 80, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: faguo111.xiaoqi555.xyz}}, udp: true}
+- {name: 🇫🇷 法国 - 七点公益, server: time.is, port: 80, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: faguo.xiaoqi555.xyz}}, udp: true}
+- {name: ℹ️ 官网：vvs.e54.site - 七点公益, server: bestcf.mfwl.art, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xjpmo.xiaoqi555.xyz, network: ws, ws-opts: {path: /, headers: {Host: xjpmo.xiaoqi555.xyz}}, udp: true}
+- {name: 🇪🇸西班牙 - 七点公益, server: time.is, port: 80, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: xby.xiaoqi555.xyz}}, udp: true}

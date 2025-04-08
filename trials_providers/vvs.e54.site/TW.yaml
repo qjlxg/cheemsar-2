@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇹🇼 台湾家宽直连 20x - 七点公益, server: hinetiw0k.yooddns.stream, port: 26900, type: ss, cipher: chacha20-ietf-poly1305, password: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, udp: true}

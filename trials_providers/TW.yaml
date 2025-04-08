@@ -1,6 +1,10 @@
 %YAML 1.1
 ---
 proxies:
+- {name: 🇹🇼 台TW10|2x - 新谷歌, server: n10.xingoooogle.xyz, port: 41510, type: vmess, uuid: e02be10d-e369-32b6-a5a7-59e36edbed14, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: 🇹🇼 台TW9|1x - 新谷歌, server: twn.xinnn.cc, port: 41509, type: vmess, uuid: e02be10d-e369-32b6-a5a7-59e36edbed14, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: twn.xinnn.cc, udp: true}
 - {name: 🇹🇼台湾01 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21110, type: ss, cipher: chacha20-ietf-poly1305, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
 - {name: 🇹🇼台湾02 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21111, type: ss, cipher: chacha20-ietf-poly1305, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
 - {name: 🇹🇼台湾03 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21112, type: ss, cipher: chacha20-ietf-poly1305, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
+- {name: 🇹🇼 台湾家宽直连 20x - 七点公益, server: hinetiw0k.yooddns.stream, port: 26900, type: ss, cipher: chacha20-ietf-poly1305, password: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 3a358fef-96dd-3761-9347-51fb4654bd08, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}

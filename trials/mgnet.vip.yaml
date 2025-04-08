@@ -15,14 +15,12 @@ proxy-groups:
   - 🇹🇼 ‍台湾
   - 🇨🇳 ‍中国
   - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
@@ -33,94 +31,16 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇭🇰 港HK16|2x - 新谷歌
-  - 🇭🇰 港HK17|2x - 新谷歌
-  - 🇭🇰 港HK18|3x - 新谷歌
-  - 🇭🇰 港HK19|3x - 新谷歌
-  - 🇭🇰香港01 - 主页 | OKANC 全球网络加速代理服务
-  - 🇭🇰香港02 - 主页 | OKANC 全球网络加速代理服务
-  - 🇭🇰香港03 - 主页 | OKANC 全球网络加速代理服务
-  - 🇭🇰香港家宽HKT 10x - 七点公益
-  - 🇭🇰香港家宽HGC 10x - 七点公益
-  - 🇭🇰香港1 - 七点公益
-  - 🇭🇰香港3 - 七点公益
-  - 🇭🇰香港2 - 七点公益
-  - 🇭🇰香港家宽hkbn 10x - 七点公益
   - 🇭🇰 [vip①]①香港 - MG Network
-  - 🇹🇼 台TW10|2x - 新谷歌
-  - 🇹🇼 台TW9|1x - 新谷歌
-  - 🇹🇼台湾01 - 主页 | OKANC 全球网络加速代理服务
-  - 🇹🇼台湾02 - 主页 | OKANC 全球网络加速代理服务
-  - 🇹🇼台湾03 - 主页 | OKANC 全球网络加速代理服务
-  - 🇹🇼 台湾家宽直连 20x - 七点公益
   - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network
-  - 🇸🇬 新SG20|2x - 新谷歌
-  - 🇸🇬 新SG21|2x - 新谷歌
-  - 🇸🇬新加坡01 - 主页 | OKANC 全球网络加速代理服务
-  - 🇸🇬新加坡02 - 主页 | OKANC 全球网络加速代理服务
-  - 🇸🇬新加坡03 - 主页 | OKANC 全球网络加速代理服务
-  - 🇸🇬 新加坡CF - 七点公益
   - 🇸🇬 [vip①]②新加坡 - MG Network
-  - 🇯🇵 日JP11|2x - 新谷歌
-  - 🇯🇵 日JP12|2x - 新谷歌
-  - 🇯🇵 日JP13|2x - 新谷歌
-  - 🇯🇵日本01 - 主页 | OKANC 全球网络加速代理服务
-  - 🇯🇵日本02 - 主页 | OKANC 全球网络加速代理服务
-  - 🇯🇵日本03 - 主页 | OKANC 全球网络加速代理服务
-  - 🇯🇵 日本极速 500x - 七点公益
-  - 🇯🇵 日本vultr1 - 七点公益
-  - 🇯🇵 日本vultr2 - 七点公益
-  - 🇯🇵 日本vultr3 - 七点公益
-  - 🇯🇵 日本v - 七点公益
-  - 🇯🇵日本大板 - 七点公益
-  - 🇯🇵 日本1 移动高速 - 七点公益
-  - 🇯🇵 日本 AWS *3 - 独孤乐天
-  - 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天
-  - 🇺🇸 美US22|2x - 新谷歌
-  - 🇺🇸 美US23|2x - 新谷歌
-  - 🇺🇸 美US4|1x - 新谷歌
-  - 🇺🇸 美US5|2x - 新谷歌
-  - 🇺🇸 美US6|2x - 新谷歌
-  - 🇺🇸 美US7|2x - 新谷歌
-  - 🇺🇸 美US8|2x - 新谷歌
-  - 🇺🇸美国01 - 主页 | OKANC 全球网络加速代理服务
-  - 🇺🇸美国02 - 主页 | OKANC 全球网络加速代理服务
-  - 🇺🇸美国03 - 主页 | OKANC 全球网络加速代理服务
-  - 🇺🇸圣何塞4 - 七点公益
-  - 🇺🇸圣何塞3 - 七点公益
-  - 🇺🇸圣何塞2 - 七点公益
-  - 🇺🇸圣何塞1 - 七点公益
-  - 🇺🇸圣何塞5 - 七点公益
-  - 🇺🇸 美国CF - 七点公益
-  - 🇺🇸美国无敌 5x - 七点公益
-  - 🇺🇸 美国 AWS *1 - 独孤乐天
-  - 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天
-  - 🇺🇸 美国01_免费 - 山海
   - 🇺🇸 [vip①]美国1 - MG Network
-  - ℹ️ 1最新网址xingoogle1.cc - 新谷歌
-  - 🇬🇧 英UK24|2x - 新谷歌
-  - 🇰🇷韩国01 - 主页 | OKANC 全球网络加速代理服务
-  - 🇰🇷韩国02 - 主页 | OKANC 全球网络加速代理服务
-  - 🇰🇷韩国03 - 主页 | OKANC 全球网络加速代理服务
-  - 🇲🇾马来西亚 - 主页 | OKANC 全球网络加速代理服务
-  - 🇹🇭泰国 - 主页 | OKANC 全球网络加速代理服务
-  - 🇻🇳越南 - 主页 | OKANC 全球网络加速代理服务
-  - 🇵🇭菲律宾 - 主页 | OKANC 全球网络加速代理服务
-  - 🇹🇷土耳其 - 主页 | OKANC 全球网络加速代理服务
-  - 🇦🇪 迪拜 - 七点公益
-  - 🇫🇷 法国大革命 - 七点公益
-  - 🇫🇷 法国 - 七点公益
-  - ℹ️ 官网：vvs.e54.site - 七点公益
-  - 🇪🇸西班牙 - 七点公益
-  - Gói của bạn đã hết hạn - VPN Panel
-  - 🇩🇪 德国01_免费 - 山海
   - 🇮🇳 [vip①]印度1 - MG Network
   - 🇩🇪 [vip①]德国1 - MG Network
   - 🇩🇪 [vip①]德国2 - MG Network
   - 🇬🇧 [vip①]英国1 - MG Network
   - 🇬🇧 [vip①]英国2 - MG Network
   - 🇰🇷 [vip①]韩国1 - MG Network
-  - 🇨🇳永久地址：www.okanc.com - 主页 | OKANC 全球网络加速代理服务
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -154,13 +74,11 @@ proxy-groups:
   - 🇺🇸 ‍美国
   - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
   - 🎏 ‍其他
   - ✈️ ‍起飞
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
@@ -176,19 +94,6 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
-  - 🇭🇰 港HK16|2x - 新谷歌
-  - 🇭🇰 港HK17|2x - 新谷歌
-  - 🇭🇰 港HK18|3x - 新谷歌
-  - 🇭🇰 港HK19|3x - 新谷歌
-  - 🇭🇰香港01 - 主页 | OKANC 全球网络加速代理服务
-  - 🇭🇰香港02 - 主页 | OKANC 全球网络加速代理服务
-  - 🇭🇰香港03 - 主页 | OKANC 全球网络加速代理服务
-  - 🇭🇰香港家宽HKT 10x - 七点公益
-  - 🇭🇰香港家宽HGC 10x - 七点公益
-  - 🇭🇰香港1 - 七点公益
-  - 🇭🇰香港3 - 七点公益
-  - 🇭🇰香港2 - 七点公益
-  - 🇭🇰香港家宽hkbn 10x - 七点公益
   - 🇭🇰 [vip①]①香港 - MG Network
 - name: 🇹🇼 ‍台湾
   type: url-test
@@ -196,12 +101,6 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id003
-  - 🇹🇼 台TW10|2x - 新谷歌
-  - 🇹🇼 台TW9|1x - 新谷歌
-  - 🇹🇼台湾01 - 主页 | OKANC 全球网络加速代理服务
-  - 🇹🇼台湾02 - 主页 | OKANC 全球网络加速代理服务
-  - 🇹🇼台湾03 - 主页 | OKANC 全球网络加速代理服务
-  - 🇹🇼 台湾家宽直连 20x - 七点公益
   - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network
 - name: 🇨🇳 ‍中国
   type: url-test
@@ -209,112 +108,28 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id004
-  - 🇭🇰 港HK16|2x - 新谷歌
-  - 🇭🇰 港HK17|2x - 新谷歌
-  - 🇭🇰 港HK18|3x - 新谷歌
-  - 🇭🇰 港HK19|3x - 新谷歌
-  - 🇭🇰香港01 - 主页 | OKANC 全球网络加速代理服务
-  - 🇭🇰香港02 - 主页 | OKANC 全球网络加速代理服务
-  - 🇭🇰香港03 - 主页 | OKANC 全球网络加速代理服务
-  - 🇭🇰香港家宽HKT 10x - 七点公益
-  - 🇭🇰香港家宽HGC 10x - 七点公益
-  - 🇭🇰香港1 - 七点公益
-  - 🇭🇰香港3 - 七点公益
-  - 🇭🇰香港2 - 七点公益
-  - 🇭🇰香港家宽hkbn 10x - 七点公益
   - 🇭🇰 [vip①]①香港 - MG Network
-  - 🇹🇼 台TW10|2x - 新谷歌
-  - 🇹🇼 台TW9|1x - 新谷歌
-  - 🇹🇼台湾01 - 主页 | OKANC 全球网络加速代理服务
-  - 🇹🇼台湾02 - 主页 | OKANC 全球网络加速代理服务
-  - 🇹🇼台湾03 - 主页 | OKANC 全球网络加速代理服务
-  - 🇹🇼 台湾家宽直连 20x - 七点公益
   - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network
-  - 🇨🇳永久地址：www.okanc.com - 主页 | OKANC 全球网络加速代理服务
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id005
-  - 🇸🇬 新SG20|2x - 新谷歌
-  - 🇸🇬 新SG21|2x - 新谷歌
-  - 🇸🇬新加坡01 - 主页 | OKANC 全球网络加速代理服务
-  - 🇸🇬新加坡02 - 主页 | OKANC 全球网络加速代理服务
-  - 🇸🇬新加坡03 - 主页 | OKANC 全球网络加速代理服务
-  - 🇸🇬 新加坡CF - 七点公益
   - 🇸🇬 [vip①]②新加坡 - MG Network
-- name: 🇯🇵 ‍日本
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id006
-  - 🇯🇵 日JP11|2x - 新谷歌
-  - 🇯🇵 日JP12|2x - 新谷歌
-  - 🇯🇵 日JP13|2x - 新谷歌
-  - 🇯🇵日本01 - 主页 | OKANC 全球网络加速代理服务
-  - 🇯🇵日本02 - 主页 | OKANC 全球网络加速代理服务
-  - 🇯🇵日本03 - 主页 | OKANC 全球网络加速代理服务
-  - 🇯🇵 日本极速 500x - 七点公益
-  - 🇯🇵 日本vultr1 - 七点公益
-  - 🇯🇵 日本vultr2 - 七点公益
-  - 🇯🇵 日本vultr3 - 七点公益
-  - 🇯🇵 日本v - 七点公益
-  - 🇯🇵日本大板 - 七点公益
-  - 🇯🇵 日本1 移动高速 - 七点公益
-  - 🇯🇵 日本 AWS *3 - 独孤乐天
-  - 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
-  proxies: &id007
-  - 🇺🇸 美US22|2x - 新谷歌
-  - 🇺🇸 美US23|2x - 新谷歌
-  - 🇺🇸 美US4|1x - 新谷歌
-  - 🇺🇸 美US5|2x - 新谷歌
-  - 🇺🇸 美US6|2x - 新谷歌
-  - 🇺🇸 美US7|2x - 新谷歌
-  - 🇺🇸 美US8|2x - 新谷歌
-  - 🇺🇸美国01 - 主页 | OKANC 全球网络加速代理服务
-  - 🇺🇸美国02 - 主页 | OKANC 全球网络加速代理服务
-  - 🇺🇸美国03 - 主页 | OKANC 全球网络加速代理服务
-  - 🇺🇸圣何塞4 - 七点公益
-  - 🇺🇸圣何塞3 - 七点公益
-  - 🇺🇸圣何塞2 - 七点公益
-  - 🇺🇸圣何塞1 - 七点公益
-  - 🇺🇸圣何塞5 - 七点公益
-  - 🇺🇸 美国CF - 七点公益
-  - 🇺🇸美国无敌 5x - 七点公益
-  - 🇺🇸 美国 AWS *1 - 独孤乐天
-  - 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天
-  - 🇺🇸 美国01_免费 - 山海
+  proxies: &id006
   - 🇺🇸 [vip①]美国1 - MG Network
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 100
-  proxies: &id008
-  - ℹ️ 1最新网址xingoogle1.cc - 新谷歌
-  - 🇬🇧 英UK24|2x - 新谷歌
-  - 🇰🇷韩国01 - 主页 | OKANC 全球网络加速代理服务
-  - 🇰🇷韩国02 - 主页 | OKANC 全球网络加速代理服务
-  - 🇰🇷韩国03 - 主页 | OKANC 全球网络加速代理服务
-  - 🇲🇾马来西亚 - 主页 | OKANC 全球网络加速代理服务
-  - 🇹🇭泰国 - 主页 | OKANC 全球网络加速代理服务
-  - 🇻🇳越南 - 主页 | OKANC 全球网络加速代理服务
-  - 🇵🇭菲律宾 - 主页 | OKANC 全球网络加速代理服务
-  - 🇹🇷土耳其 - 主页 | OKANC 全球网络加速代理服务
-  - 🇦🇪 迪拜 - 七点公益
-  - 🇫🇷 法国大革命 - 七点公益
-  - 🇫🇷 法国 - 七点公益
-  - ℹ️ 官网：vvs.e54.site - 七点公益
-  - 🇪🇸西班牙 - 七点公益
-  - Gói của bạn đã hết hạn - VPN Panel
-  - 🇩🇪 德国01_免费 - 山海
+  proxies: &id007
   - 🇮🇳 [vip①]印度1 - MG Network
   - 🇩🇪 [vip①]德国1 - MG Network
   - 🇩🇪 [vip①]德国2 - MG Network
@@ -333,104 +148,23 @@ proxy-groups:
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
   proxies: *id005
-- name: 👆🏻🇯🇵 ‍日本
-  type: select
-  proxies: *id006
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id007
+  proxies: *id006
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id008
+  proxies: *id007
 proxies:
-- {name: 🇺🇸 美US22|2x - 新谷歌, server: n22.xingoooogle.xyz, port: 41522, type: vmess, uuid: e02be10d-e369-32b6-a5a7-59e36edbed14, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇺🇸 美US23|2x - 新谷歌, server: n23.xingoooogle.xyz, port: 41523, type: vmess, uuid: e02be10d-e369-32b6-a5a7-59e36edbed14, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇺🇸 美US4|1x - 新谷歌, server: n4.xingoooogle.xyz, port: 41504, type: vmess, uuid: e02be10d-e369-32b6-a5a7-59e36edbed14, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: n4.xingoooogle.xyz, udp: true}
-- {name: 🇺🇸 美US5|2x - 新谷歌, server: n5.xingoooogle.xyz, port: 41505, type: vmess, uuid: e02be10d-e369-32b6-a5a7-59e36edbed14, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇺🇸 美US6|2x - 新谷歌, server: n6.xingoooogle.xyz, port: 41506, type: vmess, uuid: e02be10d-e369-32b6-a5a7-59e36edbed14, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇺🇸 美US7|2x - 新谷歌, server: n7.xingoooogle.xyz, port: 41507, type: vmess, uuid: e02be10d-e369-32b6-a5a7-59e36edbed14, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇺🇸 美US8|2x - 新谷歌, server: n8.xingoooogle.xyz, port: 41508, type: vmess, uuid: e02be10d-e369-32b6-a5a7-59e36edbed14, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇹🇼 台TW10|2x - 新谷歌, server: n10.xingoooogle.xyz, port: 41510, type: vmess, uuid: e02be10d-e369-32b6-a5a7-59e36edbed14, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇹🇼 台TW9|1x - 新谷歌, server: twn.xinnn.cc, port: 41509, type: vmess, uuid: e02be10d-e369-32b6-a5a7-59e36edbed14, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: twn.xinnn.cc, udp: true}
-- {name: 🇸🇬 新SG20|2x - 新谷歌, server: n20.xingoooogle.xyz, port: 41520, type: vmess, uuid: e02be10d-e369-32b6-a5a7-59e36edbed14, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇸🇬 新SG21|2x - 新谷歌, server: n21.xingoooogle.xyz, port: 41521, type: vmess, uuid: e02be10d-e369-32b6-a5a7-59e36edbed14, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: ℹ️ 1最新网址xingoogle1.cc - 新谷歌, server: freen.san95.xyz, port: 41503, type: vmess, uuid: e02be10d-e369-32b6-a5a7-59e36edbed14, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: freen.san95.xyz, udp: true}
-- {name: 🇬🇧 英UK24|2x - 新谷歌, server: n24.xingoooogle.xyz, port: 41524, type: vmess, uuid: e02be10d-e369-32b6-a5a7-59e36edbed14, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇭🇰 港HK16|2x - 新谷歌, server: n16.xingoooogle.xyz, port: 41516, type: vmess, uuid: e02be10d-e369-32b6-a5a7-59e36edbed14, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇭🇰 港HK17|2x - 新谷歌, server: n17.xingoooogle.xyz, port: 41517, type: vmess, uuid: e02be10d-e369-32b6-a5a7-59e36edbed14, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇭🇰 港HK18|3x - 新谷歌, server: n18.xingoooogle.xyz, port: 41518, type: vmess, uuid: e02be10d-e369-32b6-a5a7-59e36edbed14, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇭🇰 港HK19|3x - 新谷歌, server: n19.xingoooogle.xyz, port: 41519, type: vmess, uuid: e02be10d-e369-32b6-a5a7-59e36edbed14, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇯🇵 日JP11|2x - 新谷歌, server: n11.xingoooogle.xyz, port: 41511, type: vmess, uuid: e02be10d-e369-32b6-a5a7-59e36edbed14, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇯🇵 日JP12|2x - 新谷歌, server: n12.xingoooogle.xyz, port: 41512, type: vmess, uuid: e02be10d-e369-32b6-a5a7-59e36edbed14, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇯🇵 日JP13|2x - 新谷歌, server: n13.xingoooogle.xyz, port: 41513, type: vmess, uuid: e02be10d-e369-32b6-a5a7-59e36edbed14, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇺🇸美国01 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21104, type: ss, cipher: chacha20-ietf-poly1305, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
-- {name: 🇺🇸美国02 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21105, type: ss, cipher: chacha20-ietf-poly1305, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
-- {name: 🇺🇸美国03 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21106, type: ss, cipher: chacha20-ietf-poly1305, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
-- {name: 🇹🇼台湾01 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21110, type: ss, cipher: chacha20-ietf-poly1305, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
-- {name: 🇹🇼台湾02 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21111, type: ss, cipher: chacha20-ietf-poly1305, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
-- {name: 🇹🇼台湾03 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21112, type: ss, cipher: chacha20-ietf-poly1305, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
-- {name: 🇸🇬新加坡01 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21113, type: ss, cipher: aes-256-gcm, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
-- {name: 🇸🇬新加坡02 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21114, type: ss, cipher: aes-256-gcm, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
-- {name: 🇸🇬新加坡03 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21115, type: ss, cipher: aes-256-gcm, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
-- {name: 🇰🇷韩国01 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 23116, type: ss, cipher: aes-256-gcm, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
-- {name: 🇰🇷韩国02 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 23117, type: ss, cipher: aes-256-gcm, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
-- {name: 🇰🇷韩国03 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 23118, type: ss, cipher: aes-256-gcm, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
-- {name: 🇲🇾马来西亚 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 23201, type: ss, cipher: aes-256-gcm, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
-- {name: 🇹🇭泰国 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 23203, type: ss, cipher: aes-256-gcm, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
-- {name: 🇻🇳越南 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 23205, type: ss, cipher: aes-256-gcm, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
-- {name: 🇵🇭菲律宾 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 23207, type: ss, cipher: aes-256-gcm, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
-- {name: 🇹🇷土耳其 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 23209, type: ss, cipher: aes-256-gcm, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
-- {name: 🇭🇰香港01 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21101, type: ss, cipher: chacha20-ietf-poly1305, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
-- {name: 🇭🇰香港02 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21102, type: ss, cipher: chacha20-ietf-poly1305, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
-- {name: 🇭🇰香港03 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21103, type: ss, cipher: chacha20-ietf-poly1305, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
-- {name: 🇯🇵日本01 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21107, type: ss, cipher: aes-256-gcm, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
-- {name: 🇯🇵日本02 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21108, type: ss, cipher: aes-256-gcm, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
-- {name: 🇯🇵日本03 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21109, type: ss, cipher: aes-256-gcm, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
-- {name: 🇨🇳永久地址：www.okanc.com - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21101, type: ss, cipher: chacha20-ietf-poly1305, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
-- {name: 🇺🇸圣何塞4 - 七点公益, server: xiaoqi.yangmie.online, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: shs111.kejixiaoqi666.store, network: ws, ws-opts: {path: /, headers: {Host: shs111.kejixiaoqi666.store}}, udp: true}
-- {name: 🇺🇸圣何塞3 - 七点公益, server: bestcf.top, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: shs111.kejixiaoqi666.store, network: ws, ws-opts: {path: /, headers: {Host: shs111.kejixiaoqi666.store}}, udp: true}
-- {name: 🇺🇸圣何塞2 - 七点公益, server: bestcf.mfwl.art, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: shs111.kejixiaoqi666.store, network: ws, ws-opts: {path: /, headers: {Host: shs111.kejixiaoqi666.store}}, udp: true}
-- {name: 🇺🇸圣何塞1 - 七点公益, server: 443ip.yangmie.online, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: shs111.kejixiaoqi666.store, network: ws, ws-opts: {path: /, headers: {Host: shs111.kejixiaoqi666.store}}, udp: true}
-- {name: 🇺🇸圣何塞5 - 七点公益, server: time.is, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: shs111.kejixiaoqi666.store, network: ws, ws-opts: {path: /, headers: {Host: shs111.kejixiaoqi666.store}}, udp: true}
-- {name: 🇺🇸 美国CF - 七点公益, server: time.is, port: 80, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /xiaoqi, headers: {Host: mgus2.zhousi.link}}, udp: true}
-- {name: 🇺🇸美国无敌 5x - 七点公益, server: time.is, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: usby.xiaoqi666.xyz, network: ws, ws-opts: {path: /, headers: {Host: usby.xiaoqi666.xyz}}, udp: true}
-- {name: 🇹🇼 台湾家宽直连 20x - 七点公益, server: hinetiw0k.yooddns.stream, port: 26900, type: ss, cipher: chacha20-ietf-poly1305, password: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, udp: true}
-- {name: 🇸🇬 新加坡CF - 七点公益, server: time.is, port: 80, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mgsg2.zhousi.link}}, udp: true}
-- {name: 🇦🇪 迪拜 - 七点公益, server: time.is, port: 80, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: dibai.xiaoqi555.xyz}}, udp: true}
-- {name: 🇫🇷 法国大革命 - 七点公益, server: time.is, port: 80, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: faguo111.xiaoqi555.xyz}}, udp: true}
-- {name: 🇫🇷 法国 - 七点公益, server: time.is, port: 80, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: faguo.xiaoqi555.xyz}}, udp: true}
-- {name: ℹ️ 官网：vvs.e54.site - 七点公益, server: bestcf.mfwl.art, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xjpmo.xiaoqi555.xyz, network: ws, ws-opts: {path: /, headers: {Host: xjpmo.xiaoqi555.xyz}}, udp: true}
-- {name: 🇪🇸西班牙 - 七点公益, server: time.is, port: 80, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: xby.xiaoqi555.xyz}}, udp: true}
-- {name: 🇭🇰香港家宽HKT 10x - 七点公益, server: time.is, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hkt.xiaoqi555.xyz, network: ws, ws-opts: {path: /, headers: {Host: hkt.xiaoqi555.xyz}}, udp: true}
-- {name: 🇭🇰香港家宽HGC 10x - 七点公益, server: time.is, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hgc.xiaoqi555.xyz, network: ws, ws-opts: {path: /, headers: {Host: hgc.xiaoqi555.xyz}}, udp: true}
-- {name: 🇭🇰香港1 - 七点公益, server: time.is, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hky.xiaoqi666.xyz, network: ws, ws-opts: {path: /, headers: {Host: hky.xiaoqi666.xyz}}, udp: true}
-- {name: 🇭🇰香港3 - 七点公益, server: bevent.bilibili.tv, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hky.xiaoqi666.xyz, network: ws, ws-opts: {path: /, headers: {Host: hky.xiaoqi666.xyz}}, udp: true}
-- {name: 🇭🇰香港2 - 七点公益, server: bestcf.top, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hky.xiaoqi666.xyz, network: ws, ws-opts: {path: /, headers: {Host: hky.xiaoqi666.xyz}}, udp: true}
-- {name: 🇭🇰香港家宽hkbn 10x - 七点公益, server: time.is, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hkbn.xiaoqi555.xyz, network: ws, ws-opts: {path: /, headers: {Host: hkbn.xiaoqi555.xyz}}, udp: true}
-- {name: 🇯🇵 日本极速 500x - 七点公益, server: 1c4.bulldognet-dstat.uk, port: 45679, type: ss, cipher: chacha20-ietf-poly1305, password: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, udp: true}
-- {name: 🇯🇵 日本vultr1 - 七点公益, server: www.visa.com, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jpv.xiaoqi555.xyz, network: ws, ws-opts: {path: /, headers: {Host: jpv.xiaoqi555.xyz}}, udp: true}
-- {name: 🇯🇵 日本vultr2 - 七点公益, server: bestcf.mfwl.art, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jpv.xiaoqi555.xyz, network: ws, ws-opts: {path: /, headers: {Host: jpv.xiaoqi555.xyz}}, udp: true}
-- {name: 🇯🇵 日本vultr3 - 七点公益, server: time.is, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jpv.xiaoqi555.xyz, network: ws, ws-opts: {path: /, headers: {Host: jpv.xiaoqi555.xyz}}, udp: true}
-- {name: 🇯🇵 日本v - 七点公益, server: bookmyshow.com, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jpv.xiaoqi555.xyz, network: ws, ws-opts: {path: /, headers: {Host: jpv.xiaoqi555.xyz}}, udp: true}
-- {name: 🇯🇵日本大板 - 七点公益, server: time.is, port: 80, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: daban2g.xiaoqi555.xyz}}, udp: true}
-- {name: 🇯🇵 日本1 移动高速 - 七点公益, server: 2603:c023:f:8000:e61:f5f8:ac0f:a617, port: 58199, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 AWS *1 - 独孤乐天, server: us-1.anewstart.cyou, port: 5061, type: vmess, uuid: 053cec75-bebe-3f48-b5bf-67670df8b2cc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天, server: us6-1.anewstart.cyou, port: 5061, type: vmess, uuid: 053cec75-bebe-3f48-b5bf-67670df8b2cc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.anewstart.cyou, port: 5061, type: vmess, uuid: 053cec75-bebe-3f48-b5bf-67670df8b2cc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.anewstart.cyou, port: 5061, type: vmess, uuid: 053cec75-bebe-3f48-b5bf-67670df8b2cc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: Gói của bạn đã hết hạn - VPN Panel, server: https://ban4g.com, port: 443, type: vmess, uuid: uuid-uuid-uuid-uuid-uuid, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国01_免费 - 山海, server: us01.sh-cloudflare.sbs, port: 8443, type: vmess, uuid: 84c34bbb-e178-4ea5-9b6a-88b37483c0c9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us01.sh-cloudflare.sbs, network: ws, ws-opts: {path: /, headers: {Host: us01.sh-cloudflare.sbs}}, udp: true}
-- {name: 🇩🇪 德国01_免费 - 山海, server: de01.sh-cloudflare.sbs, port: 2096, type: vmess, uuid: 84c34bbb-e178-4ea5-9b6a-88b37483c0c9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: de01.sh-cloudflare.sbs, network: ws, ws-opts: {path: /, headers: {Host: de01.sh-cloudflare.sbs}}, udp: true}
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 3a358fef-96dd-3761-9347-51fb4654bd08, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
-- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 3a358fef-96dd-3761-9347-51fb4654bd08, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
+- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 3a358fef-96dd-3761-9347-51fb4654bd08, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
 - {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 3a358fef-96dd-3761-9347-51fb4654bd08, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
 - {name: '🇮🇳 [vip①]印度1 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: 3a358fef-96dd-3761-9347-51fb4654bd08, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.mamamajd.site}}, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 3a358fef-96dd-3761-9347-51fb4654bd08, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
 - {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: 3a358fef-96dd-3761-9347-51fb4654bd08, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.mamamajd.site}}, udp: true}
 - {name: '🇩🇪 [vip①]德国2 - MG Network', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: 3a358fef-96dd-3761-9347-51fb4654bd08, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 18.mamamajd.site}}, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 3a358fef-96dd-3761-9347-51fb4654bd08, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
 - {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: 3a358fef-96dd-3761-9347-51fb4654bd08, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 5.mamamajd.site}}, udp: true}
 - {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: 3a358fef-96dd-3761-9347-51fb4654bd08, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 13.mamamajd.site}}, udp: true}
 - {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 3a358fef-96dd-3761-9347-51fb4654bd08, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.mamamajd.site}}, udp: true}
-- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 3a358fef-96dd-3761-9347-51fb4654bd08, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

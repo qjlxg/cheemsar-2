@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: Gói của bạn đã hết hạn - VPN Panel, server: https://ban4g.com, port: 443, type: vmess, uuid: uuid-uuid-uuid-uuid-uuid, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

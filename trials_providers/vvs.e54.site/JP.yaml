@@ -1,12 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日JP11|2x - 新谷歌, server: n11.xingoooogle.xyz, port: 41511, type: vmess, uuid: e02be10d-e369-32b6-a5a7-59e36edbed14, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇯🇵 日JP12|2x - 新谷歌, server: n12.xingoooogle.xyz, port: 41512, type: vmess, uuid: e02be10d-e369-32b6-a5a7-59e36edbed14, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇯🇵 日JP13|2x - 新谷歌, server: n13.xingoooogle.xyz, port: 41513, type: vmess, uuid: e02be10d-e369-32b6-a5a7-59e36edbed14, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇯🇵日本01 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21107, type: ss, cipher: aes-256-gcm, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
-- {name: 🇯🇵日本02 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21108, type: ss, cipher: aes-256-gcm, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
-- {name: 🇯🇵日本03 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21109, type: ss, cipher: aes-256-gcm, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
 - {name: 🇯🇵 日本极速 500x - 七点公益, server: 1c4.bulldognet-dstat.uk, port: 45679, type: ss, cipher: chacha20-ietf-poly1305, password: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, udp: true}
 - {name: 🇯🇵 日本vultr1 - 七点公益, server: www.visa.com, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jpv.xiaoqi555.xyz, network: ws, ws-opts: {path: /, headers: {Host: jpv.xiaoqi555.xyz}}, udp: true}
 - {name: 🇯🇵 日本vultr2 - 七点公益, server: bestcf.mfwl.art, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jpv.xiaoqi555.xyz, network: ws, ws-opts: {path: /, headers: {Host: jpv.xiaoqi555.xyz}}, udp: true}
@@ -14,5 +8,3 @@ proxies:
 - {name: 🇯🇵 日本v - 七点公益, server: bookmyshow.com, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jpv.xiaoqi555.xyz, network: ws, ws-opts: {path: /, headers: {Host: jpv.xiaoqi555.xyz}}, udp: true}
 - {name: 🇯🇵日本大板 - 七点公益, server: time.is, port: 80, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: daban2g.xiaoqi555.xyz}}, udp: true}
 - {name: 🇯🇵 日本1 移动高速 - 七点公益, server: 2603:c023:f:8000:e61:f5f8:ac0f:a617, port: 58199, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.anewstart.cyou, port: 5061, type: vmess, uuid: 053cec75-bebe-3f48-b5bf-67670df8b2cc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.anewstart.cyou, port: 5061, type: vmess, uuid: 053cec75-bebe-3f48-b5bf-67670df8b2cc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
