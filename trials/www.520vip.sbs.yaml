@@ -11,10 +11,6 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
-  - 🇺🇸 ‍美国
-  - 🎏 ‍其他
-  - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - DIRECT
   - REJECT
 - name: ⚡ ‍低延迟
@@ -23,18 +19,6 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇺🇸 D-美国-3|USA-3 - JZ Speed Cloud
-  - 🇺🇸 D-美国-7|USA-7 - JZ Speed Cloud
-  - 🇺🇸 D-美国-3|USA-3 - JZ Speed Cloud
-  - 🇺🇸 D-美国-7|USA-7 - JZ Speed Cloud
-  - ℹ️ 1.续费官网https://qinqin2022.com - 520
-  - ℹ️ 2.qq群1017197334(售后续费） - 520
-  - ℹ️ 1.续费官网https://qinqin2022.com - 520
-  - ℹ️ 2.qq群1017197334(售后续费） - 520
-  - ℹ️ 1.续费官网https://qinqin2022.com - 520
-  - ℹ️ 2.qq群1017197334(售后续费） - 520
-  - ℹ️ 1.续费官网https://qinqin2022.com - 520
-  - ℹ️ 2.qq群1017197334(售后续费） - 520
   - ℹ️ 1.续费官网https://qinqin2022.com - 520
   - ℹ️ 2.qq群1017197334(售后续费） - 520
 - name: 👆🏻 ‍指定
@@ -61,11 +45,7 @@ proxy-groups:
 - name: 🤖 ‍AI
   type: select
   proxies:
-  - 🇺🇸 ‍美国
-  - 🎏 ‍其他
   - ✈️ ‍起飞
-  - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -74,43 +54,9 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇺🇸 ‍美国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 300
-  proxies: &id002
-  - 🇺🇸 D-美国-3|USA-3 - JZ Speed Cloud
-  - 🇺🇸 D-美国-7|USA-7 - JZ Speed Cloud
-  - 🇺🇸 D-美国-3|USA-3 - JZ Speed Cloud
-  - 🇺🇸 D-美国-7|USA-7 - JZ Speed Cloud
-- name: 🎏 ‍其他
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 100
-  proxies: &id003
-  - ℹ️ 1.续费官网https://qinqin2022.com - 520
-  - ℹ️ 2.qq群1017197334(售后续费） - 520
-  - ℹ️ 1.续费官网https://qinqin2022.com - 520
-  - ℹ️ 2.qq群1017197334(售后续费） - 520
-  - ℹ️ 1.续费官网https://qinqin2022.com - 520
-  - ℹ️ 2.qq群1017197334(售后续费） - 520
-  - ℹ️ 1.续费官网https://qinqin2022.com - 520
-  - ℹ️ 2.qq群1017197334(售后续费） - 520
-  - ℹ️ 1.续费官网https://qinqin2022.com - 520
-  - ℹ️ 2.qq群1017197334(售后续费） - 520
-- name: 👆🏻🇺🇸 ‍美国
-  type: select
-  proxies: *id002
-- name: 👆🏻🎏 ‍其他
-  type: select
-  proxies: *id003
 proxies:
-- {name: 🇺🇸 D-美国-3|USA-3 - JZ Speed Cloud, server: dns3.speeddns.xyz, port: 10301, type: ssr, cipher: chacha20-ietf, password: f7wGPZRd1otw, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 6479:bW6TT8, obfs-param: 3e5ae6479.microsoft.com, udp: true}
-- {name: 🇺🇸 D-美国-7|USA-7 - JZ Speed Cloud, server: dns3.speeddns.xyz, port: 10229, type: ssr, cipher: chacha20-ietf, password: f7wGPZRd1otw, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 6479:bW6TT8, obfs-param: 3e5ae6479.microsoft.com, udp: true}
-- {name: ℹ️ 1.续费官网https://qinqin2022.com - 520, server: 1.1.1.1, port: 31500, type: ssr, cipher: chacha20, password: CnBwof, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 10848:ANqws8, obfs-param: 250d310848.microsoft.com, udp: true}
-- {name: ℹ️ 2.qq群1017197334(售后续费） - 520, server: 959732781, port: 31500, type: ssr, cipher: chacha20, password: CnBwof, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 10848:ANqws8, obfs-param: 250d310848.microsoft.com, udp: true}
+- {name: ℹ️ 1.续费官网https://qinqin2022.com - 520, server: 1.1.1.1, port: 31500, type: ssr, cipher: chacha20, password: CnBwof, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 10849:9IDWkq, obfs-param: b251010849.microsoft.com, udp: true}
+- {name: ℹ️ 2.qq群1017197334(售后续费） - 520, server: 959732781, port: 31500, type: ssr, cipher: chacha20, password: CnBwof, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 10849:9IDWkq, obfs-param: b251010849.microsoft.com, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
