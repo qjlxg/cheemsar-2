@@ -1,0 +1,16 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰香港01 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21101, type: ss, cipher: chacha20-ietf-poly1305, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇭🇰香港02 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21102, type: ss, cipher: chacha20-ietf-poly1305, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇭🇰香港03 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21103, type: ss, cipher: chacha20-ietf-poly1305, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇹🇼台湾01 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21110, type: ss, cipher: chacha20-ietf-poly1305, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇹🇼台湾02 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21111, type: ss, cipher: chacha20-ietf-poly1305, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇹🇼台湾03 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21112, type: ss, cipher: chacha20-ietf-poly1305, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇨🇳永久地址：www.okanc.com - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21101, type: ss, cipher: chacha20-ietf-poly1305, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: '🇭🇰 香港[01] - Heima', server: pop.05e2a910-30aa-49b7-8a4c-c548745c3a2d.heima360.cc, port: 443, type: trojan, password: e2d960f6-5cb1-48a8-81dd-8a39903b6bc0, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 香港[04]中转 - Heima', server: vip.baima360.com, port: 65519, type: ss, cipher: chacha20-ietf-poly1305, password: e2d960f6-5cb1-48a8-81dd-8a39903b6bc0, udp: true}
+- {name: '🇭🇰 香港[05]中转 - Heima', server: vip.baima360.com, port: 36511, type: ss, cipher: chacha20-ietf-poly1305, password: e2d960f6-5cb1-48a8-81dd-8a39903b6bc0, udp: true}
+- {name: '🇭🇰 香港[07]中转 - Heima', server: vip.baima360.com, port: 36214, type: ss, cipher: chacha20-ietf-poly1305, password: e2d960f6-5cb1-48a8-81dd-8a39903b6bc0, udp: true}
+- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, tfo: true, type: vmess, uuid: ae999ac4-3048-3b15-aaca-42a5d7cae9c5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, tfo: true, type: vmess, uuid: ae999ac4-3048-3b15-aaca-42a5d7cae9c5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}

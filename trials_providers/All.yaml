@@ -1,17 +1,61 @@
 %YAML 1.1
 ---
 proxies:
-- &id003 {name: 🇺🇸 D-美国-3|USA-3 - JZ Speed Cloud, server: dns3.speeddns.xyz, port: 10301, type: ssr, cipher: chacha20-ietf, password: f7wGPZRd1otw, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 6479:bW6TT8, obfs-param: 3e5ae6479.microsoft.com, udp: true}
-- &id004 {name: 🇺🇸 D-美国-7|USA-7 - JZ Speed Cloud, server: dns3.speeddns.xyz, port: 10229, type: ssr, cipher: chacha20-ietf, password: f7wGPZRd1otw, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 6479:bW6TT8, obfs-param: 3e5ae6479.microsoft.com, udp: true}
-- &id001 {name: ℹ️ 1.续费官网https://qinqin2022.com - 520, server: 1.1.1.1, port: 31500, type: ssr, cipher: chacha20, password: CnBwof, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 10848:ANqws8, obfs-param: 250d310848.microsoft.com, udp: true}
-- &id002 {name: ℹ️ 2.qq群1017197334(售后续费） - 520, server: 959732781, port: 31500, type: ssr, cipher: chacha20, password: CnBwof, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 10848:ANqws8, obfs-param: 250d310848.microsoft.com, udp: true}
-- *id001
-- *id002
-- *id001
-- *id002
-- *id003
-- *id004
-- *id001
-- *id002
-- *id001
-- *id002
+- {name: 🇭🇰香港01 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21101, type: ss, cipher: chacha20-ietf-poly1305, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇭🇰香港02 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21102, type: ss, cipher: chacha20-ietf-poly1305, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇭🇰香港03 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21103, type: ss, cipher: chacha20-ietf-poly1305, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇺🇸美国01 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21104, type: ss, cipher: chacha20-ietf-poly1305, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇺🇸美国02 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21105, type: ss, cipher: chacha20-ietf-poly1305, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇺🇸美国03 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21106, type: ss, cipher: chacha20-ietf-poly1305, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇯🇵日本01 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21107, type: ss, cipher: aes-256-gcm, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇯🇵日本02 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21108, type: ss, cipher: aes-256-gcm, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇯🇵日本03 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21109, type: ss, cipher: aes-256-gcm, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇹🇼台湾01 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21110, type: ss, cipher: chacha20-ietf-poly1305, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇹🇼台湾02 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21111, type: ss, cipher: chacha20-ietf-poly1305, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇹🇼台湾03 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21112, type: ss, cipher: chacha20-ietf-poly1305, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇸🇬新加坡01 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21113, type: ss, cipher: aes-256-gcm, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇸🇬新加坡02 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21114, type: ss, cipher: aes-256-gcm, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇸🇬新加坡03 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21115, type: ss, cipher: aes-256-gcm, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇰🇷韩国01 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 23116, type: ss, cipher: aes-256-gcm, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇰🇷韩国02 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 23117, type: ss, cipher: aes-256-gcm, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇰🇷韩国03 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 23118, type: ss, cipher: aes-256-gcm, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇲🇾马来西亚 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 23201, type: ss, cipher: aes-256-gcm, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇹🇭泰国 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 23203, type: ss, cipher: aes-256-gcm, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇻🇳越南 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 23205, type: ss, cipher: aes-256-gcm, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇵🇭菲律宾 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 23207, type: ss, cipher: aes-256-gcm, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇹🇷土耳其 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 23209, type: ss, cipher: aes-256-gcm, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇨🇳永久地址：www.okanc.com - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21101, type: ss, cipher: chacha20-ietf-poly1305, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: '🇺🇸 美国[02] - Heima', server: pop.ede9314c-61e5-4c9a-8e41-275a29f5120e.heima360.cc, port: 443, type: trojan, password: e2d960f6-5cb1-48a8-81dd-8a39903b6bc0, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 美国[03]中转 - Heima', server: vip.baima360.com, port: 17941, type: ss, cipher: chacha20-ietf-poly1305, password: e2d960f6-5cb1-48a8-81dd-8a39903b6bc0, udp: true}
+- {name: '🇺🇸 美国[04] - Heima', server: 45.83.140.22, port: 658, type: trojan, password: e2d960f6-5cb1-48a8-81dd-8a39903b6bc0, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 美国[05]中转 - Heima', server: vip.baima360.com, port: 20387, type: ss, cipher: chacha20-ietf-poly1305, password: e2d960f6-5cb1-48a8-81dd-8a39903b6bc0, udp: true}
+- {name: '🇭🇰 香港[01] - Heima', server: pop.05e2a910-30aa-49b7-8a4c-c548745c3a2d.heima360.cc, port: 443, type: trojan, password: e2d960f6-5cb1-48a8-81dd-8a39903b6bc0, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 香港[04]中转 - Heima', server: vip.baima360.com, port: 65519, type: ss, cipher: chacha20-ietf-poly1305, password: e2d960f6-5cb1-48a8-81dd-8a39903b6bc0, udp: true}
+- {name: '🇭🇰 香港[05]中转 - Heima', server: vip.baima360.com, port: 36511, type: ss, cipher: chacha20-ietf-poly1305, password: e2d960f6-5cb1-48a8-81dd-8a39903b6bc0, udp: true}
+- {name: '🇭🇰 香港[07]中转 - Heima', server: vip.baima360.com, port: 36214, type: ss, cipher: chacha20-ietf-poly1305, password: e2d960f6-5cb1-48a8-81dd-8a39903b6bc0, udp: true}
+- {name: '🇰🇷 韩国[01]中转 - Heima', server: vip.baima360.com, port: 42344, type: ss, cipher: chacha20-ietf-poly1305, password: e2d960f6-5cb1-48a8-81dd-8a39903b6bc0, udp: true}
+- {name: '🇯🇵 日本[01] - Heima', server: vip.baima360.com, port: 15888, type: ss, cipher: chacha20-ietf-poly1305, password: e2d960f6-5cb1-48a8-81dd-8a39903b6bc0, udp: true}
+- {name: '🇸🇬 新加坡[02] - Heima', server: pop.09d21837-9b89-4490-92bf-eabf449e3321.heima360.cc, port: 443, type: trojan, password: e2d960f6-5cb1-48a8-81dd-8a39903b6bc0, skip-cert-verify: true, udp: true}
+- {name: '🇫🇷 法国[01]中转 - Heima', server: vip.baima360.com, port: 35330, type: ss, cipher: chacha20-ietf-poly1305, password: e2d960f6-5cb1-48a8-81dd-8a39903b6bc0, udp: true}
+- {name: '🇩🇪 德国[01]中转 - Heima', server: vip.baima360.com, port: 55997, type: ss, cipher: chacha20-ietf-poly1305, password: e2d960f6-5cb1-48a8-81dd-8a39903b6bc0, udp: true}
+- {name: '🇧🇷 巴西[01]中转 - Heima', server: vip.baima360.com, port: 30752, type: ss, cipher: chacha20-ietf-poly1305, password: e2d960f6-5cb1-48a8-81dd-8a39903b6bc0, udp: true}
+- {name: '🇷🇺 俄罗斯[01]中转 - Heima', server: vip.baima360.com, port: 23499, type: ss, cipher: chacha20-ietf-poly1305, password: e2d960f6-5cb1-48a8-81dd-8a39903b6bc0, udp: true}
+- {name: '🇲🇾 马来西亚[01] - Heima', server: 103.75.189.152, port: 100, type: trojan, password: e2d960f6-5cb1-48a8-81dd-8a39903b6bc0, skip-cert-verify: true, udp: true}
+- {name: '🇲🇾 马来西亚[02] - Heima', server: 103.75.188.189, port: 101, type: trojan, password: e2d960f6-5cb1-48a8-81dd-8a39903b6bc0, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [trojan]新加坡[2.8x]-高端14 - 赛博云机场', server: sg14.731732.xyz, port: 443, type: trojan, password: cc660259-d243-4478-a303-358f834f7a34, sni: sg14.731732.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: '', headers: {Host: sg14.731732.xyz}}, udp: true}
+- {name: '🇯🇵 [trojan]日本[3.2x]-IIJ高端3 - 赛博云机场', server: jp12.426624.xyz, port: 443, type: trojan, password: cc660259-d243-4478-a303-358f834f7a34, sni: jp12.426624.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: '', headers: {Host: jp12.426624.xyz}}, udp: true}
+- {name: '🇳🇱 [trojan]荷兰[1x]-电联5 - 赛博云机场', server: smdu5.731732.xyz, port: 443, type: trojan, password: cc660259-d243-4478-a303-358f834f7a34, sni: smdu5.731732.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: '', headers: {Host: smdu5.731732.xyz}}, udp: true}
+- {name: '🇩🇪 [vmess]德国[0.75x]-福利 - 赛博云机场', server: decf1.426624.xyz, port: 80, type: vmess, uuid: cc660259-d243-4478-a303-358f834f7a34, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: decf1.426624.xyz}}, udp: true}
+- {name: '🇦🇪 [vmess]阿联酋[0.75x]-福利 - 赛博云机场', server: alq.426624.xyz, port: 80, type: vmess, uuid: cc660259-d243-4478-a303-358f834f7a34, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: alq.426624.xyz}}, udp: true}
+- {name: '🇨🇱 [vmess]智利[0.75x]-福利 - 赛博云机场', server: zl.731732.xyz, port: 80, type: vmess, uuid: cc660259-d243-4478-a303-358f834f7a34, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: zl.731732.xyz}}, udp: true}
+- {name: '🇧🇷 [vmess]巴西[0.75x]-福利 - 赛博云机场', server: brcf1.731732.xyz, port: 80, type: vmess, uuid: cc660259-d243-4478-a303-358f834f7a34, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: brcf1.731732.xyz}}, udp: true}
+- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, tfo: true, type: vmess, uuid: ae999ac4-3048-3b15-aaca-42a5d7cae9c5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
+- {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, tfo: true, type: vmess, uuid: ae999ac4-3048-3b15-aaca-42a5d7cae9c5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
+- {name: '🇮🇳 [vip①]印度1 - MG Network', server: 11.mamamajd.site, port: 23611, tfo: true, type: vmess, uuid: ae999ac4-3048-3b15-aaca-42a5d7cae9c5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.mamamajd.site}}, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, tfo: true, type: vmess, uuid: ae999ac4-3048-3b15-aaca-42a5d7cae9c5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
+- {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.mamamajd.site, port: 23616, tfo: true, type: vmess, uuid: ae999ac4-3048-3b15-aaca-42a5d7cae9c5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.mamamajd.site}}, udp: true}
+- {name: '🇩🇪 [vip①]德国2 - MG Network', server: 18.mamamajd.site, port: 23618, tfo: true, type: vmess, uuid: ae999ac4-3048-3b15-aaca-42a5d7cae9c5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 18.mamamajd.site}}, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, tfo: true, type: vmess, uuid: ae999ac4-3048-3b15-aaca-42a5d7cae9c5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
+- {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.mamamajd.site, port: 23605, tfo: true, type: vmess, uuid: ae999ac4-3048-3b15-aaca-42a5d7cae9c5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 5.mamamajd.site}}, udp: true}
+- {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.mamamajd.site, port: 23613, tfo: true, type: vmess, uuid: ae999ac4-3048-3b15-aaca-42a5d7cae9c5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 13.mamamajd.site}}, udp: true}
+- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 14.mamamajd.site, port: 23614, tfo: true, type: vmess, uuid: ae999ac4-3048-3b15-aaca-42a5d7cae9c5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.mamamajd.site}}, udp: true}

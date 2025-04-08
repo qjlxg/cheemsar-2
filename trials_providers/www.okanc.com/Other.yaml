@@ -1,0 +1,11 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇰🇷韩国01 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 23116, type: ss, cipher: aes-256-gcm, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇰🇷韩国02 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 23117, type: ss, cipher: aes-256-gcm, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇰🇷韩国03 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 23118, type: ss, cipher: aes-256-gcm, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇲🇾马来西亚 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 23201, type: ss, cipher: aes-256-gcm, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇹🇭泰国 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 23203, type: ss, cipher: aes-256-gcm, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇻🇳越南 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 23205, type: ss, cipher: aes-256-gcm, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇵🇭菲律宾 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 23207, type: ss, cipher: aes-256-gcm, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇹🇷土耳其 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 23209, type: ss, cipher: aes-256-gcm, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}

@@ -15,14 +15,12 @@ proxy-groups:
   - 🇹🇼 ‍台湾
   - 🇨🇳 ‍中国
   - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
@@ -34,10 +32,8 @@ proxy-groups:
   - HK
   - TW
   - SG
-  - JP
   - US
   - Other
-  - p_All_CN
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
@@ -71,13 +67,11 @@ proxy-groups:
   - 🇺🇸 ‍美国
   - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
   - 🎏 ‍其他
   - ✈️ ‍起飞
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
@@ -103,26 +97,20 @@ proxy-groups:
   use: &id004
   - HK
   - TW
-  - p_All_CN
 - name: 🇸🇬 ‍新加坡
   type: url-test
   tolerance: 100
   use: &id005
   - SG
-- name: 🇯🇵 ‍日本
-  type: url-test
-  tolerance: 100
-  use: &id006
-  - JP
 - name: 🇺🇸 ‍美国
   type: url-test
   tolerance: 300
-  use: &id007
+  use: &id006
   - US
 - name: 🎏 ‍其他
   type: url-test
   tolerance: 100
-  use: &id008
+  use: &id007
   - Other
 - name: 👆🏻🇭🇰 ‍香港
   type: select
@@ -136,75 +124,54 @@ proxy-groups:
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
   use: *id005
-- name: 👆🏻🇯🇵 ‍日本
-  type: select
-  use: *id006
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  use: *id007
+  use: *id006
 - name: 👆🏻🎏 ‍其他
   type: select
-  use: *id008
+  use: *id007
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/HK.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/mgnet.vip/HK.yaml
     interval: 180
-    path: trials_providers/HK.yaml
+    path: trials_providers/mgnet.vip/HK.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   TW:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/TW.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/mgnet.vip/TW.yaml
     interval: 180
-    path: trials_providers/TW.yaml
+    path: trials_providers/mgnet.vip/TW.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   SG:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/SG.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/mgnet.vip/SG.yaml
     interval: 180
-    path: trials_providers/SG.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  JP:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/JP.yaml
-    interval: 180
-    path: trials_providers/JP.yaml
+    path: trials_providers/mgnet.vip/SG.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/US.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/mgnet.vip/US.yaml
     interval: 180
-    path: trials_providers/US.yaml
+    path: trials_providers/mgnet.vip/US.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   Other:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/Other.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/mgnet.vip/Other.yaml
     interval: 180
-    path: trials_providers/Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_CN:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/p_All_CN.yaml
-    interval: 180
-    path: trials_providers/p_All_CN.yaml
+    path: trials_providers/mgnet.vip/Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204

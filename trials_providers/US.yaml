@@ -1,7 +1,11 @@
 %YAML 1.1
 ---
 proxies:
-- &id001 {name: 🇺🇸 D-美国-3|USA-3 - JZ Speed Cloud, server: dns3.speeddns.xyz, port: 10301, type: ssr, cipher: chacha20-ietf, password: f7wGPZRd1otw, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 6479:bW6TT8, obfs-param: 3e5ae6479.microsoft.com, udp: true}
-- &id002 {name: 🇺🇸 D-美国-7|USA-7 - JZ Speed Cloud, server: dns3.speeddns.xyz, port: 10229, type: ssr, cipher: chacha20-ietf, password: f7wGPZRd1otw, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 6479:bW6TT8, obfs-param: 3e5ae6479.microsoft.com, udp: true}
-- *id001
-- *id002
+- {name: 🇺🇸美国01 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21104, type: ss, cipher: chacha20-ietf-poly1305, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇺🇸美国02 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21105, type: ss, cipher: chacha20-ietf-poly1305, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: 🇺🇸美国03 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21106, type: ss, cipher: chacha20-ietf-poly1305, password: a0fc0abb-33f6-412e-b2e2-2066a2f3336d, udp: true}
+- {name: '🇺🇸 美国[02] - Heima', server: pop.ede9314c-61e5-4c9a-8e41-275a29f5120e.heima360.cc, port: 443, type: trojan, password: e2d960f6-5cb1-48a8-81dd-8a39903b6bc0, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 美国[03]中转 - Heima', server: vip.baima360.com, port: 17941, type: ss, cipher: chacha20-ietf-poly1305, password: e2d960f6-5cb1-48a8-81dd-8a39903b6bc0, udp: true}
+- {name: '🇺🇸 美国[04] - Heima', server: 45.83.140.22, port: 658, type: trojan, password: e2d960f6-5cb1-48a8-81dd-8a39903b6bc0, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 美国[05]中转 - Heima', server: vip.baima360.com, port: 20387, type: ss, cipher: chacha20-ietf-poly1305, password: e2d960f6-5cb1-48a8-81dd-8a39903b6bc0, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, tfo: true, type: vmess, uuid: ae999ac4-3048-3b15-aaca-42a5d7cae9c5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
