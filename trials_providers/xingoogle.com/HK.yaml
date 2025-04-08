@@ -1,7 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇭🇰 港HK16|2x - 新谷歌, server: n16.xingoooogle.xyz, port: 41516, type: vmess, uuid: e02be10d-e369-32b6-a5a7-59e36edbed14, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇭🇰 港HK17|2x - 新谷歌, server: n17.xingoooogle.xyz, port: 41517, type: vmess, uuid: e02be10d-e369-32b6-a5a7-59e36edbed14, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇭🇰 港HK18|3x - 新谷歌, server: n18.xingoooogle.xyz, port: 41518, type: vmess, uuid: e02be10d-e369-32b6-a5a7-59e36edbed14, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
-- {name: 🇭🇰 港HK19|3x - 新谷歌, server: n19.xingoooogle.xyz, port: 41519, type: vmess, uuid: e02be10d-e369-32b6-a5a7-59e36edbed14, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}

@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 美国01_免费 - 山海, server: us01.sh-cloudflare.sbs, port: 8443, type: vmess, uuid: 84c34bbb-e178-4ea5-9b6a-88b37483c0c9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us01.sh-cloudflare.sbs, network: ws, ws-opts: {path: /, headers: {Host: us01.sh-cloudflare.sbs}}, udp: true}

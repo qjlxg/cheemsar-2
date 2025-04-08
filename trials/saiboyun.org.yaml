@@ -11,19 +11,11 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
-  - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
-  - 🇺🇸 ‍美国
   - 🎏 ‍其他
-  - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
-  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
   - REJECT
@@ -33,33 +25,13 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇭🇰香港家宽HKT 10x - 七点公益
-  - 🇭🇰香港家宽HGC 10x - 七点公益
-  - 🇭🇰香港1 - 七点公益
-  - 🇭🇰香港3 - 七点公益
-  - 🇭🇰香港2 - 七点公益
-  - 🇭🇰香港家宽hkbn 10x - 七点公益
-  - 🇹🇼 台湾家宽直连 20x - 七点公益
-  - 🇸🇬 新加坡CF - 七点公益
-  - 🇯🇵 日本极速 500x - 七点公益
-  - 🇯🇵 日本vultr1 - 七点公益
-  - 🇯🇵 日本vultr2 - 七点公益
-  - 🇯🇵 日本vultr3 - 七点公益
-  - 🇯🇵 日本v - 七点公益
-  - 🇯🇵日本大板 - 七点公益
-  - 🇯🇵 日本1 移动高速 - 七点公益
-  - 🇺🇸圣何塞4 - 七点公益
-  - 🇺🇸圣何塞3 - 七点公益
-  - 🇺🇸圣何塞2 - 七点公益
-  - 🇺🇸圣何塞1 - 七点公益
-  - 🇺🇸圣何塞5 - 七点公益
-  - 🇺🇸 美国CF - 七点公益
-  - 🇺🇸美国无敌 5x - 七点公益
-  - 🇦🇪 迪拜 - 七点公益
-  - 🇫🇷 法国大革命 - 七点公益
-  - 🇫🇷 法国 - 七点公益
-  - ℹ️ 官网：vvs.e54.site - 七点公益
-  - 🇪🇸西班牙 - 七点公益
+  - 🇸🇬 [trojan]新加坡[2.8x]-高端14 - 赛博云机场
+  - 🇯🇵 [trojan]日本[3.2x]-IIJ高端3 - 赛博云机场
+  - 🇳🇱 [trojan]荷兰[1x]-电联5 - 赛博云机场
+  - 🇩🇪 [vmess]德国[0.75x]-福利 - 赛博云机场
+  - 🇦🇪 [vmess]阿联酋[0.75x]-福利 - 赛博云机场
+  - 🇨🇱 [vmess]智利[0.75x]-福利 - 赛博云机场
+  - 🇧🇷 [vmess]巴西[0.75x]-福利 - 赛博云机场
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -79,25 +51,15 @@ proxy-groups:
   type: select
   proxies:
   - 🛩️ ‍墙内
-  - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
   - ✈️ ‍起飞
-  - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
-  - 🇺🇸 ‍美国
-  - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🎏 ‍其他
   - ✈️ ‍起飞
-  - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🎏 ‍其他
@@ -109,131 +71,48 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇭🇰 ‍香港
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id002
-  - 🇭🇰香港家宽HKT 10x - 七点公益
-  - 🇭🇰香港家宽HGC 10x - 七点公益
-  - 🇭🇰香港1 - 七点公益
-  - 🇭🇰香港3 - 七点公益
-  - 🇭🇰香港2 - 七点公益
-  - 🇭🇰香港家宽hkbn 10x - 七点公益
-- name: 🇹🇼 ‍台湾
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id003
-  - 🇹🇼 台湾家宽直连 20x - 七点公益
-- name: 🇨🇳 ‍中国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id004
-  - 🇭🇰香港家宽HKT 10x - 七点公益
-  - 🇭🇰香港家宽HGC 10x - 七点公益
-  - 🇭🇰香港1 - 七点公益
-  - 🇭🇰香港3 - 七点公益
-  - 🇭🇰香港2 - 七点公益
-  - 🇭🇰香港家宽hkbn 10x - 七点公益
-  - 🇹🇼 台湾家宽直连 20x - 七点公益
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
-  proxies: &id005
-  - 🇸🇬 新加坡CF - 七点公益
+  proxies: &id002
+  - 🇸🇬 [trojan]新加坡[2.8x]-高端14 - 赛博云机场
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
-  proxies: &id006
-  - 🇯🇵 日本极速 500x - 七点公益
-  - 🇯🇵 日本vultr1 - 七点公益
-  - 🇯🇵 日本vultr2 - 七点公益
-  - 🇯🇵 日本vultr3 - 七点公益
-  - 🇯🇵 日本v - 七点公益
-  - 🇯🇵日本大板 - 七点公益
-  - 🇯🇵 日本1 移动高速 - 七点公益
-- name: 🇺🇸 ‍美国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 300
-  proxies: &id007
-  - 🇺🇸圣何塞4 - 七点公益
-  - 🇺🇸圣何塞3 - 七点公益
-  - 🇺🇸圣何塞2 - 七点公益
-  - 🇺🇸圣何塞1 - 七点公益
-  - 🇺🇸圣何塞5 - 七点公益
-  - 🇺🇸 美国CF - 七点公益
-  - 🇺🇸美国无敌 5x - 七点公益
+  proxies: &id003
+  - 🇯🇵 [trojan]日本[3.2x]-IIJ高端3 - 赛博云机场
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 100
-  proxies: &id008
-  - 🇦🇪 迪拜 - 七点公益
-  - 🇫🇷 法国大革命 - 七点公益
-  - 🇫🇷 法国 - 七点公益
-  - ℹ️ 官网：vvs.e54.site - 七点公益
-  - 🇪🇸西班牙 - 七点公益
-- name: 👆🏻🇭🇰 ‍香港
-  type: select
-  proxies: *id002
-- name: 👆🏻🇹🇼 ‍台湾
-  type: select
-  proxies: *id003
-- name: 👆🏻🇨🇳 ‍中国
-  type: select
-  proxies: *id004
+  proxies: &id004
+  - 🇳🇱 [trojan]荷兰[1x]-电联5 - 赛博云机场
+  - 🇩🇪 [vmess]德国[0.75x]-福利 - 赛博云机场
+  - 🇦🇪 [vmess]阿联酋[0.75x]-福利 - 赛博云机场
+  - 🇨🇱 [vmess]智利[0.75x]-福利 - 赛博云机场
+  - 🇧🇷 [vmess]巴西[0.75x]-福利 - 赛博云机场
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  proxies: *id005
+  proxies: *id002
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  proxies: *id006
-- name: 👆🏻🇺🇸 ‍美国
-  type: select
-  proxies: *id007
+  proxies: *id003
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id008
+  proxies: *id004
 proxies:
-- {name: 🇹🇼 台湾家宽直连 20x - 七点公益, server: hinetiw0k.yooddns.stream, port: 26900, type: ss, cipher: chacha20-ietf-poly1305, password: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, udp: true}
-- {name: 🇯🇵 日本极速 500x - 七点公益, server: 1c4.bulldognet-dstat.uk, port: 45679, type: ss, cipher: chacha20-ietf-poly1305, password: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, udp: true}
-- {name: 🇺🇸圣何塞4 - 七点公益, server: xiaoqi.yangmie.online, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: shs111.kejixiaoqi666.store, network: ws, ws-opts: {path: /, headers: {Host: shs111.kejixiaoqi666.store}}, udp: true}
-- {name: 🇺🇸圣何塞3 - 七点公益, server: bestcf.top, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: shs111.kejixiaoqi666.store, network: ws, ws-opts: {path: /, headers: {Host: shs111.kejixiaoqi666.store}}, udp: true}
-- {name: 🇺🇸圣何塞2 - 七点公益, server: bestcf.mfwl.art, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: shs111.kejixiaoqi666.store, network: ws, ws-opts: {path: /, headers: {Host: shs111.kejixiaoqi666.store}}, udp: true}
-- {name: 🇺🇸圣何塞1 - 七点公益, server: 443ip.yangmie.online, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: shs111.kejixiaoqi666.store, network: ws, ws-opts: {path: /, headers: {Host: shs111.kejixiaoqi666.store}}, udp: true}
-- {name: 🇺🇸圣何塞5 - 七点公益, server: time.is, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: shs111.kejixiaoqi666.store, network: ws, ws-opts: {path: /, headers: {Host: shs111.kejixiaoqi666.store}}, udp: true}
-- {name: 🇸🇬 新加坡CF - 七点公益, server: time.is, port: 80, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mgsg2.zhousi.link}}, udp: true}
-- {name: 🇺🇸 美国CF - 七点公益, server: time.is, port: 80, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /xiaoqi, headers: {Host: mgus2.zhousi.link}}, udp: true}
-- {name: 🇭🇰香港家宽HKT 10x - 七点公益, server: time.is, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hkt.xiaoqi555.xyz, network: ws, ws-opts: {path: /, headers: {Host: hkt.xiaoqi555.xyz}}, udp: true}
-- {name: 🇭🇰香港家宽HGC 10x - 七点公益, server: time.is, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hgc.xiaoqi555.xyz, network: ws, ws-opts: {path: /, headers: {Host: hgc.xiaoqi555.xyz}}, udp: true}
-- {name: 🇭🇰香港1 - 七点公益, server: time.is, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hky.xiaoqi666.xyz, network: ws, ws-opts: {path: /, headers: {Host: hky.xiaoqi666.xyz}}, udp: true}
-- {name: 🇭🇰香港3 - 七点公益, server: bevent.bilibili.tv, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hky.xiaoqi666.xyz, network: ws, ws-opts: {path: /, headers: {Host: hky.xiaoqi666.xyz}}, udp: true}
-- {name: 🇭🇰香港2 - 七点公益, server: bestcf.top, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hky.xiaoqi666.xyz, network: ws, ws-opts: {path: /, headers: {Host: hky.xiaoqi666.xyz}}, udp: true}
-- {name: 🇭🇰香港家宽hkbn 10x - 七点公益, server: time.is, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hkbn.xiaoqi555.xyz, network: ws, ws-opts: {path: /, headers: {Host: hkbn.xiaoqi555.xyz}}, udp: true}
-- {name: 🇯🇵 日本vultr1 - 七点公益, server: www.visa.com, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jpv.xiaoqi555.xyz, network: ws, ws-opts: {path: /, headers: {Host: jpv.xiaoqi555.xyz}}, udp: true}
-- {name: 🇯🇵 日本vultr2 - 七点公益, server: bestcf.mfwl.art, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jpv.xiaoqi555.xyz, network: ws, ws-opts: {path: /, headers: {Host: jpv.xiaoqi555.xyz}}, udp: true}
-- {name: 🇯🇵 日本vultr3 - 七点公益, server: time.is, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jpv.xiaoqi555.xyz, network: ws, ws-opts: {path: /, headers: {Host: jpv.xiaoqi555.xyz}}, udp: true}
-- {name: 🇯🇵 日本v - 七点公益, server: bookmyshow.com, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jpv.xiaoqi555.xyz, network: ws, ws-opts: {path: /, headers: {Host: jpv.xiaoqi555.xyz}}, udp: true}
-- {name: 🇯🇵日本大板 - 七点公益, server: time.is, port: 80, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: daban2g.xiaoqi555.xyz}}, udp: true}
-- {name: 🇦🇪 迪拜 - 七点公益, server: time.is, port: 80, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: dibai.xiaoqi555.xyz}}, udp: true}
-- {name: 🇫🇷 法国大革命 - 七点公益, server: time.is, port: 80, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: faguo111.xiaoqi555.xyz}}, udp: true}
-- {name: 🇺🇸美国无敌 5x - 七点公益, server: time.is, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: usby.xiaoqi666.xyz, network: ws, ws-opts: {path: /, headers: {Host: usby.xiaoqi666.xyz}}, udp: true}
-- {name: 🇫🇷 法国 - 七点公益, server: time.is, port: 80, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: faguo.xiaoqi555.xyz}}, udp: true}
-- {name: ℹ️ 官网：vvs.e54.site - 七点公益, server: bestcf.mfwl.art, port: 443, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xjpmo.xiaoqi555.xyz, network: ws, ws-opts: {path: /, headers: {Host: xjpmo.xiaoqi555.xyz}}, udp: true}
-- {name: 🇯🇵 日本1 移动高速 - 七点公益, server: 2603:c023:f:8000:e61:f5f8:ac0f:a617, port: 58199, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇪🇸西班牙 - 七点公益, server: time.is, port: 80, type: vmess, uuid: ace5bbd5-33bf-4d7f-9998-c49c6fd4d43d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: xby.xiaoqi555.xyz}}, udp: true}
+- {name: '🇸🇬 [trojan]新加坡[2.8x]-高端14 - 赛博云机场', server: sg14.731732.xyz, port: 443, type: trojan, password: 8822f531-851c-4fbf-b4e0-d5c136abfb6f, sni: sg14.731732.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: '', headers: {Host: sg14.731732.xyz}}, udp: true}
+- {name: '🇯🇵 [trojan]日本[3.2x]-IIJ高端3 - 赛博云机场', server: jp12.426624.xyz, port: 443, type: trojan, password: 8822f531-851c-4fbf-b4e0-d5c136abfb6f, sni: jp12.426624.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: '', headers: {Host: jp12.426624.xyz}}, udp: true}
+- {name: '🇳🇱 [trojan]荷兰[1x]-电联5 - 赛博云机场', server: smdu5.731732.xyz, port: 443, type: trojan, password: 8822f531-851c-4fbf-b4e0-d5c136abfb6f, sni: smdu5.731732.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: '', headers: {Host: smdu5.731732.xyz}}, udp: true}
+- {name: '🇩🇪 [vmess]德国[0.75x]-福利 - 赛博云机场', server: decf1.426624.xyz, port: 80, type: vmess, uuid: 8822f531-851c-4fbf-b4e0-d5c136abfb6f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: decf1.426624.xyz}}, udp: true}
+- {name: '🇦🇪 [vmess]阿联酋[0.75x]-福利 - 赛博云机场', server: alq.426624.xyz, port: 80, type: vmess, uuid: 8822f531-851c-4fbf-b4e0-d5c136abfb6f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: alq.426624.xyz}}, udp: true}
+- {name: '🇨🇱 [vmess]智利[0.75x]-福利 - 赛博云机场', server: zl.731732.xyz, port: 80, type: vmess, uuid: 8822f531-851c-4fbf-b4e0-d5c136abfb6f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: zl.731732.xyz}}, udp: true}
+- {name: '🇧🇷 [vmess]巴西[0.75x]-福利 - 赛博云机场', server: brcf1.731732.xyz, port: 80, type: vmess, uuid: 8822f531-851c-4fbf-b4e0-d5c136abfb6f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: brcf1.731732.xyz}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

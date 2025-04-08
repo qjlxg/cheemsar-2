@@ -1,6 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇯🇵日本01 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21107, type: ss, cipher: aes-256-gcm, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
-- {name: 🇯🇵日本02 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21108, type: ss, cipher: aes-256-gcm, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
-- {name: 🇯🇵日本03 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21109, type: ss, cipher: aes-256-gcm, password: 7a6e58d4-e628-4590-b38f-b7a67827c33b, udp: true}
