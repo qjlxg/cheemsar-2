@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇹🇼 IPLC|台北 A1 |专线 - 极驰, server: 36.151.194.10, port: 3654, type: ss, cipher: chacha20-ietf-poly1305, password: abe1a385-6744-4296-a7d9-5d88d3803158, udp: true}
-- {name: 🇹🇼 IPLC|台北 A2 |专线 - 极驰, server: 36.151.194.10, port: 3653, type: ss, cipher: chacha20-ietf-poly1305, password: abe1a385-6744-4296-a7d9-5d88d3803158, udp: true}

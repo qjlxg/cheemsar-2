@@ -1,7 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇭🇰 IPLC|香港 A1 |专线 - 极驰, server: 183.236.51.166, port: 6991, type: ss, cipher: chacha20-ietf-poly1305, password: abe1a385-6744-4296-a7d9-5d88d3803158, udp: true}
-- {name: 🇭🇰 IPLC|香港 A2 |专线 - 极驰, server: 183.236.51.166, port: 6992, type: ss, cipher: chacha20-ietf-poly1305, password: abe1a385-6744-4296-a7d9-5d88d3803158, udp: true}
-- {name: 🇭🇰 IPLC|香港 A3 |专线 - 极驰, server: 183.236.51.166, port: 6993, type: ss, cipher: chacha20-ietf-poly1305, password: abe1a385-6744-4296-a7d9-5d88d3803158, udp: true}
-- {name: 🇭🇰 IPLC|香港 A4 |专线 - 极驰, server: 183.236.51.166, port: 6994, type: ss, cipher: chacha20-ietf-poly1305, password: abe1a385-6744-4296-a7d9-5d88d3803158, udp: true}
