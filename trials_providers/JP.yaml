@@ -1,0 +1,6 @@
+%YAML 1.1
+---
+proxies:
+- &id001 {name: '🇯🇵 日本[01] - Heima', server: vip.baima360.com, port: 15888, type: ss, cipher: chacha20-ietf-poly1305, password: 02ffa433-c25b-40ce-8aae-d184bbaf6504, udp: true}
+- *id001
+- {name: 🇯🇵 日本 ChatGPT Premium 2 - 看海外VPN, server: sea-t701.bestguarding.work, port: 2096, type: trojan, password: 72b4a62d-fe04-4552-acad-0b1bb48a1634, sni: sea-t701.bestguarding.work, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: GunService}, udp: true}

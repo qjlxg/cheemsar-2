@@ -1,0 +1,9 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇦🇺 澳洲 ChatGPT Premium - 看海外VPN, server: sea-t401.bestguarding.work, port: 2096, type: trojan, password: 72b4a62d-fe04-4552-acad-0b1bb48a1634, sni: sea-t401.bestguarding.work, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: GunService}, udp: true}
+- {name: 🇹🇷 土耳其 ChatGPT Premium - 看海外VPN, server: sea-t501.bestguarding.work, port: 2096, type: trojan, password: 72b4a62d-fe04-4552-acad-0b1bb48a1634, sni: sea-t501.bestguarding.work, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: GunService}, udp: true}
+- {name: 🇰🇷 韩国 ChatGPT Premium - 看海外VPN, server: sea-t601.bestguarding.work, port: 2096, type: trojan, password: 72b4a62d-fe04-4552-acad-0b1bb48a1634, sni: sea-t601.bestguarding.work, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: GunService}, udp: true}
+- {name: 🇷🇺 俄罗斯Tj🍒 - 三七云, server: els.37cloud.cc, port: 28176, type: trojan, password: 624f12c4-56c4-47b7-bde8-cfa0c01ce7af, sni: els.37cloud.cc, skip-cert-verify: true, network: ws, ws-opts: {path: /hd.m3u8, headers: {Host: els.37cloud.cc}}, udp: true}
+- {name: ℹ️ 🍀优先使用hy、VL节点，其他协议将淘汰 - 三七云, server: txjptj.681687.xyz, port: 10091, type: trojan, password: 624f12c4-56c4-47b7-bde8-cfa0c01ce7af, sni: txjptj.681687.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: /hd.m3u8, headers: {Host: txjptj.681687.xyz}}, udp: true}
+- {name: ℹ️ 🔥 多宝云官网：dobcloud.com - 多宝云加速, server: 8.8.8.8, port: 1234, type: ss, cipher: aes-256-gcm, password: 8b287c31-3cfc-4f55-8184-7fe6adb80c19, udp: true}

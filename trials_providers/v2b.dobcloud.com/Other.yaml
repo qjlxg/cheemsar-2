@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: ℹ️ 🔥 多宝云官网：dobcloud.com - 多宝云加速, server: 8.8.8.8, port: 1234, type: ss, cipher: aes-256-gcm, password: 8b287c31-3cfc-4f55-8184-7fe6adb80c19, udp: true}
