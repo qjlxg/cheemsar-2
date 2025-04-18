@@ -17,14 +17,12 @@ proxy-groups:
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
-  - 🎏 ‍其他
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - DIRECT
   - REJECT
 - name: ⚡ ‍低延迟
@@ -33,41 +31,20 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇹🇼 台湾 ChatGPT Premium - 看海外VPN
-  - 🇺🇸 美国[03]中转 - Heima
-  - 🇺🇸 美国[04] - Heima
-  - 🇺🇸 美国[03]中转 - Heima
-  - 🇺🇸 美国[04] - Heima
-  - 🇭🇰 香港[04]中转 - Heima
-  - 🇭🇰 香港[05]中转 - Heima
-  - 🇭🇰 香港[07]中转 - Heima
-  - 🇭🇰 香港[04]中转 - Heima
-  - 🇭🇰 香港[05]中转 - Heima
-  - 🇭🇰 香港[07]中转 - Heima
-  - 🇯🇵 日本[01] - Heima
-  - 🇯🇵 日本[01] - Heima
-  - 🇸🇬 新加坡[02] - Heima
-  - 🇸🇬 新加坡[02] - Heima
-  - 🇩🇪 德国[01]中转 - Heima
-  - 🇧🇷 巴西[01]中转 - Heima
-  - 🇷🇺 俄罗斯[01]中转 - Heima
-  - 🇲🇾 马来西亚[01] - Heima
-  - 🇲🇾 马来西亚[02] - Heima
-  - 🇩🇪 德国[01]中转 - Heima
-  - 🇧🇷 巴西[01]中转 - Heima
-  - 🇷🇺 俄罗斯[01]中转 - Heima
-  - 🇲🇾 马来西亚[01] - Heima
-  - 🇲🇾 马来西亚[02] - Heima
-  - 🇭🇰 香港 Premium 1 - 看海外VPN
-  - 🇭🇰 香港TJ🍒 - 三七云
-  - 🇦🇺 澳洲 ChatGPT Premium - 看海外VPN
-  - 🇹🇷 土耳其 ChatGPT Premium - 看海外VPN
-  - 🇰🇷 韩国 ChatGPT Premium - 看海外VPN
-  - 🇷🇺 俄罗斯Tj🍒 - 三七云
-  - ℹ️ 🍀优先使用hy、VL节点，其他协议将淘汰 - 三七云
-  - ℹ️ 🔥 多宝云官网：dobcloud.com - 多宝云加速
-  - 🇯🇵 日本 ChatGPT Premium 2 - 看海外VPN
-  - 🇺🇸洛杉矶&解锁NetFlix/GPT🍒 - 三七云
+  - 🇭🇰 IPLC|香港 A1 |专线 - 极驰
+  - 🇭🇰 IPLC|香港 A2 |专线 - 极驰
+  - 🇭🇰 IPLC|香港 A3 |专线 - 极驰
+  - 🇭🇰 IPLC|香港 A4 |专线 - 极驰
+  - 🇹🇼 IPLC|台北 A1 |专线 - 极驰
+  - 🇹🇼 IPLC|台北 A2 |专线 - 极驰
+  - 🇸🇬 IPLC|新加坡 A1 |专线 - 极驰
+  - 🇸🇬 IPLC|新加坡 A2 |专线 - 极驰
+  - 🇯🇵 IPLC|日本 A1 |专线 - 极驰
+  - 🇯🇵 IPLC|日本 A2 |专线 - 极驰
+  - 🇯🇵 IPLC|日本 A3 |专线 - 极驰
+  - 🇺🇸 IPLC|美国 A1 |专线 - 极驰
+  - 🇺🇸 IPLC|美国 A2 |专线 - 极驰
+  - 🇺🇸 IPLC|美国 A3 |专线 - 极驰
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -102,13 +79,11 @@ proxy-groups:
   - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
-  - 🎏 ‍其他
   - ✈️ ‍起飞
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
-  - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -123,86 +98,56 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
-  - 🇭🇰 香港[04]中转 - Heima
-  - 🇭🇰 香港[05]中转 - Heima
-  - 🇭🇰 香港[07]中转 - Heima
-  - 🇭🇰 香港[04]中转 - Heima
-  - 🇭🇰 香港[05]中转 - Heima
-  - 🇭🇰 香港[07]中转 - Heima
-  - 🇭🇰 香港 Premium 1 - 看海外VPN
-  - 🇭🇰 香港TJ🍒 - 三七云
+  - 🇭🇰 IPLC|香港 A1 |专线 - 极驰
+  - 🇭🇰 IPLC|香港 A2 |专线 - 极驰
+  - 🇭🇰 IPLC|香港 A3 |专线 - 极驰
+  - 🇭🇰 IPLC|香港 A4 |专线 - 极驰
 - name: 🇹🇼 ‍台湾
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id003
-  - 🇹🇼 台湾 ChatGPT Premium - 看海外VPN
+  - 🇹🇼 IPLC|台北 A1 |专线 - 极驰
+  - 🇹🇼 IPLC|台北 A2 |专线 - 极驰
 - name: 🇨🇳 ‍中国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id004
-  - 🇹🇼 台湾 ChatGPT Premium - 看海外VPN
-  - 🇭🇰 香港[04]中转 - Heima
-  - 🇭🇰 香港[05]中转 - Heima
-  - 🇭🇰 香港[07]中转 - Heima
-  - 🇭🇰 香港[04]中转 - Heima
-  - 🇭🇰 香港[05]中转 - Heima
-  - 🇭🇰 香港[07]中转 - Heima
-  - 🇭🇰 香港 Premium 1 - 看海外VPN
-  - 🇭🇰 香港TJ🍒 - 三七云
+  - 🇭🇰 IPLC|香港 A1 |专线 - 极驰
+  - 🇭🇰 IPLC|香港 A2 |专线 - 极驰
+  - 🇭🇰 IPLC|香港 A3 |专线 - 极驰
+  - 🇭🇰 IPLC|香港 A4 |专线 - 极驰
+  - 🇹🇼 IPLC|台北 A1 |专线 - 极驰
+  - 🇹🇼 IPLC|台北 A2 |专线 - 极驰
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id005
-  - 🇸🇬 新加坡[02] - Heima
-  - 🇸🇬 新加坡[02] - Heima
+  - 🇸🇬 IPLC|新加坡 A1 |专线 - 极驰
+  - 🇸🇬 IPLC|新加坡 A2 |专线 - 极驰
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id006
-  - 🇯🇵 日本[01] - Heima
-  - 🇯🇵 日本[01] - Heima
-  - 🇯🇵 日本 ChatGPT Premium 2 - 看海外VPN
+  - 🇯🇵 IPLC|日本 A1 |专线 - 极驰
+  - 🇯🇵 IPLC|日本 A2 |专线 - 极驰
+  - 🇯🇵 IPLC|日本 A3 |专线 - 极驰
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
   proxies: &id007
-  - 🇺🇸 美国[03]中转 - Heima
-  - 🇺🇸 美国[04] - Heima
-  - 🇺🇸 美国[03]中转 - Heima
-  - 🇺🇸 美国[04] - Heima
-  - 🇺🇸洛杉矶&解锁NetFlix/GPT🍒 - 三七云
-- name: 🎏 ‍其他
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 100
-  proxies: &id008
-  - 🇩🇪 德国[01]中转 - Heima
-  - 🇧🇷 巴西[01]中转 - Heima
-  - 🇷🇺 俄罗斯[01]中转 - Heima
-  - 🇲🇾 马来西亚[01] - Heima
-  - 🇲🇾 马来西亚[02] - Heima
-  - 🇩🇪 德国[01]中转 - Heima
-  - 🇧🇷 巴西[01]中转 - Heima
-  - 🇷🇺 俄罗斯[01]中转 - Heima
-  - 🇲🇾 马来西亚[01] - Heima
-  - 🇲🇾 马来西亚[02] - Heima
-  - 🇦🇺 澳洲 ChatGPT Premium - 看海外VPN
-  - 🇹🇷 土耳其 ChatGPT Premium - 看海外VPN
-  - 🇰🇷 韩国 ChatGPT Premium - 看海外VPN
-  - 🇷🇺 俄罗斯Tj🍒 - 三七云
-  - ℹ️ 🍀优先使用hy、VL节点，其他协议将淘汰 - 三七云
-  - ℹ️ 🔥 多宝云官网：dobcloud.com - 多宝云加速
+  - 🇺🇸 IPLC|美国 A1 |专线 - 极驰
+  - 🇺🇸 IPLC|美国 A2 |专线 - 极驰
+  - 🇺🇸 IPLC|美国 A3 |专线 - 极驰
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
@@ -221,33 +166,21 @@ proxy-groups:
 - name: 👆🏻🇺🇸 ‍美国
   type: select
   proxies: *id007
-- name: 👆🏻🎏 ‍其他
-  type: select
-  proxies: *id008
 proxies:
-- {name: '🇺🇸 美国[03]中转 - Heima', server: vip.baima360.com, port: 17941, type: ss, cipher: chacha20-ietf-poly1305, password: 02ffa433-c25b-40ce-8aae-d184bbaf6504, udp: true}
-- {name: '🇺🇸 美国[04] - Heima', server: 45.83.140.22, port: 658, type: trojan, password: 02ffa433-c25b-40ce-8aae-d184bbaf6504, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 新加坡[02] - Heima', server: pop.09d21837-9b89-4490-92bf-eabf449e3321.heima360.cc, port: 443, type: trojan, password: 02ffa433-c25b-40ce-8aae-d184bbaf6504, skip-cert-verify: true, udp: true}
-- {name: '🇩🇪 德国[01]中转 - Heima', server: vip.baima360.com, port: 55997, type: ss, cipher: chacha20-ietf-poly1305, password: 02ffa433-c25b-40ce-8aae-d184bbaf6504, udp: true}
-- {name: '🇧🇷 巴西[01]中转 - Heima', server: vip.baima360.com, port: 30752, type: ss, cipher: chacha20-ietf-poly1305, password: 02ffa433-c25b-40ce-8aae-d184bbaf6504, udp: true}
-- {name: '🇷🇺 俄罗斯[01]中转 - Heima', server: vip.baima360.com, port: 23499, type: ss, cipher: chacha20-ietf-poly1305, password: 02ffa433-c25b-40ce-8aae-d184bbaf6504, udp: true}
-- {name: '🇲🇾 马来西亚[01] - Heima', server: 103.75.189.152, port: 100, type: trojan, password: 02ffa433-c25b-40ce-8aae-d184bbaf6504, skip-cert-verify: true, udp: true}
-- {name: '🇲🇾 马来西亚[02] - Heima', server: 103.75.188.189, port: 101, type: trojan, password: 02ffa433-c25b-40ce-8aae-d184bbaf6504, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 香港[04]中转 - Heima', server: vip.baima360.com, port: 65519, type: ss, cipher: chacha20-ietf-poly1305, password: 02ffa433-c25b-40ce-8aae-d184bbaf6504, udp: true}
-- {name: '🇭🇰 香港[05]中转 - Heima', server: vip.baima360.com, port: 36511, type: ss, cipher: chacha20-ietf-poly1305, password: 02ffa433-c25b-40ce-8aae-d184bbaf6504, udp: true}
-- {name: '🇭🇰 香港[07]中转 - Heima', server: vip.baima360.com, port: 36214, type: ss, cipher: chacha20-ietf-poly1305, password: 02ffa433-c25b-40ce-8aae-d184bbaf6504, udp: true}
-- {name: '🇯🇵 日本[01] - Heima', server: vip.baima360.com, port: 15888, type: ss, cipher: chacha20-ietf-poly1305, password: 02ffa433-c25b-40ce-8aae-d184bbaf6504, udp: true}
-- {name: 🇹🇼 台湾 ChatGPT Premium - 看海外VPN, server: twnat.txwl-dpn.top, port: 24836, type: trojan, password: 72b4a62d-fe04-4552-acad-0b1bb48a1634, sni: twnat.txwl-dpn.top, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: GunService}, udp: true}
-- {name: 🇦🇺 澳洲 ChatGPT Premium - 看海外VPN, server: sea-t401.bestguarding.work, port: 2096, type: trojan, password: 72b4a62d-fe04-4552-acad-0b1bb48a1634, sni: sea-t401.bestguarding.work, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: GunService}, udp: true}
-- {name: 🇹🇷 土耳其 ChatGPT Premium - 看海外VPN, server: sea-t501.bestguarding.work, port: 2096, type: trojan, password: 72b4a62d-fe04-4552-acad-0b1bb48a1634, sni: sea-t501.bestguarding.work, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: GunService}, udp: true}
-- {name: 🇰🇷 韩国 ChatGPT Premium - 看海外VPN, server: sea-t601.bestguarding.work, port: 2096, type: trojan, password: 72b4a62d-fe04-4552-acad-0b1bb48a1634, sni: sea-t601.bestguarding.work, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: GunService}, udp: true}
-- {name: 🇭🇰 香港 Premium 1 - 看海外VPN, server: hkmoon01.txwl-dpn.top, port: 2096, type: trojan, password: 72b4a62d-fe04-4552-acad-0b1bb48a1634, sni: hkmoon01.txwl-dpn.top, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: GunService}, udp: true}
-- {name: 🇯🇵 日本 ChatGPT Premium 2 - 看海外VPN, server: sea-t701.bestguarding.work, port: 2096, type: trojan, password: 72b4a62d-fe04-4552-acad-0b1bb48a1634, sni: sea-t701.bestguarding.work, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: GunService}, udp: true}
-- {name: 🇺🇸洛杉矶&解锁NetFlix/GPT🍒 - 三七云, server: waf1.37cloud.cc, port: 443, type: trojan, password: 624f12c4-56c4-47b7-bde8-cfa0c01ce7af, sni: waf1.37cloud.cc, skip-cert-verify: true, network: ws, ws-opts: {path: /hd.m3u8, headers: {Host: waf1.37cloud.cc}}, udp: true}
-- {name: 🇷🇺 俄罗斯Tj🍒 - 三七云, server: els.37cloud.cc, port: 28176, type: trojan, password: 624f12c4-56c4-47b7-bde8-cfa0c01ce7af, sni: els.37cloud.cc, skip-cert-verify: true, network: ws, ws-opts: {path: /hd.m3u8, headers: {Host: els.37cloud.cc}}, udp: true}
-- {name: ℹ️ 🍀优先使用hy、VL节点，其他协议将淘汰 - 三七云, server: txjptj.681687.xyz, port: 10091, type: trojan, password: 624f12c4-56c4-47b7-bde8-cfa0c01ce7af, sni: txjptj.681687.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: /hd.m3u8, headers: {Host: txjptj.681687.xyz}}, udp: true}
-- {name: 🇭🇰 香港TJ🍒 - 三七云, server: va.37cloud.cc, port: 22188, type: trojan, password: 624f12c4-56c4-47b7-bde8-cfa0c01ce7af, sni: va.37cloud.cc, skip-cert-verify: true, network: ws, ws-opts: {path: /hd.m3u8, headers: {Host: va.37cloud.cc}}, udp: true}
-- {name: ℹ️ 🔥 多宝云官网：dobcloud.com - 多宝云加速, server: 8.8.8.8, port: 1234, type: ss, cipher: aes-256-gcm, password: 8b287c31-3cfc-4f55-8184-7fe6adb80c19, udp: true}
+- {name: 🇺🇸 IPLC|美国 A1 |专线 - 极驰, server: 183.236.51.166, port: 6547, type: ss, cipher: chacha20-ietf-poly1305, password: abe1a385-6744-4296-a7d9-5d88d3803158, udp: true}
+- {name: 🇺🇸 IPLC|美国 A2 |专线 - 极驰, server: 183.236.51.166, port: 6548, type: ss, cipher: chacha20-ietf-poly1305, password: abe1a385-6744-4296-a7d9-5d88d3803158, udp: true}
+- {name: 🇺🇸 IPLC|美国 A3 |专线 - 极驰, server: 183.236.51.166, port: 6549, type: ss, cipher: chacha20-ietf-poly1305, password: abe1a385-6744-4296-a7d9-5d88d3803158, udp: true}
+- {name: 🇹🇼 IPLC|台北 A1 |专线 - 极驰, server: 36.151.194.10, port: 3654, type: ss, cipher: chacha20-ietf-poly1305, password: abe1a385-6744-4296-a7d9-5d88d3803158, udp: true}
+- {name: 🇹🇼 IPLC|台北 A2 |专线 - 极驰, server: 36.151.194.10, port: 3653, type: ss, cipher: chacha20-ietf-poly1305, password: abe1a385-6744-4296-a7d9-5d88d3803158, udp: true}
+- {name: 🇸🇬 IPLC|新加坡 A1 |专线 - 极驰, server: 36.151.194.10, port: 6781, type: ss, cipher: chacha20-ietf-poly1305, password: abe1a385-6744-4296-a7d9-5d88d3803158, udp: true}
+- {name: 🇸🇬 IPLC|新加坡 A2 |专线 - 极驰, server: 36.151.194.10, port: 6782, type: ss, cipher: chacha20-ietf-poly1305, password: abe1a385-6744-4296-a7d9-5d88d3803158, udp: true}
+- {name: 🇭🇰 IPLC|香港 A1 |专线 - 极驰, server: 183.236.51.166, port: 6991, type: ss, cipher: chacha20-ietf-poly1305, password: abe1a385-6744-4296-a7d9-5d88d3803158, udp: true}
+- {name: 🇭🇰 IPLC|香港 A2 |专线 - 极驰, server: 183.236.51.166, port: 6992, type: ss, cipher: chacha20-ietf-poly1305, password: abe1a385-6744-4296-a7d9-5d88d3803158, udp: true}
+- {name: 🇭🇰 IPLC|香港 A3 |专线 - 极驰, server: 183.236.51.166, port: 6993, type: ss, cipher: chacha20-ietf-poly1305, password: abe1a385-6744-4296-a7d9-5d88d3803158, udp: true}
+- {name: 🇭🇰 IPLC|香港 A4 |专线 - 极驰, server: 183.236.51.166, port: 6994, type: ss, cipher: chacha20-ietf-poly1305, password: abe1a385-6744-4296-a7d9-5d88d3803158, udp: true}
+- {name: 🇯🇵 IPLC|日本 A1 |专线 - 极驰, server: 183.236.51.166, port: 6881, type: ss, cipher: chacha20-ietf-poly1305, password: abe1a385-6744-4296-a7d9-5d88d3803158, udp: true}
+- {name: 🇯🇵 IPLC|日本 A2 |专线 - 极驰, server: 183.236.51.166, port: 6882, type: ss, cipher: chacha20-ietf-poly1305, password: abe1a385-6744-4296-a7d9-5d88d3803158, udp: true}
+- {name: 🇯🇵 IPLC|日本 A3 |专线 - 极驰, server: 183.236.51.160, port: 6883, type: ss, cipher: chacha20-ietf-poly1305, password: abe1a385-6744-4296-a7d9-5d88d3803158, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

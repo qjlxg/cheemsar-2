@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇭🇰 香港 Premium 1 - 看海外VPN, server: hkmoon01.txwl-dpn.top, port: 2096, type: trojan, password: 72b4a62d-fe04-4552-acad-0b1bb48a1634, sni: hkmoon01.txwl-dpn.top, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: GunService}, udp: true}
-- {name: 🇭🇰 香港TJ🍒 - 三七云, server: va.37cloud.cc, port: 22188, type: trojan, password: 624f12c4-56c4-47b7-bde8-cfa0c01ce7af, sni: va.37cloud.cc, skip-cert-verify: true, network: ws, ws-opts: {path: /hd.m3u8, headers: {Host: va.37cloud.cc}}, udp: true}
