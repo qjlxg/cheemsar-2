@@ -1,0 +1,6 @@
+%YAML 1.1
+---
+proxies:
+- {name: '🇯🇵 [ss]联通线路-日本01 - 机场', server: nnertn.airport.lat, port: 43123, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇯🇵 [ss]直连-日本01 - 机场', server: jp01.airport.lat, port: 20730, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇯🇵 [trojan]日本[3.2x]-IIJ高端3 - 赛博云机场', server: jp12.426624.xyz, port: 443, type: trojan, password: 1f0f2b09-15ba-4c1c-ad5a-04c2d5bdf159, sni: jp12.426624.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: '', headers: {Host: jp12.426624.xyz}}, udp: true}

@@ -1,6 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇸🇬 新加坡-1 - 爱翻, server: zz-1.9995432.xyz, port: 38694, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: 🇸🇬 新加坡-2 - 爱翻, server: zz-1.9995432.xyz, port: 38694, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: 🇸🇬 新加坡-3 - 爱翻, server: zz-1.9995432.xyz, port: 38694, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}

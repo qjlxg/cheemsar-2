@@ -1,15 +1,33 @@
 %YAML 1.1
 ---
 proxies:
-- &id001 {name: 🇺🇸 美国-1 - 爱翻, server: zz-1.9995432.xyz, port: 58728, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- &id002 {name: 🇺🇸 美国-2 - 爱翻, server: zz-1.9995432.xyz, port: 58728, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- &id003 {name: 🇺🇸 美国-3 - 爱翻, server: zz-1.9995432.xyz, port: 58728, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
+- {name: '🇺🇸 [ss]联通线路-美国01 - 机场', server: nnertn.airport.lat, port: 26111, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇺🇸 [ss]直连-美国01 - 机场', server: us01.airport.lat, port: 20830, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- &id001 {name: 🇺🇸 vmess-直连-US - 起点带宽不限速, server: v6.nmcf.me, port: 48421, type: vmess, uuid: c46e91a7-9cd6-49e4-896a-cee08cfb92a2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /nmkj, headers: {Host: www.bing.com}}, udp: true}
+- &id002 {name: 🇺🇸 美国直连-vmess - 起点带宽不限速, server: v5.nmcf.me, port: 8002, type: vmess, uuid: c46e91a7-9cd6-49e4-896a-cee08cfb92a2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /nmkj, headers: {Host: www.bing.com}}, udp: true}
+- &id003 {name: 🇺🇸 IEPL专线-美国-1 - 起点带宽不限速, server: 59.42.247.189, port: 8008, type: vmess, uuid: c46e91a7-9cd6-49e4-896a-cee08cfb92a2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /nmkj, headers: {Host: v3.nmcf.me}}, udp: true}
+- &id004 {name: 🇺🇸 美国直连-Trojan - 起点带宽不限速, server: v12.nmcf.me, port: 443, type: trojan, password: c46e91a7-9cd6-49e4-896a-cee08cfb92a2, sni: v12.nmcf.me, skip-cert-verify: true, udp: true}
+- &id005 {name: 🇺🇸 美国-波士顿 - 小火箭, server: 183.240.228.220, port: 55133, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- &id006 {name: 🇺🇸 美国-旧金山 - 小火箭, server: 183.240.228.220, port: 52217, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- &id007 {name: 🇺🇸 (专线)美国-洛杉矶 - 小火箭, server: 36.150.94.53, port: 16106, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- &id008 {name: 🇺🇸 （专线）美国 - 小火箭, server: 183.240.180.26, port: 55188, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- &id009 {name: 🇺🇸 美国-家庭IPB - 小火箭, server: 183.240.187.175, port: 56217, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇺🇸 美国-拉斯维加斯-001 - 漏网之鱼, server: 45.147.201.231, port: 20013, type: vmess, uuid: 11ffc1d5-2f25-430f-81ea-e17bd2343a20, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇺🇸 美国-拉斯维加斯-002 - 漏网之鱼, server: 45.147.201.231, port: 23076, type: vmess, uuid: 11ffc1d5-2f25-430f-81ea-e17bd2343a20, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
 - *id001
 - *id002
 - *id003
-- *id001
-- *id002
-- *id003
-- *id001
-- *id002
-- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- &id010 {name: 🇺🇸 IEPL · 美国US · 220 - 悟空加速器, server: 183.240.116.150, port: 16109, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- &id011 {name: 🇺🇸 IEPL · 美国US · 40 - 悟空加速器, server: 183.240.116.150, port: 16110, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- &id012 {name: 🇺🇸 IEPL · 美国US · 36 - 悟空加速器, server: 183.240.116.150, port: 16111, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- &id013 {name: 🇺🇸 IEPL · 美国US · 88 - 悟空加速器, server: 183.240.116.150, port: 16112, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- *id010
+- *id011
+- *id012
+- *id013

@@ -1,6 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 美国-1 - 爱翻, server: zz-1.9995432.xyz, port: 58728, type: ss, cipher: chacha20-ietf-poly1305, password: c1e5991d-7f2f-42d5-a6cd-80aa7e9b1b1c, udp: true}
-- {name: 🇺🇸 美国-2 - 爱翻, server: zz-1.9995432.xyz, port: 58728, type: ss, cipher: chacha20-ietf-poly1305, password: c1e5991d-7f2f-42d5-a6cd-80aa7e9b1b1c, udp: true}
-- {name: 🇺🇸 美国-3 - 爱翻, server: zz-1.9995432.xyz, port: 58728, type: ss, cipher: chacha20-ietf-poly1305, password: c1e5991d-7f2f-42d5-a6cd-80aa7e9b1b1c, udp: true}

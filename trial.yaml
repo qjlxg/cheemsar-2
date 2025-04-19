@@ -33,150 +33,253 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - ℹ️ 官网：爱翻.com - 爱翻
-  - ℹ️ 用不了去官网重新导入 - 爱翻
-  - 邀请新用户30%现金返利 - 爱翻
-  - 🇩🇪 德国-1 - 爱翻
-  - 🇩🇪 德国-2 - 爱翻
-  - 🇩🇪 德国-3 - 爱翻
-  - 🇫🇷 法国-1 - 爱翻
-  - 🇫🇷 法国-2 - 爱翻
-  - 🇫🇷 法国-3 - 爱翻
-  - 🇿🇦 南非-1 - 爱翻
-  - 🇿🇦 南非-2 - 爱翻
-  - 🇿🇦 南非-3 - 爱翻
-  - 🇧🇷 巴西-1 - 爱翻
-  - 🇧🇷 巴西-2 - 爱翻
-  - 🇧🇷 巴西-3 - 爱翻
-  - 🇮🇳 印度-1 - 爱翻
-  - 🇮🇳 印度-2 - 爱翻
-  - 🇮🇳 印度-3 - 爱翻
-  - 🇨🇴 哥伦比亚-1 - 爱翻
-  - 🇨🇴 哥伦比亚-2 - 爱翻
-  - 🇨🇴 哥伦比亚-3 - 爱翻
-  - ℹ️ 官网：爱翻.com - 爱翻
-  - ℹ️ 用不了去官网重新导入 - 爱翻
-  - 邀请新用户30%现金返利 - 爱翻
-  - 🇩🇪 德国-1 - 爱翻
-  - 🇩🇪 德国-2 - 爱翻
-  - 🇩🇪 德国-3 - 爱翻
-  - 🇫🇷 法国-1 - 爱翻
-  - 🇫🇷 法国-2 - 爱翻
-  - 🇫🇷 法国-3 - 爱翻
-  - 🇿🇦 南非-1 - 爱翻
-  - 🇿🇦 南非-2 - 爱翻
-  - 🇿🇦 南非-3 - 爱翻
-  - 🇧🇷 巴西-1 - 爱翻
-  - 🇧🇷 巴西-2 - 爱翻
-  - 🇧🇷 巴西-3 - 爱翻
-  - 🇮🇳 印度-1 - 爱翻
-  - 🇮🇳 印度-2 - 爱翻
-  - 🇮🇳 印度-3 - 爱翻
-  - 🇨🇴 哥伦比亚-1 - 爱翻
-  - 🇨🇴 哥伦比亚-2 - 爱翻
-  - 🇨🇴 哥伦比亚-3 - 爱翻
-  - ℹ️ 官网：爱翻.com - 爱翻
-  - ℹ️ 用不了去官网重新导入 - 爱翻
-  - 邀请新用户30%现金返利 - 爱翻
-  - 🇩🇪 德国-1 - 爱翻
-  - 🇩🇪 德国-2 - 爱翻
-  - 🇩🇪 德国-3 - 爱翻
-  - 🇫🇷 法国-1 - 爱翻
-  - 🇫🇷 法国-2 - 爱翻
-  - 🇫🇷 法国-3 - 爱翻
-  - 🇿🇦 南非-1 - 爱翻
-  - 🇿🇦 南非-2 - 爱翻
-  - 🇿🇦 南非-3 - 爱翻
-  - 🇧🇷 巴西-1 - 爱翻
-  - 🇧🇷 巴西-2 - 爱翻
-  - 🇧🇷 巴西-3 - 爱翻
-  - 🇮🇳 印度-1 - 爱翻
-  - 🇮🇳 印度-2 - 爱翻
-  - 🇮🇳 印度-3 - 爱翻
-  - 🇨🇴 哥伦比亚-1 - 爱翻
-  - 🇨🇴 哥伦比亚-2 - 爱翻
-  - 🇨🇴 哥伦比亚-3 - 爱翻
-  - ℹ️ 官网：爱翻.com - 爱翻
-  - ℹ️ 用不了去官网重新导入 - 爱翻
-  - 邀请新用户30%现金返利 - 爱翻
-  - 🇩🇪 德国-1 - 爱翻
-  - 🇩🇪 德国-2 - 爱翻
-  - 🇩🇪 德国-3 - 爱翻
-  - 🇫🇷 法国-1 - 爱翻
-  - 🇫🇷 法国-2 - 爱翻
-  - 🇫🇷 法国-3 - 爱翻
-  - 🇿🇦 南非-1 - 爱翻
-  - 🇿🇦 南非-2 - 爱翻
-  - 🇿🇦 南非-3 - 爱翻
-  - 🇧🇷 巴西-1 - 爱翻
-  - 🇧🇷 巴西-2 - 爱翻
-  - 🇧🇷 巴西-3 - 爱翻
-  - 🇮🇳 印度-1 - 爱翻
-  - 🇮🇳 印度-2 - 爱翻
-  - 🇮🇳 印度-3 - 爱翻
-  - 🇨🇴 哥伦比亚-1 - 爱翻
-  - 🇨🇴 哥伦比亚-2 - 爱翻
-  - 🇨🇴 哥伦比亚-3 - 爱翻
-  - 🇺🇸 美国-1 - 爱翻
-  - 🇺🇸 美国-2 - 爱翻
-  - 🇺🇸 美国-3 - 爱翻
-  - 🇺🇸 美国-1 - 爱翻
-  - 🇺🇸 美国-2 - 爱翻
-  - 🇺🇸 美国-3 - 爱翻
-  - 🇺🇸 美国-1 - 爱翻
-  - 🇺🇸 美国-2 - 爱翻
-  - 🇺🇸 美国-3 - 爱翻
-  - 🇺🇸 美国-1 - 爱翻
-  - 🇺🇸 美国-2 - 爱翻
-  - 🇺🇸 美国-3 - 爱翻
-  - 🇯🇵 日本-1 - 爱翻
-  - 🇯🇵 日本-2 - 爱翻
-  - 🇯🇵 日本-3 - 爱翻
-  - 🇯🇵 日本-1 - 爱翻
-  - 🇯🇵 日本-2 - 爱翻
-  - 🇯🇵 日本-3 - 爱翻
-  - 🇯🇵 日本-1 - 爱翻
-  - 🇯🇵 日本-2 - 爱翻
-  - 🇯🇵 日本-3 - 爱翻
-  - 🇯🇵 日本-1 - 爱翻
-  - 🇯🇵 日本-2 - 爱翻
-  - 🇯🇵 日本-3 - 爱翻
-  - 🇸🇬 新加坡-1 - 爱翻
-  - 🇸🇬 新加坡-2 - 爱翻
-  - 🇸🇬 新加坡-3 - 爱翻
-  - 🇸🇬 新加坡-1 - 爱翻
-  - 🇸🇬 新加坡-2 - 爱翻
-  - 🇸🇬 新加坡-3 - 爱翻
-  - 🇸🇬 新加坡-1 - 爱翻
-  - 🇸🇬 新加坡-2 - 爱翻
-  - 🇸🇬 新加坡-3 - 爱翻
-  - 🇸🇬 新加坡-1 - 爱翻
-  - 🇸🇬 新加坡-2 - 爱翻
-  - 🇸🇬 新加坡-3 - 爱翻
-  - 🇭🇰 香港-1 - 爱翻
-  - 🇭🇰 香港-2 - 爱翻
-  - 🇭🇰 香港-3 - 爱翻
-  - 🇭🇰 香港-1 - 爱翻
-  - 🇭🇰 香港-2 - 爱翻
-  - 🇭🇰 香港-3 - 爱翻
-  - 🇭🇰 香港-1 - 爱翻
-  - 🇭🇰 香港-2 - 爱翻
-  - 🇭🇰 香港-3 - 爱翻
-  - 🇭🇰 香港-1 - 爱翻
-  - 🇭🇰 香港-2 - 爱翻
-  - 🇭🇰 香港-3 - 爱翻
-  - 🇹🇼 台湾-1 - 爱翻
-  - 🇹🇼 台湾-2 - 爱翻
-  - 🇹🇼 台湾-3 - 爱翻
-  - 🇹🇼 台湾-1 - 爱翻
-  - 🇹🇼 台湾-2 - 爱翻
-  - 🇹🇼 台湾-3 - 爱翻
-  - 🇹🇼 台湾-1 - 爱翻
-  - 🇹🇼 台湾-2 - 爱翻
-  - 🇹🇼 台湾-3 - 爱翻
-  - 🇹🇼 台湾-1 - 爱翻
-  - 🇹🇼 台湾-2 - 爱翻
-  - 🇹🇼 台湾-3 - 爱翻
+  - 🇭🇰 [ss]联通线路-香港02 - 机场
+  - 🇭🇰 [ss]联通线路-香港01 - 机场
+  - 🇭🇰 [ss]直连-香港02 - 机场
+  - 🇭🇰 [ss]直连-香港01 - 机场
+  - 🇭🇰 中国-香港-001 - 漏网之鱼
+  - 🇩🇪 [ss]联通线路-德国01 - 机场
+  - 🇳🇱 [ss]联通线路-荷兰01 - 机场
+  - 🇸🇪 [ss]联通线路-瑞典01 - 机场
+  - 🇹🇷 [ss]联通线路-土耳其01 - 机场
+  - 🇲🇾 [ss]联通线路-马来西亚01 - 机场
+  - 🇦🇪 [ss]联通线路-阿联酋01 - 机场
+  - 🇻🇳 [ss]联通线路-越南01 - 机场
+  - 🇹🇭 [ss]联通线路-泰国01 - 机场
+  - 🇰🇿 [ss]联通线路-哈萨克斯坦01 - 机场
+  - 🇮🇩 [ss]联通线路-印尼01 - 机场
+  - 🇪🇸 [ss]联通线路-西班牙01 - 机场
+  - 🇧🇷 [ss]联通线路-巴西01 - 机场
+  - 🇵🇹 [ss]联通线路-葡萄牙01 - 机场
+  - 🇷🇴 [ss]联通线路-罗马尼亚01 - 机场
+  - 🇨🇭 [ss]联通线路-瑞士01 - 机场
+  - 🇳🇴 [ss]联通线路-挪威01 - 机场
+  - 🇮🇹 [ss]联通线路-意大利01 - 机场
+  - 🇷🇺 [ss]联通线路-俄罗斯01 - 机场
+  - 🇫🇮 [ss]联通线路-芬兰01 - 机场
+  - 🇩🇪 [ss]直连-德国01 - 机场
+  - 🇳🇱 [ss]直连-荷兰01 - 机场
+  - 🇸🇪 [ss]直连-瑞典01 - 机场
+  - 🇹🇷 [ss]直连-土耳其01 - 机场
+  - 🇲🇾 [ss]直连-马来西亚01 - 机场
+  - 🇦🇪 [ss]直连-阿联酋01 - 机场
+  - 🇻🇳 [ss]直连-越南01 - 机场
+  - 🇹🇭 [ss]直连-泰国01 - 机场
+  - 🇰🇿 [ss]直连-哈萨克斯坦01 - 机场
+  - 🇮🇩 [ss]直连-印尼01 - 机场
+  - 🇪🇸 [ss]直连-西班牙01 - 机场
+  - 🇧🇷 [ss]直连-巴西01 - 机场
+  - 🇵🇹 [ss]直连-葡萄牙01 - 机场
+  - 🇷🇴 [ss]直连-罗马尼亚01 - 机场
+  - 🇨🇭 [ss]直连-瑞士01 - 机场
+  - 🇳🇴 [ss]直连-挪威01 - 机场
+  - 🇮🇹 [ss]直连-意大利01 - 机场
+  - 🇷🇺 [ss]直连-俄罗斯01 - 机场
+  - 🇫🇮 [ss]直连-芬兰01 - 机场
+  - 🇳🇱 [trojan]荷兰[1x]-电联5 - 赛博云机场
+  - 🇩🇪 [vmess]德国[0.75x]-福利 - 赛博云机场
+  - 🇦🇪 [vmess]阿联酋[0.75x]-福利 - 赛博云机场
+  - 🇨🇱 [vmess]智利[0.75x]-福利 - 赛博云机场
+  - 🇧🇷 [vmess]巴西[0.75x]-福利 - 赛博云机场
+  - 🇷🇺 俄罗斯-圣彼得堡-001 - 漏网之鱼
+  - 🇩🇪 德国-法兰克福-001 - 漏网之鱼
+  - Trojan - XBoard
+  - SS - XBoard
+  - Vmess - XBoard
+  - 🇯🇵 [ss]联通线路-日本01 - 机场
+  - 🇯🇵 [ss]直连-日本01 - 机场
+  - 🇯🇵 [trojan]日本[3.2x]-IIJ高端3 - 赛博云机场
+  - 🇺🇸 [ss]联通线路-美国01 - 机场
+  - 🇺🇸 [ss]直连-美国01 - 机场
+  - 🇺🇸 美国-拉斯维加斯-001 - 漏网之鱼
+  - 🇺🇸 美国-拉斯维加斯-002 - 漏网之鱼
+  - 🇸🇬 [ss]联通线路-新加坡01 - 机场
+  - 🇸🇬 [ss]联通线路-新加坡02 - 机场
+  - 🇸🇬 [ss]直连-新加坡01 - 机场
+  - 🇸🇬 [ss]直连-新加坡02 - 机场
+  - 🇸🇬 [trojan]新加坡[2.8x]-高端14 - 赛博云机场
+  - 🇺🇸 vmess-直连-US - 起点带宽不限速
+  - 🇺🇸 美国直连-vmess - 起点带宽不限速
+  - 🇺🇸 IEPL专线-美国-1 - 起点带宽不限速
+  - 🇺🇸 美国直连-Trojan - 起点带宽不限速
+  - 🇺🇸 美国-波士顿 - 小火箭
+  - 🇺🇸 美国-旧金山 - 小火箭
+  - 🇺🇸 (专线)美国-洛杉矶 - 小火箭
+  - 🇺🇸 （专线）美国 - 小火箭
+  - 🇺🇸 美国-家庭IPB - 小火箭
+  - 🇺🇸 IEPL · 美国US · 220 - 悟空加速器
+  - 🇺🇸 IEPL · 美国US · 40 - 悟空加速器
+  - 🇺🇸 IEPL · 美国US · 36 - 悟空加速器
+  - 🇺🇸 IEPL · 美国US · 88 - 悟空加速器
+  - 🇺🇸 vmess-直连-US - 起点带宽不限速
+  - 🇺🇸 美国直连-vmess - 起点带宽不限速
+  - 🇺🇸 IEPL专线-美国-1 - 起点带宽不限速
+  - 🇺🇸 美国直连-Trojan - 起点带宽不限速
+  - 🇺🇸 美国-波士顿 - 小火箭
+  - 🇺🇸 美国-旧金山 - 小火箭
+  - 🇺🇸 (专线)美国-洛杉矶 - 小火箭
+  - 🇺🇸 （专线）美国 - 小火箭
+  - 🇺🇸 美国-家庭IPB - 小火箭
+  - 🇺🇸 IEPL · 美国US · 220 - 悟空加速器
+  - 🇺🇸 IEPL · 美国US · 40 - 悟空加速器
+  - 🇺🇸 IEPL · 美国US · 36 - 悟空加速器
+  - 🇺🇸 IEPL · 美国US · 88 - 悟空加速器
+  - 🇯🇵 日本直连-vmess - 起点带宽不限速
+  - 🇯🇵 IEPL专线-日本-1 - 起点带宽不限速
+  - 🇯🇵 （专线）日本-名古屋 - 小火箭
+  - 🇯🇵 （专线）日本-大阪 - 小火箭
+  - 🇯🇵 （专线）日本-秋田 - 小火箭
+  - 🇯🇵 IEPL · 日本JP · 140 - 悟空加速器
+  - 🇯🇵 IEPL · 日本JP · 105 - 悟空加速器
+  - 🇯🇵 IEPL · 日本JP · 176 - 悟空加速器
+  - 🇯🇵 IEPL · 日本JP · 222 - 悟空加速器
+  - 🇯🇵 IEPL · 日本JP · 129 - 悟空加速器
+  - 🇯🇵 IEPL · 日本JP · 89 - 悟空加速器
+  - 🇯🇵 IEPL · 日本JP · 209 - 悟空加速器
+  - 🇯🇵 IEPL · 日本JP · 48 - 悟空加速器
+  - 🇯🇵 日本直连-vmess - 起点带宽不限速
+  - 🇯🇵 IEPL专线-日本-1 - 起点带宽不限速
+  - 🇯🇵 （专线）日本-名古屋 - 小火箭
+  - 🇯🇵 （专线）日本-大阪 - 小火箭
+  - 🇯🇵 （专线）日本-秋田 - 小火箭
+  - 🇯🇵 IEPL · 日本JP · 140 - 悟空加速器
+  - 🇯🇵 IEPL · 日本JP · 105 - 悟空加速器
+  - 🇯🇵 IEPL · 日本JP · 176 - 悟空加速器
+  - 🇯🇵 IEPL · 日本JP · 222 - 悟空加速器
+  - 🇯🇵 IEPL · 日本JP · 129 - 悟空加速器
+  - 🇯🇵 IEPL · 日本JP · 89 - 悟空加速器
+  - 🇯🇵 IEPL · 日本JP · 209 - 悟空加速器
+  - 🇯🇵 IEPL · 日本JP · 48 - 悟空加速器
+  - 🇸🇬 新加坡直连-vmess - 起点带宽不限速
+  - 🇸🇬 IEPL专线-新加坡-1 - 起点带宽不限速
+  - 🇸🇬 （专线）新加坡 - 小火箭
+  - 🇸🇬 IEPL · 新加坡SG · 204 - 悟空加速器
+  - 🇸🇬 新加坡直连-vmess - 起点带宽不限速
+  - 🇸🇬 IEPL专线-新加坡-1 - 起点带宽不限速
+  - 🇸🇬 （专线）新加坡 - 小火箭
+  - 🇸🇬 IEPL · 新加坡SG · 204 - 悟空加速器
+  - 🇭🇰 香港直连-vmess - 起点带宽不限速
+  - 🇭🇰 IEPL专线-香港-1 - 起点带宽不限速
+  - 🇭🇰 深港中转-IEPL专线-US-1 - 起点带宽不限速
+  - 🇭🇰 香港-石澳 - 小火箭
+  - 🇭🇰 （专线）香港-湾仔 - 小火箭
+  - 🇭🇰 （专线）香港-尖沙咀 - 小火箭
+  - 🇭🇰 （专线）香港-深水埗 - 小火箭
+  - 🇭🇰 （专线）香港-太古城 - 小火箭
+  - 🇭🇰 （专线）香港-油尖旺 - 小火箭
+  - 🇭🇰 香港-九龙 - 小火箭
+  - 🇭🇰 香港-观塘 - 小火箭
+  - 🇭🇰 （专线）香港-铜锣湾 - 小火箭
+  - 🇭🇰 （专线）香港-石澳 - 小火箭
+  - 🇭🇰 香港直连-vmess - 起点带宽不限速
+  - 🇭🇰 IEPL专线-香港-1 - 起点带宽不限速
+  - 🇭🇰 深港中转-IEPL专线-US-1 - 起点带宽不限速
+  - 🇭🇰 香港-石澳 - 小火箭
+  - 🇭🇰 （专线）香港-湾仔 - 小火箭
+  - 🇭🇰 （专线）香港-尖沙咀 - 小火箭
+  - 🇭🇰 （专线）香港-深水埗 - 小火箭
+  - 🇭🇰 （专线）香港-太古城 - 小火箭
+  - 🇭🇰 （专线）香港-油尖旺 - 小火箭
+  - 🇭🇰 香港-九龙 - 小火箭
+  - 🇭🇰 香港-观塘 - 小火箭
+  - 🇭🇰 （专线）香港-铜锣湾 - 小火箭
+  - 🇭🇰 （专线）香港-石澳 - 小火箭
+  - 🇰🇷 IEPL专线-韩国-1 - 起点带宽不限速
+  - 🇫🇷 专线-法国 - 小火箭
+  - 🇰🇭 专线-柬埔寨 - 小火箭
+  - 🇿🇦 专线-南非 - 小火箭
+  - 🇩🇪 专线-德国 - 小火箭
+  - 🇰🇷 韩国-水原 - 小火箭
+  - 🇰🇷 韩国-汉城 - 小火箭
+  - 🇨🇭 （专线）瑞士 - 小火箭
+  - 🇻🇳 （专线）越南 - 小火箭
+  - 🇷🇺 （专线）俄罗斯 - 小火箭
+  - 🇪🇸 （专线）西班牙 - 小火箭
+  - 🇨🇦 （专线）加拿大-多伦多 - 小火箭
+  - 🇮🇩 （专线）印尼 - 小火箭
+  - 🇲🇾 （专线）马来西亚-赛城 - 小火箭
+  - 🇲🇾 （专线）马来西亚-吉隆坡 - 小火箭
+  - 🇮🇳 （专线）印度 - 小火箭
+  - 🇦🇺 澳大利亚-悉尼 - 小火箭
+  - 🇳🇱 (专线)荷兰 - 小火箭
+  - 🇸🇦 沙特阿拉伯B - 小火箭
+  - 🇵🇭 菲律宾 - 小火箭
+  - 🇵🇭 （专线）菲律宾 - 小火箭
+  - 🇦🇪 沙特阿联酋B - 小火箭
+  - 🇳🇴 挪威-阿尔塔 - 小火箭
+  - 🇹🇭 泰国-曼谷 - 小火箭
+  - 🇮🇹 意大利 - 小火箭
+  - 🇬🇧 （专线）英国家庭IP - 小火箭
+  - 🇨🇦 IEPL · 加拿大CA · 76 - 悟空加速器
+  - 🇰🇷 IEPL · 韩国KR · 157 - 悟空加速器
+  - 🇰🇷 IEPL · 韩国KR · 242 - 悟空加速器
+  - 🇰🇷 IEPL · 韩国KR · 158 - 悟空加速器
+  - 🇬🇧 IEPL · 英国UK · 107 - 悟空加速器
+  - 🇫🇷 IEPL · 法国FR · 102 - 悟空加速器
+  - 🇩🇪 IEPL · 德国DE · 142 - 悟空加速器
+  - 🇧🇷 IEPL · 巴西BR · 220 - 悟空加速器
+  - 🇿🇦 IEPL · 南非ZA · 177 - 悟空加速器
+  - 🇮🇱 IEPL · 以色列IL · 236 - 悟空加速器
+  - 🇪🇸 IEPL · 西班牙ES · 81 - 悟空加速器
+  - 🇵🇱 IEPL · 波兰PO · 192 - 悟空加速器
+  - 🇮🇹 IEPL · 意大利IT · 49 - 悟空加速器
+  - 🇺🇦 IEPL · 乌克兰UA · 48 - 悟空加速器
+  - 🇮🇳 IEPL · 印度IN · 75 - 悟空加速器
+  - 🇹🇷 IEPL · 土耳其TR · 88 - 悟空加速器
+  - 🇦🇺 IEPL · 澳洲AU · 230 - 悟空加速器
+  - 🇳🇱 IEPL · 荷兰NL · 184 - 悟空加速器
+  - 🇸🇪 IEPL · 瑞典SW · 138 - 悟空加速器
+  - 🇲🇽 IEPL · 墨西哥MX · 121 - 悟空加速器
+  - 🇰🇷 IEPL专线-韩国-1 - 起点带宽不限速
+  - 🇫🇷 专线-法国 - 小火箭
+  - 🇰🇭 专线-柬埔寨 - 小火箭
+  - 🇿🇦 专线-南非 - 小火箭
+  - 🇩🇪 专线-德国 - 小火箭
+  - 🇰🇷 韩国-水原 - 小火箭
+  - 🇰🇷 韩国-汉城 - 小火箭
+  - 🇨🇭 （专线）瑞士 - 小火箭
+  - 🇻🇳 （专线）越南 - 小火箭
+  - 🇷🇺 （专线）俄罗斯 - 小火箭
+  - 🇪🇸 （专线）西班牙 - 小火箭
+  - 🇨🇦 （专线）加拿大-多伦多 - 小火箭
+  - 🇮🇩 （专线）印尼 - 小火箭
+  - 🇲🇾 （专线）马来西亚-赛城 - 小火箭
+  - 🇲🇾 （专线）马来西亚-吉隆坡 - 小火箭
+  - 🇮🇳 （专线）印度 - 小火箭
+  - 🇦🇺 澳大利亚-悉尼 - 小火箭
+  - 🇳🇱 (专线)荷兰 - 小火箭
+  - 🇸🇦 沙特阿拉伯B - 小火箭
+  - 🇵🇭 菲律宾 - 小火箭
+  - 🇵🇭 （专线）菲律宾 - 小火箭
+  - 🇦🇪 沙特阿联酋B - 小火箭
+  - 🇳🇴 挪威-阿尔塔 - 小火箭
+  - 🇹🇭 泰国-曼谷 - 小火箭
+  - 🇮🇹 意大利 - 小火箭
+  - 🇬🇧 （专线）英国家庭IP - 小火箭
+  - 🇨🇦 IEPL · 加拿大CA · 76 - 悟空加速器
+  - 🇰🇷 IEPL · 韩国KR · 157 - 悟空加速器
+  - 🇰🇷 IEPL · 韩国KR · 242 - 悟空加速器
+  - 🇰🇷 IEPL · 韩国KR · 158 - 悟空加速器
+  - 🇬🇧 IEPL · 英国UK · 107 - 悟空加速器
+  - 🇫🇷 IEPL · 法国FR · 102 - 悟空加速器
+  - 🇩🇪 IEPL · 德国DE · 142 - 悟空加速器
+  - 🇧🇷 IEPL · 巴西BR · 220 - 悟空加速器
+  - 🇿🇦 IEPL · 南非ZA · 177 - 悟空加速器
+  - 🇮🇱 IEPL · 以色列IL · 236 - 悟空加速器
+  - 🇪🇸 IEPL · 西班牙ES · 81 - 悟空加速器
+  - 🇵🇱 IEPL · 波兰PO · 192 - 悟空加速器
+  - 🇮🇹 IEPL · 意大利IT · 49 - 悟空加速器
+  - 🇺🇦 IEPL · 乌克兰UA · 48 - 悟空加速器
+  - 🇮🇳 IEPL · 印度IN · 75 - 悟空加速器
+  - 🇹🇷 IEPL · 土耳其TR · 88 - 悟空加速器
+  - 🇦🇺 IEPL · 澳洲AU · 230 - 悟空加速器
+  - 🇳🇱 IEPL · 荷兰NL · 184 - 悟空加速器
+  - 🇸🇪 IEPL · 瑞典SW · 138 - 悟空加速器
+  - 🇲🇽 IEPL · 墨西哥MX · 121 - 悟空加速器
+  - 🇹🇼 台湾直连-Trojan - 起点带宽不限速
+  - 🇹🇼 （专线）中国台湾-家庭IP - 小火箭
+  - 🇹🇼 台湾直连-Trojan - 起点带宽不限速
+  - 🇹🇼 （专线）中国台湾-家庭IP - 小火箭
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -232,210 +335,324 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
-  - 🇭🇰 香港-1 - 爱翻
-  - 🇭🇰 香港-2 - 爱翻
-  - 🇭🇰 香港-3 - 爱翻
-  - 🇭🇰 香港-1 - 爱翻
-  - 🇭🇰 香港-2 - 爱翻
-  - 🇭🇰 香港-3 - 爱翻
-  - 🇭🇰 香港-1 - 爱翻
-  - 🇭🇰 香港-2 - 爱翻
-  - 🇭🇰 香港-3 - 爱翻
-  - 🇭🇰 香港-1 - 爱翻
-  - 🇭🇰 香港-2 - 爱翻
-  - 🇭🇰 香港-3 - 爱翻
+  - 🇭🇰 [ss]联通线路-香港02 - 机场
+  - 🇭🇰 [ss]联通线路-香港01 - 机场
+  - 🇭🇰 [ss]直连-香港02 - 机场
+  - 🇭🇰 [ss]直连-香港01 - 机场
+  - 🇭🇰 中国-香港-001 - 漏网之鱼
+  - 🇭🇰 香港直连-vmess - 起点带宽不限速
+  - 🇭🇰 IEPL专线-香港-1 - 起点带宽不限速
+  - 🇭🇰 深港中转-IEPL专线-US-1 - 起点带宽不限速
+  - 🇭🇰 香港-石澳 - 小火箭
+  - 🇭🇰 （专线）香港-湾仔 - 小火箭
+  - 🇭🇰 （专线）香港-尖沙咀 - 小火箭
+  - 🇭🇰 （专线）香港-深水埗 - 小火箭
+  - 🇭🇰 （专线）香港-太古城 - 小火箭
+  - 🇭🇰 （专线）香港-油尖旺 - 小火箭
+  - 🇭🇰 香港-九龙 - 小火箭
+  - 🇭🇰 香港-观塘 - 小火箭
+  - 🇭🇰 （专线）香港-铜锣湾 - 小火箭
+  - 🇭🇰 （专线）香港-石澳 - 小火箭
+  - 🇭🇰 香港直连-vmess - 起点带宽不限速
+  - 🇭🇰 IEPL专线-香港-1 - 起点带宽不限速
+  - 🇭🇰 深港中转-IEPL专线-US-1 - 起点带宽不限速
+  - 🇭🇰 香港-石澳 - 小火箭
+  - 🇭🇰 （专线）香港-湾仔 - 小火箭
+  - 🇭🇰 （专线）香港-尖沙咀 - 小火箭
+  - 🇭🇰 （专线）香港-深水埗 - 小火箭
+  - 🇭🇰 （专线）香港-太古城 - 小火箭
+  - 🇭🇰 （专线）香港-油尖旺 - 小火箭
+  - 🇭🇰 香港-九龙 - 小火箭
+  - 🇭🇰 香港-观塘 - 小火箭
+  - 🇭🇰 （专线）香港-铜锣湾 - 小火箭
+  - 🇭🇰 （专线）香港-石澳 - 小火箭
 - name: 🇹🇼 ‍台湾
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id003
-  - 🇹🇼 台湾-1 - 爱翻
-  - 🇹🇼 台湾-2 - 爱翻
-  - 🇹🇼 台湾-3 - 爱翻
-  - 🇹🇼 台湾-1 - 爱翻
-  - 🇹🇼 台湾-2 - 爱翻
-  - 🇹🇼 台湾-3 - 爱翻
-  - 🇹🇼 台湾-1 - 爱翻
-  - 🇹🇼 台湾-2 - 爱翻
-  - 🇹🇼 台湾-3 - 爱翻
-  - 🇹🇼 台湾-1 - 爱翻
-  - 🇹🇼 台湾-2 - 爱翻
-  - 🇹🇼 台湾-3 - 爱翻
+  - 🇹🇼 台湾直连-Trojan - 起点带宽不限速
+  - 🇹🇼 （专线）中国台湾-家庭IP - 小火箭
+  - 🇹🇼 台湾直连-Trojan - 起点带宽不限速
+  - 🇹🇼 （专线）中国台湾-家庭IP - 小火箭
 - name: 🇨🇳 ‍中国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id004
-  - 🇭🇰 香港-1 - 爱翻
-  - 🇭🇰 香港-2 - 爱翻
-  - 🇭🇰 香港-3 - 爱翻
-  - 🇭🇰 香港-1 - 爱翻
-  - 🇭🇰 香港-2 - 爱翻
-  - 🇭🇰 香港-3 - 爱翻
-  - 🇭🇰 香港-1 - 爱翻
-  - 🇭🇰 香港-2 - 爱翻
-  - 🇭🇰 香港-3 - 爱翻
-  - 🇭🇰 香港-1 - 爱翻
-  - 🇭🇰 香港-2 - 爱翻
-  - 🇭🇰 香港-3 - 爱翻
-  - 🇹🇼 台湾-1 - 爱翻
-  - 🇹🇼 台湾-2 - 爱翻
-  - 🇹🇼 台湾-3 - 爱翻
-  - 🇹🇼 台湾-1 - 爱翻
-  - 🇹🇼 台湾-2 - 爱翻
-  - 🇹🇼 台湾-3 - 爱翻
-  - 🇹🇼 台湾-1 - 爱翻
-  - 🇹🇼 台湾-2 - 爱翻
-  - 🇹🇼 台湾-3 - 爱翻
-  - 🇹🇼 台湾-1 - 爱翻
-  - 🇹🇼 台湾-2 - 爱翻
-  - 🇹🇼 台湾-3 - 爱翻
+  - 🇭🇰 [ss]联通线路-香港02 - 机场
+  - 🇭🇰 [ss]联通线路-香港01 - 机场
+  - 🇭🇰 [ss]直连-香港02 - 机场
+  - 🇭🇰 [ss]直连-香港01 - 机场
+  - 🇭🇰 中国-香港-001 - 漏网之鱼
+  - 🇭🇰 香港直连-vmess - 起点带宽不限速
+  - 🇭🇰 IEPL专线-香港-1 - 起点带宽不限速
+  - 🇭🇰 深港中转-IEPL专线-US-1 - 起点带宽不限速
+  - 🇭🇰 香港-石澳 - 小火箭
+  - 🇭🇰 （专线）香港-湾仔 - 小火箭
+  - 🇭🇰 （专线）香港-尖沙咀 - 小火箭
+  - 🇭🇰 （专线）香港-深水埗 - 小火箭
+  - 🇭🇰 （专线）香港-太古城 - 小火箭
+  - 🇭🇰 （专线）香港-油尖旺 - 小火箭
+  - 🇭🇰 香港-九龙 - 小火箭
+  - 🇭🇰 香港-观塘 - 小火箭
+  - 🇭🇰 （专线）香港-铜锣湾 - 小火箭
+  - 🇭🇰 （专线）香港-石澳 - 小火箭
+  - 🇭🇰 香港直连-vmess - 起点带宽不限速
+  - 🇭🇰 IEPL专线-香港-1 - 起点带宽不限速
+  - 🇭🇰 深港中转-IEPL专线-US-1 - 起点带宽不限速
+  - 🇭🇰 香港-石澳 - 小火箭
+  - 🇭🇰 （专线）香港-湾仔 - 小火箭
+  - 🇭🇰 （专线）香港-尖沙咀 - 小火箭
+  - 🇭🇰 （专线）香港-深水埗 - 小火箭
+  - 🇭🇰 （专线）香港-太古城 - 小火箭
+  - 🇭🇰 （专线）香港-油尖旺 - 小火箭
+  - 🇭🇰 香港-九龙 - 小火箭
+  - 🇭🇰 香港-观塘 - 小火箭
+  - 🇭🇰 （专线）香港-铜锣湾 - 小火箭
+  - 🇭🇰 （专线）香港-石澳 - 小火箭
+  - 🇹🇼 台湾直连-Trojan - 起点带宽不限速
+  - 🇹🇼 （专线）中国台湾-家庭IP - 小火箭
+  - 🇹🇼 台湾直连-Trojan - 起点带宽不限速
+  - 🇹🇼 （专线）中国台湾-家庭IP - 小火箭
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id005
-  - 🇸🇬 新加坡-1 - 爱翻
-  - 🇸🇬 新加坡-2 - 爱翻
-  - 🇸🇬 新加坡-3 - 爱翻
-  - 🇸🇬 新加坡-1 - 爱翻
-  - 🇸🇬 新加坡-2 - 爱翻
-  - 🇸🇬 新加坡-3 - 爱翻
-  - 🇸🇬 新加坡-1 - 爱翻
-  - 🇸🇬 新加坡-2 - 爱翻
-  - 🇸🇬 新加坡-3 - 爱翻
-  - 🇸🇬 新加坡-1 - 爱翻
-  - 🇸🇬 新加坡-2 - 爱翻
-  - 🇸🇬 新加坡-3 - 爱翻
+  - 🇸🇬 [ss]联通线路-新加坡01 - 机场
+  - 🇸🇬 [ss]联通线路-新加坡02 - 机场
+  - 🇸🇬 [ss]直连-新加坡01 - 机场
+  - 🇸🇬 [ss]直连-新加坡02 - 机场
+  - 🇸🇬 [trojan]新加坡[2.8x]-高端14 - 赛博云机场
+  - 🇸🇬 新加坡直连-vmess - 起点带宽不限速
+  - 🇸🇬 IEPL专线-新加坡-1 - 起点带宽不限速
+  - 🇸🇬 （专线）新加坡 - 小火箭
+  - 🇸🇬 IEPL · 新加坡SG · 204 - 悟空加速器
+  - 🇸🇬 新加坡直连-vmess - 起点带宽不限速
+  - 🇸🇬 IEPL专线-新加坡-1 - 起点带宽不限速
+  - 🇸🇬 （专线）新加坡 - 小火箭
+  - 🇸🇬 IEPL · 新加坡SG · 204 - 悟空加速器
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id006
-  - 🇯🇵 日本-1 - 爱翻
-  - 🇯🇵 日本-2 - 爱翻
-  - 🇯🇵 日本-3 - 爱翻
-  - 🇯🇵 日本-1 - 爱翻
-  - 🇯🇵 日本-2 - 爱翻
-  - 🇯🇵 日本-3 - 爱翻
-  - 🇯🇵 日本-1 - 爱翻
-  - 🇯🇵 日本-2 - 爱翻
-  - 🇯🇵 日本-3 - 爱翻
-  - 🇯🇵 日本-1 - 爱翻
-  - 🇯🇵 日本-2 - 爱翻
-  - 🇯🇵 日本-3 - 爱翻
+  - 🇯🇵 [ss]联通线路-日本01 - 机场
+  - 🇯🇵 [ss]直连-日本01 - 机场
+  - 🇯🇵 [trojan]日本[3.2x]-IIJ高端3 - 赛博云机场
+  - 🇯🇵 日本直连-vmess - 起点带宽不限速
+  - 🇯🇵 IEPL专线-日本-1 - 起点带宽不限速
+  - 🇯🇵 （专线）日本-名古屋 - 小火箭
+  - 🇯🇵 （专线）日本-大阪 - 小火箭
+  - 🇯🇵 （专线）日本-秋田 - 小火箭
+  - 🇯🇵 IEPL · 日本JP · 140 - 悟空加速器
+  - 🇯🇵 IEPL · 日本JP · 105 - 悟空加速器
+  - 🇯🇵 IEPL · 日本JP · 176 - 悟空加速器
+  - 🇯🇵 IEPL · 日本JP · 222 - 悟空加速器
+  - 🇯🇵 IEPL · 日本JP · 129 - 悟空加速器
+  - 🇯🇵 IEPL · 日本JP · 89 - 悟空加速器
+  - 🇯🇵 IEPL · 日本JP · 209 - 悟空加速器
+  - 🇯🇵 IEPL · 日本JP · 48 - 悟空加速器
+  - 🇯🇵 日本直连-vmess - 起点带宽不限速
+  - 🇯🇵 IEPL专线-日本-1 - 起点带宽不限速
+  - 🇯🇵 （专线）日本-名古屋 - 小火箭
+  - 🇯🇵 （专线）日本-大阪 - 小火箭
+  - 🇯🇵 （专线）日本-秋田 - 小火箭
+  - 🇯🇵 IEPL · 日本JP · 140 - 悟空加速器
+  - 🇯🇵 IEPL · 日本JP · 105 - 悟空加速器
+  - 🇯🇵 IEPL · 日本JP · 176 - 悟空加速器
+  - 🇯🇵 IEPL · 日本JP · 222 - 悟空加速器
+  - 🇯🇵 IEPL · 日本JP · 129 - 悟空加速器
+  - 🇯🇵 IEPL · 日本JP · 89 - 悟空加速器
+  - 🇯🇵 IEPL · 日本JP · 209 - 悟空加速器
+  - 🇯🇵 IEPL · 日本JP · 48 - 悟空加速器
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
   proxies: &id007
-  - 🇺🇸 美国-1 - 爱翻
-  - 🇺🇸 美国-2 - 爱翻
-  - 🇺🇸 美国-3 - 爱翻
-  - 🇺🇸 美国-1 - 爱翻
-  - 🇺🇸 美国-2 - 爱翻
-  - 🇺🇸 美国-3 - 爱翻
-  - 🇺🇸 美国-1 - 爱翻
-  - 🇺🇸 美国-2 - 爱翻
-  - 🇺🇸 美国-3 - 爱翻
-  - 🇺🇸 美国-1 - 爱翻
-  - 🇺🇸 美国-2 - 爱翻
-  - 🇺🇸 美国-3 - 爱翻
+  - 🇺🇸 [ss]联通线路-美国01 - 机场
+  - 🇺🇸 [ss]直连-美国01 - 机场
+  - 🇺🇸 美国-拉斯维加斯-001 - 漏网之鱼
+  - 🇺🇸 美国-拉斯维加斯-002 - 漏网之鱼
+  - 🇺🇸 vmess-直连-US - 起点带宽不限速
+  - 🇺🇸 美国直连-vmess - 起点带宽不限速
+  - 🇺🇸 IEPL专线-美国-1 - 起点带宽不限速
+  - 🇺🇸 美国直连-Trojan - 起点带宽不限速
+  - 🇺🇸 美国-波士顿 - 小火箭
+  - 🇺🇸 美国-旧金山 - 小火箭
+  - 🇺🇸 (专线)美国-洛杉矶 - 小火箭
+  - 🇺🇸 （专线）美国 - 小火箭
+  - 🇺🇸 美国-家庭IPB - 小火箭
+  - 🇺🇸 IEPL · 美国US · 220 - 悟空加速器
+  - 🇺🇸 IEPL · 美国US · 40 - 悟空加速器
+  - 🇺🇸 IEPL · 美国US · 36 - 悟空加速器
+  - 🇺🇸 IEPL · 美国US · 88 - 悟空加速器
+  - 🇺🇸 vmess-直连-US - 起点带宽不限速
+  - 🇺🇸 美国直连-vmess - 起点带宽不限速
+  - 🇺🇸 IEPL专线-美国-1 - 起点带宽不限速
+  - 🇺🇸 美国直连-Trojan - 起点带宽不限速
+  - 🇺🇸 美国-波士顿 - 小火箭
+  - 🇺🇸 美国-旧金山 - 小火箭
+  - 🇺🇸 (专线)美国-洛杉矶 - 小火箭
+  - 🇺🇸 （专线）美国 - 小火箭
+  - 🇺🇸 美国-家庭IPB - 小火箭
+  - 🇺🇸 IEPL · 美国US · 220 - 悟空加速器
+  - 🇺🇸 IEPL · 美国US · 40 - 悟空加速器
+  - 🇺🇸 IEPL · 美国US · 36 - 悟空加速器
+  - 🇺🇸 IEPL · 美国US · 88 - 悟空加速器
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 100
   proxies: &id008
-  - ℹ️ 官网：爱翻.com - 爱翻
-  - ℹ️ 用不了去官网重新导入 - 爱翻
-  - 邀请新用户30%现金返利 - 爱翻
-  - 🇩🇪 德国-1 - 爱翻
-  - 🇩🇪 德国-2 - 爱翻
-  - 🇩🇪 德国-3 - 爱翻
-  - 🇫🇷 法国-1 - 爱翻
-  - 🇫🇷 法国-2 - 爱翻
-  - 🇫🇷 法国-3 - 爱翻
-  - 🇿🇦 南非-1 - 爱翻
-  - 🇿🇦 南非-2 - 爱翻
-  - 🇿🇦 南非-3 - 爱翻
-  - 🇧🇷 巴西-1 - 爱翻
-  - 🇧🇷 巴西-2 - 爱翻
-  - 🇧🇷 巴西-3 - 爱翻
-  - 🇮🇳 印度-1 - 爱翻
-  - 🇮🇳 印度-2 - 爱翻
-  - 🇮🇳 印度-3 - 爱翻
-  - 🇨🇴 哥伦比亚-1 - 爱翻
-  - 🇨🇴 哥伦比亚-2 - 爱翻
-  - 🇨🇴 哥伦比亚-3 - 爱翻
-  - ℹ️ 官网：爱翻.com - 爱翻
-  - ℹ️ 用不了去官网重新导入 - 爱翻
-  - 邀请新用户30%现金返利 - 爱翻
-  - 🇩🇪 德国-1 - 爱翻
-  - 🇩🇪 德国-2 - 爱翻
-  - 🇩🇪 德国-3 - 爱翻
-  - 🇫🇷 法国-1 - 爱翻
-  - 🇫🇷 法国-2 - 爱翻
-  - 🇫🇷 法国-3 - 爱翻
-  - 🇿🇦 南非-1 - 爱翻
-  - 🇿🇦 南非-2 - 爱翻
-  - 🇿🇦 南非-3 - 爱翻
-  - 🇧🇷 巴西-1 - 爱翻
-  - 🇧🇷 巴西-2 - 爱翻
-  - 🇧🇷 巴西-3 - 爱翻
-  - 🇮🇳 印度-1 - 爱翻
-  - 🇮🇳 印度-2 - 爱翻
-  - 🇮🇳 印度-3 - 爱翻
-  - 🇨🇴 哥伦比亚-1 - 爱翻
-  - 🇨🇴 哥伦比亚-2 - 爱翻
-  - 🇨🇴 哥伦比亚-3 - 爱翻
-  - ℹ️ 官网：爱翻.com - 爱翻
-  - ℹ️ 用不了去官网重新导入 - 爱翻
-  - 邀请新用户30%现金返利 - 爱翻
-  - 🇩🇪 德国-1 - 爱翻
-  - 🇩🇪 德国-2 - 爱翻
-  - 🇩🇪 德国-3 - 爱翻
-  - 🇫🇷 法国-1 - 爱翻
-  - 🇫🇷 法国-2 - 爱翻
-  - 🇫🇷 法国-3 - 爱翻
-  - 🇿🇦 南非-1 - 爱翻
-  - 🇿🇦 南非-2 - 爱翻
-  - 🇿🇦 南非-3 - 爱翻
-  - 🇧🇷 巴西-1 - 爱翻
-  - 🇧🇷 巴西-2 - 爱翻
-  - 🇧🇷 巴西-3 - 爱翻
-  - 🇮🇳 印度-1 - 爱翻
-  - 🇮🇳 印度-2 - 爱翻
-  - 🇮🇳 印度-3 - 爱翻
-  - 🇨🇴 哥伦比亚-1 - 爱翻
-  - 🇨🇴 哥伦比亚-2 - 爱翻
-  - 🇨🇴 哥伦比亚-3 - 爱翻
-  - ℹ️ 官网：爱翻.com - 爱翻
-  - ℹ️ 用不了去官网重新导入 - 爱翻
-  - 邀请新用户30%现金返利 - 爱翻
-  - 🇩🇪 德国-1 - 爱翻
-  - 🇩🇪 德国-2 - 爱翻
-  - 🇩🇪 德国-3 - 爱翻
-  - 🇫🇷 法国-1 - 爱翻
-  - 🇫🇷 法国-2 - 爱翻
-  - 🇫🇷 法国-3 - 爱翻
-  - 🇿🇦 南非-1 - 爱翻
-  - 🇿🇦 南非-2 - 爱翻
-  - 🇿🇦 南非-3 - 爱翻
-  - 🇧🇷 巴西-1 - 爱翻
-  - 🇧🇷 巴西-2 - 爱翻
-  - 🇧🇷 巴西-3 - 爱翻
-  - 🇮🇳 印度-1 - 爱翻
-  - 🇮🇳 印度-2 - 爱翻
-  - 🇮🇳 印度-3 - 爱翻
-  - 🇨🇴 哥伦比亚-1 - 爱翻
-  - 🇨🇴 哥伦比亚-2 - 爱翻
-  - 🇨🇴 哥伦比亚-3 - 爱翻
+  - 🇩🇪 [ss]联通线路-德国01 - 机场
+  - 🇳🇱 [ss]联通线路-荷兰01 - 机场
+  - 🇸🇪 [ss]联通线路-瑞典01 - 机场
+  - 🇹🇷 [ss]联通线路-土耳其01 - 机场
+  - 🇲🇾 [ss]联通线路-马来西亚01 - 机场
+  - 🇦🇪 [ss]联通线路-阿联酋01 - 机场
+  - 🇻🇳 [ss]联通线路-越南01 - 机场
+  - 🇹🇭 [ss]联通线路-泰国01 - 机场
+  - 🇰🇿 [ss]联通线路-哈萨克斯坦01 - 机场
+  - 🇮🇩 [ss]联通线路-印尼01 - 机场
+  - 🇪🇸 [ss]联通线路-西班牙01 - 机场
+  - 🇧🇷 [ss]联通线路-巴西01 - 机场
+  - 🇵🇹 [ss]联通线路-葡萄牙01 - 机场
+  - 🇷🇴 [ss]联通线路-罗马尼亚01 - 机场
+  - 🇨🇭 [ss]联通线路-瑞士01 - 机场
+  - 🇳🇴 [ss]联通线路-挪威01 - 机场
+  - 🇮🇹 [ss]联通线路-意大利01 - 机场
+  - 🇷🇺 [ss]联通线路-俄罗斯01 - 机场
+  - 🇫🇮 [ss]联通线路-芬兰01 - 机场
+  - 🇩🇪 [ss]直连-德国01 - 机场
+  - 🇳🇱 [ss]直连-荷兰01 - 机场
+  - 🇸🇪 [ss]直连-瑞典01 - 机场
+  - 🇹🇷 [ss]直连-土耳其01 - 机场
+  - 🇲🇾 [ss]直连-马来西亚01 - 机场
+  - 🇦🇪 [ss]直连-阿联酋01 - 机场
+  - 🇻🇳 [ss]直连-越南01 - 机场
+  - 🇹🇭 [ss]直连-泰国01 - 机场
+  - 🇰🇿 [ss]直连-哈萨克斯坦01 - 机场
+  - 🇮🇩 [ss]直连-印尼01 - 机场
+  - 🇪🇸 [ss]直连-西班牙01 - 机场
+  - 🇧🇷 [ss]直连-巴西01 - 机场
+  - 🇵🇹 [ss]直连-葡萄牙01 - 机场
+  - 🇷🇴 [ss]直连-罗马尼亚01 - 机场
+  - 🇨🇭 [ss]直连-瑞士01 - 机场
+  - 🇳🇴 [ss]直连-挪威01 - 机场
+  - 🇮🇹 [ss]直连-意大利01 - 机场
+  - 🇷🇺 [ss]直连-俄罗斯01 - 机场
+  - 🇫🇮 [ss]直连-芬兰01 - 机场
+  - 🇳🇱 [trojan]荷兰[1x]-电联5 - 赛博云机场
+  - 🇩🇪 [vmess]德国[0.75x]-福利 - 赛博云机场
+  - 🇦🇪 [vmess]阿联酋[0.75x]-福利 - 赛博云机场
+  - 🇨🇱 [vmess]智利[0.75x]-福利 - 赛博云机场
+  - 🇧🇷 [vmess]巴西[0.75x]-福利 - 赛博云机场
+  - 🇷🇺 俄罗斯-圣彼得堡-001 - 漏网之鱼
+  - 🇩🇪 德国-法兰克福-001 - 漏网之鱼
+  - Trojan - XBoard
+  - SS - XBoard
+  - Vmess - XBoard
+  - 🇰🇷 IEPL专线-韩国-1 - 起点带宽不限速
+  - 🇫🇷 专线-法国 - 小火箭
+  - 🇰🇭 专线-柬埔寨 - 小火箭
+  - 🇿🇦 专线-南非 - 小火箭
+  - 🇩🇪 专线-德国 - 小火箭
+  - 🇰🇷 韩国-水原 - 小火箭
+  - 🇰🇷 韩国-汉城 - 小火箭
+  - 🇨🇭 （专线）瑞士 - 小火箭
+  - 🇻🇳 （专线）越南 - 小火箭
+  - 🇷🇺 （专线）俄罗斯 - 小火箭
+  - 🇪🇸 （专线）西班牙 - 小火箭
+  - 🇨🇦 （专线）加拿大-多伦多 - 小火箭
+  - 🇮🇩 （专线）印尼 - 小火箭
+  - 🇲🇾 （专线）马来西亚-赛城 - 小火箭
+  - 🇲🇾 （专线）马来西亚-吉隆坡 - 小火箭
+  - 🇮🇳 （专线）印度 - 小火箭
+  - 🇦🇺 澳大利亚-悉尼 - 小火箭
+  - 🇳🇱 (专线)荷兰 - 小火箭
+  - 🇸🇦 沙特阿拉伯B - 小火箭
+  - 🇵🇭 菲律宾 - 小火箭
+  - 🇵🇭 （专线）菲律宾 - 小火箭
+  - 🇦🇪 沙特阿联酋B - 小火箭
+  - 🇳🇴 挪威-阿尔塔 - 小火箭
+  - 🇹🇭 泰国-曼谷 - 小火箭
+  - 🇮🇹 意大利 - 小火箭
+  - 🇬🇧 （专线）英国家庭IP - 小火箭
+  - 🇨🇦 IEPL · 加拿大CA · 76 - 悟空加速器
+  - 🇰🇷 IEPL · 韩国KR · 157 - 悟空加速器
+  - 🇰🇷 IEPL · 韩国KR · 242 - 悟空加速器
+  - 🇰🇷 IEPL · 韩国KR · 158 - 悟空加速器
+  - 🇬🇧 IEPL · 英国UK · 107 - 悟空加速器
+  - 🇫🇷 IEPL · 法国FR · 102 - 悟空加速器
+  - 🇩🇪 IEPL · 德国DE · 142 - 悟空加速器
+  - 🇧🇷 IEPL · 巴西BR · 220 - 悟空加速器
+  - 🇿🇦 IEPL · 南非ZA · 177 - 悟空加速器
+  - 🇮🇱 IEPL · 以色列IL · 236 - 悟空加速器
+  - 🇪🇸 IEPL · 西班牙ES · 81 - 悟空加速器
+  - 🇵🇱 IEPL · 波兰PO · 192 - 悟空加速器
+  - 🇮🇹 IEPL · 意大利IT · 49 - 悟空加速器
+  - 🇺🇦 IEPL · 乌克兰UA · 48 - 悟空加速器
+  - 🇮🇳 IEPL · 印度IN · 75 - 悟空加速器
+  - 🇹🇷 IEPL · 土耳其TR · 88 - 悟空加速器
+  - 🇦🇺 IEPL · 澳洲AU · 230 - 悟空加速器
+  - 🇳🇱 IEPL · 荷兰NL · 184 - 悟空加速器
+  - 🇸🇪 IEPL · 瑞典SW · 138 - 悟空加速器
+  - 🇲🇽 IEPL · 墨西哥MX · 121 - 悟空加速器
+  - 🇰🇷 IEPL专线-韩国-1 - 起点带宽不限速
+  - 🇫🇷 专线-法国 - 小火箭
+  - 🇰🇭 专线-柬埔寨 - 小火箭
+  - 🇿🇦 专线-南非 - 小火箭
+  - 🇩🇪 专线-德国 - 小火箭
+  - 🇰🇷 韩国-水原 - 小火箭
+  - 🇰🇷 韩国-汉城 - 小火箭
+  - 🇨🇭 （专线）瑞士 - 小火箭
+  - 🇻🇳 （专线）越南 - 小火箭
+  - 🇷🇺 （专线）俄罗斯 - 小火箭
+  - 🇪🇸 （专线）西班牙 - 小火箭
+  - 🇨🇦 （专线）加拿大-多伦多 - 小火箭
+  - 🇮🇩 （专线）印尼 - 小火箭
+  - 🇲🇾 （专线）马来西亚-赛城 - 小火箭
+  - 🇲🇾 （专线）马来西亚-吉隆坡 - 小火箭
+  - 🇮🇳 （专线）印度 - 小火箭
+  - 🇦🇺 澳大利亚-悉尼 - 小火箭
+  - 🇳🇱 (专线)荷兰 - 小火箭
+  - 🇸🇦 沙特阿拉伯B - 小火箭
+  - 🇵🇭 菲律宾 - 小火箭
+  - 🇵🇭 （专线）菲律宾 - 小火箭
+  - 🇦🇪 沙特阿联酋B - 小火箭
+  - 🇳🇴 挪威-阿尔塔 - 小火箭
+  - 🇹🇭 泰国-曼谷 - 小火箭
+  - 🇮🇹 意大利 - 小火箭
+  - 🇬🇧 （专线）英国家庭IP - 小火箭
+  - 🇨🇦 IEPL · 加拿大CA · 76 - 悟空加速器
+  - 🇰🇷 IEPL · 韩国KR · 157 - 悟空加速器
+  - 🇰🇷 IEPL · 韩国KR · 242 - 悟空加速器
+  - 🇰🇷 IEPL · 韩国KR · 158 - 悟空加速器
+  - 🇬🇧 IEPL · 英国UK · 107 - 悟空加速器
+  - 🇫🇷 IEPL · 法国FR · 102 - 悟空加速器
+  - 🇩🇪 IEPL · 德国DE · 142 - 悟空加速器
+  - 🇧🇷 IEPL · 巴西BR · 220 - 悟空加速器
+  - 🇿🇦 IEPL · 南非ZA · 177 - 悟空加速器
+  - 🇮🇱 IEPL · 以色列IL · 236 - 悟空加速器
+  - 🇪🇸 IEPL · 西班牙ES · 81 - 悟空加速器
+  - 🇵🇱 IEPL · 波兰PO · 192 - 悟空加速器
+  - 🇮🇹 IEPL · 意大利IT · 49 - 悟空加速器
+  - 🇺🇦 IEPL · 乌克兰UA · 48 - 悟空加速器
+  - 🇮🇳 IEPL · 印度IN · 75 - 悟空加速器
+  - 🇹🇷 IEPL · 土耳其TR · 88 - 悟空加速器
+  - 🇦🇺 IEPL · 澳洲AU · 230 - 悟空加速器
+  - 🇳🇱 IEPL · 荷兰NL · 184 - 悟空加速器
+  - 🇸🇪 IEPL · 瑞典SW · 138 - 悟空加速器
+  - 🇲🇽 IEPL · 墨西哥MX · 121 - 悟空加速器
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
@@ -458,42 +675,162 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 🇺🇸 美国-1 - 爱翻, server: zz-1.9995432.xyz, port: 58728, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: 🇺🇸 美国-2 - 爱翻, server: zz-1.9995432.xyz, port: 58728, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: 🇺🇸 美国-3 - 爱翻, server: zz-1.9995432.xyz, port: 58728, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: 🇹🇼 台湾-1 - 爱翻, server: zz-1.9995432.xyz, port: 40745, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: 🇹🇼 台湾-2 - 爱翻, server: zz-1.9995432.xyz, port: 40745, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: 🇹🇼 台湾-3 - 爱翻, server: zz-1.9995432.xyz, port: 40745, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: 🇸🇬 新加坡-1 - 爱翻, server: zz-1.9995432.xyz, port: 38694, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: 🇸🇬 新加坡-2 - 爱翻, server: zz-1.9995432.xyz, port: 38694, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: 🇸🇬 新加坡-3 - 爱翻, server: zz-1.9995432.xyz, port: 38694, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: ℹ️ 官网：爱翻.com - 爱翻, server: zz-1.9995432.xyz, port: 58728, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: ℹ️ 用不了去官网重新导入 - 爱翻, server: zz-1.9995432.xyz, port: 58728, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: 邀请新用户30%现金返利 - 爱翻, server: zz-1.9995432.xyz, port: 58728, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: 🇩🇪 德国-1 - 爱翻, server: zz-1.9995432.xyz, port: 22975, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: 🇩🇪 德国-2 - 爱翻, server: zz-1.9995432.xyz, port: 22975, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: 🇩🇪 德国-3 - 爱翻, server: zz-1.9995432.xyz, port: 22975, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: 🇫🇷 法国-1 - 爱翻, server: zz-1.9995432.xyz, port: 12438, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: 🇫🇷 法国-2 - 爱翻, server: zz-1.9995432.xyz, port: 12438, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: 🇫🇷 法国-3 - 爱翻, server: zz-1.9995432.xyz, port: 12438, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: 🇿🇦 南非-1 - 爱翻, server: zz-1.9995432.xyz, port: 46623, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: 🇿🇦 南非-2 - 爱翻, server: zz-1.9995432.xyz, port: 46623, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: 🇿🇦 南非-3 - 爱翻, server: zz-1.9995432.xyz, port: 46623, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: 🇧🇷 巴西-1 - 爱翻, server: zz-1.9995432.xyz, port: 31408, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: 🇧🇷 巴西-2 - 爱翻, server: zz-1.9995432.xyz, port: 31408, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: 🇧🇷 巴西-3 - 爱翻, server: zz-1.9995432.xyz, port: 31408, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: 🇮🇳 印度-1 - 爱翻, server: zz-1.9995432.xyz, port: 35068, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: 🇮🇳 印度-2 - 爱翻, server: zz-1.9995432.xyz, port: 35068, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: 🇮🇳 印度-3 - 爱翻, server: zz-1.9995432.xyz, port: 35068, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: 🇨🇴 哥伦比亚-1 - 爱翻, server: zz-1.9995432.xyz, port: 37263, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: 🇨🇴 哥伦比亚-2 - 爱翻, server: zz-1.9995432.xyz, port: 37263, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: 🇨🇴 哥伦比亚-3 - 爱翻, server: zz-1.9995432.xyz, port: 37263, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: 🇭🇰 香港-1 - 爱翻, server: zz-1.9995432.xyz, port: 59423, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: 🇭🇰 香港-2 - 爱翻, server: zz-1.9995432.xyz, port: 59423, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: 🇭🇰 香港-3 - 爱翻, server: zz-1.9995432.xyz, port: 59423, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: 🇯🇵 日本-1 - 爱翻, server: zz-1.9995432.xyz, port: 37555, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: 🇯🇵 日本-2 - 爱翻, server: zz-1.9995432.xyz, port: 37555, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
-- {name: 🇯🇵 日本-3 - 爱翻, server: zz-1.9995432.xyz, port: 37555, type: ss, cipher: chacha20-ietf-poly1305, password: 1610a9bb-9ef6-4e20-ab33-a9680db2be2c, udp: true}
+- {name: '🇺🇸 [ss]联通线路-美国01 - 机场', server: nnertn.airport.lat, port: 26111, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇺🇸 [ss]直连-美国01 - 机场', server: us01.airport.lat, port: 20830, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇸🇬 [ss]联通线路-新加坡01 - 机场', server: nnertn.airport.lat, port: 29488, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇸🇬 [ss]联通线路-新加坡02 - 机场', server: nnertn.airport.lat, port: 47026, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇸🇬 [ss]直连-新加坡01 - 机场', server: sg1.airport.lat, port: 10000, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇸🇬 [ss]直连-新加坡02 - 机场', server: sg01.airport.lat, port: 20850, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇩🇪 [ss]联通线路-德国01 - 机场', server: nnertn.airport.lat, port: 36617, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇳🇱 [ss]联通线路-荷兰01 - 机场', server: nnertn.airport.lat, port: 26491, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇸🇪 [ss]联通线路-瑞典01 - 机场', server: nnertn.airport.lat, port: 51492, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇹🇷 [ss]联通线路-土耳其01 - 机场', server: nnertn.airport.lat, port: 35694, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇲🇾 [ss]联通线路-马来西亚01 - 机场', server: nnertn.airport.lat, port: 37083, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇦🇪 [ss]联通线路-阿联酋01 - 机场', server: nnertn.airport.lat, port: 42699, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇻🇳 [ss]联通线路-越南01 - 机场', server: nnertn.airport.lat, port: 51196, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇹🇭 [ss]联通线路-泰国01 - 机场', server: nnertn.airport.lat, port: 31579, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇰🇿 [ss]联通线路-哈萨克斯坦01 - 机场', server: nnertn.airport.lat, port: 34738, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇮🇩 [ss]联通线路-印尼01 - 机场', server: nnertn.airport.lat, port: 11009, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇪🇸 [ss]联通线路-西班牙01 - 机场', server: nnertn.airport.lat, port: 40912, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇧🇷 [ss]联通线路-巴西01 - 机场', server: nnertn.airport.lat, port: 19711, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇵🇹 [ss]联通线路-葡萄牙01 - 机场', server: nnertn.airport.lat, port: 22947, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇷🇴 [ss]联通线路-罗马尼亚01 - 机场', server: nnertn.airport.lat, port: 38270, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇨🇭 [ss]联通线路-瑞士01 - 机场', server: nnertn.airport.lat, port: 59895, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇳🇴 [ss]联通线路-挪威01 - 机场', server: nnertn.airport.lat, port: 34015, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇮🇹 [ss]联通线路-意大利01 - 机场', server: nnertn.airport.lat, port: 42610, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇷🇺 [ss]联通线路-俄罗斯01 - 机场', server: nnertn.airport.lat, port: 22524, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇫🇮 [ss]联通线路-芬兰01 - 机场', server: nnertn.airport.lat, port: 14037, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇩🇪 [ss]直连-德国01 - 机场', server: de01.airport.lat, port: 20200, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇳🇱 [ss]直连-荷兰01 - 机场', server: nl01.airport.lat, port: 20740, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇸🇪 [ss]直连-瑞典01 - 机场', server: se01.airport.lat, port: 22490, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇹🇷 [ss]直连-土耳其01 - 机场', server: tr01.airport.lat, port: 20820, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇲🇾 [ss]直连-马来西亚01 - 机场', server: my01.airport.lat, port: 20020, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇦🇪 [ss]直连-阿联酋01 - 机场', server: ae01.airport.lat, port: 20911, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇻🇳 [ss]直连-越南01 - 机场', server: vn01.airport.lat, port: 20870, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇹🇭 [ss]直连-泰国01 - 机场', server: th01.airport.lat, port: 20180, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇰🇿 [ss]直连-哈萨克斯坦01 - 机场', server: kz01.airport.lat, port: 20890, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇮🇩 [ss]直连-印尼01 - 机场', server: id01.airport.lat, port: 20902, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇪🇸 [ss]直连-西班牙01 - 机场', server: es01.airport.lat, port: 20600, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇧🇷 [ss]直连-巴西01 - 机场', server: br01.airport.lat, port: 20060, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇵🇹 [ss]直连-葡萄牙01 - 机场', server: pt01.airport.lat, port: 20610, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇷🇴 [ss]直连-罗马尼亚01 - 机场', server: ro01.airport.lat, port: 20750, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇨🇭 [ss]直连-瑞士01 - 机场', server: ch01.airport.lat, port: 20640, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇳🇴 [ss]直连-挪威01 - 机场', server: no01.airport.lat, port: 20660, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇮🇹 [ss]直连-意大利01 - 机场', server: it01.airport.lat, port: 20080, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇷🇺 [ss]直连-俄罗斯01 - 机场', server: ru01.airport.lat, port: 20580, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇫🇮 [ss]直连-芬兰01 - 机场', server: fi01.airport.lat, port: 20810, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇭🇰 [ss]联通线路-香港02 - 机场', server: nnertn.airport.lat, port: 47434, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇭🇰 [ss]联通线路-香港01 - 机场', server: nnertn.airport.lat, port: 25388, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇭🇰 [ss]直连-香港02 - 机场', server: hk01.airport.lat, port: 20840, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇭🇰 [ss]直连-香港01 - 机场', server: hk1.airport.lat, port: 1000, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇯🇵 [ss]联通线路-日本01 - 机场', server: nnertn.airport.lat, port: 43123, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: '🇯🇵 [ss]直连-日本01 - 机场', server: jp01.airport.lat, port: 20730, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cf41187f-23ad-48fc-a75f-d9c82f5c76f5, udp: true}
+- {name: 🇺🇸 vmess-直连-US - 起点带宽不限速, server: v6.nmcf.me, port: 48421, type: vmess, uuid: c46e91a7-9cd6-49e4-896a-cee08cfb92a2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /nmkj, headers: {Host: www.bing.com}}, udp: true}
+- {name: 🇺🇸 美国直连-vmess - 起点带宽不限速, server: v5.nmcf.me, port: 8002, type: vmess, uuid: c46e91a7-9cd6-49e4-896a-cee08cfb92a2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /nmkj, headers: {Host: www.bing.com}}, udp: true}
+- {name: 🇺🇸 IEPL专线-美国-1 - 起点带宽不限速, server: 59.42.247.189, port: 8008, type: vmess, uuid: c46e91a7-9cd6-49e4-896a-cee08cfb92a2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /nmkj, headers: {Host: v3.nmcf.me}}, udp: true}
+- {name: 🇺🇸 美国直连-Trojan - 起点带宽不限速, server: v12.nmcf.me, port: 443, type: trojan, password: c46e91a7-9cd6-49e4-896a-cee08cfb92a2, sni: v12.nmcf.me, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾直连-Trojan - 起点带宽不限速, server: v3.nmcf.me, port: 443, type: trojan, password: c46e91a7-9cd6-49e4-896a-cee08cfb92a2, sni: v3.nmcf.me, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡直连-vmess - 起点带宽不限速, server: v7.nmcf.me, port: 8000, type: vmess, uuid: c46e91a7-9cd6-49e4-896a-cee08cfb92a2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /nmkj, headers: {Host: www.bing.com}}, udp: true}
+- {name: 🇸🇬 IEPL专线-新加坡-1 - 起点带宽不限速, server: 59.42.247.189, port: 8001, type: vmess, uuid: c46e91a7-9cd6-49e4-896a-cee08cfb92a2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /nmkj, headers: {Host: v3.nmcf.me}}, udp: true}
+- {name: 🇰🇷 IEPL专线-韩国-1 - 起点带宽不限速, server: 59.42.247.189, port: 8002, type: vmess, uuid: c46e91a7-9cd6-49e4-896a-cee08cfb92a2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /nmkj, headers: {Host: v7.nmcf.me}}, udp: true}
+- {name: 🇭🇰 香港直连-vmess - 起点带宽不限速, server: v4.nmcf.me, port: 8001, type: vmess, uuid: c46e91a7-9cd6-49e4-896a-cee08cfb92a2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /nmkj, headers: {Host: www.bing.com}}, udp: true}
+- {name: 🇭🇰 IEPL专线-香港-1 - 起点带宽不限速, server: 59.42.247.189, port: 8007, type: vmess, uuid: c46e91a7-9cd6-49e4-896a-cee08cfb92a2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /nmkj, headers: {Host: v7.nmcf.me}}, udp: true}
+- {name: 🇭🇰 深港中转-IEPL专线-US-1 - 起点带宽不限速, server: 59.42.247.189, port: 8006, type: vmess, uuid: c46e91a7-9cd6-49e4-896a-cee08cfb92a2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /nmkj, headers: {Host: www.bing.com}}, udp: true}
+- {name: 🇯🇵 日本直连-vmess - 起点带宽不限速, server: v18.nmcf.me, port: 8000, type: vmess, uuid: c46e91a7-9cd6-49e4-896a-cee08cfb92a2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /nmkj, headers: {Host: www.bing.com}}, udp: true}
+- {name: 🇯🇵 IEPL专线-日本-1 - 起点带宽不限速, server: 59.42.247.189, port: 8004, type: vmess, uuid: c46e91a7-9cd6-49e4-896a-cee08cfb92a2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /nmkj, headers: {Host: www.bing.com}}, udp: true}
+- {name: 🇺🇸 美国-波士顿 - 小火箭, server: 183.240.228.220, port: 55133, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇺🇸 美国-旧金山 - 小火箭, server: 183.240.228.220, port: 52217, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇺🇸 (专线)美国-洛杉矶 - 小火箭, server: 36.150.94.53, port: 16106, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇺🇸 （专线）美国 - 小火箭, server: 183.240.180.26, port: 55188, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇺🇸 美国-家庭IPB - 小火箭, server: 183.240.187.175, port: 56217, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇹🇼 （专线）中国台湾-家庭IP - 小火箭, server: 120.232.217.221, port: 58732, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇸🇬 （专线）新加坡 - 小火箭, server: 120.232.217.221, port: 54311, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇫🇷 专线-法国 - 小火箭, server: 36.150.94.53, port: 45418, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇰🇭 专线-柬埔寨 - 小火箭, server: 183.240.228.220, port: 59350, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇿🇦 专线-南非 - 小火箭, server: 183.240.180.26, port: 53196, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇩🇪 专线-德国 - 小火箭, server: 183.240.228.220, port: 58610, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇰🇷 韩国-水原 - 小火箭, server: 183.240.228.220, port: 57495, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇰🇷 韩国-汉城 - 小火箭, server: 120.232.217.221, port: 53342, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇨🇭 （专线）瑞士 - 小火箭, server: 183.240.180.26, port: 14962, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇻🇳 （专线）越南 - 小火箭, server: 183.240.228.220, port: 57543, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇷🇺 （专线）俄罗斯 - 小火箭, server: 120.232.217.221, port: 53100, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇪🇸 （专线）西班牙 - 小火箭, server: 120.232.217.221, port: 53109, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇨🇦 （专线）加拿大-多伦多 - 小火箭, server: 183.240.228.220, port: 57729, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇮🇩 （专线）印尼 - 小火箭, server: 120.232.217.221, port: 59985, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇲🇾 （专线）马来西亚-赛城 - 小火箭, server: 183.240.228.220, port: 53127, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇲🇾 （专线）马来西亚-吉隆坡 - 小火箭, server: 183.240.228.220, port: 53117, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇮🇳 （专线）印度 - 小火箭, server: 183.240.180.26, port: 50089, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇦🇺 澳大利亚-悉尼 - 小火箭, server: 183.240.180.26, port: 57153, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇳🇱 (专线)荷兰 - 小火箭, server: 120.232.217.221, port: 56621, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇸🇦 沙特阿拉伯B - 小火箭, server: 183.240.180.26, port: 54443, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇵🇭 菲律宾 - 小火箭, server: 183.240.228.220, port: 62317, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇵🇭 （专线）菲律宾 - 小火箭, server: 120.232.217.221, port: 48498, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇦🇪 沙特阿联酋B - 小火箭, server: 183.240.180.26, port: 61127, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇳🇴 挪威-阿尔塔 - 小火箭, server: 183.240.180.26, port: 56785, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇹🇭 泰国-曼谷 - 小火箭, server: 120.232.217.221, port: 18888, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇮🇹 意大利 - 小火箭, server: 183.240.180.26, port: 51113, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇬🇧 （专线）英国家庭IP - 小火箭, server: 183.240.180.26, port: 61213, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: shop.1357.pics}}, udp: true}
+- {name: 🇭🇰 香港-石澳 - 小火箭, server: 103.216.253.149, port: 55102, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇭🇰 （专线）香港-湾仔 - 小火箭, server: 120.232.217.221, port: 45007, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇭🇰 （专线）香港-尖沙咀 - 小火箭, server: 183.240.228.220, port: 54325, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇭🇰 （专线）香港-深水埗 - 小火箭, server: 36.150.94.53, port: 58789, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇭🇰 （专线）香港-太古城 - 小火箭, server: 120.232.217.221, port: 59288, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇭🇰 （专线）香港-油尖旺 - 小火箭, server: 120.232.217.221, port: 51551, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇭🇰 香港-九龙 - 小火箭, server: 183.240.180.26, port: 61112, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇭🇰 香港-观塘 - 小火箭, server: 183.240.180.26, port: 55197, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇭🇰 （专线）香港-铜锣湾 - 小火箭, server: 183.240.180.26, port: 51599, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇭🇰 （专线）香港-石澳 - 小火箭, server: 183.240.228.220, port: 51599, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇯🇵 （专线）日本-名古屋 - 小火箭, server: 120.232.217.221, port: 53129, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇯🇵 （专线）日本-大阪 - 小火箭, server: 183.240.180.26, port: 53229, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇯🇵 （专线）日本-秋田 - 小火箭, server: 120.232.217.221, port: 56432, type: vmess, uuid: a4ee7362-686f-47a9-ac74-e7ef1f880457, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: '🇸🇬 [trojan]新加坡[2.8x]-高端14 - 赛博云机场', server: sg14.731732.xyz, port: 443, type: trojan, password: 1f0f2b09-15ba-4c1c-ad5a-04c2d5bdf159, sni: sg14.731732.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: '', headers: {Host: sg14.731732.xyz}}, udp: true}
+- {name: '🇳🇱 [trojan]荷兰[1x]-电联5 - 赛博云机场', server: smdu5.731732.xyz, port: 443, type: trojan, password: 1f0f2b09-15ba-4c1c-ad5a-04c2d5bdf159, sni: smdu5.731732.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: '', headers: {Host: smdu5.731732.xyz}}, udp: true}
+- {name: '🇩🇪 [vmess]德国[0.75x]-福利 - 赛博云机场', server: decf1.426624.xyz, port: 80, type: vmess, uuid: 1f0f2b09-15ba-4c1c-ad5a-04c2d5bdf159, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: decf1.426624.xyz}}, udp: true}
+- {name: '🇦🇪 [vmess]阿联酋[0.75x]-福利 - 赛博云机场', server: alq.426624.xyz, port: 80, type: vmess, uuid: 1f0f2b09-15ba-4c1c-ad5a-04c2d5bdf159, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: alq.426624.xyz}}, udp: true}
+- {name: '🇨🇱 [vmess]智利[0.75x]-福利 - 赛博云机场', server: zl.731732.xyz, port: 80, type: vmess, uuid: 1f0f2b09-15ba-4c1c-ad5a-04c2d5bdf159, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: zl.731732.xyz}}, udp: true}
+- {name: '🇧🇷 [vmess]巴西[0.75x]-福利 - 赛博云机场', server: brcf1.731732.xyz, port: 80, type: vmess, uuid: 1f0f2b09-15ba-4c1c-ad5a-04c2d5bdf159, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: brcf1.731732.xyz}}, udp: true}
+- {name: '🇯🇵 [trojan]日本[3.2x]-IIJ高端3 - 赛博云机场', server: jp12.426624.xyz, port: 443, type: trojan, password: 1f0f2b09-15ba-4c1c-ad5a-04c2d5bdf159, sni: jp12.426624.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: '', headers: {Host: jp12.426624.xyz}}, udp: true}
+- {name: 🇺🇸 美国-拉斯维加斯-001 - 漏网之鱼, server: 45.147.201.231, port: 20013, type: vmess, uuid: 11ffc1d5-2f25-430f-81ea-e17bd2343a20, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇺🇸 美国-拉斯维加斯-002 - 漏网之鱼, server: 45.147.201.231, port: 23076, type: vmess, uuid: 11ffc1d5-2f25-430f-81ea-e17bd2343a20, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇷🇺 俄罗斯-圣彼得堡-001 - 漏网之鱼, server: 195.58.49.84, port: 22018, type: vmess, uuid: 11ffc1d5-2f25-430f-81ea-e17bd2343a20, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇩🇪 德国-法兰克福-001 - 漏网之鱼, server: 91.149.233.178, port: 20056, type: vmess, uuid: 11ffc1d5-2f25-430f-81ea-e17bd2343a20, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇭🇰 中国-香港-001 - 漏网之鱼, server: 212.192.12.154, port: 23018, type: vmess, uuid: 11ffc1d5-2f25-430f-81ea-e17bd2343a20, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇺🇸 IEPL · 美国US · 220 - 悟空加速器, server: 183.240.116.150, port: 16109, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- {name: 🇺🇸 IEPL · 美国US · 40 - 悟空加速器, server: 183.240.116.150, port: 16110, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- {name: 🇺🇸 IEPL · 美国US · 36 - 悟空加速器, server: 183.240.116.150, port: 16111, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- {name: 🇺🇸 IEPL · 美国US · 88 - 悟空加速器, server: 183.240.116.150, port: 16112, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- {name: 🇸🇬 IEPL · 新加坡SG · 204 - 悟空加速器, server: 183.240.116.150, port: 16114, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- {name: 🇨🇦 IEPL · 加拿大CA · 76 - 悟空加速器, server: 183.240.116.150, port: 16113, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- {name: 🇰🇷 IEPL · 韩国KR · 157 - 悟空加速器, server: 183.240.116.150, port: 16115, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- {name: 🇰🇷 IEPL · 韩国KR · 242 - 悟空加速器, server: 183.240.116.150, port: 16116, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- {name: 🇰🇷 IEPL · 韩国KR · 158 - 悟空加速器, server: 183.240.116.150, port: 16117, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- {name: 🇬🇧 IEPL · 英国UK · 107 - 悟空加速器, server: 183.240.116.150, port: 16118, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- {name: 🇫🇷 IEPL · 法国FR · 102 - 悟空加速器, server: 183.240.116.150, port: 16119, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- {name: 🇩🇪 IEPL · 德国DE · 142 - 悟空加速器, server: 183.240.116.150, port: 16120, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- {name: 🇧🇷 IEPL · 巴西BR · 220 - 悟空加速器, server: 183.240.116.150, port: 16121, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- {name: 🇿🇦 IEPL · 南非ZA · 177 - 悟空加速器, server: 183.240.116.150, port: 16122, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- {name: 🇮🇱 IEPL · 以色列IL · 236 - 悟空加速器, server: 183.240.116.150, port: 16123, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- {name: 🇪🇸 IEPL · 西班牙ES · 81 - 悟空加速器, server: 183.240.116.150, port: 16124, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- {name: 🇵🇱 IEPL · 波兰PO · 192 - 悟空加速器, server: 183.240.116.150, port: 16125, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- {name: 🇮🇹 IEPL · 意大利IT · 49 - 悟空加速器, server: 183.240.116.150, port: 16126, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- {name: 🇺🇦 IEPL · 乌克兰UA · 48 - 悟空加速器, server: 183.240.116.150, port: 16127, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- {name: 🇮🇳 IEPL · 印度IN · 75 - 悟空加速器, server: 183.240.116.150, port: 16128, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- {name: 🇹🇷 IEPL · 土耳其TR · 88 - 悟空加速器, server: 183.240.116.150, port: 16129, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- {name: 🇦🇺 IEPL · 澳洲AU · 230 - 悟空加速器, server: 183.240.116.150, port: 16130, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- {name: 🇳🇱 IEPL · 荷兰NL · 184 - 悟空加速器, server: 183.240.116.150, port: 16131, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- {name: 🇸🇪 IEPL · 瑞典SW · 138 - 悟空加速器, server: 183.240.116.150, port: 16132, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- {name: 🇲🇽 IEPL · 墨西哥MX · 121 - 悟空加速器, server: 183.240.116.150, port: 16133, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- {name: 🇯🇵 IEPL · 日本JP · 140 - 悟空加速器, server: 183.240.116.150, port: 16101, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- {name: 🇯🇵 IEPL · 日本JP · 105 - 悟空加速器, server: 183.240.116.150, port: 16102, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- {name: 🇯🇵 IEPL · 日本JP · 176 - 悟空加速器, server: 183.240.116.150, port: 16103, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- {name: 🇯🇵 IEPL · 日本JP · 222 - 悟空加速器, server: 183.240.116.150, port: 16104, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- {name: 🇯🇵 IEPL · 日本JP · 129 - 悟空加速器, server: 183.240.116.150, port: 16105, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- {name: 🇯🇵 IEPL · 日本JP · 89 - 悟空加速器, server: 183.240.116.150, port: 16106, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- {name: 🇯🇵 IEPL · 日本JP · 209 - 悟空加速器, server: 183.240.116.150, port: 16107, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- {name: 🇯🇵 IEPL · 日本JP · 48 - 悟空加速器, server: 183.240.116.150, port: 16108, type: ss, cipher: chacha20-ietf-poly1305, password: 2e2a32f5-034f-4a84-991f-017b9fca8768, udp: true}
+- {name: Trojan - XBoard, server: test2.xiaoshihoukepangle.sbs, port: 1083, type: trojan, password: 58772fb9-ba2f-4ea5-a67b-7b6d357b4d98, sni: test2.xiaoshihoukepangle.sbs, skip-cert-verify: true, udp: true}
+- {name: SS - XBoard, server: test.xiaoshihoukepangle.sbs, port: 1081, type: ss, cipher: chacha20-ietf-poly1305, password: 58772fb9-ba2f-4ea5-a67b-7b6d357b4d98, udp: true}
+- {name: Vmess - XBoard, server: test1.xiaoshihoukepangle.sbs, port: 1082, type: vmess, uuid: 58772fb9-ba2f-4ea5-a67b-7b6d357b4d98, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: test1.xiaoshihoukepangle.sbs, network: ws, ws-opts: {path: /xiaoshihoukepangleVmess, headers: {Host: www.bing.com}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
