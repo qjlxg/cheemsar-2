@@ -1,0 +1,6 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 香港-1 - 爱翻, server: zz-1.9995432.xyz, port: 59423, type: ss, cipher: chacha20-ietf-poly1305, password: 6dfeeae5-39e3-49fb-98f8-82f2071e0cd2, udp: true}
+- {name: 🇭🇰 香港-2 - 爱翻, server: zz-1.9995432.xyz, port: 59423, type: ss, cipher: chacha20-ietf-poly1305, password: 6dfeeae5-39e3-49fb-98f8-82f2071e0cd2, udp: true}
+- {name: 🇭🇰 香港-3 - 爱翻, server: zz-1.9995432.xyz, port: 59423, type: ss, cipher: chacha20-ietf-poly1305, password: 6dfeeae5-39e3-49fb-98f8-82f2071e0cd2, udp: true}

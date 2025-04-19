@@ -29,35 +29,49 @@ proxy-groups:
   - REJECT
 - name: ⚡ ‍低延迟
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id001
-  - p_All_All_All_All_Other_Other_Other_Other
-  - p_All_All_All_All_Other_Other_Other_Other
-  - p_All_All_All_All_Other_Other_Other_Other
-  - p_All_All_All_All_Other_Other_Other_Other
-  - p_All_All_All_All_US_US_US_US
-  - p_All_All_All_All_US_US_US_US
-  - p_All_All_All_All_US_US_US_US
-  - p_All_All_All_All_US_US_US_US
-  - p_All_All_All_All_JP_JP_JP_JP
-  - p_All_All_All_All_JP_JP_JP_JP
-  - p_All_All_All_All_JP_JP_JP_JP
-  - p_All_All_All_All_JP_JP_JP_JP
-  - p_All_All_All_All_SG_SG_SG_SG
-  - p_All_All_All_All_SG_SG_SG_SG
-  - p_All_All_All_All_SG_SG_SG_SG
-  - p_All_All_All_All_SG_SG_SG_SG
-  - p_All_All_All_All_HK_HK_HK_HK_CN_CN_CN_CN
-  - p_All_All_All_All_HK_HK_HK_HK_CN_CN_CN_CN
-  - p_All_All_All_All_HK_HK_HK_HK_CN_CN_CN_CN
-  - p_All_All_All_All_HK_HK_HK_HK_CN_CN_CN_CN
-  - p_All_All_All_All_TW_TW_TW_TW_CN_CN_CN_CN
-  - p_All_All_All_All_TW_TW_TW_TW_CN_CN_CN_CN
-  - p_All_All_All_All_TW_TW_TW_TW_CN_CN_CN_CN
-  - p_All_All_All_All_TW_TW_TW_TW_CN_CN_CN_CN
+  proxies: &id001
+  - 🇭🇰 香港-1 - 爱翻
+  - 🇭🇰 香港-2 - 爱翻
+  - 🇭🇰 香港-3 - 爱翻
+  - 🇹🇼 台湾-1 - 爱翻
+  - 🇹🇼 台湾-2 - 爱翻
+  - 🇹🇼 台湾-3 - 爱翻
+  - 🇸🇬 新加坡-1 - 爱翻
+  - 🇸🇬 新加坡-2 - 爱翻
+  - 🇸🇬 新加坡-3 - 爱翻
+  - 🇯🇵 日本-1 - 爱翻
+  - 🇯🇵 日本-2 - 爱翻
+  - 🇯🇵 日本-3 - 爱翻
+  - 🇺🇸 美国-1 - 爱翻
+  - 🇺🇸 美国-2 - 爱翻
+  - 🇺🇸 美国-3 - 爱翻
+  - ℹ️ 官网：爱翻.com - 爱翻
+  - ℹ️ 用不了去官网重新导入 - 爱翻
+  - 邀请新用户30%现金返利 - 爱翻
+  - 🇩🇪 德国-1 - 爱翻
+  - 🇩🇪 德国-2 - 爱翻
+  - 🇩🇪 德国-3 - 爱翻
+  - 🇫🇷 法国-1 - 爱翻
+  - 🇫🇷 法国-2 - 爱翻
+  - 🇫🇷 法国-3 - 爱翻
+  - 🇿🇦 南非-1 - 爱翻
+  - 🇿🇦 南非-2 - 爱翻
+  - 🇿🇦 南非-3 - 爱翻
+  - 🇧🇷 巴西-1 - 爱翻
+  - 🇧🇷 巴西-2 - 爱翻
+  - 🇧🇷 巴西-3 - 爱翻
+  - 🇮🇳 印度-1 - 爱翻
+  - 🇮🇳 印度-2 - 爱翻
+  - 🇮🇳 印度-3 - 爱翻
+  - 🇨🇴 哥伦比亚-1 - 爱翻
+  - 🇨🇴 哥伦比亚-2 - 爱翻
+  - 🇨🇴 哥伦比亚-3 - 爱翻
 - name: 👆🏻 ‍指定
   type: select
-  use: *id001
+  proxies: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -106,140 +120,146 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id002
-  - p_All_All_All_All_HK_HK_HK_HK_CN_CN_CN_CN
-  - p_All_All_All_All_HK_HK_HK_HK_CN_CN_CN_CN
-  - p_All_All_All_All_HK_HK_HK_HK_CN_CN_CN_CN
-  - p_All_All_All_All_HK_HK_HK_HK_CN_CN_CN_CN
+  proxies: &id002
+  - 🇭🇰 香港-1 - 爱翻
+  - 🇭🇰 香港-2 - 爱翻
+  - 🇭🇰 香港-3 - 爱翻
 - name: 🇹🇼 ‍台湾
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id003
-  - p_All_All_All_All_TW_TW_TW_TW_CN_CN_CN_CN
-  - p_All_All_All_All_TW_TW_TW_TW_CN_CN_CN_CN
-  - p_All_All_All_All_TW_TW_TW_TW_CN_CN_CN_CN
-  - p_All_All_All_All_TW_TW_TW_TW_CN_CN_CN_CN
+  proxies: &id003
+  - 🇹🇼 台湾-1 - 爱翻
+  - 🇹🇼 台湾-2 - 爱翻
+  - 🇹🇼 台湾-3 - 爱翻
 - name: 🇨🇳 ‍中国
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id004
-  - p_All_All_All_All_HK_HK_HK_HK_CN_CN_CN_CN
-  - p_All_All_All_All_HK_HK_HK_HK_CN_CN_CN_CN
-  - p_All_All_All_All_HK_HK_HK_HK_CN_CN_CN_CN
-  - p_All_All_All_All_HK_HK_HK_HK_CN_CN_CN_CN
-  - p_All_All_All_All_TW_TW_TW_TW_CN_CN_CN_CN
-  - p_All_All_All_All_TW_TW_TW_TW_CN_CN_CN_CN
-  - p_All_All_All_All_TW_TW_TW_TW_CN_CN_CN_CN
-  - p_All_All_All_All_TW_TW_TW_TW_CN_CN_CN_CN
+  proxies: &id004
+  - 🇭🇰 香港-1 - 爱翻
+  - 🇭🇰 香港-2 - 爱翻
+  - 🇭🇰 香港-3 - 爱翻
+  - 🇹🇼 台湾-1 - 爱翻
+  - 🇹🇼 台湾-2 - 爱翻
+  - 🇹🇼 台湾-3 - 爱翻
 - name: 🇸🇬 ‍新加坡
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id005
-  - p_All_All_All_All_SG_SG_SG_SG
-  - p_All_All_All_All_SG_SG_SG_SG
-  - p_All_All_All_All_SG_SG_SG_SG
-  - p_All_All_All_All_SG_SG_SG_SG
+  proxies: &id005
+  - 🇸🇬 新加坡-1 - 爱翻
+  - 🇸🇬 新加坡-2 - 爱翻
+  - 🇸🇬 新加坡-3 - 爱翻
 - name: 🇯🇵 ‍日本
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id006
-  - p_All_All_All_All_JP_JP_JP_JP
-  - p_All_All_All_All_JP_JP_JP_JP
-  - p_All_All_All_All_JP_JP_JP_JP
-  - p_All_All_All_All_JP_JP_JP_JP
+  proxies: &id006
+  - 🇯🇵 日本-1 - 爱翻
+  - 🇯🇵 日本-2 - 爱翻
+  - 🇯🇵 日本-3 - 爱翻
 - name: 🇺🇸 ‍美国
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 300
-  use: &id007
-  - p_All_All_All_All_US_US_US_US
-  - p_All_All_All_All_US_US_US_US
-  - p_All_All_All_All_US_US_US_US
-  - p_All_All_All_All_US_US_US_US
+  proxies: &id007
+  - 🇺🇸 美国-1 - 爱翻
+  - 🇺🇸 美国-2 - 爱翻
+  - 🇺🇸 美国-3 - 爱翻
 - name: 🎏 ‍其他
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id008
-  - p_All_All_All_All_Other_Other_Other_Other
-  - p_All_All_All_All_Other_Other_Other_Other
-  - p_All_All_All_All_Other_Other_Other_Other
-  - p_All_All_All_All_Other_Other_Other_Other
+  proxies: &id008
+  - ℹ️ 官网：爱翻.com - 爱翻
+  - ℹ️ 用不了去官网重新导入 - 爱翻
+  - 邀请新用户30%现金返利 - 爱翻
+  - 🇩🇪 德国-1 - 爱翻
+  - 🇩🇪 德国-2 - 爱翻
+  - 🇩🇪 德国-3 - 爱翻
+  - 🇫🇷 法国-1 - 爱翻
+  - 🇫🇷 法国-2 - 爱翻
+  - 🇫🇷 法国-3 - 爱翻
+  - 🇿🇦 南非-1 - 爱翻
+  - 🇿🇦 南非-2 - 爱翻
+  - 🇿🇦 南非-3 - 爱翻
+  - 🇧🇷 巴西-1 - 爱翻
+  - 🇧🇷 巴西-2 - 爱翻
+  - 🇧🇷 巴西-3 - 爱翻
+  - 🇮🇳 印度-1 - 爱翻
+  - 🇮🇳 印度-2 - 爱翻
+  - 🇮🇳 印度-3 - 爱翻
+  - 🇨🇴 哥伦比亚-1 - 爱翻
+  - 🇨🇴 哥伦比亚-2 - 爱翻
+  - 🇨🇴 哥伦比亚-3 - 爱翻
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  use: *id002
+  proxies: *id002
 - name: 👆🏻🇹🇼 ‍台湾
   type: select
-  use: *id003
+  proxies: *id003
 - name: 👆🏻🇨🇳 ‍中国
   type: select
-  use: *id004
+  proxies: *id004
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  use: *id005
+  proxies: *id005
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  use: *id006
+  proxies: *id006
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  use: *id007
+  proxies: *id007
 - name: 👆🏻🎏 ‍其他
   type: select
-  use: *id008
-proxy-providers:
-  p_All_All_All_All_Other_Other_Other_Other:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/rep/main/trials_providers/p_All_All_All_All_Other_Other_Other_Other.yaml
-    interval: 180
-    path: trials_providers/p_All_All_All_All_Other_Other_Other_Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_All_All_US_US_US_US:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/rep/main/trials_providers/p_All_All_All_All_US_US_US_US.yaml
-    interval: 180
-    path: trials_providers/p_All_All_All_All_US_US_US_US.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_All_All_JP_JP_JP_JP:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/rep/main/trials_providers/p_All_All_All_All_JP_JP_JP_JP.yaml
-    interval: 180
-    path: trials_providers/p_All_All_All_All_JP_JP_JP_JP.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_All_All_SG_SG_SG_SG:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/rep/main/trials_providers/p_All_All_All_All_SG_SG_SG_SG.yaml
-    interval: 180
-    path: trials_providers/p_All_All_All_All_SG_SG_SG_SG.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_All_All_HK_HK_HK_HK_CN_CN_CN_CN:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/rep/main/trials_providers/p_All_All_All_All_HK_HK_HK_HK_CN_CN_CN_CN.yaml
-    interval: 180
-    path: trials_providers/p_All_All_All_All_HK_HK_HK_HK_CN_CN_CN_CN.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_All_All_TW_TW_TW_TW_CN_CN_CN_CN:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/rep/main/trials_providers/p_All_All_All_All_TW_TW_TW_TW_CN_CN_CN_CN.yaml
-    interval: 180
-    path: trials_providers/p_All_All_All_All_TW_TW_TW_TW_CN_CN_CN_CN.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
+  proxies: *id008
+proxies:
+- {name: ℹ️ 官网：爱翻.com - 爱翻, server: zz-1.9995432.xyz, port: 58728, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ec8329ab-511c-4367-ad57-1919f451df02, udp: true}
+- {name: ℹ️ 用不了去官网重新导入 - 爱翻, server: zz-1.9995432.xyz, port: 58728, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ec8329ab-511c-4367-ad57-1919f451df02, udp: true}
+- {name: 邀请新用户30%现金返利 - 爱翻, server: zz-1.9995432.xyz, port: 58728, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ec8329ab-511c-4367-ad57-1919f451df02, udp: true}
+- {name: 🇺🇸 美国-1 - 爱翻, server: zz-1.9995432.xyz, port: 58728, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ec8329ab-511c-4367-ad57-1919f451df02, udp: true}
+- {name: 🇺🇸 美国-2 - 爱翻, server: zz-1.9995432.xyz, port: 58728, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ec8329ab-511c-4367-ad57-1919f451df02, udp: true}
+- {name: 🇺🇸 美国-3 - 爱翻, server: zz-1.9995432.xyz, port: 58728, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ec8329ab-511c-4367-ad57-1919f451df02, udp: true}
+- {name: 🇩🇪 德国-1 - 爱翻, server: zz-1.9995432.xyz, port: 22975, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ec8329ab-511c-4367-ad57-1919f451df02, udp: true}
+- {name: 🇩🇪 德国-2 - 爱翻, server: zz-1.9995432.xyz, port: 22975, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ec8329ab-511c-4367-ad57-1919f451df02, udp: true}
+- {name: 🇩🇪 德国-3 - 爱翻, server: zz-1.9995432.xyz, port: 22975, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ec8329ab-511c-4367-ad57-1919f451df02, udp: true}
+- {name: 🇫🇷 法国-1 - 爱翻, server: zz-1.9995432.xyz, port: 12438, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ec8329ab-511c-4367-ad57-1919f451df02, udp: true}
+- {name: 🇫🇷 法国-2 - 爱翻, server: zz-1.9995432.xyz, port: 12438, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ec8329ab-511c-4367-ad57-1919f451df02, udp: true}
+- {name: 🇫🇷 法国-3 - 爱翻, server: zz-1.9995432.xyz, port: 12438, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ec8329ab-511c-4367-ad57-1919f451df02, udp: true}
+- {name: 🇯🇵 日本-1 - 爱翻, server: zz-1.9995432.xyz, port: 37555, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ec8329ab-511c-4367-ad57-1919f451df02, udp: true}
+- {name: 🇯🇵 日本-2 - 爱翻, server: zz-1.9995432.xyz, port: 37555, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ec8329ab-511c-4367-ad57-1919f451df02, udp: true}
+- {name: 🇯🇵 日本-3 - 爱翻, server: zz-1.9995432.xyz, port: 37555, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ec8329ab-511c-4367-ad57-1919f451df02, udp: true}
+- {name: 🇸🇬 新加坡-1 - 爱翻, server: zz-1.9995432.xyz, port: 38694, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ec8329ab-511c-4367-ad57-1919f451df02, udp: true}
+- {name: 🇸🇬 新加坡-2 - 爱翻, server: zz-1.9995432.xyz, port: 38694, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ec8329ab-511c-4367-ad57-1919f451df02, udp: true}
+- {name: 🇸🇬 新加坡-3 - 爱翻, server: zz-1.9995432.xyz, port: 38694, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ec8329ab-511c-4367-ad57-1919f451df02, udp: true}
+- {name: 🇭🇰 香港-1 - 爱翻, server: zz-1.9995432.xyz, port: 59423, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ec8329ab-511c-4367-ad57-1919f451df02, udp: true}
+- {name: 🇭🇰 香港-2 - 爱翻, server: zz-1.9995432.xyz, port: 59423, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ec8329ab-511c-4367-ad57-1919f451df02, udp: true}
+- {name: 🇭🇰 香港-3 - 爱翻, server: zz-1.9995432.xyz, port: 59423, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ec8329ab-511c-4367-ad57-1919f451df02, udp: true}
+- {name: 🇹🇼 台湾-1 - 爱翻, server: zz-1.9995432.xyz, port: 40745, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ec8329ab-511c-4367-ad57-1919f451df02, udp: true}
+- {name: 🇹🇼 台湾-2 - 爱翻, server: zz-1.9995432.xyz, port: 40745, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ec8329ab-511c-4367-ad57-1919f451df02, udp: true}
+- {name: 🇹🇼 台湾-3 - 爱翻, server: zz-1.9995432.xyz, port: 40745, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ec8329ab-511c-4367-ad57-1919f451df02, udp: true}
+- {name: 🇿🇦 南非-1 - 爱翻, server: zz-1.9995432.xyz, port: 46623, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ec8329ab-511c-4367-ad57-1919f451df02, udp: true}
+- {name: 🇿🇦 南非-2 - 爱翻, server: zz-1.9995432.xyz, port: 46623, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ec8329ab-511c-4367-ad57-1919f451df02, udp: true}
+- {name: 🇿🇦 南非-3 - 爱翻, server: zz-1.9995432.xyz, port: 46623, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ec8329ab-511c-4367-ad57-1919f451df02, udp: true}
+- {name: 🇧🇷 巴西-1 - 爱翻, server: zz-1.9995432.xyz, port: 31408, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ec8329ab-511c-4367-ad57-1919f451df02, udp: true}
+- {name: 🇧🇷 巴西-2 - 爱翻, server: zz-1.9995432.xyz, port: 31408, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ec8329ab-511c-4367-ad57-1919f451df02, udp: true}
+- {name: 🇧🇷 巴西-3 - 爱翻, server: zz-1.9995432.xyz, port: 31408, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ec8329ab-511c-4367-ad57-1919f451df02, udp: true}
+- {name: 🇮🇳 印度-1 - 爱翻, server: zz-1.9995432.xyz, port: 35068, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ec8329ab-511c-4367-ad57-1919f451df02, udp: true}
+- {name: 🇮🇳 印度-2 - 爱翻, server: zz-1.9995432.xyz, port: 35068, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ec8329ab-511c-4367-ad57-1919f451df02, udp: true}
+- {name: 🇮🇳 印度-3 - 爱翻, server: zz-1.9995432.xyz, port: 35068, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ec8329ab-511c-4367-ad57-1919f451df02, udp: true}
+- {name: 🇨🇴 哥伦比亚-1 - 爱翻, server: zz-1.9995432.xyz, port: 37263, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ec8329ab-511c-4367-ad57-1919f451df02, udp: true}
+- {name: 🇨🇴 哥伦比亚-2 - 爱翻, server: zz-1.9995432.xyz, port: 37263, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ec8329ab-511c-4367-ad57-1919f451df02, udp: true}
+- {name: 🇨🇴 哥伦比亚-3 - 爱翻, server: zz-1.9995432.xyz, port: 37263, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ec8329ab-511c-4367-ad57-1919f451df02, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
