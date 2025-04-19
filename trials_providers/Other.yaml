@@ -1,6 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇦🇺 澳洲 ChatGPT Premium - 看海外VPN, server: sea-t401.bestguarding.work, port: 2096, type: trojan, password: 209b49c7-769e-47fd-b89b-40c3073ffb97, sni: sea-t401.bestguarding.work, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: GunService}, udp: true}
-- {name: 🇹🇷 土耳其 ChatGPT Premium - 看海外VPN, server: sea-t501.bestguarding.work, port: 2096, type: trojan, password: 209b49c7-769e-47fd-b89b-40c3073ffb97, sni: sea-t501.bestguarding.work, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: GunService}, udp: true}
-- {name: 🇰🇷 韩国 ChatGPT Premium - 看海外VPN, server: sea-t601.bestguarding.work, port: 2096, type: trojan, password: 209b49c7-769e-47fd-b89b-40c3073ffb97, sni: sea-t601.bestguarding.work, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: GunService}, udp: true}
