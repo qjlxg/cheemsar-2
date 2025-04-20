@@ -12,16 +12,10 @@ proxy-groups:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
   - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
-  - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
-  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
@@ -29,58 +23,15 @@ proxy-groups:
   - REJECT
 - name: ⚡ ‍低延迟
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id001
-  - 🇭🇰 香港-石澳 - 小火箭
-  - 🇭🇰 （专线）香港-湾仔 - 小火箭
-  - 🇭🇰 （专线）香港-尖沙咀 - 小火箭
-  - 🇭🇰 （专线）香港-深水埗 - 小火箭
-  - 🇭🇰 （专线）香港-太古城 - 小火箭
-  - 🇭🇰 （专线）香港-油尖旺 - 小火箭
-  - 🇭🇰 香港-九龙 - 小火箭
-  - 🇭🇰 香港-观塘 - 小火箭
-  - 🇭🇰 （专线）香港-铜锣湾 - 小火箭
-  - 🇭🇰 （专线）香港-石澳 - 小火箭
-  - 🇹🇼 （专线）中国台湾-家庭IP - 小火箭
-  - 🇸🇬 （专线）新加坡 - 小火箭
-  - 🇯🇵 （专线）日本-名古屋 - 小火箭
-  - 🇯🇵 （专线）日本-大阪 - 小火箭
-  - 🇯🇵 （专线）日本-秋田 - 小火箭
-  - 🇺🇸 美国-波士顿 - 小火箭
-  - 🇺🇸 美国-旧金山 - 小火箭
-  - 🇺🇸 (专线)美国-洛杉矶 - 小火箭
-  - 🇺🇸 （专线）美国 - 小火箭
-  - 🇺🇸 美国-家庭IPB - 小火箭
-  - 🇫🇷 专线-法国 - 小火箭
-  - 🇰🇭 专线-柬埔寨 - 小火箭
-  - 🇿🇦 专线-南非 - 小火箭
-  - 🇩🇪 专线-德国 - 小火箭
-  - 🇰🇷 韩国-水原 - 小火箭
-  - 🇰🇷 韩国-汉城 - 小火箭
-  - 🇨🇭 （专线）瑞士 - 小火箭
-  - 🇻🇳 （专线）越南 - 小火箭
-  - 🇷🇺 （专线）俄罗斯 - 小火箭
-  - 🇪🇸 （专线）西班牙 - 小火箭
-  - 🇨🇦 （专线）加拿大-多伦多 - 小火箭
-  - 🇮🇩 （专线）印尼 - 小火箭
-  - 🇲🇾 （专线）马来西亚-赛城 - 小火箭
-  - 🇲🇾 （专线）马来西亚-吉隆坡 - 小火箭
-  - 🇮🇳 （专线）印度 - 小火箭
-  - 🇦🇺 澳大利亚-悉尼 - 小火箭
-  - 🇳🇱 (专线)荷兰 - 小火箭
-  - 🇸🇦 沙特阿拉伯B - 小火箭
-  - 🇵🇭 菲律宾 - 小火箭
-  - 🇵🇭 （专线）菲律宾 - 小火箭
-  - 🇦🇪 沙特阿联酋B - 小火箭
-  - 🇳🇴 挪威-阿尔塔 - 小火箭
-  - 🇹🇭 泰国-曼谷 - 小火箭
-  - 🇮🇹 意大利 - 小火箭
-  - 🇬🇧 （专线）英国家庭IP - 小火箭
+  use: &id001
+  - HK
+  - JP
+  - US
+  - Other
 - name: 👆🏻 ‍指定
   type: select
-  proxies: *id001
+  use: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -98,25 +49,17 @@ proxy-groups:
   proxies:
   - 🛩️ ‍墙内
   - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
   - ✈️ ‍起飞
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
   - 🇺🇸 ‍美国
-  - 🇹🇼 ‍台湾
-  - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🎏 ‍其他
   - ✈️ ‍起飞
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
@@ -129,169 +72,73 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id002
-  - 🇭🇰 香港-石澳 - 小火箭
-  - 🇭🇰 （专线）香港-湾仔 - 小火箭
-  - 🇭🇰 （专线）香港-尖沙咀 - 小火箭
-  - 🇭🇰 （专线）香港-深水埗 - 小火箭
-  - 🇭🇰 （专线）香港-太古城 - 小火箭
-  - 🇭🇰 （专线）香港-油尖旺 - 小火箭
-  - 🇭🇰 香港-九龙 - 小火箭
-  - 🇭🇰 香港-观塘 - 小火箭
-  - 🇭🇰 （专线）香港-铜锣湾 - 小火箭
-  - 🇭🇰 （专线）香港-石澳 - 小火箭
-- name: 🇹🇼 ‍台湾
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id003
-  - 🇹🇼 （专线）中国台湾-家庭IP - 小火箭
-- name: 🇨🇳 ‍中国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id004
-  - 🇭🇰 香港-石澳 - 小火箭
-  - 🇭🇰 （专线）香港-湾仔 - 小火箭
-  - 🇭🇰 （专线）香港-尖沙咀 - 小火箭
-  - 🇭🇰 （专线）香港-深水埗 - 小火箭
-  - 🇭🇰 （专线）香港-太古城 - 小火箭
-  - 🇭🇰 （专线）香港-油尖旺 - 小火箭
-  - 🇭🇰 香港-九龙 - 小火箭
-  - 🇭🇰 香港-观塘 - 小火箭
-  - 🇭🇰 （专线）香港-铜锣湾 - 小火箭
-  - 🇭🇰 （专线）香港-石澳 - 小火箭
-  - 🇹🇼 （专线）中国台湾-家庭IP - 小火箭
-- name: 🇸🇬 ‍新加坡
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id005
-  - 🇸🇬 （专线）新加坡 - 小火箭
+  use: &id002
+  - HK
 - name: 🇯🇵 ‍日本
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id006
-  - 🇯🇵 （专线）日本-名古屋 - 小火箭
-  - 🇯🇵 （专线）日本-大阪 - 小火箭
-  - 🇯🇵 （专线）日本-秋田 - 小火箭
+  use: &id003
+  - JP
 - name: 🇺🇸 ‍美国
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 300
-  proxies: &id007
-  - 🇺🇸 美国-波士顿 - 小火箭
-  - 🇺🇸 美国-旧金山 - 小火箭
-  - 🇺🇸 (专线)美国-洛杉矶 - 小火箭
-  - 🇺🇸 （专线）美国 - 小火箭
-  - 🇺🇸 美国-家庭IPB - 小火箭
+  use: &id004
+  - US
 - name: 🎏 ‍其他
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id008
-  - 🇫🇷 专线-法国 - 小火箭
-  - 🇰🇭 专线-柬埔寨 - 小火箭
-  - 🇿🇦 专线-南非 - 小火箭
-  - 🇩🇪 专线-德国 - 小火箭
-  - 🇰🇷 韩国-水原 - 小火箭
-  - 🇰🇷 韩国-汉城 - 小火箭
-  - 🇨🇭 （专线）瑞士 - 小火箭
-  - 🇻🇳 （专线）越南 - 小火箭
-  - 🇷🇺 （专线）俄罗斯 - 小火箭
-  - 🇪🇸 （专线）西班牙 - 小火箭
-  - 🇨🇦 （专线）加拿大-多伦多 - 小火箭
-  - 🇮🇩 （专线）印尼 - 小火箭
-  - 🇲🇾 （专线）马来西亚-赛城 - 小火箭
-  - 🇲🇾 （专线）马来西亚-吉隆坡 - 小火箭
-  - 🇮🇳 （专线）印度 - 小火箭
-  - 🇦🇺 澳大利亚-悉尼 - 小火箭
-  - 🇳🇱 (专线)荷兰 - 小火箭
-  - 🇸🇦 沙特阿拉伯B - 小火箭
-  - 🇵🇭 菲律宾 - 小火箭
-  - 🇵🇭 （专线）菲律宾 - 小火箭
-  - 🇦🇪 沙特阿联酋B - 小火箭
-  - 🇳🇴 挪威-阿尔塔 - 小火箭
-  - 🇹🇭 泰国-曼谷 - 小火箭
-  - 🇮🇹 意大利 - 小火箭
-  - 🇬🇧 （专线）英国家庭IP - 小火箭
+  use: &id005
+  - Other
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  proxies: *id002
-- name: 👆🏻🇹🇼 ‍台湾
-  type: select
-  proxies: *id003
-- name: 👆🏻🇨🇳 ‍中国
-  type: select
-  proxies: *id004
-- name: 👆🏻🇸🇬 ‍新加坡
-  type: select
-  proxies: *id005
+  use: *id002
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  proxies: *id006
+  use: *id003
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id007
+  use: *id004
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id008
-proxies:
-- {name: 🇭🇰 香港-石澳 - 小火箭, server: 103.216.253.149, port: 55102, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇭🇰 （专线）香港-湾仔 - 小火箭, server: 120.232.217.221, port: 45007, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇭🇰 （专线）香港-尖沙咀 - 小火箭, server: 183.240.228.220, port: 54325, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇭🇰 （专线）香港-深水埗 - 小火箭, server: 36.150.94.53, port: 58789, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇭🇰 （专线）香港-太古城 - 小火箭, server: 120.232.217.221, port: 59288, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇭🇰 （专线）香港-油尖旺 - 小火箭, server: 120.232.217.221, port: 51551, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇭🇰 香港-九龙 - 小火箭, server: 183.240.180.26, port: 61112, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇭🇰 香港-观塘 - 小火箭, server: 183.240.180.26, port: 55197, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇭🇰 （专线）香港-铜锣湾 - 小火箭, server: 183.240.180.26, port: 51599, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇭🇰 （专线）香港-石澳 - 小火箭, server: 183.240.228.220, port: 51599, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇺🇸 美国-波士顿 - 小火箭, server: 183.240.228.220, port: 55133, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇺🇸 美国-旧金山 - 小火箭, server: 183.240.228.220, port: 52217, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇺🇸 (专线)美国-洛杉矶 - 小火箭, server: 36.150.94.53, port: 16106, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇯🇵 （专线）日本-名古屋 - 小火箭, server: 120.232.217.221, port: 53129, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇯🇵 （专线）日本-大阪 - 小火箭, server: 183.240.180.26, port: 53229, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇯🇵 （专线）日本-秋田 - 小火箭, server: 120.232.217.221, port: 56432, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇹🇼 （专线）中国台湾-家庭IP - 小火箭, server: 120.232.217.221, port: 58732, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇺🇸 （专线）美国 - 小火箭, server: 183.240.180.26, port: 55188, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇺🇸 美国-家庭IPB - 小火箭, server: 183.240.187.175, port: 56217, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇫🇷 专线-法国 - 小火箭, server: 36.150.94.53, port: 45418, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇰🇭 专线-柬埔寨 - 小火箭, server: 183.240.228.220, port: 59350, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇿🇦 专线-南非 - 小火箭, server: 183.240.180.26, port: 53196, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇩🇪 专线-德国 - 小火箭, server: 183.240.228.220, port: 58610, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇰🇷 韩国-水原 - 小火箭, server: 183.240.228.220, port: 57495, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇰🇷 韩国-汉城 - 小火箭, server: 120.232.217.221, port: 53342, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇸🇬 （专线）新加坡 - 小火箭, server: 120.232.217.221, port: 54311, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇨🇭 （专线）瑞士 - 小火箭, server: 183.240.180.26, port: 14962, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇻🇳 （专线）越南 - 小火箭, server: 183.240.228.220, port: 57543, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇷🇺 （专线）俄罗斯 - 小火箭, server: 120.232.217.221, port: 53100, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇪🇸 （专线）西班牙 - 小火箭, server: 120.232.217.221, port: 53109, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇨🇦 （专线）加拿大-多伦多 - 小火箭, server: 183.240.228.220, port: 57729, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇮🇩 （专线）印尼 - 小火箭, server: 120.232.217.221, port: 59985, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇲🇾 （专线）马来西亚-赛城 - 小火箭, server: 183.240.228.220, port: 53127, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇲🇾 （专线）马来西亚-吉隆坡 - 小火箭, server: 183.240.228.220, port: 53117, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇮🇳 （专线）印度 - 小火箭, server: 183.240.180.26, port: 50089, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇦🇺 澳大利亚-悉尼 - 小火箭, server: 183.240.180.26, port: 57153, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇳🇱 (专线)荷兰 - 小火箭, server: 120.232.217.221, port: 56621, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇸🇦 沙特阿拉伯B - 小火箭, server: 183.240.180.26, port: 54443, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇵🇭 菲律宾 - 小火箭, server: 183.240.228.220, port: 62317, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇵🇭 （专线）菲律宾 - 小火箭, server: 120.232.217.221, port: 48498, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇦🇪 沙特阿联酋B - 小火箭, server: 183.240.180.26, port: 61127, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇳🇴 挪威-阿尔塔 - 小火箭, server: 183.240.180.26, port: 56785, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇹🇭 泰国-曼谷 - 小火箭, server: 120.232.217.221, port: 18888, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇮🇹 意大利 - 小火箭, server: 183.240.180.26, port: 51113, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇬🇧 （专线）英国家庭IP - 小火箭, server: 183.240.180.26, port: 61213, type: vmess, uuid: 79e01f87-4914-44d8-beed-b9041cbbd447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: shop.1357.pics}}, udp: true}
+  use: *id005
+proxy-providers:
+  HK:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/rep/main/trials_providers/go.yueyun.de/HK.yaml
+    interval: 180
+    path: trials_providers/go.yueyun.de/HK.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  JP:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/rep/main/trials_providers/go.yueyun.de/JP.yaml
+    interval: 180
+    path: trials_providers/go.yueyun.de/JP.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  US:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/rep/main/trials_providers/go.yueyun.de/US.yaml
+    interval: 180
+    path: trials_providers/go.yueyun.de/US.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  Other:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/rep/main/trials_providers/go.yueyun.de/Other.yaml
+    interval: 180
+    path: trials_providers/go.yueyun.de/Other.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
