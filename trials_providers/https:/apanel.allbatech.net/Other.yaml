@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: ☄️ Allbatech XA Server - AllbaTech, server: adsc.allbatech.net, port: 443, type: trojan, password: 38e90a61-6827-434f-9d6c-eac588dd501e, sni: speedtestc.allbatech.net.prod.hosts.ooklaserver.net, skip-cert-verify: true, udp: true}

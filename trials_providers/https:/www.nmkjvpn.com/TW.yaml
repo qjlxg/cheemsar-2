@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇹🇼 台湾直连-Trojan - 起点带宽不限速, server: v3.nmcf.me, port: 443, type: trojan, password: dd722e86-6cec-44e8-a444-7f513ab61c0c, sni: v3.nmcf.me, skip-cert-verify: true, udp: true}

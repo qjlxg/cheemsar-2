@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇩🇪 德国(ipv6)AK CDN直连 - 内部专用, server: akdev6.12ip.cc, port: 443, type: vmess, uuid: ec7e9833-e910-4727-87df-dbaab9e1b402, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: akdev6.12ip.cc}}, udp: true}

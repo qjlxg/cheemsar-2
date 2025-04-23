@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 美国-CN2 - 野草, server: us.xn--vl1a701a.xyz, port: 32000, type: trojan, password: 326c1c0b-6419-4521-83e6-a8746571f14c, sni: us.xn--vl1a701a.xyz, skip-cert-verify: true, udp: true}

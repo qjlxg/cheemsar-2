@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇩🇪 德国-北京隧道 - 炎炎龙虾的私人派对, server: cu21.kuxueyun.com, port: 13802, type: vmess, uuid: 4f760ce0-3278-464c-94b7-bf8003dd8070, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国-北京隧道 - 炎炎龙虾的私人派对, server: cu21.kuxueyun.com, port: 13801, type: vmess, uuid: 4f760ce0-3278-464c-94b7-bf8003dd8070, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
