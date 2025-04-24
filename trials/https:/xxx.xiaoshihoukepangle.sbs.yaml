@@ -56,9 +56,9 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: Trojan - XBoard, server: test2.xiaoshihoukepangle.sbs, port: 1083, tfo: true, type: trojan, password: 4c4af5b5-57a0-4b81-8fc8-1d919129171f, sni: test2.xiaoshihoukepangle.sbs, skip-cert-verify: true, udp: true}
-- {name: SS - XBoard, server: test.xiaoshihoukepangle.sbs, port: 1081, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 4c4af5b5-57a0-4b81-8fc8-1d919129171f, udp: true}
-- {name: Vmess - XBoard, server: test1.xiaoshihoukepangle.sbs, port: 1082, tfo: true, type: vmess, uuid: 4c4af5b5-57a0-4b81-8fc8-1d919129171f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: test1.xiaoshihoukepangle.sbs, network: ws, ws-opts: {path: /xiaoshihoukepangleVmess, headers: {Host: www.bing.com}}, udp: true}
+- {name: Trojan - XBoard, server: test2.xiaoshihoukepangle.sbs, port: 1083, type: trojan, password: 4c4af5b5-57a0-4b81-8fc8-1d919129171f, sni: test2.xiaoshihoukepangle.sbs, skip-cert-verify: true, udp: true}
+- {name: SS - XBoard, server: test.xiaoshihoukepangle.sbs, port: 1081, type: ss, cipher: chacha20-ietf-poly1305, password: 4c4af5b5-57a0-4b81-8fc8-1d919129171f, udp: true}
+- {name: Vmess - XBoard, server: test1.xiaoshihoukepangle.sbs, port: 1082, type: vmess, uuid: 4c4af5b5-57a0-4b81-8fc8-1d919129171f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: test1.xiaoshihoukepangle.sbs, network: ws, ws-opts: {path: /xiaoshihoukepangleVmess, headers: {Host: www.bing.com}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

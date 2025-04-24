@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡直连-vmess - 起点带宽不限速, server: v7.nmcf.me, port: 8000, type: vmess, uuid: dd722e86-6cec-44e8-a444-7f513ab61c0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /nmkj, headers: {Host: www.bing.com}}, udp: true}
-- {name: 🇸🇬 IEPL专线-新加坡-1 - 起点带宽不限速, server: 59.42.247.189, port: 8001, type: vmess, uuid: dd722e86-6cec-44e8-a444-7f513ab61c0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /nmkj, headers: {Host: v3.nmcf.me}}, udp: true}
+- {name: 🇸🇬 新加坡直连-vmess - 起点带宽不限速, server: v7.nmcf.me, port: 8000, tfo: true, type: vmess, uuid: dd722e86-6cec-44e8-a444-7f513ab61c0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /nmkj, headers: {Host: www.bing.com}}, udp: true}
+- {name: 🇸🇬 IEPL专线-新加坡-1 - 起点带宽不限速, server: 59.42.247.189, port: 8001, tfo: true, type: vmess, uuid: dd722e86-6cec-44e8-a444-7f513ab61c0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /nmkj, headers: {Host: v3.nmcf.me}}, udp: true}

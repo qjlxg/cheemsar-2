@@ -89,11 +89,11 @@ proxy-groups:
   type: select
   proxies: *id003
 proxies:
-- {name: '🇭🇰 [ss]香港-cn2-2 - Anywhere', server: 120.79.177.160, port: 30000, type: ss, cipher: aes-128-gcm, password: 3f842865-5b0d-41c1-b17e-dbf52e0cd3e5, udp: true}
-- {name: '🇯🇵 [vmess]日本-1 - Anywhere', server: kajp.kia-ai.com, port: 10805, type: vmess, uuid: 3f842865-5b0d-41c1-b17e-dbf52e0cd3e5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: kajp.kia-ai.com}}, udp: true}
-- {name: '🇭🇰 [vmess]香港-1 - Anywhere', server: kahk.kia-ai.com, port: 10805, type: vmess, uuid: 3f842865-5b0d-41c1-b17e-dbf52e0cd3e5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: kahk.kia-ai.com}}, udp: true}
-- {name: '🇯🇵 [vmess]日本-2 - Anywhere', server: kajpa.kia-ai.com, port: 10805, type: vmess, uuid: 3f842865-5b0d-41c1-b17e-dbf52e0cd3e5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: kajpa.kia-ai.com}}, udp: true}
-- {name: '🇭🇰 [vmess]香港-cn2-3 - Anywhere', server: cnhka.kia-ai.com, port: 10807, type: vmess, uuid: 3f842865-5b0d-41c1-b17e-dbf52e0cd3e5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: cnhka.kia-ai.com}}, udp: true}
+- {name: '🇭🇰 [ss]香港-cn2-2 - Anywhere', server: 120.79.177.160, port: 30000, type: ss, cipher: aes-128-gcm, password: f67785e6-2d8e-42f3-90fb-baac60cb52ab, udp: true}
+- {name: '🇯🇵 [vmess]日本-1 - Anywhere', server: kajp.kia-ai.com, port: 10805, type: vmess, uuid: f67785e6-2d8e-42f3-90fb-baac60cb52ab, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: kajp.kia-ai.com}}, udp: true}
+- {name: '🇭🇰 [vmess]香港-1 - Anywhere', server: kahk.kia-ai.com, port: 10805, type: vmess, uuid: f67785e6-2d8e-42f3-90fb-baac60cb52ab, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: kahk.kia-ai.com}}, udp: true}
+- {name: '🇯🇵 [vmess]日本-2 - Anywhere', server: kajpa.kia-ai.com, port: 10805, type: vmess, uuid: f67785e6-2d8e-42f3-90fb-baac60cb52ab, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: kajpa.kia-ai.com}}, udp: true}
+- {name: '🇭🇰 [vmess]香港-cn2-3 - Anywhere', server: cnhka.kia-ai.com, port: 10807, type: vmess, uuid: f67785e6-2d8e-42f3-90fb-baac60cb52ab, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: cnhka.kia-ai.com}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

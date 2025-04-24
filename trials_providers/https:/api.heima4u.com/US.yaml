@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇺🇸 美国[03]中转 - Heima', server: vip.baima360.com, port: 17941, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: aaaa1860-e891-4f21-8d71-ec06c9fb8c9c, udp: true}
-- {name: '🇺🇸 美国[04] - Heima', server: 45.83.140.22, port: 658, tfo: true, type: trojan, password: aaaa1860-e891-4f21-8d71-ec06c9fb8c9c, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 美国[03]中转 - Heima', server: vip.baima360.com, port: 17941, type: ss, cipher: chacha20-ietf-poly1305, password: aaaa1860-e891-4f21-8d71-ec06c9fb8c9c, udp: true}
+- {name: '🇺🇸 美国[04] - Heima', server: 45.83.140.22, port: 658, type: trojan, password: aaaa1860-e891-4f21-8d71-ec06c9fb8c9c, skip-cert-verify: true, udp: true}

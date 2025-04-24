@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 Japan#1 - 虚幻加速, server: svip1.pingboy.top, port: 19015, type: vmess, uuid: 19de1e85-b232-461f-9870-3dd74c9900cd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 Japan#3 - 虚幻加速, server: svip1.pingboy.top, port: 19015, type: vmess, uuid: 19de1e85-b232-461f-9870-3dd74c9900cd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
