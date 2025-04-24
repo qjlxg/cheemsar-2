@@ -17,11 +17,7 @@ proxy-groups:
   type: url-test
   tolerance: 100
   use: &id001
-  - p_All_All_All_All_Other_Other_Other_Other
-  - p_All_All_All_All_Other_Other_Other_Other
-  - p_All_All_All_All_Other_Other_Other_Other
-  - p_All_All_All_All_Other_Other_Other_Other
-  - p_All_Other
+  - All
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
@@ -56,20 +52,11 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxy-providers:
-  p_All_All_All_All_Other_Other_Other_Other:
+  All:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/p_All_All_All_All_Other_Other_Other_Other.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/5gsieutoc.fun/All.yaml
     interval: 180
-    path: trials_providers/p_All_All_All_All_Other_Other_Other_Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_Other:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/p_All_Other.yaml
-    interval: 180
-    path: trials_providers/p_All_Other.yaml
+    path: trials_providers/5gsieutoc.fun/All.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204

@@ -9,8 +9,32 @@ proxy-groups:
 - name: ✈️ ‍起飞
   type: select
   proxies:
+  - ⚡ ‍低延迟
+  - 👆🏻 ‍指定
   - DIRECT
   - REJECT
+- name: ⚡ ‍低延迟
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 100
+  proxies: &id001
+  - ℹ️ 最新域名：cc.drchi.icu备用域名：kk.nai99.top备用域名：gogo.nai99.top - 奈奈加速
+  - ℹ️ 最新域名：cc.drchi.icu备用域名：kk.nai99.top备用域名：gogo.nai99.top - 奈奈加速
+  - ℹ️ 最新域名：cc.drchi.icu备用域名：kk.nai99.top备用域名：gogo.nai99.top - 奈奈加速
+  - ℹ️ 最新域名：cc.drchi.icu备用域名：kk.nai99.top备用域名：gogo.nai99.top - 奈奈加速
+  - '🇸🇮 ⚡️ Tên Gói : Gói 1 - Đăng Ký 5G Siêu Tốc Nhật Bản'
+  - 🇸🇮 🧬 SNI-Ko Chọn ：Nền Mặc Định - Đăng Ký 5G Siêu Tốc Nhật Bản
+  - '🇸🇮 ⚡️ Hạn sử dụng: 25-04-2025 - Đăng Ký 5G Siêu Tốc Nhật Bản'
+  - 🇸🇮 Máy Chủ KoBe - Đăng Ký 5G Siêu Tốc Nhật Bản
+  - 🇸🇮 Máy Chủ Tokyo - Đăng Ký 5G Siêu Tốc Nhật Bản
+  - 🇸🇮 SEVER 2 - Đăng Ký 5G Siêu Tốc Nhật Bản
+  - 🇸🇮 SEVER 1 - Đăng Ký 5G Siêu Tốc Nhật Bản
+  - 🇸🇮 ⛩️SEVER PREMIUM🚀🚀 - Đăng Ký 5G Siêu Tốc Nhật Bản
+  - 🇸🇮 ⛩️SEVER PREMIUM🚀🚀 - Đăng Ký 5G Siêu Tốc Nhật Bản 2
+- name: 👆🏻 ‍指定
+  type: select
+  proxies: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -28,10 +52,12 @@ proxy-groups:
   proxies:
   - 🛩️ ‍墙内
   - ✈️ ‍起飞
+  - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
   - ✈️ ‍起飞
+  - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
   type: select
@@ -39,7 +65,17 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-proxies: []
+proxies:
+- {name: ℹ️ 最新域名：cc.drchi.icu备用域名：kk.nai99.top备用域名：gogo.nai99.top - 奈奈加速, server: dasadasda., port: 12112, type: ss, cipher: chacha20-ietf-poly1305, password: 1ec41cd5-987c-4fd0-be93-2c38a882396b, udp: true}
+- {name: '🇸🇮 ⚡️ Tên Gói : Gói 1 - Đăng Ký 5G Siêu Tốc Nhật Bản', server: 103.178.234.168, port: 90, type: vmess, uuid: 3b948c60-31ad-4a50-af86-dc0af6cb16d2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutoc.fun, headers: {Host: povo.jp}}, udp: true}
+- {name: 🇸🇮 🧬 SNI-Ko Chọn ：Nền Mặc Định - Đăng Ký 5G Siêu Tốc Nhật Bản, server: 103.178.234.168, port: 90, type: vmess, uuid: 3b948c60-31ad-4a50-af86-dc0af6cb16d2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutoc.fun, headers: {Host: povo.jp}}, udp: true}
+- {name: '🇸🇮 ⚡️ Hạn sử dụng: 25-04-2025 - Đăng Ký 5G Siêu Tốc Nhật Bản', server: 103.178.234.168, port: 90, type: vmess, uuid: 3b948c60-31ad-4a50-af86-dc0af6cb16d2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutoc.fun, headers: {Host: povo.jp}}, udp: true}
+- {name: 🇸🇮 Máy Chủ KoBe - Đăng Ký 5G Siêu Tốc Nhật Bản, server: 103.178.234.168, port: 90, type: vmess, uuid: 3b948c60-31ad-4a50-af86-dc0af6cb16d2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutoc.fun, headers: {Host: povo.jp}}, udp: true}
+- {name: 🇸🇮 Máy Chủ Tokyo - Đăng Ký 5G Siêu Tốc Nhật Bản, server: 103.178.234.168, port: 443, type: trojan, password: 3b948c60-31ad-4a50-af86-dc0af6cb16d2, sni: povo.jp, skip-cert-verify: true, udp: true}
+- {name: 🇸🇮 SEVER 2 - Đăng Ký 5G Siêu Tốc Nhật Bản, server: 103.166.184.93, port: 443, type: trojan, password: 3b948c60-31ad-4a50-af86-dc0af6cb16d2, skip-cert-verify: true, udp: true}
+- {name: 🇸🇮 SEVER 1 - Đăng Ký 5G Siêu Tốc Nhật Bản, server: 103.166.184.93, port: 80, type: vmess, uuid: 3b948c60-31ad-4a50-af86-dc0af6cb16d2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutocdo.com, headers: {Host: povo.jp}}, udp: true}
+- {name: 🇸🇮 ⛩️SEVER PREMIUM🚀🚀 - Đăng Ký 5G Siêu Tốc Nhật Bản, server: 154.83.93.132, port: 80, type: vmess, uuid: 3b948c60-31ad-4a50-af86-dc0af6cb16d2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutocdo.com, headers: {Host: povo.jp}}, udp: true}
+- {name: 🇸🇮 ⛩️SEVER PREMIUM🚀🚀 - Đăng Ký 5G Siêu Tốc Nhật Bản 2, server: 154.83.93.132, port: 443, type: trojan, password: 3b948c60-31ad-4a50-af86-dc0af6cb16d2, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

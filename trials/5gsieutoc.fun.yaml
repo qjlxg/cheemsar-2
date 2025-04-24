@@ -15,16 +15,22 @@ proxy-groups:
   - REJECT
 - name: ⚡ ‍低延迟
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id001
-  - p_All_All_All_All_Other_Other_Other_Other
-  - p_All_All_All_All_Other_Other_Other_Other
-  - p_All_All_All_All_Other_Other_Other_Other
-  - p_All_All_All_All_Other_Other_Other_Other
-  - p_All_Other
+  proxies: &id001
+  - '🇸🇮 ⚡️ Tên Gói : Gói 1 - Đăng Ký 5G Siêu Tốc Nhật Bản'
+  - 🇸🇮 🧬 SNI-Ko Chọn ：Nền Mặc Định - Đăng Ký 5G Siêu Tốc Nhật Bản
+  - '🇸🇮 ⚡️ Hạn sử dụng: 25-04-2025 - Đăng Ký 5G Siêu Tốc Nhật Bản'
+  - 🇸🇮 Máy Chủ KoBe - Đăng Ký 5G Siêu Tốc Nhật Bản
+  - 🇸🇮 Máy Chủ Tokyo - Đăng Ký 5G Siêu Tốc Nhật Bản
+  - 🇸🇮 SEVER 2 - Đăng Ký 5G Siêu Tốc Nhật Bản
+  - 🇸🇮 SEVER 1 - Đăng Ký 5G Siêu Tốc Nhật Bản
+  - 🇸🇮 ⛩️SEVER PREMIUM🚀🚀 - Đăng Ký 5G Siêu Tốc Nhật Bản
+  - 🇸🇮 ⛩️SEVER PREMIUM🚀🚀 - Đăng Ký 5G Siêu Tốc Nhật Bản 2
 - name: 👆🏻 ‍指定
   type: select
-  use: *id001
+  proxies: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -55,25 +61,16 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-proxy-providers:
-  p_All_All_All_All_Other_Other_Other_Other:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/p_All_All_All_All_Other_Other_Other_Other.yaml
-    interval: 180
-    path: trials_providers/p_All_All_All_All_Other_Other_Other_Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_Other:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/p_All_Other.yaml
-    interval: 180
-    path: trials_providers/p_All_Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
+proxies:
+- {name: '🇸🇮 ⚡️ Tên Gói : Gói 1 - Đăng Ký 5G Siêu Tốc Nhật Bản', server: 103.178.234.168, port: 90, type: vmess, uuid: 3b948c60-31ad-4a50-af86-dc0af6cb16d2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutoc.fun, headers: {Host: povo.jp}}, udp: true}
+- {name: 🇸🇮 🧬 SNI-Ko Chọn ：Nền Mặc Định - Đăng Ký 5G Siêu Tốc Nhật Bản, server: 103.178.234.168, port: 90, type: vmess, uuid: 3b948c60-31ad-4a50-af86-dc0af6cb16d2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutoc.fun, headers: {Host: povo.jp}}, udp: true}
+- {name: '🇸🇮 ⚡️ Hạn sử dụng: 25-04-2025 - Đăng Ký 5G Siêu Tốc Nhật Bản', server: 103.178.234.168, port: 90, type: vmess, uuid: 3b948c60-31ad-4a50-af86-dc0af6cb16d2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutoc.fun, headers: {Host: povo.jp}}, udp: true}
+- {name: 🇸🇮 Máy Chủ KoBe - Đăng Ký 5G Siêu Tốc Nhật Bản, server: 103.178.234.168, port: 90, type: vmess, uuid: 3b948c60-31ad-4a50-af86-dc0af6cb16d2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutoc.fun, headers: {Host: povo.jp}}, udp: true}
+- {name: 🇸🇮 Máy Chủ Tokyo - Đăng Ký 5G Siêu Tốc Nhật Bản, server: 103.178.234.168, port: 443, type: trojan, password: 3b948c60-31ad-4a50-af86-dc0af6cb16d2, sni: povo.jp, skip-cert-verify: true, udp: true}
+- {name: 🇸🇮 SEVER 2 - Đăng Ký 5G Siêu Tốc Nhật Bản, server: 103.166.184.93, port: 443, type: trojan, password: 3b948c60-31ad-4a50-af86-dc0af6cb16d2, skip-cert-verify: true, udp: true}
+- {name: 🇸🇮 SEVER 1 - Đăng Ký 5G Siêu Tốc Nhật Bản, server: 103.166.184.93, port: 80, type: vmess, uuid: 3b948c60-31ad-4a50-af86-dc0af6cb16d2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutocdo.com, headers: {Host: povo.jp}}, udp: true}
+- {name: 🇸🇮 ⛩️SEVER PREMIUM🚀🚀 - Đăng Ký 5G Siêu Tốc Nhật Bản, server: 154.83.93.132, port: 80, type: vmess, uuid: 3b948c60-31ad-4a50-af86-dc0af6cb16d2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutocdo.com, headers: {Host: povo.jp}}, udp: true}
+- {name: 🇸🇮 ⛩️SEVER PREMIUM🚀🚀 - Đăng Ký 5G Siêu Tốc Nhật Bản 2, server: 154.83.93.132, port: 443, type: trojan, password: 3b948c60-31ad-4a50-af86-dc0af6cb16d2, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

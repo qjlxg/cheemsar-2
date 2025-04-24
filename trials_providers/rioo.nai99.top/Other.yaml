@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: ℹ️ 最新域名：cc.drchi.icu备用域名：kk.nai99.top备用域名：gogo.nai99.top - 奈奈加速, server: dasadasda., port: 12112, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 4712c73f-fef3-4d5f-ad58-e35430e2d8da, udp: true}
