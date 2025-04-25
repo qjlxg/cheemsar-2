@@ -11,22 +11,21 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
+  - 🇭🇰 ‍香港
+  - 🇺🇸 ‍美国
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇺🇸 ‍美国
   - DIRECT
   - REJECT
 - name: ⚡ ‍低延迟
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id001
-  - '🇸🇮 ⚡️ Tên Gói : Gói 1 - Đăng Ký 5G Siêu Tốc Nhật Bản'
-  - 🇸🇮 🧬 SNI-Ko Chọn ：Nền Mặc Định - Đăng Ký 5G Siêu Tốc Nhật Bản
-  - '🇸🇮 ⚡️ Hạn sử dụng: 26-04-2025 - Đăng Ký 5G Siêu Tốc Nhật Bản'
-  - 🇸🇮 Máy Chủ KoBe - Đăng Ký 5G Siêu Tốc Nhật Bản
-  - 🇸🇮 ⛩️SEVER PREMIUM🚀🚀 - Đăng Ký 5G Siêu Tốc Nhật Bản
+  use: &id001
+  - HK
+  - US
 - name: 👆🏻 ‍指定
   type: select
-  proxies: *id001
+  use: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -43,12 +42,16 @@ proxy-groups:
   type: select
   proxies:
   - 🛩️ ‍墙内
+  - 🇭🇰 ‍香港
   - ✈️ ‍起飞
+  - 👆🏻🇭🇰 ‍香港
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
+  - 🇺🇸 ‍美国
   - ✈️ ‍起飞
+  - 👆🏻🇺🇸 ‍美国
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -57,12 +60,41 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-proxies:
-- {name: '🇸🇮 ⚡️ Tên Gói : Gói 1 - Đăng Ký 5G Siêu Tốc Nhật Bản', server: 103.178.234.168, port: 90, type: vmess, uuid: 8afebdb9-33d5-4a47-935e-d8997c27daf6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutoc.fun, headers: {Host: povo.jp}}, udp: true}
-- {name: 🇸🇮 🧬 SNI-Ko Chọn ：Nền Mặc Định - Đăng Ký 5G Siêu Tốc Nhật Bản, server: 103.178.234.168, port: 90, type: vmess, uuid: 8afebdb9-33d5-4a47-935e-d8997c27daf6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutoc.fun, headers: {Host: povo.jp}}, udp: true}
-- {name: '🇸🇮 ⚡️ Hạn sử dụng: 26-04-2025 - Đăng Ký 5G Siêu Tốc Nhật Bản', server: 103.178.234.168, port: 90, type: vmess, uuid: 8afebdb9-33d5-4a47-935e-d8997c27daf6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutoc.fun, headers: {Host: povo.jp}}, udp: true}
-- {name: 🇸🇮 Máy Chủ KoBe - Đăng Ký 5G Siêu Tốc Nhật Bản, server: 103.178.234.168, port: 90, type: vmess, uuid: 8afebdb9-33d5-4a47-935e-d8997c27daf6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutoc.fun, headers: {Host: povo.jp}}, udp: true}
-- {name: 🇸🇮 ⛩️SEVER PREMIUM🚀🚀 - Đăng Ký 5G Siêu Tốc Nhật Bản, server: 154.83.93.132, port: 80, type: vmess, uuid: 8afebdb9-33d5-4a47-935e-d8997c27daf6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutocdo.com, headers: {Host: povo.jp}}, udp: true}
+- name: 🇭🇰 ‍香港
+  type: url-test
+  tolerance: 100
+  use: &id002
+  - HK
+- name: 🇺🇸 ‍美国
+  type: url-test
+  tolerance: 300
+  use: &id003
+  - US
+- name: 👆🏻🇭🇰 ‍香港
+  type: select
+  use: *id002
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  use: *id003
+proxy-providers:
+  HK:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/app.1130.net/HK.yaml
+    interval: 180
+    path: trials_providers/app.1130.net/HK.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  US:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/app.1130.net/US.yaml
+    interval: 180
+    path: trials_providers/app.1130.net/US.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

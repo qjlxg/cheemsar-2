@@ -11,6 +11,10 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
+  - 🇭🇰 ‍香港
+  - 🇺🇸 ‍美国
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇺🇸 ‍美国
   - DIRECT
   - REJECT
 - name: ⚡ ‍低延迟
@@ -19,11 +23,9 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - '🇸🇮 ⚡️ Tên Gói : Gói 1 - Đăng Ký 5G Siêu Tốc Nhật Bản'
-  - 🇸🇮 🧬 SNI-Ko Chọn ：Nền Mặc Định - Đăng Ký 5G Siêu Tốc Nhật Bản
-  - '🇸🇮 ⚡️ Hạn sử dụng: 26-04-2025 - Đăng Ký 5G Siêu Tốc Nhật Bản'
-  - 🇸🇮 Máy Chủ KoBe - Đăng Ký 5G Siêu Tốc Nhật Bản
-  - 🇸🇮 ⛩️SEVER PREMIUM🚀🚀 - Đăng Ký 5G Siêu Tốc Nhật Bản
+  - 🇭🇰 香港-01 - 至尊VPN
+  - 🇺🇸 美国-02 - 至尊VPN
+  - 🇺🇸 美国-03 - 至尊VPN
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -43,12 +45,16 @@ proxy-groups:
   type: select
   proxies:
   - 🛩️ ‍墙内
+  - 🇭🇰 ‍香港
   - ✈️ ‍起飞
+  - 👆🏻🇭🇰 ‍香港
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
+  - 🇺🇸 ‍美国
   - ✈️ ‍起飞
+  - 👆🏻🇺🇸 ‍美国
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -57,12 +63,31 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
+- name: 🇭🇰 ‍香港
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id002
+  - 🇭🇰 香港-01 - 至尊VPN
+- name: 🇺🇸 ‍美国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 300
+  proxies: &id003
+  - 🇺🇸 美国-02 - 至尊VPN
+  - 🇺🇸 美国-03 - 至尊VPN
+- name: 👆🏻🇭🇰 ‍香港
+  type: select
+  proxies: *id002
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id003
 proxies:
-- {name: '🇸🇮 ⚡️ Tên Gói : Gói 1 - Đăng Ký 5G Siêu Tốc Nhật Bản', server: 103.178.234.168, port: 90, type: vmess, uuid: 8afebdb9-33d5-4a47-935e-d8997c27daf6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutoc.fun, headers: {Host: povo.jp}}, udp: true}
-- {name: 🇸🇮 🧬 SNI-Ko Chọn ：Nền Mặc Định - Đăng Ký 5G Siêu Tốc Nhật Bản, server: 103.178.234.168, port: 90, type: vmess, uuid: 8afebdb9-33d5-4a47-935e-d8997c27daf6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutoc.fun, headers: {Host: povo.jp}}, udp: true}
-- {name: '🇸🇮 ⚡️ Hạn sử dụng: 26-04-2025 - Đăng Ký 5G Siêu Tốc Nhật Bản', server: 103.178.234.168, port: 90, type: vmess, uuid: 8afebdb9-33d5-4a47-935e-d8997c27daf6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutoc.fun, headers: {Host: povo.jp}}, udp: true}
-- {name: 🇸🇮 Máy Chủ KoBe - Đăng Ký 5G Siêu Tốc Nhật Bản, server: 103.178.234.168, port: 90, type: vmess, uuid: 8afebdb9-33d5-4a47-935e-d8997c27daf6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutoc.fun, headers: {Host: povo.jp}}, udp: true}
-- {name: 🇸🇮 ⛩️SEVER PREMIUM🚀🚀 - Đăng Ký 5G Siêu Tốc Nhật Bản, server: 154.83.93.132, port: 80, type: vmess, uuid: 8afebdb9-33d5-4a47-935e-d8997c27daf6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutocdo.com, headers: {Host: povo.jp}}, udp: true}
+- {name: 🇭🇰 香港-01 - 至尊VPN, server: 38.55.96.159, port: 1088, type: ss, cipher: aes-256-gcm, password: 8e398d36-200d-4c1c-a4e7-e7eba44315a5, udp: true}
+- {name: 🇺🇸 美国-02 - 至尊VPN, server: 107.148.197.6, port: 1088, type: ss, cipher: aes-256-gcm, password: 8e398d36-200d-4c1c-a4e7-e7eba44315a5, udp: true}
+- {name: 🇺🇸 美国-03 - 至尊VPN, server: 107.148.197.56, port: 1088, type: ss, cipher: aes-256-gcm, password: 8e398d36-200d-4c1c-a4e7-e7eba44315a5, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
