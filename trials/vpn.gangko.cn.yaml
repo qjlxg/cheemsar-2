@@ -11,16 +11,23 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
+  - 🇹🇼 ‍台湾
+  - 🎏 ‍其他
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🎏 ‍其他
   - DIRECT
   - REJECT
 - name: ⚡ ‍低延迟
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id001
-  - All
+  proxies: &id001
+  - 🇹🇼 台湾(ipv4)AK NAT4动态 - 内部专用
+  - 🇩🇪 德国(ipv6)AK CDN直连 - 内部专用
 - name: 👆🏻 ‍指定
   type: select
-  use: *id001
+  proxies: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -37,12 +44,18 @@ proxy-groups:
   type: select
   proxies:
   - 🛩️ ‍墙内
+  - 🇹🇼 ‍台湾
   - ✈️ ‍起飞
+  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
+  - 🇹🇼 ‍台湾
+  - 🎏 ‍其他
   - ✈️ ‍起飞
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -51,16 +64,29 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-proxy-providers:
-  All:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/kk.nai99.top/All.yaml
-    interval: 180
-    path: trials_providers/kk.nai99.top/All.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
+- name: 🇹🇼 ‍台湾
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id002
+  - 🇹🇼 台湾(ipv4)AK NAT4动态 - 内部专用
+- name: 🎏 ‍其他
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 100
+  proxies: &id003
+  - 🇩🇪 德国(ipv6)AK CDN直连 - 内部专用
+- name: 👆🏻🇹🇼 ‍台湾
+  type: select
+  proxies: *id002
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id003
+proxies:
+- {name: 🇹🇼 台湾(ipv4)AK NAT4动态 - 内部专用, server: twnat4.gangko.cc, port: 22100, type: vmess, uuid: 968fb6cd-015f-4b61-a2ee-10af3c7a78ea, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: twnat4.gangko.cc}}, udp: true}
+- {name: 🇩🇪 德国(ipv6)AK CDN直连 - 内部专用, server: akdev6.12ip.cc, port: 443, type: vmess, uuid: 968fb6cd-015f-4b61-a2ee-10af3c7a78ea, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: akdev6.12ip.cc}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

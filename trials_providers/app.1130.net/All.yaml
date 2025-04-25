@@ -1,6 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇭🇰 香港-01 - 至尊VPN, server: 38.55.96.159, port: 1088, type: ss, cipher: aes-256-gcm, password: 8e398d36-200d-4c1c-a4e7-e7eba44315a5, udp: true}
-- {name: 🇺🇸 美国-02 - 至尊VPN, server: 107.148.197.6, port: 1088, type: ss, cipher: aes-256-gcm, password: 8e398d36-200d-4c1c-a4e7-e7eba44315a5, udp: true}
-- {name: 🇺🇸 美国-03 - 至尊VPN, server: 107.148.197.56, port: 1088, type: ss, cipher: aes-256-gcm, password: 8e398d36-200d-4c1c-a4e7-e7eba44315a5, udp: true}
