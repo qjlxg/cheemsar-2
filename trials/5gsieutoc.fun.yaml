@@ -11,10 +11,6 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
-  - 🇹🇼 ‍台湾
-  - 🎏 ‍其他
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🎏 ‍其他
   - DIRECT
   - REJECT
 - name: ⚡ ‍低延迟
@@ -23,8 +19,11 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇹🇼 台湾(ipv4)AK NAT4动态 - 内部专用
-  - 🇩🇪 德国(ipv6)AK CDN直连 - 内部专用
+  - '🇸🇮 ⚡️ Tên Gói : Gói 1 - Đăng Ký 5G Siêu Tốc Nhật Bản'
+  - 🇸🇮 🧬 SNI-Ko Chọn ：Nền Mặc Định - Đăng Ký 5G Siêu Tốc Nhật Bản
+  - '🇸🇮 ⚡️ Hạn sử dụng: 27-04-2025 - Đăng Ký 5G Siêu Tốc Nhật Bản'
+  - 🇸🇮 Máy Chủ KoBe - Đăng Ký 5G Siêu Tốc Nhật Bản
+  - 🇸🇮 ⛩️SEVER PREMIUM🚀🚀 - Đăng Ký 5G Siêu Tốc Nhật Bản
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -44,18 +43,12 @@ proxy-groups:
   type: select
   proxies:
   - 🛩️ ‍墙内
-  - 🇹🇼 ‍台湾
   - ✈️ ‍起飞
-  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
-  - 🇹🇼 ‍台湾
-  - 🎏 ‍其他
   - ✈️ ‍起飞
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -64,29 +57,12 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇹🇼 ‍台湾
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id002
-  - 🇹🇼 台湾(ipv4)AK NAT4动态 - 内部专用
-- name: 🎏 ‍其他
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 100
-  proxies: &id003
-  - 🇩🇪 德国(ipv6)AK CDN直连 - 内部专用
-- name: 👆🏻🇹🇼 ‍台湾
-  type: select
-  proxies: *id002
-- name: 👆🏻🎏 ‍其他
-  type: select
-  proxies: *id003
 proxies:
-- {name: 🇹🇼 台湾(ipv4)AK NAT4动态 - 内部专用, server: twnat4.gangko.cc, port: 22100, type: vmess, uuid: 968fb6cd-015f-4b61-a2ee-10af3c7a78ea, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: twnat4.gangko.cc}}, udp: true}
-- {name: 🇩🇪 德国(ipv6)AK CDN直连 - 内部专用, server: akdev6.12ip.cc, port: 443, type: vmess, uuid: 968fb6cd-015f-4b61-a2ee-10af3c7a78ea, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: akdev6.12ip.cc}}, udp: true}
+- {name: '🇸🇮 ⚡️ Tên Gói : Gói 1 - Đăng Ký 5G Siêu Tốc Nhật Bản', server: 103.178.234.168, port: 90, type: vmess, uuid: 87911244-8096-4dfd-8bbd-6bc9adf47215, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutoc.fun, headers: {Host: povo.jp}}, udp: true}
+- {name: 🇸🇮 🧬 SNI-Ko Chọn ：Nền Mặc Định - Đăng Ký 5G Siêu Tốc Nhật Bản, server: 103.178.234.168, port: 90, type: vmess, uuid: 87911244-8096-4dfd-8bbd-6bc9adf47215, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutoc.fun, headers: {Host: povo.jp}}, udp: true}
+- {name: '🇸🇮 ⚡️ Hạn sử dụng: 27-04-2025 - Đăng Ký 5G Siêu Tốc Nhật Bản', server: 103.178.234.168, port: 90, type: vmess, uuid: 87911244-8096-4dfd-8bbd-6bc9adf47215, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutoc.fun, headers: {Host: povo.jp}}, udp: true}
+- {name: 🇸🇮 Máy Chủ KoBe - Đăng Ký 5G Siêu Tốc Nhật Bản, server: 103.178.234.168, port: 90, type: vmess, uuid: 87911244-8096-4dfd-8bbd-6bc9adf47215, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutoc.fun, headers: {Host: povo.jp}}, udp: true}
+- {name: 🇸🇮 ⛩️SEVER PREMIUM🚀🚀 - Đăng Ký 5G Siêu Tốc Nhật Bản, server: 154.83.93.132, port: 80, type: vmess, uuid: 87911244-8096-4dfd-8bbd-6bc9adf47215, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutocdo.com, headers: {Host: povo.jp}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

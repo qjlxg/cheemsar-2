@@ -1,6 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港NO.1（GPT奈飞等） - 大师专线, server: haa.dashuai.cyou, port: 45050, type: vmess, uuid: 66e35599-8488-42bc-a857-c7376f47b15f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港NO.2（GPT奈飞等） - 大师专线, server: xdd.dashuai.cyou, port: 45051, type: vmess, uuid: 66e35599-8488-42bc-a857-c7376f47b15f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港（直连） - 大师专线, server: xg.dashuai.cyou, port: 19901, type: vmess, uuid: 66e35599-8488-42bc-a857-c7376f47b15f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港-KC-01 - 至尊VPN, server: 38.55.96.159, port: 1088, type: ss, cipher: aes-256-gcm, password: 27d9c898-5c5e-4a51-a24b-df979e9801b9, udp: true}
+- {name: 🇭🇰 香港-EQ-01 - 至尊VPN, server: 43.247.132.46, port: 1088, type: ss, cipher: aes-256-gcm, password: 27d9c898-5c5e-4a51-a24b-df979e9801b9, udp: true}

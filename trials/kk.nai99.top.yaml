@@ -11,12 +11,6 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
-  - 🇭🇰 ‍香港
-  - 🇺🇸 ‍美国
-  - 🎏 ‍其他
-  - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - DIRECT
   - REJECT
 - name: ⚡ ‍低延迟
@@ -25,19 +19,7 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇭🇰 香港-KC-01 - 至尊VPN
-  - 🇭🇰 香港-EQ-01 - 至尊VPN
-  - 🇺🇸 美国-02 - 至尊VPN
-  - 🇺🇸 美国-03 - 至尊VPN
   - ℹ️ 最新域名：cc.drchi.icu备用域名：kk.nai99.top备用域名：gogo.nai99.top - 奈奈加速
-  - ℹ️ 最新域名：cc.drchi.icu备用域名：kk.nai99.top备用域名：gogo.nai99.top - 奈奈加速
-  - ℹ️ 最新域名：cc.drchi.icu备用域名：kk.nai99.top备用域名：gogo.nai99.top - 奈奈加速
-  - ℹ️ 最新域名：cc.drchi.icu备用域名：kk.nai99.top备用域名：gogo.nai99.top - 奈奈加速
-  - '🇸🇮 ⚡️ Tên Gói : Gói 1 - Đăng Ký 5G Siêu Tốc Nhật Bản'
-  - 🇸🇮 🧬 SNI-Ko Chọn ：Nền Mặc Định - Đăng Ký 5G Siêu Tốc Nhật Bản
-  - '🇸🇮 ⚡️ Hạn sử dụng: 27-04-2025 - Đăng Ký 5G Siêu Tốc Nhật Bản'
-  - 🇸🇮 Máy Chủ KoBe - Đăng Ký 5G Siêu Tốc Nhật Bản
-  - 🇸🇮 ⛩️SEVER PREMIUM🚀🚀 - Đăng Ký 5G Siêu Tốc Nhật Bản
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -57,18 +39,12 @@ proxy-groups:
   type: select
   proxies:
   - 🛩️ ‍墙内
-  - 🇭🇰 ‍香港
   - ✈️ ‍起飞
-  - 👆🏻🇭🇰 ‍香港
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
-  - 🇺🇸 ‍美国
-  - 🎏 ‍其他
   - ✈️ ‍起飞
-  - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -77,57 +53,8 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇭🇰 ‍香港
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id002
-  - 🇭🇰 香港-KC-01 - 至尊VPN
-  - 🇭🇰 香港-EQ-01 - 至尊VPN
-- name: 🇺🇸 ‍美国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 300
-  proxies: &id003
-  - 🇺🇸 美国-02 - 至尊VPN
-  - 🇺🇸 美国-03 - 至尊VPN
-- name: 🎏 ‍其他
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 100
-  proxies: &id004
-  - ℹ️ 最新域名：cc.drchi.icu备用域名：kk.nai99.top备用域名：gogo.nai99.top - 奈奈加速
-  - ℹ️ 最新域名：cc.drchi.icu备用域名：kk.nai99.top备用域名：gogo.nai99.top - 奈奈加速
-  - ℹ️ 最新域名：cc.drchi.icu备用域名：kk.nai99.top备用域名：gogo.nai99.top - 奈奈加速
-  - ℹ️ 最新域名：cc.drchi.icu备用域名：kk.nai99.top备用域名：gogo.nai99.top - 奈奈加速
-  - '🇸🇮 ⚡️ Tên Gói : Gói 1 - Đăng Ký 5G Siêu Tốc Nhật Bản'
-  - 🇸🇮 🧬 SNI-Ko Chọn ：Nền Mặc Định - Đăng Ký 5G Siêu Tốc Nhật Bản
-  - '🇸🇮 ⚡️ Hạn sử dụng: 27-04-2025 - Đăng Ký 5G Siêu Tốc Nhật Bản'
-  - 🇸🇮 Máy Chủ KoBe - Đăng Ký 5G Siêu Tốc Nhật Bản
-  - 🇸🇮 ⛩️SEVER PREMIUM🚀🚀 - Đăng Ký 5G Siêu Tốc Nhật Bản
-- name: 👆🏻🇭🇰 ‍香港
-  type: select
-  proxies: *id002
-- name: 👆🏻🇺🇸 ‍美国
-  type: select
-  proxies: *id003
-- name: 👆🏻🎏 ‍其他
-  type: select
-  proxies: *id004
 proxies:
-- {name: 🇭🇰 香港-KC-01 - 至尊VPN, server: 38.55.96.159, port: 1088, type: ss, cipher: aes-256-gcm, password: 27d9c898-5c5e-4a51-a24b-df979e9801b9, udp: true}
-- {name: 🇺🇸 美国-02 - 至尊VPN, server: 107.148.197.6, port: 1088, type: ss, cipher: aes-256-gcm, password: 27d9c898-5c5e-4a51-a24b-df979e9801b9, udp: true}
-- {name: 🇺🇸 美国-03 - 至尊VPN, server: 107.148.197.56, port: 1088, type: ss, cipher: aes-256-gcm, password: 27d9c898-5c5e-4a51-a24b-df979e9801b9, udp: true}
-- {name: 🇭🇰 香港-EQ-01 - 至尊VPN, server: 43.247.132.46, port: 1088, type: ss, cipher: aes-256-gcm, password: 27d9c898-5c5e-4a51-a24b-df979e9801b9, udp: true}
-- {name: ℹ️ 最新域名：cc.drchi.icu备用域名：kk.nai99.top备用域名：gogo.nai99.top - 奈奈加速, server: dasadasda., port: 12112, type: ss, cipher: chacha20-ietf-poly1305, password: 4a7732f1-308d-41d3-b872-f5ba897c01b8, udp: true}
-- {name: '🇸🇮 ⚡️ Tên Gói : Gói 1 - Đăng Ký 5G Siêu Tốc Nhật Bản', server: 103.178.234.168, port: 90, type: vmess, uuid: 87911244-8096-4dfd-8bbd-6bc9adf47215, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutoc.fun, headers: {Host: povo.jp}}, udp: true}
-- {name: 🇸🇮 🧬 SNI-Ko Chọn ：Nền Mặc Định - Đăng Ký 5G Siêu Tốc Nhật Bản, server: 103.178.234.168, port: 90, type: vmess, uuid: 87911244-8096-4dfd-8bbd-6bc9adf47215, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutoc.fun, headers: {Host: povo.jp}}, udp: true}
-- {name: '🇸🇮 ⚡️ Hạn sử dụng: 27-04-2025 - Đăng Ký 5G Siêu Tốc Nhật Bản', server: 103.178.234.168, port: 90, type: vmess, uuid: 87911244-8096-4dfd-8bbd-6bc9adf47215, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutoc.fun, headers: {Host: povo.jp}}, udp: true}
-- {name: 🇸🇮 Máy Chủ KoBe - Đăng Ký 5G Siêu Tốc Nhật Bản, server: 103.178.234.168, port: 90, type: vmess, uuid: 87911244-8096-4dfd-8bbd-6bc9adf47215, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutoc.fun, headers: {Host: povo.jp}}, udp: true}
-- {name: 🇸🇮 ⛩️SEVER PREMIUM🚀🚀 - Đăng Ký 5G Siêu Tốc Nhật Bản, server: 154.83.93.132, port: 80, type: vmess, uuid: 87911244-8096-4dfd-8bbd-6bc9adf47215, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutocdo.com, headers: {Host: povo.jp}}, udp: true}
+- {name: ℹ️ 最新域名：cc.drchi.icu备用域名：kk.nai99.top备用域名：gogo.nai99.top - 奈奈加速, server: dasadasda., port: 12112, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 3e45e6a6-6195-446d-85d3-3e8757b90395, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

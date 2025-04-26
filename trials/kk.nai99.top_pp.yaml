@@ -11,18 +11,13 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
-  - 🇹🇼 ‍台湾
-  - 🎏 ‍其他
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🎏 ‍其他
   - DIRECT
   - REJECT
 - name: ⚡ ‍低延迟
   type: url-test
   tolerance: 100
   use: &id001
-  - TW
-  - Other
+  - All
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
@@ -42,18 +37,12 @@ proxy-groups:
   type: select
   proxies:
   - 🛩️ ‍墙内
-  - 🇹🇼 ‍台湾
   - ✈️ ‍起飞
-  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
-  - 🇹🇼 ‍台湾
-  - 🎏 ‍其他
   - ✈️ ‍起飞
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -62,37 +51,12 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇹🇼 ‍台湾
-  type: url-test
-  tolerance: 100
-  use: &id002
-  - TW
-- name: 🎏 ‍其他
-  type: url-test
-  tolerance: 100
-  use: &id003
-  - Other
-- name: 👆🏻🇹🇼 ‍台湾
-  type: select
-  use: *id002
-- name: 👆🏻🎏 ‍其他
-  type: select
-  use: *id003
 proxy-providers:
-  TW:
+  All:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/vpn.gangko.cn/TW.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/kk.nai99.top/All.yaml
     interval: 180
-    path: trials_providers/vpn.gangko.cn/TW.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  Other:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/vpn.gangko.cn/Other.yaml
-    interval: 180
-    path: trials_providers/vpn.gangko.cn/Other.yaml
+    path: trials_providers/kk.nai99.top/All.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
