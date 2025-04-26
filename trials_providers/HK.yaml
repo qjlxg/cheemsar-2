@@ -1,8 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港1 - 自由光, server: hl.zygvpn.com, port: 18836, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
-- {name: 🇭🇰 香港2 - 自由光, server: sh.zygvpn.com, port: 18836, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
-- {name: 🇭🇰 香港3 - 自由光, server: szgy.zygvpn.com, port: 18836, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
-- {name: 🇭🇰 香港4 - 自由光, server: xsg.zygvpn.com, port: 18836, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
-- {name: 🇭🇰 香港5 - 自由光, server: bj.zygvpn.com, port: 18836, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
+- {name: 🇭🇰 香港TJ🍒 - 三七云, server: va.37cloud.cc, port: 22188, type: trojan, password: f4bbf4c9-36b3-4c55-90eb-d1f3baee8d41, sni: va.37cloud.cc, skip-cert-verify: true, network: ws, ws-opts: {path: /hd.m3u8, headers: {Host: va.37cloud.cc}}, udp: true}

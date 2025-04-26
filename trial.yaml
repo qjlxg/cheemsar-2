@@ -12,17 +12,9 @@ proxy-groups:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
   - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
-  - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
-  - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
@@ -33,32 +25,10 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇭🇰 香港1 - 自由光
-  - 🇭🇰 香港2 - 自由光
-  - 🇭🇰 香港3 - 自由光
-  - 🇭🇰 香港4 - 自由光
-  - 🇭🇰 香港5 - 自由光
-  - 🇹🇼 台湾1 - 自由光
-  - 🇹🇼 台湾2 - 自由光
-  - 🇹🇼 台湾3 - 自由光
-  - 🇹🇼 台湾4 - 自由光
-  - 🇹🇼 台湾5 - 自由光
-  - 🇸🇬 新加坡1 - 自由光
-  - 🇸🇬 新加坡2 - 自由光
-  - 🇸🇬 新加坡3 - 自由光
-  - 🇸🇬 新加坡4 - 自由光
-  - 🇸🇬 新加坡5 - 自由光
-  - 🇯🇵 日本1 - 自由光
-  - 🇯🇵 日本2 - 自由光
-  - 🇯🇵 日本3 - 自由光
-  - 🇯🇵 日本4 - 自由光
-  - 🇯🇵 日本5 - 自由光
-  - 🇺🇸 美国1 - 自由光
-  - 🇺🇸 美国2 - 自由光
-  - 🇺🇸 美国3 - 自由光
-  - 🇺🇸 美国4 - 自由光
-  - 🇺🇸 美国5 - 自由光
-  - www.freelight.club - 自由光
+  - 🇭🇰 香港TJ🍒 - 三七云
+  - 🇺🇸洛杉矶&解锁NetFlix/GPT🍒 - 三七云
+  - 🇷🇺 俄罗斯Tj🍒 - 三七云
+  - ℹ️ 🍀优先使用hy、VL节点，其他协议将淘汰 - 三七云
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -79,26 +49,16 @@ proxy-groups:
   proxies:
   - 🛩️ ‍墙内
   - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
   - ✈️ ‍起飞
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
   - 🇺🇸 ‍美国
-  - 🇹🇼 ‍台湾
-  - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
   - 🎏 ‍其他
   - ✈️ ‍起飞
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
@@ -114,126 +74,36 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
-  - 🇭🇰 香港1 - 自由光
-  - 🇭🇰 香港2 - 自由光
-  - 🇭🇰 香港3 - 自由光
-  - 🇭🇰 香港4 - 自由光
-  - 🇭🇰 香港5 - 自由光
-- name: 🇹🇼 ‍台湾
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id003
-  - 🇹🇼 台湾1 - 自由光
-  - 🇹🇼 台湾2 - 自由光
-  - 🇹🇼 台湾3 - 自由光
-  - 🇹🇼 台湾4 - 自由光
-  - 🇹🇼 台湾5 - 自由光
-- name: 🇨🇳 ‍中国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id004
-  - 🇭🇰 香港1 - 自由光
-  - 🇭🇰 香港2 - 自由光
-  - 🇭🇰 香港3 - 自由光
-  - 🇭🇰 香港4 - 自由光
-  - 🇭🇰 香港5 - 自由光
-  - 🇹🇼 台湾1 - 自由光
-  - 🇹🇼 台湾2 - 自由光
-  - 🇹🇼 台湾3 - 自由光
-  - 🇹🇼 台湾4 - 自由光
-  - 🇹🇼 台湾5 - 自由光
-- name: 🇸🇬 ‍新加坡
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id005
-  - 🇸🇬 新加坡1 - 自由光
-  - 🇸🇬 新加坡2 - 自由光
-  - 🇸🇬 新加坡3 - 自由光
-  - 🇸🇬 新加坡4 - 自由光
-  - 🇸🇬 新加坡5 - 自由光
-- name: 🇯🇵 ‍日本
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id006
-  - 🇯🇵 日本1 - 自由光
-  - 🇯🇵 日本2 - 自由光
-  - 🇯🇵 日本3 - 自由光
-  - 🇯🇵 日本4 - 自由光
-  - 🇯🇵 日本5 - 自由光
+  - 🇭🇰 香港TJ🍒 - 三七云
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
-  proxies: &id007
-  - 🇺🇸 美国1 - 自由光
-  - 🇺🇸 美国2 - 自由光
-  - 🇺🇸 美国3 - 自由光
-  - 🇺🇸 美国4 - 自由光
-  - 🇺🇸 美国5 - 自由光
+  proxies: &id003
+  - 🇺🇸洛杉矶&解锁NetFlix/GPT🍒 - 三七云
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 100
-  proxies: &id008
-  - www.freelight.club - 自由光
+  proxies: &id004
+  - 🇷🇺 俄罗斯Tj🍒 - 三七云
+  - ℹ️ 🍀优先使用hy、VL节点，其他协议将淘汰 - 三七云
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
-- name: 👆🏻🇹🇼 ‍台湾
-  type: select
-  proxies: *id003
-- name: 👆🏻🇨🇳 ‍中国
-  type: select
-  proxies: *id004
-- name: 👆🏻🇸🇬 ‍新加坡
-  type: select
-  proxies: *id005
-- name: 👆🏻🇯🇵 ‍日本
-  type: select
-  proxies: *id006
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id007
+  proxies: *id003
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id008
+  proxies: *id004
 proxies:
-- {name: www.freelight.club - 自由光, server: 127.0.0.1, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
-- {name: 🇭🇰 香港1 - 自由光, server: hl.zygvpn.com, port: 18836, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
-- {name: 🇹🇼 台湾1 - 自由光, server: hl.zygvpn.com, port: 34397, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
-- {name: 🇯🇵 日本1 - 自由光, server: hl.zygvpn.com, port: 24710, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
-- {name: 🇸🇬 新加坡1 - 自由光, server: hl.zygvpn.com, port: 44671, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
-- {name: 🇺🇸 美国1 - 自由光, server: hl.zygvpn.com, port: 44673, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
-- {name: 🇭🇰 香港2 - 自由光, server: sh.zygvpn.com, port: 18836, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
-- {name: 🇹🇼 台湾2 - 自由光, server: sh.zygvpn.com, port: 34397, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
-- {name: 🇯🇵 日本2 - 自由光, server: sh.zygvpn.com, port: 24710, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
-- {name: 🇸🇬 新加坡2 - 自由光, server: sh.zygvpn.com, port: 44671, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
-- {name: 🇺🇸 美国2 - 自由光, server: sh.zygvpn.com, port: 44673, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
-- {name: 🇭🇰 香港3 - 自由光, server: szgy.zygvpn.com, port: 18836, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
-- {name: 🇹🇼 台湾3 - 自由光, server: szgy.zygvpn.com, port: 34397, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
-- {name: 🇯🇵 日本3 - 自由光, server: szgy.zygvpn.com, port: 24710, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
-- {name: 🇸🇬 新加坡3 - 自由光, server: szgy.zygvpn.com, port: 44671, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
-- {name: 🇺🇸 美国3 - 自由光, server: szgy.zygvpn.com, port: 44673, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
-- {name: 🇭🇰 香港4 - 自由光, server: xsg.zygvpn.com, port: 18836, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
-- {name: 🇹🇼 台湾4 - 自由光, server: xsg.zygvpn.com, port: 34397, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
-- {name: 🇯🇵 日本4 - 自由光, server: xsg.zygvpn.com, port: 24710, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
-- {name: 🇸🇬 新加坡4 - 自由光, server: xsg.zygvpn.com, port: 44671, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
-- {name: 🇺🇸 美国4 - 自由光, server: xsg.zygvpn.com, port: 44673, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
-- {name: 🇭🇰 香港5 - 自由光, server: bj.zygvpn.com, port: 18836, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
-- {name: 🇹🇼 台湾5 - 自由光, server: bj.zygvpn.com, port: 34397, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
-- {name: 🇯🇵 日本5 - 自由光, server: bj.zygvpn.com, port: 24710, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
-- {name: 🇸🇬 新加坡5 - 自由光, server: bj.zygvpn.com, port: 44671, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
-- {name: 🇺🇸 美国5 - 自由光, server: bj.zygvpn.com, port: 44673, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
+- {name: 🇷🇺 俄罗斯Tj🍒 - 三七云, server: els.37cloud.cc, port: 28176, type: trojan, password: f4bbf4c9-36b3-4c55-90eb-d1f3baee8d41, sni: els.37cloud.cc, skip-cert-verify: true, network: ws, ws-opts: {path: /hd.m3u8, headers: {Host: els.37cloud.cc}}, udp: true}
+- {name: ℹ️ 🍀优先使用hy、VL节点，其他协议将淘汰 - 三七云, server: txjptj.681687.xyz, port: 10091, type: trojan, password: f4bbf4c9-36b3-4c55-90eb-d1f3baee8d41, sni: txjptj.681687.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: /hd.m3u8, headers: {Host: txjptj.681687.xyz}}, udp: true}
+- {name: 🇭🇰 香港TJ🍒 - 三七云, server: va.37cloud.cc, port: 22188, type: trojan, password: f4bbf4c9-36b3-4c55-90eb-d1f3baee8d41, sni: va.37cloud.cc, skip-cert-verify: true, network: ws, ws-opts: {path: /hd.m3u8, headers: {Host: va.37cloud.cc}}, udp: true}
+- {name: 🇺🇸洛杉矶&解锁NetFlix/GPT🍒 - 三七云, server: waf1.37cloud.cc, port: 443, type: trojan, password: f4bbf4c9-36b3-4c55-90eb-d1f3baee8d41, sni: waf1.37cloud.cc, skip-cert-verify: true, network: ws, ws-opts: {path: /hd.m3u8, headers: {Host: waf1.37cloud.cc}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

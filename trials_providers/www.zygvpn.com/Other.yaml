@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: www.freelight.club - 自由光, server: 127.0.0.1, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
