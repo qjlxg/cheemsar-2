@@ -1,0 +1,8 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 美国1 - 自由光, server: hl.zygvpn.com, port: 44673, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
+- {name: 🇺🇸 美国2 - 自由光, server: sh.zygvpn.com, port: 44673, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
+- {name: 🇺🇸 美国3 - 自由光, server: szgy.zygvpn.com, port: 44673, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
+- {name: 🇺🇸 美国4 - 自由光, server: xsg.zygvpn.com, port: 44673, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
+- {name: 🇺🇸 美国5 - 自由光, server: bj.zygvpn.com, port: 44673, type: ss, cipher: chacha20-ietf-poly1305, password: ca81b4ce-3f33-48d5-9265-deaf8da70805, udp: true}
