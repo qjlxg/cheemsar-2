@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 美国-02 - 至尊VPN, server: 107.148.197.6, port: 1088, type: ss, cipher: aes-256-gcm, password: 27d9c898-5c5e-4a51-a24b-df979e9801b9, udp: true}
-- {name: 🇺🇸 美国-03 - 至尊VPN, server: 107.148.197.56, port: 1088, type: ss, cipher: aes-256-gcm, password: 27d9c898-5c5e-4a51-a24b-df979e9801b9, udp: true}

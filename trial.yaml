@@ -12,9 +12,17 @@ proxy-groups:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
   - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
+  - 🇨🇳 ‍中国
+  - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
+  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
@@ -25,19 +33,28 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇭🇰 香港-KC-01 - 至尊VPN
-  - 🇭🇰 香港-EQ-01 - 至尊VPN
-  - 🇺🇸 美国-02 - 至尊VPN
-  - 🇺🇸 美国-03 - 至尊VPN
-  - ℹ️ 最新域名：cc.drchi.icu备用域名：kk.nai99.top备用域名：gogo.nai99.top - 奈奈加速
-  - ℹ️ 最新域名：cc.drchi.icu备用域名：kk.nai99.top备用域名：gogo.nai99.top - 奈奈加速
-  - ℹ️ 最新域名：cc.drchi.icu备用域名：kk.nai99.top备用域名：gogo.nai99.top - 奈奈加速
-  - ℹ️ 最新域名：cc.drchi.icu备用域名：kk.nai99.top备用域名：gogo.nai99.top - 奈奈加速
-  - '🇸🇮 ⚡️ Tên Gói : Gói 1 - Đăng Ký 5G Siêu Tốc Nhật Bản'
-  - 🇸🇮 🧬 SNI-Ko Chọn ：Nền Mặc Định - Đăng Ký 5G Siêu Tốc Nhật Bản
-  - '🇸🇮 ⚡️ Hạn sử dụng: 27-04-2025 - Đăng Ký 5G Siêu Tốc Nhật Bản'
-  - 🇸🇮 Máy Chủ KoBe - Đăng Ký 5G Siêu Tốc Nhật Bản
-  - 🇸🇮 ⛩️SEVER PREMIUM🚀🚀 - Đăng Ký 5G Siêu Tốc Nhật Bản
+  - 🇭🇰 香港01 - 登录 - uu加速
+  - 🇭🇰 香港02 - 登录 - uu加速
+  - 🇭🇰 香港03 - 登录 - uu加速
+  - 🇭🇰 香港06-备用 - 登录 - uu加速
+  - 🇭🇰 香港05-备用 - 登录 - uu加速
+  - 🇹🇼 台湾01 - 登录 - uu加速
+  - 🇹🇼 台湾02-备用 - 登录 - uu加速
+  - 🇹🇼 台湾03-备用 - 登录 - uu加速
+  - 🇹🇼 台湾04-备用 - 登录 - uu加速
+  - 🇸🇬 新加坡03 - 登录 - uu加速
+  - 🇸🇬 新加坡01 - 登录 - uu加速
+  - 🇸🇬 新加坡02 - 登录 - uu加速
+  - 🇯🇵 日本01 - 登录 - uu加速
+  - 🇺🇸 美国02 - 登录 - uu加速
+  - 🇺🇸 美国01 - 登录 - uu加速
+  - 🇺🇸 美国04 - 登录 - uu加速
+  - ℹ️ 最新官网：uujiasu.com - 登录 - uu加速
+  - ℹ️ x 代表使用倍率 - 登录 - uu加速
+  - ℹ️ 用不了，请更新订阅 - 登录 - uu加速
+  - ℹ️ 永久地址请查看活动公告 - 登录 - uu加速
+  - 🇬🇧 英国02 - 登录 - uu加速
+  - 🇻🇳 越南01 - 登录 - uu加速
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -58,16 +75,26 @@ proxy-groups:
   proxies:
   - 🛩️ ‍墙内
   - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
+  - 🇨🇳 ‍中国
   - ✈️ ‍起飞
   - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
   - 🇺🇸 ‍美国
+  - 🇹🇼 ‍台湾
+  - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
   - 🎏 ‍其他
   - ✈️ ‍起飞
   - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
@@ -83,51 +110,117 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
-  - 🇭🇰 香港-KC-01 - 至尊VPN
-  - 🇭🇰 香港-EQ-01 - 至尊VPN
+  - 🇭🇰 香港01 - 登录 - uu加速
+  - 🇭🇰 香港02 - 登录 - uu加速
+  - 🇭🇰 香港03 - 登录 - uu加速
+  - 🇭🇰 香港06-备用 - 登录 - uu加速
+  - 🇭🇰 香港05-备用 - 登录 - uu加速
+- name: 🇹🇼 ‍台湾
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id003
+  - 🇹🇼 台湾01 - 登录 - uu加速
+  - 🇹🇼 台湾02-备用 - 登录 - uu加速
+  - 🇹🇼 台湾03-备用 - 登录 - uu加速
+  - 🇹🇼 台湾04-备用 - 登录 - uu加速
+- name: 🇨🇳 ‍中国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id004
+  - 🇭🇰 香港01 - 登录 - uu加速
+  - 🇭🇰 香港02 - 登录 - uu加速
+  - 🇭🇰 香港03 - 登录 - uu加速
+  - 🇭🇰 香港06-备用 - 登录 - uu加速
+  - 🇭🇰 香港05-备用 - 登录 - uu加速
+  - 🇹🇼 台湾01 - 登录 - uu加速
+  - 🇹🇼 台湾02-备用 - 登录 - uu加速
+  - 🇹🇼 台湾03-备用 - 登录 - uu加速
+  - 🇹🇼 台湾04-备用 - 登录 - uu加速
+- name: 🇸🇬 ‍新加坡
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id005
+  - 🇸🇬 新加坡03 - 登录 - uu加速
+  - 🇸🇬 新加坡01 - 登录 - uu加速
+  - 🇸🇬 新加坡02 - 登录 - uu加速
+- name: 🇯🇵 ‍日本
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id006
+  - 🇯🇵 日本01 - 登录 - uu加速
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
-  proxies: &id003
-  - 🇺🇸 美国-02 - 至尊VPN
-  - 🇺🇸 美国-03 - 至尊VPN
+  proxies: &id007
+  - 🇺🇸 美国02 - 登录 - uu加速
+  - 🇺🇸 美国01 - 登录 - uu加速
+  - 🇺🇸 美国04 - 登录 - uu加速
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 100
-  proxies: &id004
-  - ℹ️ 最新域名：cc.drchi.icu备用域名：kk.nai99.top备用域名：gogo.nai99.top - 奈奈加速
-  - ℹ️ 最新域名：cc.drchi.icu备用域名：kk.nai99.top备用域名：gogo.nai99.top - 奈奈加速
-  - ℹ️ 最新域名：cc.drchi.icu备用域名：kk.nai99.top备用域名：gogo.nai99.top - 奈奈加速
-  - ℹ️ 最新域名：cc.drchi.icu备用域名：kk.nai99.top备用域名：gogo.nai99.top - 奈奈加速
-  - '🇸🇮 ⚡️ Tên Gói : Gói 1 - Đăng Ký 5G Siêu Tốc Nhật Bản'
-  - 🇸🇮 🧬 SNI-Ko Chọn ：Nền Mặc Định - Đăng Ký 5G Siêu Tốc Nhật Bản
-  - '🇸🇮 ⚡️ Hạn sử dụng: 27-04-2025 - Đăng Ký 5G Siêu Tốc Nhật Bản'
-  - 🇸🇮 Máy Chủ KoBe - Đăng Ký 5G Siêu Tốc Nhật Bản
-  - 🇸🇮 ⛩️SEVER PREMIUM🚀🚀 - Đăng Ký 5G Siêu Tốc Nhật Bản
+  proxies: &id008
+  - ℹ️ 最新官网：uujiasu.com - 登录 - uu加速
+  - ℹ️ x 代表使用倍率 - 登录 - uu加速
+  - ℹ️ 用不了，请更新订阅 - 登录 - uu加速
+  - ℹ️ 永久地址请查看活动公告 - 登录 - uu加速
+  - 🇬🇧 英国02 - 登录 - uu加速
+  - 🇻🇳 越南01 - 登录 - uu加速
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
-- name: 👆🏻🇺🇸 ‍美国
+- name: 👆🏻🇹🇼 ‍台湾
   type: select
   proxies: *id003
-- name: 👆🏻🎏 ‍其他
+- name: 👆🏻🇨🇳 ‍中国
   type: select
   proxies: *id004
+- name: 👆🏻🇸🇬 ‍新加坡
+  type: select
+  proxies: *id005
+- name: 👆🏻🇯🇵 ‍日本
+  type: select
+  proxies: *id006
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id007
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id008
 proxies:
-- {name: 🇭🇰 香港-KC-01 - 至尊VPN, server: 38.55.96.159, port: 1088, type: ss, cipher: aes-256-gcm, password: 27d9c898-5c5e-4a51-a24b-df979e9801b9, udp: true}
-- {name: 🇺🇸 美国-02 - 至尊VPN, server: 107.148.197.6, port: 1088, type: ss, cipher: aes-256-gcm, password: 27d9c898-5c5e-4a51-a24b-df979e9801b9, udp: true}
-- {name: 🇺🇸 美国-03 - 至尊VPN, server: 107.148.197.56, port: 1088, type: ss, cipher: aes-256-gcm, password: 27d9c898-5c5e-4a51-a24b-df979e9801b9, udp: true}
-- {name: 🇭🇰 香港-EQ-01 - 至尊VPN, server: 43.247.132.46, port: 1088, type: ss, cipher: aes-256-gcm, password: 27d9c898-5c5e-4a51-a24b-df979e9801b9, udp: true}
-- {name: ℹ️ 最新域名：cc.drchi.icu备用域名：kk.nai99.top备用域名：gogo.nai99.top - 奈奈加速, server: dasadasda., port: 12112, type: ss, cipher: chacha20-ietf-poly1305, password: 4a7732f1-308d-41d3-b872-f5ba897c01b8, udp: true}
-- {name: '🇸🇮 ⚡️ Tên Gói : Gói 1 - Đăng Ký 5G Siêu Tốc Nhật Bản', server: 103.178.234.168, port: 90, type: vmess, uuid: 87911244-8096-4dfd-8bbd-6bc9adf47215, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutoc.fun, headers: {Host: povo.jp}}, udp: true}
-- {name: 🇸🇮 🧬 SNI-Ko Chọn ：Nền Mặc Định - Đăng Ký 5G Siêu Tốc Nhật Bản, server: 103.178.234.168, port: 90, type: vmess, uuid: 87911244-8096-4dfd-8bbd-6bc9adf47215, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutoc.fun, headers: {Host: povo.jp}}, udp: true}
-- {name: '🇸🇮 ⚡️ Hạn sử dụng: 27-04-2025 - Đăng Ký 5G Siêu Tốc Nhật Bản', server: 103.178.234.168, port: 90, type: vmess, uuid: 87911244-8096-4dfd-8bbd-6bc9adf47215, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutoc.fun, headers: {Host: povo.jp}}, udp: true}
-- {name: 🇸🇮 Máy Chủ KoBe - Đăng Ký 5G Siêu Tốc Nhật Bản, server: 103.178.234.168, port: 90, type: vmess, uuid: 87911244-8096-4dfd-8bbd-6bc9adf47215, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutoc.fun, headers: {Host: povo.jp}}, udp: true}
-- {name: 🇸🇮 ⛩️SEVER PREMIUM🚀🚀 - Đăng Ký 5G Siêu Tốc Nhật Bản, server: 154.83.93.132, port: 80, type: vmess, uuid: 87911244-8096-4dfd-8bbd-6bc9adf47215, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /5gsieutocdo.com, headers: {Host: povo.jp}}, udp: true}
+- {name: ℹ️ 最新官网：uujiasu.com - 登录 - uu加速, server: 最新官网：uujiasu.com, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: d3b0789a-763e-4d17-bb55-3cd5d1d7faed, udp: true}
+- {name: ℹ️ x 代表使用倍率 - 登录 - uu加速, server: x 代表使用倍率, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: d3b0789a-763e-4d17-bb55-3cd5d1d7faed, udp: true}
+- {name: ℹ️ 用不了，请更新订阅 - 登录 - uu加速, server: 用不了，请更新订阅, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: d3b0789a-763e-4d17-bb55-3cd5d1d7faed, udp: true}
+- {name: ℹ️ 永久地址请查看活动公告 - 登录 - uu加速, server: https://sulinkcloud.github.io/, port: 55626, type: ss, cipher: chacha20-ietf-poly1305, password: d3b0789a-763e-4d17-bb55-3cd5d1d7faed, udp: true}
+- {name: 🇬🇧 英国02 - 登录 - uu加速, server: gy.tangu.win, port: 31648, type: ss, cipher: chacha20-ietf-poly1305, password: d3b0789a-763e-4d17-bb55-3cd5d1d7faed, udp: true}
+- {name: 🇻🇳 越南01 - 登录 - uu加速, server: gy.tangu.win, port: 31660, type: ss, cipher: chacha20-ietf-poly1305, password: d3b0789a-763e-4d17-bb55-3cd5d1d7faed, udp: true}
+- {name: 🇸🇬 新加坡03 - 登录 - uu加速, server: gy.tangu.win, port: 31640, type: ss, cipher: chacha20-ietf-poly1305, password: d3b0789a-763e-4d17-bb55-3cd5d1d7faed, udp: true}
+- {name: 🇺🇸 美国02 - 登录 - uu加速, server: gy.tangu.win, port: 31644, type: ss, cipher: chacha20-ietf-poly1305, password: d3b0789a-763e-4d17-bb55-3cd5d1d7faed, udp: true}
+- {name: 🇭🇰 香港01 - 登录 - uu加速, server: gy.tangu.win, port: 31672, type: ss, cipher: chacha20-ietf-poly1305, password: d3b0789a-763e-4d17-bb55-3cd5d1d7faed, udp: true}
+- {name: 🇭🇰 香港02 - 登录 - uu加速, server: gy.tangu.win, port: 31675, type: ss, cipher: chacha20-ietf-poly1305, password: d3b0789a-763e-4d17-bb55-3cd5d1d7faed, udp: true}
+- {name: 🇺🇸 美国01 - 登录 - uu加速, server: gy.tangu.win, port: 31642, type: ss, cipher: chacha20-ietf-poly1305, password: d3b0789a-763e-4d17-bb55-3cd5d1d7faed, udp: true}
+- {name: 🇹🇼 台湾01 - 登录 - uu加速, server: gy.tangu.win, port: 31632, type: ss, cipher: chacha20-ietf-poly1305, password: d3b0789a-763e-4d17-bb55-3cd5d1d7faed, udp: true}
+- {name: 🇭🇰 香港03 - 登录 - uu加速, server: gy.tangu.win, port: 31679, type: ss, cipher: chacha20-ietf-poly1305, password: d3b0789a-763e-4d17-bb55-3cd5d1d7faed, udp: true}
+- {name: 🇸🇬 新加坡01 - 登录 - uu加速, server: gy.tangu.win, port: 31636, type: ss, cipher: chacha20-ietf-poly1305, password: d3b0789a-763e-4d17-bb55-3cd5d1d7faed, udp: true}
+- {name: 🇸🇬 新加坡02 - 登录 - uu加速, server: gy.tangu.win, port: 31738, type: ss, cipher: chacha20-ietf-poly1305, password: d3b0789a-763e-4d17-bb55-3cd5d1d7faed, udp: true}
+- {name: 🇭🇰 香港06-备用 - 登录 - uu加速, server: jsyd.yeahfast.com, port: 31681, type: ss, cipher: chacha20-ietf-poly1305, password: d3b0789a-763e-4d17-bb55-3cd5d1d7faed, udp: true}
+- {name: 🇭🇰 香港05-备用 - 登录 - uu加速, server: 4c52.ens3.buzz, port: 31683, type: ss, cipher: chacha20-ietf-poly1305, password: d3b0789a-763e-4d17-bb55-3cd5d1d7faed, udp: true}
+- {name: 🇺🇸 美国04 - 登录 - uu加速, server: gy.tangu.win, port: 31650, type: ss, cipher: chacha20-ietf-poly1305, password: d3b0789a-763e-4d17-bb55-3cd5d1d7faed, udp: true}
+- {name: 🇯🇵 日本01 - 登录 - uu加速, server: gy.tangu.win, port: 31652, type: ss, cipher: chacha20-ietf-poly1305, password: d3b0789a-763e-4d17-bb55-3cd5d1d7faed, udp: true}
+- {name: 🇹🇼 台湾02-备用 - 登录 - uu加速, server: qqa813.198139.xyz, port: 11123, type: ss, cipher: chacha20-ietf-poly1305, password: d3b0789a-763e-4d17-bb55-3cd5d1d7faed, udp: true}
+- {name: 🇹🇼 台湾03-备用 - 登录 - uu加速, server: qqa813.198139.xyz, port: 11133, type: ss, cipher: chacha20-ietf-poly1305, password: d3b0789a-763e-4d17-bb55-3cd5d1d7faed, udp: true}
+- {name: 🇹🇼 台湾04-备用 - 登录 - uu加速, server: qqa813.198139.xyz, port: 11143, type: ss, cipher: chacha20-ietf-poly1305, password: d3b0789a-763e-4d17-bb55-3cd5d1d7faed, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
