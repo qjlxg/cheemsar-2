@@ -22,8 +22,6 @@ proxy-groups:
   - 免费体验国内线路 - 全网加速
   - ℹ️ 更多线路请购买会员 - 全网加速
   - ℹ️ 如需更多线路请购买会员 - 全网加速
-  - huaweiyun - V2Board
-  - 1t - V2Board
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -61,8 +59,6 @@ proxies:
 - {name: 免费体验国内线路 - 全网加速, server: 8.140.195.167, port: 50005, type: ss, cipher: chacha20-ietf-poly1305, password: a4596ada-8b28-4642-9e4d-bdfefdfcbde9, udp: true}
 - {name: ℹ️ 更多线路请购买会员 - 全网加速, server: 8.140.195.167, port: 50005, type: ss, cipher: chacha20-ietf-poly1305, password: a4596ada-8b28-4642-9e4d-bdfefdfcbde9, udp: true}
 - {name: ℹ️ 如需更多线路请购买会员 - 全网加速, server: 8.140.195.167, port: 50005, type: ss, cipher: chacha20-ietf-poly1305, password: a4596ada-8b28-4642-9e4d-bdfefdfcbde9, udp: true}
-- {name: huaweiyun - V2Board, server: v4.pastebin.icu, port: 443, type: vmess, uuid: 5034fe19-694d-4013-b333-39fd247ee2b0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: v4.pastebin.icu, network: ws, ws-opts: {path: /, headers: {Host: v4.pastebin.icu}}, udp: true}
-- {name: 1t - V2Board, server: v3.pastebin.icu, port: 443, type: vmess, uuid: 5034fe19-694d-4013-b333-39fd247ee2b0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: v2.pastebin.icu, network: ws, ws-opts: {path: /, headers: {Host: v3.pastebin.icu}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
