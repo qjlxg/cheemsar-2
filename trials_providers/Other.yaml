@@ -1,8 +1,12 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 免费体验国内线路 - 全网加速, server: 8.140.195.167, port: 50005, type: ss, cipher: chacha20-ietf-poly1305, password: a4596ada-8b28-4642-9e4d-bdfefdfcbde9, udp: true}
-- {name: ℹ️ 更多线路请购买会员 - 全网加速, server: 8.140.195.167, port: 50005, type: ss, cipher: chacha20-ietf-poly1305, password: a4596ada-8b28-4642-9e4d-bdfefdfcbde9, udp: true}
-- {name: ℹ️ 如需更多线路请购买会员 - 全网加速, server: 8.140.195.167, port: 50005, type: ss, cipher: chacha20-ietf-poly1305, password: a4596ada-8b28-4642-9e4d-bdfefdfcbde9, udp: true}
-- {name: huaweiyun - V2Board, server: v4.pastebin.icu, port: 443, type: vmess, uuid: 5034fe19-694d-4013-b333-39fd247ee2b0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: v4.pastebin.icu, network: ws, ws-opts: {path: /, headers: {Host: v4.pastebin.icu}}, udp: true}
-- {name: 1t - V2Board, server: v3.pastebin.icu, port: 443, type: vmess, uuid: 5034fe19-694d-4013-b333-39fd247ee2b0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: v2.pastebin.icu, network: ws, ws-opts: {path: /, headers: {Host: v3.pastebin.icu}}, udp: true}
+- {name: 免费体验国内节点1 - 全网加速, server: 8.141.114.199, port: 44564, type: ss, cipher: chacha20-ietf-poly1305, password: 78b1e884-1700-45f4-8b8e-facae7097136, udp: true}
+- {name: 免费体验国内节点2 - 全网加速, server: 8.140.195.167, port: 44564, type: ss, cipher: chacha20-ietf-poly1305, password: 78b1e884-1700-45f4-8b8e-facae7097136, udp: true}
+- {name: 免费体验国内节点3 - 全网加速, server: 8.140.195.167, port: 44564, type: ss, cipher: chacha20-ietf-poly1305, password: 78b1e884-1700-45f4-8b8e-facae7097136, udp: true}
+- {name: 免费体验国内节点4 - 全网加速, server: 8.140.195.167, port: 44564, type: ss, cipher: chacha20-ietf-poly1305, password: 78b1e884-1700-45f4-8b8e-facae7097136, udp: true}
+- {name: 免费体验国内节点5 - 全网加速, server: 8.140.195.167, port: 44564, type: ss, cipher: chacha20-ietf-poly1305, password: 78b1e884-1700-45f4-8b8e-facae7097136, udp: true}
+- {name: ℹ️ 更多全网线路请购买会员 - 全网加速, server: 8.140.195.167, port: 44564, type: ss, cipher: chacha20-ietf-poly1305, password: 78b1e884-1700-45f4-8b8e-facae7097136, udp: true}
+- {name: ℹ️ 如需更多全网线路请购买会员 - 全网加速, server: 8.140.195.167, port: 44564, type: ss, cipher: chacha20-ietf-poly1305, password: 78b1e884-1700-45f4-8b8e-facae7097136, udp: true}
+- {name: huaweiyun - V2Board, server: v4.pastebin.icu, port: 443, type: vmess, uuid: 15e87422-8b44-4b30-b684-8bfffd5a4d9e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: v4.pastebin.icu, network: ws, ws-opts: {path: /, headers: {Host: v4.pastebin.icu}}, udp: true}
+- {name: 1t - V2Board, server: v3.pastebin.icu, port: 443, type: vmess, uuid: 15e87422-8b44-4b30-b684-8bfffd5a4d9e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: v2.pastebin.icu, network: ws, ws-opts: {path: /, headers: {Host: v3.pastebin.icu}}, udp: true}

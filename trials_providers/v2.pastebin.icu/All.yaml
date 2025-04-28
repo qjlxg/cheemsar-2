@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: huaweiyun - V2Board, server: v4.pastebin.icu, port: 443, type: vmess, uuid: 5034fe19-694d-4013-b333-39fd247ee2b0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: v4.pastebin.icu, network: ws, ws-opts: {path: /, headers: {Host: v4.pastebin.icu}}, udp: true}
-- {name: 1t - V2Board, server: v3.pastebin.icu, port: 443, type: vmess, uuid: 5034fe19-694d-4013-b333-39fd247ee2b0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: v2.pastebin.icu, network: ws, ws-opts: {path: /, headers: {Host: v3.pastebin.icu}}, udp: true}
+- {name: huaweiyun - V2Board, server: v4.pastebin.icu, port: 443, type: vmess, uuid: 15e87422-8b44-4b30-b684-8bfffd5a4d9e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: v4.pastebin.icu, network: ws, ws-opts: {path: /, headers: {Host: v4.pastebin.icu}}, udp: true}
+- {name: 1t - V2Board, server: v3.pastebin.icu, port: 443, type: vmess, uuid: 15e87422-8b44-4b30-b684-8bfffd5a4d9e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: v2.pastebin.icu, network: ws, ws-opts: {path: /, headers: {Host: v3.pastebin.icu}}, udp: true}
