@@ -1,192 +1,170 @@
 import os
-from concurrent.futures import ThreadPoolExecutor
-from datetime import timedelta
-from random import choice, randint
-from time import time
-from urllib.parse import urlsplit, urlunsplit
+import re
+from subprocess import getoutput
+from threading import RLock
+from time import sleep
+from urllib.parse import urlsplit
+
 import requests
-from requests.exceptions import Timeout, ConnectionError
-from threading import Lock
+from bs4 import BeautifulSoup
+from requests.adapters import HTTPAdapter
+from urllib3 import Retry
 
-# Assuming these modules and functions are defined elsewhere
-from apis import PanelSession, TempEmail, guess_panel, panel_class_map
-from subconverter import gen_base64_and_clash_config, get
-from utils import (clear_files, g0, keep, list_file_paths, list_folder_paths,
-                  rand_id, read, read_cfg, remove, size2str, str2timestamp,
-                  timestamp2str, to_zero, write, write_cfg)
+from utils import list_file_paths, parallel_map
 
-# Thread-safe lock for shared resources
-cache_lock = Lock()
+GITHUB_REPOSITORY = os.getenv('GITHUB_REPOSITORY')
+GITHUB_REF_NAME = os.getenv('GITHUB_REF_NAME')
+GITHUB_SHA = getoutput('git rev-parse HEAD')
+DDAL_EMAIL = os.getenv('DDAL_EMAIL')
+DDAL_PASSWORD = os.getenv('DDAL_PASSWORD')
 
-def get_sub(session: PanelSession, opt: dict, cache: dict[str, list[str]], log: list):
-    """Fetch subscription information with timeout and detailed exception handling."""
-    url = cache['sub_url'][0]
-    suffix = ' - ' + g0(cache, 'name')
-    if 'speed_limit' in opt:
-        suffix += ' ⚠️限速 ' + opt['speed_limit']
-    
-    log.append(f"Starting subscription fetch: {url}")
-    try:
-        # Adding a 10-second timeout to prevent hanging
-        response = requests.get(url, timeout=10)
-        info = response.json()  # Assuming JSON response
-        log.append(f"Successfully fetched subscription: {url}")
-        return [info]  # Compatible with try_turn return format
-    except Timeout:
-        log.append(f"Subscription fetch timed out: {url}")
-        raise
-    except ConnectionError:
-        log.append(f"Connection error during fetch: {url}")
-        raise
-    except Exception as e:
-        log.append(f"Failed to fetch subscription: {url}, Error: {e}")
-        with cache_lock:
-            origin = urlsplit(session.origin)[:2]
-            url = '|'.join(urlunsplit(origin + urlsplit(part)[2:]) for part in url.split('|'))
-        raise
+GH_RAW_URL_PREFIX = f'https://raw.kgithub.com/{GITHUB_REPOSITORY}/{GITHUB_REF_NAME}'
+GH_RAW_URL_PREFIX_SHA = f'https://cdn.jsdelivr.net/gh/{GITHUB_REPOSITORY}@{GITHUB_SHA}'
 
-def try_turn(session: PanelSession, opt: dict, cache: dict[str, list[str]], log: list):
-    """Attempt to update subscription with improved error handling and logging."""
-    with cache_lock:
-        cache.pop('更新旧订阅失败', None)
-        cache.pop('更新订阅链接/续费续签失败', None)
-        cache.pop('获取订阅失败', None)
+re_ddal_alias = re.compile(r'[\da-z]+(?:-[\da-z]+)*', re.I)
 
-    log.append(f"Attempting to update subscription: {session.host}")
-    try:
-        # Assuming should_turn is defined and returns turn and sub
-        turn, *sub = should_turn(session, opt, cache)
-    except Exception as e:
-        with cache_lock:
-            cache['更新旧订阅失败'] = [str(e)]
-        log.append(f'Failed to update old subscription ({session.host})({cache["sub_url"][0]}): {e}')
-        return None
 
-    if turn:
-        try:
-            # Assuming do_turn is defined
-            do_turn(session, opt, cache, log, force_reg=turn == 2)
-            log.append(f"Subscription update executed successfully: {session.host}")
-        except Exception as e:
-            with cache_lock:
-                cache['更新订阅链接/续费续签失败'] = [str(e)]
-            log.append(f'Failed to update/renew subscription ({session.host}): {e}')
-            return sub
-        try:
-            sub = get_sub(session, opt, cache, log)
-            log.append(f"Successfully fetched new subscription: {session.host}")
-        except Exception as e:
-            with cache_lock:
-                cache['获取订阅失败'] = [str(e)]
-            log.append(f'Failed to fetch subscription ({session.host})({cache["sub_url"][0]}): {e}')
+def get_short_url(path: str):
+    if DDAL_EMAIL and DDAL_PASSWORD:
+        name = os.path.splitext(os.path.basename(path))[0]
+        return f"https://dd.al/{get_alias(name)}"
+    else:
+        return f'{GH_RAW_URL_PREFIX}/{path}'
 
-    return sub
 
-def cache_sub_info(info, opt: dict, cache: dict[str, list[str]], log: list):
-    """Cache subscription info with key/value validation."""
-    if not info:
-        log.append("Subscription info is empty")
-        raise Exception('no sub info')
-    
-    log.append("Starting to cache subscription info")
-    try:
-        used = float(info["upload"]) + float(info["download"])
-        total = float(info["total"])
-        rest = '(剩余 ' + size2str(total - used)
-        if opt.get('expire') == 'never' or not info.get('expire'):
-            expire = '永不过期'
+def get_alias(name: str):
+    if GITHUB_REPOSITORY == 'zsokami/sub':
+        if name == 'clash-hardcode':
+            return 'trial'
+        if name == 'clash-proxy-providers':
+            return 'trial-pp'
+        return f"trial-{'-'.join(re_ddal_alias.findall(name))}"
+    else:
+        repo = '-'.join(re_ddal_alias.findall(GITHUB_REPOSITORY))
+        if name == 'clash-hardcode':
+            return f"gh-{repo}-trial"
+        if name == 'clash-proxy-providers':
+            return f"gh-{repo}-trial-pp"
+        return f"gh-{repo}-trial-{'-'.join(re_ddal_alias.findall(name))}"
+
+
+class DDAL:
+    def __init__(self):
+        self.__session = requests.Session()
+        self.__session.mount('https://', HTTPAdapter(max_retries=Retry(total=3, backoff_factor=0.1)))
+        self.__session.mount('http://', HTTPAdapter(max_retries=Retry(total=3, backoff_factor=0.1)))
+        self.__session.headers['User-Agent'] = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36'
+        self.__token_lock = RLock()
+
+    @staticmethod
+    def raise_for_alias(alias):
+        if not re_ddal_alias.fullmatch(alias):
+            raise Exception(f'非法 alias: {alias}')
+
+    def login(self, email, password):
+        for _ in range(10):
+            with self.__token_lock:
+                bs = BeautifulSoup(self.__session.get('https://dd.al/user/login').text, 'html.parser')
+                token = bs.find('input', {'name': 'token'})
+                if not token:
+                    raise Exception('未找到 token (https://dd.al/user/login)')
+                token = token['value']
+                r = self.__session.post('https://dd.al/user/login', data={
+                    'email': email,
+                    'password': password,
+                    'token': token
+                }, allow_redirects=False)
+            loc = r.headers.get('Location')
+            if loc and urlsplit(loc).path == '/user':
+                break
+            sleep(9)
         else:
-            ts = str2timestamp(info['expire'])
-            expire = timestamp2str(ts)
-            rest += ' ' + str(timedelta(seconds=ts - time()))
-        rest += ')'
-        with cache_lock:
-            cache['sub_info'] = [size2str(used), size2str(total), expire, rest]
-        log.append("Successfully cached subscription info")
-    except KeyError as e:
-        log.append(f"Missing key in subscription info: {e}")
-        raise
-    except ValueError as e:
-        log.append(f"Invalid value in subscription info: {e}")
-        raise
+            raise Exception(f'尝试 10 次登录均失败 (loc = {repr(loc)})')
 
-def save_sub_base64_and_clash(base64, clash, host, opt: dict):
-    """Save base64 and Clash configuration."""
-    log.append(f"Starting to save subscription config: {host}")
-    try:
-        result = gen_base64_and_clash_config(
-            base64_path=f'trials/{host}',
-            clash_path=f'trials/{host}.yaml',
-            providers_dir=f'trials_providers/{host}',
-            base64=base64,
-            clash=clash,
-            exclude=opt.get('exclude')
-        )
-        log.append(f"Successfully saved subscription config: {host}")
-        return result
-    except Exception as e:
-        log.append(f"Failed to save subscription config: {host}, Error: {e}")
-        raise
+    def search(self, q) -> list[dict]:
+        html = self.__session.post('https://dd.al/user/search', data={
+            'q': q,
+            'token': 'd2172161243aedc5da47e41227f37add'
+        }).text
+        bs = BeautifulSoup(html, 'html.parser')
+        return [{
+            'id': item['data-id'],
+            'short': item.select_one('.short-url>a')['href'],
+            'original': item.select_one('.title>a')['href']
+        } for item in bs.find_all(class_='url-list')]
 
-def save_sub(info, base64, clash, base64_url, clash_url, host, opt: dict, cache: dict[str, list[str]], log: list):
-    """Save subscription data with optimized error handling."""
-    with cache_lock:
-        cache.pop('保存订阅信息失败', None)
-        cache.pop('保存base64/clash订阅失败', None)
+    def insert(self, alias, url) -> str:
+        self.raise_for_alias(alias)
+        r = self.__session.post('https://dd.al/shorten', data={
+            'url': url,
+            'custom': alias
+        }).json()
+        if r['error']:
+            raise Exception(f"{r['msg']} (alias = {repr(alias)}, url = {repr(url)})")
+        return r['short']
 
-    try:
-        cache_sub_info(info, opt, cache, log)
-    except Exception as e:
-        with cache_lock:
-            cache['保存订阅信息失败'] = [str(e)]
-        log.append(f'Failed to save subscription info ({host})({clash_url}): {e}')
+    def update(self, id, alias, url) -> str:
+        for _ in range(10):
+            with self.__token_lock:
+                bs = BeautifulSoup(self.__session.get(f'https://dd.al/user/edit/{id}').text, 'html.parser')
+                token = bs.find('input', {'name': 'token'})
+                if not token:
+                    raise Exception(f'未找到 token (https://dd.al/user/edit/{id})')
+                token = token['value']
+                r = self.__session.post(f'https://dd.al/user/edit/{id}', data={
+                    'url': url,
+                    'token': token
+                }, allow_redirects=False)
+            loc = r.headers.get('Location')
+            if not (loc and urlsplit(loc).path != '/user'):
+                raise Exception(f'loc = {repr(loc)}')
+            item = next((item for item in self.search(alias) if item['id'] == id), None)
+            if item and item['original'] == url:
+                break
+        else:
+            raise Exception(f'尝试 10 次更新 url 均失败 (id = {repr(id)}, url = {repr(url)})')
+        return item['short']
 
-    try:
-        node_n = save_sub_base64_and_clash(base64, clash, host, opt)
-        with cache_lock:
-            if (d := node_n - int(g0(cache, 'node_n', 0))) != 0:
-                log.append(f'{host} node count {"+" if d > 0 else ""}{d} ({node_n})')
-            cache['node_n'] = str(node_n)
-    except Exception as e:
-        with cache_lock:
-            cache['保存base64/clash订阅失败'] = [str(e)]
-        log.append(f'Failed to save base64/clash subscription ({host})({base64_url})({clash_url}): {e}')
+    def upsert(self, alias, url) -> str:
+        self.raise_for_alias(alias)
+        id = next((item['id'] for item in self.search(alias) if urlsplit(item['short']).path[1:] == alias), None)
+        if id:
+            return self.update(id, alias, url)
+        else:
+            return self.insert(alias, url)
 
-def get_and_save(session: PanelSession, host, opt: dict, cache: dict[str, list[str]], log: list):
-    """Fetch and save subscription with thread pool optimization."""
-    log.append(f"Starting subscription processing: {host}")
-    try_checkin(session, opt, cache, log)  # Assuming this is defined
-    sub = try_turn(session, opt, cache, log)
-    if sub:
-        save_sub(*sub, host, opt, cache, log)
-    log.append(f"Completed subscription processing: {host}")
 
-def new_panel_session(host, cache: dict[str, list[str]], log: list) -> PanelSession | None:
-    """Create a new session with improved error logging."""
-    with cache_lock:
-        if 'type' not in cache:
-            info = guess_panel(host)
-            if 'type' not in info:
-                if (e := info.get('error')):
-                    log.append(f"{host} type detection failed: {e}")
-                else:
-                    log.append(f"{host} unknown type")
-                return None
-            cache.update(info)
-    return panel_class_map[g0(cache, 'type')](g0(cache, 'api_host', host), **keep(cache, 'auth_path', getitem=g0))
+if __name__ == '__main__':
+    names_and_paths = [
+        ('base64', 'trial'),
+        ('clash-hardcode', 'trial.yaml'),
+        ('clash-proxy-providers', 'trial_pp.yaml')
+    ]
 
-# Main program with thread pool limiting concurrency
-if __name__ == "__main__":
-    cache = {'sub_url': ['https://example.com/sub']}
-    log = []
-    opt = {}
-    host = "example.com"
-    
-    with ThreadPoolExecutor(max_workers=4) as executor:
-        session = new_panel_session(host, cache, log)
-        if session:
-            executor.submit(get_and_save, session, host, opt, cache, log)
-    
-    # Output logs for debugging
-    for entry in log:
-        print(entry)
+    descriptions = [
+        'base64 版',
+        'clash 硬编码版',
+        'clash 提供器版'
+    ]
+
+    for path in list_file_paths('trials_providers'):
+        name = os.path.splitext(os.path.basename(path))[0]
+        names_and_paths.append((name, path))
+        descriptions.append(name)
+
+    if DDAL_EMAIL and DDAL_PASSWORD:
+        ddal = DDAL()
+        ddal.login(DDAL_EMAIL, DDAL_PASSWORD)
+        aliases_and_urls = ((get_alias(name), f'{GH_RAW_URL_PREFIX_SHA}/{path}') for name, path in names_and_paths)
+
+        def upsert(alias, url):
+            try:
+                return ddal.upsert(alias, url)
+            except Exception as e:
+                return f'{type(e)}: {e}'
+
+        for short, description in zip(parallel_map(upsert, *zip(*aliases_and_urls)), descriptions):
+            print(f'{description}: {short}')
+    else:
+        for (name, path), description in zip(names_and_paths, descriptions):
+            print(f'{description}: {GH_RAW_URL_PREFIX}/{path}')
