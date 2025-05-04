@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 JP (ToKyo) - BlissVPN, server: jp.1.ss.tjss.me, port: 2410, type: ss, cipher: chacha20-ietf-poly1305, password: e84d740d-0023-4ab4-a976-41e041bfe27e, udp: true}
+- {name: 🇯🇵 JP (ToKyo) - BlissVPN, server: jp.1.ss.tjss.me, port: 2410, type: ss, cipher: chacha20-ietf-poly1305, password: 0910f9ed-5b0d-4826-93b9-09c12b975587, udp: true}

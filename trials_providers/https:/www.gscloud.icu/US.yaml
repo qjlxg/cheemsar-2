@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 美国1 - 光速云, server: h.cm.xiaomi-api.xyz, port: 19661, type: ss, cipher: chacha20-ietf-poly1305, password: 636fe425-cc6b-45a6-82a3-64b9605b1d63, udp: true}
+- {name: 🇺🇸 美国2 - 光速云, server: h.ct.xiaomi-api.xyz, port: 19661, type: ss, cipher: chacha20-ietf-poly1305, password: 636fe425-cc6b-45a6-82a3-64b9605b1d63, udp: true}

@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸  美国  01 ｜₁ₓ - MBOXX, server: aambx01qt.dorabbb.top, port: 45541, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f4943b87-5617-4b00-81c7-b0e1537e8e08, udp: true}
-- {name: 🇺🇸  美国  02 ｜₁ₓ - MBOXX, server: aambx02qw.dorabbb.top, port: 34521, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f4943b87-5617-4b00-81c7-b0e1537e8e08, udp: true}
-- {name: 🇺🇸  美国  03 ｜₁ₓ - MBOXX, server: aambx01qt.dorabbb.top, port: 47737, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f4943b87-5617-4b00-81c7-b0e1537e8e08, udp: true}
-- {name: 🇺🇸  美国  04 ｜₁ₓ - MBOXX, server: aambx02qw.dorabbb.top, port: 47733, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f4943b87-5617-4b00-81c7-b0e1537e8e08, udp: true}
-- {name: 🇺🇸  美国  05 ｜₁ₓ - MBOXX, server: aambx99.dorabbb.top, port: 47922, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f4943b87-5617-4b00-81c7-b0e1537e8e08, udp: true}
-- {name: 🇺🇸  美国  06 ｜₁ₓ - MBOXX, server: aambx02qw.dorabbb.top, port: 47927, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f4943b87-5617-4b00-81c7-b0e1537e8e08, udp: true}
+- {name: 🇺🇸  美国  01 ｜₁ₓ - MBOXX, server: aambx01qt.dorabbb.top, port: 45541, type: ss, cipher: chacha20-ietf-poly1305, password: f4943b87-5617-4b00-81c7-b0e1537e8e08, udp: true}
+- {name: 🇺🇸  美国  02 ｜₁ₓ - MBOXX, server: aambx02qw.dorabbb.top, port: 34521, type: ss, cipher: chacha20-ietf-poly1305, password: f4943b87-5617-4b00-81c7-b0e1537e8e08, udp: true}
+- {name: 🇺🇸  美国  03 ｜₁ₓ - MBOXX, server: aambx01qt.dorabbb.top, port: 47737, type: ss, cipher: chacha20-ietf-poly1305, password: f4943b87-5617-4b00-81c7-b0e1537e8e08, udp: true}
+- {name: 🇺🇸  美国  04 ｜₁ₓ - MBOXX, server: aambx02qw.dorabbb.top, port: 47733, type: ss, cipher: chacha20-ietf-poly1305, password: f4943b87-5617-4b00-81c7-b0e1537e8e08, udp: true}
+- {name: 🇺🇸  美国  05 ｜₁ₓ - MBOXX, server: aambx99.dorabbb.top, port: 47922, type: ss, cipher: chacha20-ietf-poly1305, password: f4943b87-5617-4b00-81c7-b0e1537e8e08, udp: true}
+- {name: 🇺🇸  美国  06 ｜₁ₓ - MBOXX, server: aambx02qw.dorabbb.top, port: 47927, type: ss, cipher: chacha20-ietf-poly1305, password: f4943b87-5617-4b00-81c7-b0e1537e8e08, udp: true}

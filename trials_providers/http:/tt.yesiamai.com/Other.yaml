@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🧠GPT - 魔法云, server: rdgfe.vxzjv.xyz, port: 24131, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: b0d2e583-19f7-4c2a-aad7-fa314a495db3, udp: true}
+- {name: 🧠GPT - 魔法云, server: rdgfe.vxzjv.xyz, port: 24131, type: ss, cipher: chacha20-ietf-poly1305, password: b0d2e583-19f7-4c2a-aad7-fa314a495db3, udp: true}

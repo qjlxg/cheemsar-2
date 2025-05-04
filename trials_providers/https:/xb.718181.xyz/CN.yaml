@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 xb-vm-hk - XBoard, server: xb-vm-hk.718181.xyz, port: 16894, type: vmess, uuid: de3e8ab2-cc20-47cb-bc00-1ed4dae08b97, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tms.dingtalk.com}}, udp: true}
