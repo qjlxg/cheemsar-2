@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾01直连 - 简单云, server: tw7.376897.xyz, port: 2324, type: trojan, password: 14275725-2c35-4713-bc9b-c736a881fe8b, sni: tw7.376897.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾02直连 - 简单云, server: tw1.376897.xyz, port: 2324, type: trojan, password: 14275725-2c35-4713-bc9b-c736a881fe8b, sni: tw1.376897.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾01直连 - 简单云, server: tw7.376897.xyz, port: 2324, type: trojan, password: 6fb0c7aa-6cfb-42af-a557-a80004578ed0, sni: tw7.376897.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾02直连 - 简单云, server: tw1.376897.xyz, port: 2324, type: trojan, password: 6fb0c7aa-6cfb-42af-a557-a80004578ed0, sni: tw1.376897.xyz, skip-cert-verify: true, udp: true}

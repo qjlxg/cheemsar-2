@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本8解锁GPT - gost, server: jp08.vip.xjay.xyz, port: 42337, type: vmess, uuid: 5e1c6196-1470-40be-8ec8-62d525e259be, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp08.vip.xjay.xyz}}, udp: true}
-- {name: 🇯🇵 日本6解锁GPT - gost, server: jp066.vip.xjay.xyz, port: 31546, type: vmess, uuid: 5e1c6196-1470-40be-8ec8-62d525e259be, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp066.vip.xjay.xyz}}, udp: true}
+- {name: 🇯🇵 日本8解锁GPT - gost, server: jp08.vip.xjay.xyz, port: 42337, type: vmess, uuid: f47eee32-6c90-4f12-8205-a8a7fca3b620, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp08.vip.xjay.xyz}}, udp: true}
+- {name: 🇯🇵 日本6解锁GPT - gost, server: jp066.vip.xjay.xyz, port: 31546, type: vmess, uuid: f47eee32-6c90-4f12-8205-a8a7fca3b620, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp066.vip.xjay.xyz}}, udp: true}

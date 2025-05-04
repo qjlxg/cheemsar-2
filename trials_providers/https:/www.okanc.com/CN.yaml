@@ -1,10 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰香港01 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21101, type: ss, cipher: chacha20-ietf-poly1305, password: 33483758-5056-49d2-ab46-5b8620282c14, udp: true}
-- {name: 🇭🇰香港02 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21102, type: ss, cipher: chacha20-ietf-poly1305, password: 33483758-5056-49d2-ab46-5b8620282c14, udp: true}
-- {name: 🇭🇰香港03 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21103, type: ss, cipher: chacha20-ietf-poly1305, password: 33483758-5056-49d2-ab46-5b8620282c14, udp: true}
-- {name: 🇹🇼台湾01 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21110, type: ss, cipher: chacha20-ietf-poly1305, password: 33483758-5056-49d2-ab46-5b8620282c14, udp: true}
-- {name: 🇹🇼台湾02 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21111, type: ss, cipher: chacha20-ietf-poly1305, password: 33483758-5056-49d2-ab46-5b8620282c14, udp: true}
-- {name: 🇹🇼台湾03 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21112, type: ss, cipher: chacha20-ietf-poly1305, password: 33483758-5056-49d2-ab46-5b8620282c14, udp: true}
-- {name: 🇨🇳永久地址：www.okanc.com - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21101, type: ss, cipher: chacha20-ietf-poly1305, password: 33483758-5056-49d2-ab46-5b8620282c14, udp: true}
+- {name: 🇭🇰香港01 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21101, type: ss, cipher: chacha20-ietf-poly1305, password: 23f68c9f-8347-4e93-b53f-6f1d46ea5b50, udp: true}
+- {name: 🇭🇰香港02 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21102, type: ss, cipher: chacha20-ietf-poly1305, password: 23f68c9f-8347-4e93-b53f-6f1d46ea5b50, udp: true}
+- {name: 🇭🇰香港03 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21103, type: ss, cipher: chacha20-ietf-poly1305, password: 23f68c9f-8347-4e93-b53f-6f1d46ea5b50, udp: true}
+- {name: 🇹🇼台湾01 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21110, type: ss, cipher: chacha20-ietf-poly1305, password: 23f68c9f-8347-4e93-b53f-6f1d46ea5b50, udp: true}
+- {name: 🇹🇼台湾02 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21111, type: ss, cipher: chacha20-ietf-poly1305, password: 23f68c9f-8347-4e93-b53f-6f1d46ea5b50, udp: true}
+- {name: 🇹🇼台湾03 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21112, type: ss, cipher: chacha20-ietf-poly1305, password: 23f68c9f-8347-4e93-b53f-6f1d46ea5b50, udp: true}
+- {name: 🇨🇳永久地址：www.okanc.com - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21101, type: ss, cipher: chacha20-ietf-poly1305, password: 23f68c9f-8347-4e93-b53f-6f1d46ea5b50, udp: true}
