@@ -1,0 +1,10 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵日本专线-01 - 魔法云, server: jg647hf446ghvw.gym0boy.com, port: 57499, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: b0d2e583-19f7-4c2a-aad7-fa314a495db3, udp: true}
+- {name: 🇯🇵日本专线-02 - 魔法云, server: gtm-md-bvv45ilp70b.gym0boy.com, port: 19051, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: b0d2e583-19f7-4c2a-aad7-fa314a495db3, udp: true}
+- {name: 🇯🇵日本专线-03 - 魔法云, server: gtm-sg-acm44szjs05.gym0boy.com, port: 30011, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: b0d2e583-19f7-4c2a-aad7-fa314a495db3, udp: true}
+- {name: 🇯🇵日本专线-04 - 魔法云, server: rgwre.vxzjv.xyz, port: 14565, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: b0d2e583-19f7-4c2a-aad7-fa314a495db3, udp: true}
+- {name: 🇯🇵日本专线2-01 - 魔法云, server: jg647hf446ghvw.gym0boy.com, port: 12211, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: b0d2e583-19f7-4c2a-aad7-fa314a495db3, udp: true}
+- {name: 🇯🇵日本专线2-02 - 魔法云, server: gtm-md-bvv45ilp70b.gym0boy.com, port: 22374, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: b0d2e583-19f7-4c2a-aad7-fa314a495db3, udp: true}
+- {name: 🇯🇵日本专线2-03 - 魔法云, server: gtm-sg-acm44szjs05.gym0boy.com, port: 14548, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: b0d2e583-19f7-4c2a-aad7-fa314a495db3, udp: true}

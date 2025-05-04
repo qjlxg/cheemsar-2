@@ -1,0 +1,8 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 日本01 - 迅云加速, server: node1.cenidcbf.ink, port: 19688, type: ss, cipher: chacha20-ietf-poly1305, password: ac4e9dbc-44b6-4ebc-9c79-e206bac586c5, udp: true}
+- {name: 🇯🇵 日本02 - 迅云加速, server: node2.cenidcbf.ink, port: 23746, type: ss, cipher: chacha20-ietf-poly1305, password: ac4e9dbc-44b6-4ebc-9c79-e206bac586c5, udp: true}
+- {name: 🇯🇵 日本03 - 迅云加速, server: wh1-ahmddlekrnnse6ta.bestzumo.com, port: 47376, type: ss, cipher: chacha20-ietf-poly1305, password: ac4e9dbc-44b6-4ebc-9c79-e206bac586c5, udp: true}
+- {name: 🇯🇵 日本04 - 迅云加速, server: xz-exec5ej7an7khyzt.bestzumo.com, port: 47173, type: ss, cipher: chacha20-ietf-poly1305, password: ac4e9dbc-44b6-4ebc-9c79-e206bac586c5, udp: true}
+- {name: 🇯🇵 日本05 - 迅云加速, server: 183.36.41.41, port: 57701, type: ss, cipher: chacha20-ietf-poly1305, password: ac4e9dbc-44b6-4ebc-9c79-e206bac586c5, udp: true}

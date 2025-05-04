@@ -1,0 +1,8 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰#HK-HKT-N - V·E·T Network, server: vtcm.vttopysk.com, port: 58003, type: vmess, uuid: 6b01c8b6-ae7e-41d1-9375-a0bd2a87db74, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: vtcm.vttopysk.com}}, udp: true}
+- {name: 🇭🇰#HK-HKT-V - V·E·T Network, server: vtcm.vttopysk.com, port: 58003, type: vmess, uuid: 6b01c8b6-ae7e-41d1-9375-a0bd2a87db74, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: vtcm.vttopysk.com}}, udp: true}
+- {name: 🇭🇰#HK-BGP-N - V·E·T Network, server: vtcm.vttopysk.com, port: 50003, type: ss, cipher: chacha20-ietf-poly1305, password: 6b01c8b6-ae7e-41d1-9375-a0bd2a87db74, udp: true}
+- {name: 🇭🇰#HK-BGP-V - V·E·T Network, server: vtcm.vttopysk.com, port: 50003, type: ss, cipher: chacha20-ietf-poly1305, password: 6b01c8b6-ae7e-41d1-9375-a0bd2a87db74, udp: true}
+- {name: 🇭🇰⚠️仅限海外 | HongKong - V·E·T Network, server: 210.3.205.169, port: 61999, type: vmess, uuid: 6b01c8b6-ae7e-41d1-9375-a0bd2a87db74, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}

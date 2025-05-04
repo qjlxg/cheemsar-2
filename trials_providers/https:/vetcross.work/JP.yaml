@@ -1,0 +1,7 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵#JP-Osaka-N - V·E·T Network, server: vtcm.vttopysk.com, port: 57002, type: ss, cipher: chacha20-ietf-poly1305, password: 527f5ab7-e7e4-4328-8125-a0f89efeddf4, udp: true}
+- {name: 🇯🇵#JP-Osaka-V - V·E·T Network, server: vtcm.vttopysk.com, port: 57002, type: ss, cipher: chacha20-ietf-poly1305, password: 527f5ab7-e7e4-4328-8125-a0f89efeddf4, udp: true}
+- {name: 🇯🇵#JP-Tokyo-N - V·E·T Network, server: vtcm.vttopysk.com, port: 57001, type: ss, cipher: chacha20-ietf-poly1305, password: 527f5ab7-e7e4-4328-8125-a0f89efeddf4, udp: true}
+- {name: 🇯🇵⚠️仅限海外 | Tokyo - V·E·T Network, server: 38.150.11.207, port: 8877, type: ss, cipher: chacha20-ietf-poly1305, password: 527f5ab7-e7e4-4328-8125-a0f89efeddf4, udp: true}

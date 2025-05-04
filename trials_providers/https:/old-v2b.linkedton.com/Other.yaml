@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇱 US| VMESS+WS+TLS (ERROR RESTY Get) - V2Board, server: dc6.api-aws.com, port: 443, type: vmess, uuid: c7fb276c-1219-4451-a9fd-df3aa1ac448e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: dc6.api-aws.com, network: ws, ws-opts: {path: /v2ray, headers: {Host: dc6.api-aws.com}}, udp: true}
+- {name: 🇹🇱 US| VMESS+WS+TLS (ERROR RESTY Get) - V2Board, server: dc6.api-aws.com, port: 443, type: vmess, uuid: b50803cd-b308-4f7c-b153-8b06a3111354, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: dc6.api-aws.com, network: ws, ws-opts: {path: /v2ray, headers: {Host: dc6.api-aws.com}}, udp: true}

@@ -1,0 +1,6 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇹🇼 🇨🇳ᴛʀ | 臺灣 | 𝟭 | ᴛᴡ⚡ - VNet极速云✈️🚀, server: tw-03.hotfox.fun, port: 58888, type: trojan, password: c523248b-7b76-4db9-9252-dcab319a44ac, sni: tw-03.hotfox.fun, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 🇨🇳ᴠ² | 臺灣 | 𝟬 | ᴛᴡ專線✨ - VNet极速云✈️🚀, server: tw-05.hotfox.fun, port: 59993, type: vmess, uuid: c523248b-7b76-4db9-9252-dcab319a44ac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 🇨🇳ᴠ² | 臺灣 | 𝟭 | ᴛᴡ專線✨ - VNet极速云✈️🚀, server: tw-03.hotfox.fun, port: 59999, type: vmess, uuid: c523248b-7b76-4db9-9252-dcab319a44ac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

@@ -1,0 +1,8 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 日本① - 疾速cloud, server: diao.arken8379.com, port: 26002, type: ss, cipher: chacha20-ietf-poly1305, password: b1653f35-b032-4c18-8707-c7ff0e2c323c, udp: true}
+- {name: 🇯🇵 日本② - 疾速cloud, server: diao.arken8379.com, port: 26002, type: ss, cipher: chacha20-ietf-poly1305, password: b1653f35-b032-4c18-8707-c7ff0e2c323c, udp: true}
+- {name: 🇯🇵 日本③ - 疾速cloud, server: diao.arken8379.com, port: 26002, type: ss, cipher: chacha20-ietf-poly1305, password: b1653f35-b032-4c18-8707-c7ff0e2c323c, udp: true}
+- {name: 🇯🇵 日本④ - 疾速cloud, server: diao.arken8379.com, port: 26002, type: ss, cipher: chacha20-ietf-poly1305, password: b1653f35-b032-4c18-8707-c7ff0e2c323c, udp: true}
+- {name: 🇯🇵 日本|Gpt - 疾速cloud, server: diao.arken8379.com, port: 26002, type: ss, cipher: chacha20-ietf-poly1305, password: b1653f35-b032-4c18-8707-c7ff0e2c323c, udp: true}

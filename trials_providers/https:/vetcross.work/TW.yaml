@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇹🇼#TW-Taipei-N - V·E·T Network, server: vtcm.vttopysk.com, port: 57015, type: ss, cipher: chacha20-ietf-poly1305, password: 527f5ab7-e7e4-4328-8125-a0f89efeddf4, udp: true}
+- {name: 🇹🇼#TW-Taipei-V - V·E·T Network, server: vtcm.vttopysk.com, port: 57015, type: ss, cipher: chacha20-ietf-poly1305, password: 527f5ab7-e7e4-4328-8125-a0f89efeddf4, udp: true}

@@ -1,0 +1,9 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇸🇬  新加坡  01 ｜₁ₓ - MBOXX, server: aambx01sg.dorabbb.top, port: 45514, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f4943b87-5617-4b00-81c7-b0e1537e8e08, udp: true}
+- {name: 🇸🇬  新加坡  02 ｜₁ₓ - MBOXX, server: aambx01sg.dorabbb.top, port: 34533, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f4943b87-5617-4b00-81c7-b0e1537e8e08, udp: true}
+- {name: 🇸🇬  新加坡  03 ｜₁ₓ - MBOXX, server: aambx99.dorabbb.top, port: 34592, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f4943b87-5617-4b00-81c7-b0e1537e8e08, udp: true}
+- {name: 🇸🇬  新加坡  04 ｜₁ₓ - MBOXX, server: aambx02sg.dorabbb.top, port: 34586, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f4943b87-5617-4b00-81c7-b0e1537e8e08, udp: true}
+- {name: 🇸🇬  新加坡  05 ｜₁ₓ - MBOXX, server: aambx02sg.dorabbb.top, port: 34590, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f4943b87-5617-4b00-81c7-b0e1537e8e08, udp: true}
+- {name: 🇸🇬  新加坡  06 ｜₁ₓ - MBOXX, server: aambx02sg.dorabbb.top, port: 34595, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f4943b87-5617-4b00-81c7-b0e1537e8e08, udp: true}

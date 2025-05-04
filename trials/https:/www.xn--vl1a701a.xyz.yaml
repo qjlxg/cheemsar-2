@@ -102,11 +102,11 @@ proxy-groups:
   type: select
   proxies: *id004
 proxies:
-- {name: 🇯🇵 日本-BGP-01 - 野草, server: mr6.xn--vl1a701a.xyz, port: 30003, type: trojan, password: 326c1c0b-6419-4521-83e6-a8746571f14c, sni: mr6.xn--vl1a701a.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港-BGP - 野草, server: hk.xn--vl1a701a.xyz, port: 30007, type: trojan, password: 326c1c0b-6419-4521-83e6-a8746571f14c, sni: hk.xn--vl1a701a.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国-CN2 - 野草, server: us.xn--vl1a701a.xyz, port: 32000, type: trojan, password: 326c1c0b-6419-4521-83e6-a8746571f14c, sni: us.xn--vl1a701a.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本-BGP - 野草, server: jp.xn--vl1a701a.xyz, port: 30001, type: trojan, password: 326c1c0b-6419-4521-83e6-a8746571f14c, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本-BGP02 - 野草, server: ap5.xn--vl1a701a.xyz, port: 30000, type: trojan, password: 326c1c0b-6419-4521-83e6-a8746571f14c, sni: ap5.xn--vl1a701a.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-BGP-01 - 野草, server: mr6.xn--vl1a701a.xyz, port: 30003, type: trojan, password: 3f77a42f-64a4-4f6a-967b-5e63b3bdc916, sni: mr6.xn--vl1a701a.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港-BGP - 野草, server: hk.xn--vl1a701a.xyz, port: 30007, type: trojan, password: 3f77a42f-64a4-4f6a-967b-5e63b3bdc916, sni: hk.xn--vl1a701a.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-CN2 - 野草, server: us.xn--vl1a701a.xyz, port: 32000, type: trojan, password: 3f77a42f-64a4-4f6a-967b-5e63b3bdc916, sni: us.xn--vl1a701a.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-BGP - 野草, server: jp.xn--vl1a701a.xyz, port: 30001, type: trojan, password: 3f77a42f-64a4-4f6a-967b-5e63b3bdc916, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-BGP02 - 野草, server: ap5.xn--vl1a701a.xyz, port: 30000, type: trojan, password: 3f77a42f-64a4-4f6a-967b-5e63b3bdc916, sni: ap5.xn--vl1a701a.xyz, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 日本.1 - 水云, server: shcm.316999.xyz, port: 32321, type: ss, cipher: chacha20-ietf-poly1305, password: 5b527a76-b0a0-46ec-b5fc-accff2e9a7d0, udp: true}
+- {name: 🇯🇵 日本.2 - 水云, server: hzcm.316999.xyz, port: 32322, type: ss, cipher: chacha20-ietf-poly1305, password: 5b527a76-b0a0-46ec-b5fc-accff2e9a7d0, udp: true}

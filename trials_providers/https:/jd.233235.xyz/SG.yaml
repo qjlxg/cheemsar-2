@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇸🇬 新加坡05中转 - 简单云, server: twjpzznew.376897.xyz, port: 35828, type: trojan, password: ad13fdc5-bdc0-427f-b6a7-f2b537214c45, sni: 2jdyun03c0d804c1-65d3-4507-8ef5-c557234fded1.376897.xyz, skip-cert-verify: true, udp: true}

@@ -1,0 +1,10 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸#US-SanJose-N - V·E·T Network, server: vtcm.vttopysk.com, port: 57009, type: ss, cipher: chacha20-ietf-poly1305, password: 527f5ab7-e7e4-4328-8125-a0f89efeddf4, udp: true}
+- {name: 🇺🇸#US-SanJose-V - V·E·T Network, server: vtcm.vttopysk.com, port: 57009, type: ss, cipher: chacha20-ietf-poly1305, password: 527f5ab7-e7e4-4328-8125-a0f89efeddf4, udp: true}
+- {name: 🇺🇸#US-SanJose-P - V·E·T Network, server: vtcm.vttopysk.com, port: 57011, type: vmess, uuid: 527f5ab7-e7e4-4328-8125-a0f89efeddf4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: vtcm.vttopysk.com}}, udp: true}
+- {name: 🇺🇸#US-LosAngeles-N - V·E·T Network, server: vtcm.vttopysk.com, port: 57010, type: ss, cipher: chacha20-ietf-poly1305, password: 527f5ab7-e7e4-4328-8125-a0f89efeddf4, udp: true}
+- {name: 🇺🇸#US-LosAngeles-V - V·E·T Network, server: vtcm.vttopysk.com, port: 57010, type: ss, cipher: chacha20-ietf-poly1305, password: 527f5ab7-e7e4-4328-8125-a0f89efeddf4, udp: true}
+- {name: 🇺🇸⚠️仅限海外 | LosAngeles - V·E·T Network, server: 149.112.117.25, port: 15000, type: ss, cipher: chacha20-ietf-poly1305, password: 527f5ab7-e7e4-4328-8125-a0f89efeddf4, udp: true}
+- {name: 🇺🇸⚠️仅限海外 | LosAngelesAI - V·E·T Network, server: 154.29.158.96, port: 9999, type: vmess, uuid: 527f5ab7-e7e4-4328-8125-a0f89efeddf4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}

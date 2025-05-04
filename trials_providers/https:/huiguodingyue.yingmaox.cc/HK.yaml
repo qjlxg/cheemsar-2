@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 香港-广州-A - 回国机场, server: 154.92.128.138, port: 2055, type: ss, cipher: chacha20-ietf-poly1305, password: e8149f76-08d1-429b-b90d-59c174e7c739, udp: true}
+- {name: 🇭🇰 香港-广州-B - 回国机场, server: 154.92.128.139, port: 2057, type: ss, cipher: chacha20-ietf-poly1305, password: e8149f76-08d1-429b-b90d-59c174e7c739, udp: true}

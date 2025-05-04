@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇹🇼 台湾.1 - 水云, server: hzcm.316999.xyz, port: 62601, type: ss, cipher: chacha20-ietf-poly1305, password: 5b527a76-b0a0-46ec-b5fc-accff2e9a7d0, udp: true}
+- {name: 🇹🇼 台湾.2 - 水云, server: gdcmc.316999.xyz, port: 62602, type: ss, cipher: chacha20-ietf-poly1305, password: 5b527a76-b0a0-46ec-b5fc-accff2e9a7d0, udp: true}

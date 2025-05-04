@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇲🇴 澳门 ｜₁ₓ - MBOXX, server: ambnds00.dorabbb.top, port: 48487, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f4943b87-5617-4b00-81c7-b0e1537e8e08, udp: true}
