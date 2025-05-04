@@ -5,112 +5,114 @@ name  翻墙VPN
 sub_url  https://www.australiacentral.cloudapp.azure.com/subscribe/ca9049c6e8c2d3588286403e35fba36c
 time  2025-04-29 10:13:07.892957+08:00
 type  v2board
-更新旧订阅失败  'NoneType' object is not subscriptable
+更新旧订阅失败  (https://www.australiacentral.cloudapp.azure.com/subscribe/ca9049c6e8c2d3588286403e35fba36c): 403 Forbidden '{"status":"fail","message":"token is error","data":null,"error":null}'
 
 [www.atengna.com]
 
 [hou.973700.xyz]
 name  七兔网络
 type  v2board
-更新订阅链接/续费续签失败  注册失败(adwzqbgf54@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(dbqlgwimm349@gmail.com): 'NoneType' object is not subscriptable
 
 [m.wxkn.xyz]
 name  目标是点亮世界
 type  v2board
-更新订阅链接/续费续签失败  注册失败(clywqyp590@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(hhvhrfkb540@gmail.com): 'NoneType' object is not subscriptable
 
 [idc.mtyun.xyz]
 
 [3rd.subscription-from-northamericanairport.work]
 name  北美机场
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(fjyoximy783@lplso.tmmad.com): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(qmdjxcghk722@mxl001.win): {'message': '验证码有误'}
 
 [456682.xyz]
 buy  pass
-email  tuhfqaw359@gmail.com
+email  fcftjyk782@gmail.com
 name  冠优云
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  http://sub.538138.xyz/api/v1/client/subscribe?token=f298597ec1c5093a94efe4173b1689b1
-time  2025-05-03 09:13:41.554960+08:00
+sub_url  http://sub.538138.xyz/api/v1/client/subscribe?token=bb0c3fc5d70e3737bc9a0cd8b093de2b
+time  2025-05-04 09:22:28.533629+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [52dragon.cloud]
 name  DragonCloud
 type  v2board
-更新订阅链接/续费续签失败  注册失败(bominfc753@gmail.com): 本站已关闭注册
+更新订阅链接/续费续签失败  注册失败(atjtleyyl382@gmail.com): 本站已关闭注册
 
 [538138.xyz]
 buy  pass
-email  ukehhwr653@gmail.com
+email  dxzmgupbw339@gmail.com
 name  冠优云
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  http://sub.675540.xyz/api/v1/client/subscribe?token=398e0217b49595f1bb0731509e38ffee
-time  2025-05-03 09:13:40.924664+08:00
+sub_url  http://sub.538138.xyz/api/v1/client/subscribe?token=d8eedbf7574e5d72eee101d13d7385a8
+time  2025-05-04 09:22:22.820594+08:00
 type  v2board
-保存base64/clash订阅失败  string indices must be integers
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [675540.xyz]
 buy  pass
-email  mzehovp918@gmail.com
+email  vzdiqqslz917@gmail.com
 name  冠优云
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  http://sub.456682.xyz/api/v1/client/subscribe?token=74398fc22399c186e0a74d71cd813414
-time  2025-05-03 09:13:43.690236+08:00
+sub_url  http://sub.675540.xyz/api/v1/client/subscribe?token=f2ced0a14ab979e3582f85038d906147
+time  2025-05-04 09:22:21.507671+08:00
 type  v2board
-保存base64/clash订阅失败  string indices must be integers
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [762515.xyz]
 buy  pass
-email  kluvhhe203@gmail.com
+email  whivvew776@gmail.com
 name  冠优云
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  http://sub.762515.xyz/api/v1/client/subscribe?token=22860104856c9e0fc2667ec0b0aef4a9
-time  2025-05-03 09:13:47.841668+08:00
+sub_url  http://sub.762515.xyz/api/v1/client/subscribe?token=f56456124681c1750a3cdc3cc71197cf
+time  2025-05-04 09:22:27.541313+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [aff.magic1.xyz]
 name  V2Board
 type  v2board
-更新订阅链接/续费续签失败  注册失败(djoxuzeqe569@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(intlrqxbk402@gmail.com): 'NoneType' object is not subscriptable
 
 [api-v31.pilates-news.com]
-banned_domains  x866.cc  jkd.tmmad.com  ipiso.tmmad.com  questtechsystems.com
+banned_domains  x866.cc  jkd.tmmad.com  ipiso.tmmad.com  questtechsystems.com  vapesculpt.com
 name  全球視野
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(ctqqhop0@questtechsystems.com)
+更新订阅链接/续费续签失败  获取邮箱验证码超时(iyykylw461@vapesculpt.com)
 
 [cw2.circlezones.top]
 
 [d.042611.xyz]
 buy  pass
-email  xmwhzvwz472@gmail.com
+email  sgozimu793@gmail.com
 name  XBoard
-sub_url  https://d.042611.xyz/s/c293eaa35278fdc991d4860bdfc83b86
-time  2025-04-30 17:34:45.390521+08:00
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://d.042611.xyz/s/107923b8591159884faaeaeb0c53e0b3
+time  2025-05-04 09:22:29.017507+08:00
 type  v2board
-更新旧订阅失败  (https://d.042611.xyz/s/c293eaa35278fdc991d4860bdfc83b86): 403 Forbidden '{"message":"Account unavailable"}'
+保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
+获取订阅失败  (https://d.042611.xyz/s/107923b8591159884faaeaeb0c53e0b3): 403 Forbidden '{"message":"Account unavailable"}'
 
 [ewo3344.ggff.net]
 
 [panel.52longwin.top]
 name  DragonCloud
 type  v2board
-更新订阅链接/续费续签失败  注册失败(wtrerokb481@gmail.com): 本站已关闭注册
+更新订阅链接/续费续签失败  注册失败(thoxyalwv554@gmail.com): 本站已关闭注册
 
 [sogaddy.com]
 
 [www.9900.buzz]
 name  玖菱網絡 CDN-Server
 type  v2board
-更新订阅链接/续费续签失败  注册失败(qgejxayf559@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(ldmbrxs643@gmail.com): 'NoneType' object is not subscriptable
 
 [www.bigairport-official-mirror-site5.quest]
 name  大机场 Big Airport
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(qdeskpvrq832@tmpeml.com): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(sylbjist711@oakon.com): {'message': '验证码有误'}
 
 [www.yi2001.cn]
 
@@ -119,9 +121,9 @@ type  v2board
 [yydsa.eu.org]
 name  资源白嫖
 type  v2board
-更新订阅链接/续费续签失败  注册失败(hxzoglrl617@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(yxflcsn555@gmail.com): 'NoneType' object is not subscriptable
 
 [zbj.luckycloud.hk]
 name  ZBJ
 type  v2board
-更新订阅链接/续费续签失败  注册失败(nrujzklbt447@gmail.com): 遇到了些问题，我们正在进行处理
+更新订阅链接/续费续签失败  注册失败(gpxjofkat740@gmail.com): 遇到了些问题，我们正在进行处理
