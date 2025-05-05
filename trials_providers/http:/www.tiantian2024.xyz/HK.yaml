@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港|隧道1 - 阳光加速器, server: zf.xinzhanduijie.top, port: 27834, type: vmess, uuid: 987ca806-fa40-4ff0-ad9f-dadc51ae24d7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港|隧道2 - 阳光加速器, server: zf1.xinzhanduijie.top, port: 27834, type: vmess, uuid: 987ca806-fa40-4ff0-ad9f-dadc51ae24d7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港|隧道3 - 阳光加速器, server: zf2.xinzhanduijie.top, port: 27834, type: vmess, uuid: 987ca806-fa40-4ff0-ad9f-dadc51ae24d7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港|隧道1 - 阳光加速器, server: zf.xinzhanduijie.top, port: 27834, type: vmess, uuid: ec6737c6-baac-4965-9a89-4c16ed892819, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港|隧道2 - 阳光加速器, server: zf1.xinzhanduijie.top, port: 27834, type: vmess, uuid: ec6737c6-baac-4965-9a89-4c16ed892819, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港|隧道3 - 阳光加速器, server: zf2.xinzhanduijie.top, port: 27834, type: vmess, uuid: ec6737c6-baac-4965-9a89-4c16ed892819, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

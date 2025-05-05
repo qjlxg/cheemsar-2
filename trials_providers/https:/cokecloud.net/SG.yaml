@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 SGP.新加坡.A | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 43461, type: ss, cipher: aes-128-gcm, password: c9545a07-16cb-4626-b795-8524b240a496, udp: true}
-- {name: 🇸🇬 SGP.新加坡.B | 负载均衡 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 10420, type: vmess, uuid: c9545a07-16cb-4626-b795-8524b240a496, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SGP.新加坡.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 29611, type: ss, cipher: chacha20-ietf-poly1305, password: c9545a07-16cb-4626-b795-8524b240a496, udp: true}
-- {name: 🇸🇬 SGP.新加坡.D | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 25878, type: vmess, uuid: c9545a07-16cb-4626-b795-8524b240a496, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SGP.新加坡.A | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 43461, type: ss, cipher: aes-128-gcm, password: e1af4fa9-01b4-4df1-a5d7-d956ea65ab3a, udp: true}
+- {name: 🇸🇬 SGP.新加坡.B | 负载均衡 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 10420, type: vmess, uuid: e1af4fa9-01b4-4df1-a5d7-d956ea65ab3a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SGP.新加坡.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 29611, type: ss, cipher: chacha20-ietf-poly1305, password: e1af4fa9-01b4-4df1-a5d7-d956ea65ab3a, udp: true}
+- {name: 🇸🇬 SGP.新加坡.D | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 25878, type: vmess, uuid: e1af4fa9-01b4-4df1-a5d7-d956ea65ab3a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

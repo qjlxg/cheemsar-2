@@ -1,6 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇸🇬 新加坡① - 灵境, server: 47.236.119.64, port: 30167, type: vmess, uuid: 93ac48ec-7f66-4c47-9ef2-517fa845b036, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇸🇬 新加坡② - 灵境, server: 47.236.119.64, port: 30147, type: vmess, uuid: 93ac48ec-7f66-4c47-9ef2-517fa845b036, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇸🇬 新加坡③ - 灵境, server: 47.236.119.64, port: 33441, type: vmess, uuid: 93ac48ec-7f66-4c47-9ef2-517fa845b036, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}

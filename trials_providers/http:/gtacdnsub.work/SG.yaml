@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡 01 - ɢᴛᴀ ᴄʟᴏᴜᴅ, server: mmt-gybb.zhangwei.li, port: 18953, tfo: true, type: ss, cipher: aes-128-gcm, password: 492f74a7-fac9-465c-9900-715de62d91b8, udp: true}
-- {name: 🇸🇬 新加坡 02 专线 - ɢᴛᴀ ᴄʟᴏᴜᴅ, server: mmt-clc.xuwei.hk, port: 55625, tfo: true, type: ss, cipher: aes-128-gcm, password: 492f74a7-fac9-465c-9900-715de62d91b8, udp: true}
-- {name: 🇸🇬 新加坡 03 - ɢᴛᴀ ᴄʟᴏᴜᴅ, server: gygyd.mmt.zhangwei.li, port: 38858, tfo: true, type: ss, cipher: aes-128-gcm, password: 492f74a7-fac9-465c-9900-715de62d91b8, udp: true}
-- {name: 🇸🇬 新加坡 04 - ɢᴛᴀ ᴄʟᴏᴜᴅ, server: mmt-gybb.zhangwei.li, port: 49646, tfo: true, type: ss, cipher: aes-128-gcm, password: 492f74a7-fac9-465c-9900-715de62d91b8, udp: true}
+- {name: 🇸🇬 新加坡 01 - ɢᴛᴀ ᴄʟᴏᴜᴅ, server: mmt-gybb.zhangwei.li, port: 18953, type: ss, cipher: aes-128-gcm, password: 492f74a7-fac9-465c-9900-715de62d91b8, udp: true}
+- {name: 🇸🇬 新加坡 02 专线 - ɢᴛᴀ ᴄʟᴏᴜᴅ, server: mmt-clc.xuwei.hk, port: 55625, type: ss, cipher: aes-128-gcm, password: 492f74a7-fac9-465c-9900-715de62d91b8, udp: true}
+- {name: 🇸🇬 新加坡 03 - ɢᴛᴀ ᴄʟᴏᴜᴅ, server: gygyd.mmt.zhangwei.li, port: 38858, type: ss, cipher: aes-128-gcm, password: 492f74a7-fac9-465c-9900-715de62d91b8, udp: true}
+- {name: 🇸🇬 新加坡 04 - ɢᴛᴀ ᴄʟᴏᴜᴅ, server: mmt-gybb.zhangwei.li, port: 49646, type: ss, cipher: aes-128-gcm, password: 492f74a7-fac9-465c-9900-715de62d91b8, udp: true}

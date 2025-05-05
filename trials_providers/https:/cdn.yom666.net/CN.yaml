@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港|奈飞 - 火箭cloud, server: huojian.arken8379.com, port: 23000, type: trojan, password: fb7a1b6f-2fb7-4b64-9996-e1d36f67f5ab, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港|奈飞-2 - 火箭cloud, server: huojian.arken8379.com, port: 23000, type: trojan, password: fb7a1b6f-2fb7-4b64-9996-e1d36f67f5ab, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港|奈飞-3 - 火箭cloud, server: huojian-js.arken8379.com, port: 23000, type: trojan, password: fb7a1b6f-2fb7-4b64-9996-e1d36f67f5ab, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港|奈飞 - 火箭cloud, server: huojian.arken8379.com, port: 23000, type: trojan, password: 4f83024b-72a7-4cf4-9c59-e3de49af772d, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港|奈飞-2 - 火箭cloud, server: huojian.arken8379.com, port: 23000, type: trojan, password: 4f83024b-72a7-4cf4-9c59-e3de49af772d, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港|奈飞-3 - 火箭cloud, server: huojian-js.arken8379.com, port: 23000, type: trojan, password: 4f83024b-72a7-4cf4-9c59-e3de49af772d, sni: www.bilibili.com, skip-cert-verify: true, udp: true}

@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡-ss2 - Wink, server: sg3.xaa.app, port: 9527, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: c4284017-a6e0-4e8a-ab2b-bdf1fc349270, udp: true}
-- {name: 🇸🇬 新加坡-ss3 - Wink, server: sg2.xaa.app, port: 9527, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: c4284017-a6e0-4e8a-ab2b-bdf1fc349270, udp: true}
-- {name: 🇺🇸 美国rn1-快速 - Wink, server: us-rn1.xaa.app, port: 443, tfo: true, type: trojan, password: c4284017-a6e0-4e8a-ab2b-bdf1fc349270, sni: us-rn1.xaa.app, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国rn2-快速 - Wink, server: us-rn2.xaa.app, port: 443, tfo: true, type: trojan, password: c4284017-a6e0-4e8a-ab2b-bdf1fc349270, sni: us-rn2.xaa.app, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国rn3-高速 - Wink, server: us-rn3.xaa.app, port: 443, tfo: true, type: trojan, password: c4284017-a6e0-4e8a-ab2b-bdf1fc349270, sni: us-rn3.xaa.app, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本-自用 - Wink, server: jp.xaa.app, port: 443, tfo: true, type: trojan, password: c4284017-a6e0-4e8a-ab2b-bdf1fc349270, sni: jp.xaa.app, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡-ss2 - Wink, server: sg3.xaa.app, port: 9527, type: ss, cipher: chacha20-ietf-poly1305, password: c8dad0bb-6a2d-4d1c-a3e2-cf2736b281b4, udp: true}
+- {name: 🇸🇬 新加坡-ss3 - Wink, server: sg2.xaa.app, port: 9527, type: ss, cipher: chacha20-ietf-poly1305, password: c8dad0bb-6a2d-4d1c-a3e2-cf2736b281b4, udp: true}
+- {name: 🇺🇸 美国rn1-快速 - Wink, server: us-rn1.xaa.app, port: 443, type: trojan, password: c8dad0bb-6a2d-4d1c-a3e2-cf2736b281b4, sni: us-rn1.xaa.app, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国rn2-快速 - Wink, server: us-rn2.xaa.app, port: 443, type: trojan, password: c8dad0bb-6a2d-4d1c-a3e2-cf2736b281b4, sni: us-rn2.xaa.app, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国rn3-高速 - Wink, server: us-rn3.xaa.app, port: 443, type: trojan, password: c8dad0bb-6a2d-4d1c-a3e2-cf2736b281b4, sni: us-rn3.xaa.app, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-自用 - Wink, server: jp.xaa.app, port: 443, type: trojan, password: c8dad0bb-6a2d-4d1c-a3e2-cf2736b281b4, sni: jp.xaa.app, skip-cert-verify: true, udp: true}

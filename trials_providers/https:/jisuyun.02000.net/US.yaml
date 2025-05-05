@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国① - 疾速cloud, server: diao.arken8379.com, port: 26004, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 098a0a46-a2e8-49ff-8468-5544ed4dc306, udp: true}
-- {name: 🇺🇸 美国② - 疾速cloud, server: diao.arken8379.com, port: 26004, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 098a0a46-a2e8-49ff-8468-5544ed4dc306, udp: true}
-- {name: 🇺🇸 美国③ - 疾速cloud, server: diao.arken8379.com, port: 26004, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 098a0a46-a2e8-49ff-8468-5544ed4dc306, udp: true}
-- {name: 🇺🇸 美国④ - 疾速cloud, server: diao.arken8379.com, port: 26004, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 098a0a46-a2e8-49ff-8468-5544ed4dc306, udp: true}
-- {name: 🇺🇸 美国|Gpt - 疾速cloud, server: diao.arken8379.com, port: 26004, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 098a0a46-a2e8-49ff-8468-5544ed4dc306, udp: true}
+- {name: 🇺🇸 美国① - 疾速cloud, server: diao.arken8379.com, port: 26004, type: ss, cipher: chacha20-ietf-poly1305, password: e304060e-75b0-45e4-a34c-ee2fb6973888, udp: true}
+- {name: 🇺🇸 美国② - 疾速cloud, server: diao.arken8379.com, port: 26004, type: ss, cipher: chacha20-ietf-poly1305, password: e304060e-75b0-45e4-a34c-ee2fb6973888, udp: true}
+- {name: 🇺🇸 美国③ - 疾速cloud, server: diao.arken8379.com, port: 26004, type: ss, cipher: chacha20-ietf-poly1305, password: e304060e-75b0-45e4-a34c-ee2fb6973888, udp: true}
+- {name: 🇺🇸 美国④ - 疾速cloud, server: diao.arken8379.com, port: 26004, type: ss, cipher: chacha20-ietf-poly1305, password: e304060e-75b0-45e4-a34c-ee2fb6973888, udp: true}
+- {name: 🇺🇸 美国|Gpt - 疾速cloud, server: diao.arken8379.com, port: 26004, type: ss, cipher: chacha20-ietf-poly1305, password: e304060e-75b0-45e4-a34c-ee2fb6973888, udp: true}

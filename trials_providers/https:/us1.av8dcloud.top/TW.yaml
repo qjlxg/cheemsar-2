@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 3x专线台湾 - AV8D云, server: vip1.av8djd.top, port: 50212, tfo: true, type: ss, cipher: aes-128-gcm, password: 03f25ff9-db9d-40c4-b809-40a239448e44, udp: true}
+- {name: 🇹🇼 3x专线台湾 - AV8D云, server: vip1.av8djd.top, port: 50212, type: ss, cipher: aes-128-gcm, password: 86f5266c-fe32-4784-9c1d-37176d92bfff, udp: true}

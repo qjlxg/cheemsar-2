@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡节点 - byi加速器, server: g4bk7yx3nd5q.byijsq.com, port: 27605, type: vmess, uuid: 386dfaa9-ff9c-329e-a27b-ff5e4d0b121e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: sg.byijsq.com, udp: true}
+- {name: 🇸🇬 新加坡节点 - byi加速器, server: g4bk7yx3nd5q.byijsq.com, port: 27605, type: vmess, uuid: 453c794e-de28-3cf3-bf03-d4ef4b14b8be, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: sg.byijsq.com, udp: true}

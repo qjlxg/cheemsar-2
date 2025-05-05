@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 （专线）中国台湾-家庭IP - 小火箭, server: 120.232.217.221, port: 58732, type: vmess, uuid: 7a8d19ab-a804-4a11-88c3-bcf4c501e70e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇹🇼 （专线）中国台湾-家庭IP - 小火箭, server: 120.232.217.221, port: 58732, type: vmess, uuid: c5c8f565-835b-461c-b056-805398b4b6c8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}

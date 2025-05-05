@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇻🇳ᴛʀ | 東南亞 | sᴠɪᴘ | ɴᴇᴛғɪʟx✨ - VNet极速云✈️🚀, server: hk-01.zzly.xyz, port: 59987, type: trojan, password: dbe395d8-6f73-4c4b-9e0d-1fcbd37c327d, sni: vn-00.zzly.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳ᴛʀ | 東南亞 | sᴠɪᴘ | ɴᴇᴛғɪʟx✨ - VNet极速云✈️🚀, server: hk-01.zzly.xyz, port: 59987, type: trojan, password: c95df417-2d09-43c9-b107-3c2f98d826db, sni: vn-00.zzly.xyz, skip-cert-verify: true, udp: true}

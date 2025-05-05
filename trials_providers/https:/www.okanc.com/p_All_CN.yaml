@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇨🇳永久地址：www.okanc.com - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21101, type: ss, cipher: chacha20-ietf-poly1305, password: 23f68c9f-8347-4e93-b53f-6f1d46ea5b50, udp: true}
+- {name: 🇨🇳永久地址：www.okanc.com - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21101, type: ss, cipher: chacha20-ietf-poly1305, password: 594a6dda-e5f0-4b10-9ce9-f387829b030c, udp: true}

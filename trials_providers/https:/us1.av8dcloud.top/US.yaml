@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 3x专线美国1 - AV8D云, server: vip1.av8djd.top, port: 50204, tfo: true, type: ss, cipher: aes-128-gcm, password: 03f25ff9-db9d-40c4-b809-40a239448e44, udp: true}
-- {name: 🇺🇸 3x专线美国2 - AV8D云, server: vip1.av8djd.top, port: 50205, tfo: true, type: ss, cipher: aes-128-gcm, password: 03f25ff9-db9d-40c4-b809-40a239448e44, udp: true}
-- {name: 🇺🇸 1x普线美国 - AV8D云, server: xd1.av8djd.top, port: 18662, tfo: true, type: ss, cipher: aes-128-gcm, password: 03f25ff9-db9d-40c4-b809-40a239448e44, udp: true}
-- {name: 🇺🇸 临时直连美国3 - AV8D云, server: us3.av8djd.top, port: 10101, tfo: true, type: ss, cipher: aes-128-gcm, password: 03f25ff9-db9d-40c4-b809-40a239448e44, udp: true}
+- {name: 🇺🇸 3x专线美国1 - AV8D云, server: vip1.av8djd.top, port: 50204, type: ss, cipher: aes-128-gcm, password: 86f5266c-fe32-4784-9c1d-37176d92bfff, udp: true}
+- {name: 🇺🇸 3x专线美国2 - AV8D云, server: vip1.av8djd.top, port: 50205, type: ss, cipher: aes-128-gcm, password: 86f5266c-fe32-4784-9c1d-37176d92bfff, udp: true}
+- {name: 🇺🇸 1x普线美国 - AV8D云, server: xd1.av8djd.top, port: 18662, type: ss, cipher: aes-128-gcm, password: 86f5266c-fe32-4784-9c1d-37176d92bfff, udp: true}
+- {name: 🇺🇸 临时直连美国3 - AV8D云, server: us3.av8djd.top, port: 10101, type: ss, cipher: aes-128-gcm, password: 86f5266c-fe32-4784-9c1d-37176d92bfff, udp: true}

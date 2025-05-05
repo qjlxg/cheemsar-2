@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇦🇿 最新节点支持Hysteria2协议，请到官网下载最新客户端（最新官网az.170203.xyz） - AZ云, server: twjpzznew.376897.xyz, port: 24830, type: trojan, password: 88536d24-78f6-414d-8328-f5b96959cbb9, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇦🇿 最新节点支持Hysteria2协议，请到官网下载最新客户端（最新官网az.170203.xyz） - AZ云, server: twjpzznew.376897.xyz, port: 24830, type: trojan, password: a9916ba0-0b15-47e3-b4c3-f934affd40b4, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}
