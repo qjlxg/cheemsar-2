@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 （专线）日本-大阪 - 小火箭, server: 183.240.180.26, port: 53229, type: vmess, uuid: 0fad5b9d-1256-497c-97ef-79c0779378dd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇯🇵 （专线）日本-秋田 - 小火箭, server: 120.232.217.221, port: 56432, type: vmess, uuid: 0fad5b9d-1256-497c-97ef-79c0779378dd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
-- {name: 🇯🇵 （专线）日本-名古屋 - 小火箭, server: 120.232.217.221, port: 53129, type: vmess, uuid: 0fad5b9d-1256-497c-97ef-79c0779378dd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇯🇵 （专线）日本-大阪 - 小火箭, server: 183.240.180.26, port: 53229, type: vmess, uuid: d1636372-e48f-4e62-86b5-296d36436d05, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇯🇵 （专线）日本-秋田 - 小火箭, server: 120.232.217.221, port: 56432, type: vmess, uuid: d1636372-e48f-4e62-86b5-296d36436d05, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇯🇵 （专线）日本-名古屋 - 小火箭, server: 120.232.217.221, port: 53129, type: vmess, uuid: d1636372-e48f-4e62-86b5-296d36436d05, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}

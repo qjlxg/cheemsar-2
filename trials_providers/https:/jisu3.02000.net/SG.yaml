@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡① - 疾速cloud, server: diao.arken8379.com, port: 26003, type: ss, cipher: chacha20-ietf-poly1305, password: b1653f35-b032-4c18-8707-c7ff0e2c323c, udp: true}
-- {name: 🇸🇬 新加坡② - 疾速cloud, server: diao.arken8379.com, port: 26003, type: ss, cipher: chacha20-ietf-poly1305, password: b1653f35-b032-4c18-8707-c7ff0e2c323c, udp: true}
-- {name: 🇸🇬 新加坡③ - 疾速cloud, server: diao.arken8379.com, port: 26003, type: ss, cipher: chacha20-ietf-poly1305, password: b1653f35-b032-4c18-8707-c7ff0e2c323c, udp: true}
-- {name: 🇸🇬 新加坡④ - 疾速cloud, server: diao.arken8379.com, port: 26003, type: ss, cipher: chacha20-ietf-poly1305, password: b1653f35-b032-4c18-8707-c7ff0e2c323c, udp: true}
-- {name: 🇸🇬 新加坡|Gpt - 疾速cloud, server: diao.arken8379.com, port: 26003, type: ss, cipher: chacha20-ietf-poly1305, password: b1653f35-b032-4c18-8707-c7ff0e2c323c, udp: true}
+- {name: 🇸🇬 新加坡① - 疾速cloud, server: diao.arken8379.com, port: 26003, type: ss, cipher: chacha20-ietf-poly1305, password: 2e354f6a-967f-4b3e-824d-d4bbb81585f8, udp: true}
+- {name: 🇸🇬 新加坡② - 疾速cloud, server: diao.arken8379.com, port: 26003, type: ss, cipher: chacha20-ietf-poly1305, password: 2e354f6a-967f-4b3e-824d-d4bbb81585f8, udp: true}
+- {name: 🇸🇬 新加坡③ - 疾速cloud, server: diao.arken8379.com, port: 26003, type: ss, cipher: chacha20-ietf-poly1305, password: 2e354f6a-967f-4b3e-824d-d4bbb81585f8, udp: true}
+- {name: 🇸🇬 新加坡④ - 疾速cloud, server: diao.arken8379.com, port: 26003, type: ss, cipher: chacha20-ietf-poly1305, password: 2e354f6a-967f-4b3e-824d-d4bbb81585f8, udp: true}
+- {name: 🇸🇬 新加坡|Gpt - 疾速cloud, server: diao.arken8379.com, port: 26003, type: ss, cipher: chacha20-ietf-poly1305, password: 2e354f6a-967f-4b3e-824d-d4bbb81585f8, udp: true}

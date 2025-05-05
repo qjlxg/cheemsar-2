@@ -1,13 +1,13 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 01 ｜₁ₓ - MBOXX, server: ambxxic01hk.dorabbb.top, port: 45515, type: ss, cipher: chacha20-ietf-poly1305, password: f69847fc-319a-4d4c-88b3-0cce39a0f512, udp: true}
-- {name: 🇭🇰 香港 02 ｜₁ₓ - MBOXX, server: ambxxic01hk.dorabbb.top, port: 45556, type: ss, cipher: chacha20-ietf-poly1305, password: f69847fc-319a-4d4c-88b3-0cce39a0f512, udp: true}
-- {name: 🇭🇰 香港 04 ｜₁ₓ - MBOXX, server: ambxxic01hk.dorabbb.top, port: 45511, type: ss, cipher: chacha20-ietf-poly1305, password: f69847fc-319a-4d4c-88b3-0cce39a0f512, udp: true}
-- {name: 🇭🇰 香港 05 ｜₁ₓ - MBOXX, server: amb01hk.dorabbb.top, port: 45513, type: ss, cipher: chacha20-ietf-poly1305, password: f69847fc-319a-4d4c-88b3-0cce39a0f512, udp: true}
-- {name: 🇭🇰 香港 06 ｜₁ₓ - MBOXX, server: amb01hk.dorabbb.top, port: 45517, type: ss, cipher: chacha20-ietf-poly1305, password: f69847fc-319a-4d4c-88b3-0cce39a0f512, udp: true}
-- {name: 🇭🇰 香港 07 ｜₁ₓ - MBOXX, server: ambxxid02hk.dorabbb.top, port: 34500, type: ss, cipher: chacha20-ietf-poly1305, password: f69847fc-319a-4d4c-88b3-0cce39a0f512, udp: true}
-- {name: 🇭🇰 香港 08 ｜₁ₓ - MBOXX, server: ambxxid02hk.dorabbb.top, port: 34503, type: ss, cipher: chacha20-ietf-poly1305, password: f69847fc-319a-4d4c-88b3-0cce39a0f512, udp: true}
-- {name: 🇭🇰 香港 10 ｜₁ₓ - MBOXX, server: ambox03hk.dorabbb.top, port: 45512, type: ss, cipher: chacha20-ietf-poly1305, password: f69847fc-319a-4d4c-88b3-0cce39a0f512, udp: true}
-- {name: 🇭🇰 香港 11 ｜₁ₓ - MBOXX, server: ambox03hk.dorabbb.top, port: 45514, type: ss, cipher: chacha20-ietf-poly1305, password: f69847fc-319a-4d4c-88b3-0cce39a0f512, udp: true}
-- {name: 🇭🇰 香港 12 ｜₁ₓ - MBOXX, server: ambox03hk.dorabbb.top, port: 45518, type: ss, cipher: chacha20-ietf-poly1305, password: f69847fc-319a-4d4c-88b3-0cce39a0f512, udp: true}
+- {name: 🇭🇰 香港 01 ｜₁ₓ - MBOXX, server: ambxxic01hk.dorabbb.top, port: 45515, type: ss, cipher: chacha20-ietf-poly1305, password: 99c1c531-9219-40cb-b69c-b8f57bd0421e, udp: true}
+- {name: 🇭🇰 香港 02 ｜₁ₓ - MBOXX, server: ambxxic01hk.dorabbb.top, port: 45556, type: ss, cipher: chacha20-ietf-poly1305, password: 99c1c531-9219-40cb-b69c-b8f57bd0421e, udp: true}
+- {name: 🇭🇰 香港 04 ｜₁ₓ - MBOXX, server: ambxxic01hk.dorabbb.top, port: 45511, type: ss, cipher: chacha20-ietf-poly1305, password: 99c1c531-9219-40cb-b69c-b8f57bd0421e, udp: true}
+- {name: 🇭🇰 香港 05 ｜₁ₓ - MBOXX, server: amb01hk.dorabbb.top, port: 45513, type: ss, cipher: chacha20-ietf-poly1305, password: 99c1c531-9219-40cb-b69c-b8f57bd0421e, udp: true}
+- {name: 🇭🇰 香港 06 ｜₁ₓ - MBOXX, server: amb01hk.dorabbb.top, port: 45517, type: ss, cipher: chacha20-ietf-poly1305, password: 99c1c531-9219-40cb-b69c-b8f57bd0421e, udp: true}
+- {name: 🇭🇰 香港 07 ｜₁ₓ - MBOXX, server: ambxxid02hk.dorabbb.top, port: 34500, type: ss, cipher: chacha20-ietf-poly1305, password: 99c1c531-9219-40cb-b69c-b8f57bd0421e, udp: true}
+- {name: 🇭🇰 香港 08 ｜₁ₓ - MBOXX, server: ambxxid02hk.dorabbb.top, port: 34503, type: ss, cipher: chacha20-ietf-poly1305, password: 99c1c531-9219-40cb-b69c-b8f57bd0421e, udp: true}
+- {name: 🇭🇰 香港 10 ｜₁ₓ - MBOXX, server: ambox03hk.dorabbb.top, port: 45512, type: ss, cipher: chacha20-ietf-poly1305, password: 99c1c531-9219-40cb-b69c-b8f57bd0421e, udp: true}
+- {name: 🇭🇰 香港 11 ｜₁ₓ - MBOXX, server: ambox03hk.dorabbb.top, port: 45514, type: ss, cipher: chacha20-ietf-poly1305, password: 99c1c531-9219-40cb-b69c-b8f57bd0421e, udp: true}
+- {name: 🇭🇰 香港 12 ｜₁ₓ - MBOXX, server: ambox03hk.dorabbb.top, port: 45518, type: ss, cipher: chacha20-ietf-poly1305, password: 99c1c531-9219-40cb-b69c-b8f57bd0421e, udp: true}

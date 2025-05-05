@@ -1,11 +1,11 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇰🇷 KR (Seoul) - BlissVPN, server: kr.1.ss.tjss.me, port: 55112, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: abd0f33e-32f6-41d9-b063-fb04ad177a8e, udp: true}
-- {name: 🇮🇳 IN (Mumbai) - BlissVPN, server: in.1.ss.tjss.me, port: 55113, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: abd0f33e-32f6-41d9-b063-fb04ad177a8e, udp: true}
-- {name: 🇬🇧 UK (London) - BlissVPN, server: uk.1.ss.tjss.me, port: 2412, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: abd0f33e-32f6-41d9-b063-fb04ad177a8e, udp: true}
-- {name: 🇪🇸 ES (Madrid) - BlissVPN, server: es.1.ss.tjss.me, port: 55114, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: abd0f33e-32f6-41d9-b063-fb04ad177a8e, udp: true}
-- {name: 🇩🇪 DE (Frankfurt) - BlissVPN, server: de.1.ss.tjss.me, port: 55115, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: abd0f33e-32f6-41d9-b063-fb04ad177a8e, udp: true}
-- {name: 🇳🇱 NL (Amsterdam) - BlissVPN, server: nl.1.ss.tjss.me, port: 55116, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: abd0f33e-32f6-41d9-b063-fb04ad177a8e, udp: true}
-- {name: 🇵🇭 PH (Manila) - BlissVPN, server: ph.1.ss.tjss.me, port: 55117, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: abd0f33e-32f6-41d9-b063-fb04ad177a8e, udp: true}
-- {name: 🇻🇳 VN (Hanoi) - BlissVPN, server: vn.1.ss.tjss.me, port: 55118, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: abd0f33e-32f6-41d9-b063-fb04ad177a8e, udp: true}
+- {name: 🇰🇷 KR (Seoul) - BlissVPN, server: kr.1.ss.tjss.me, port: 55112, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 531c270b-9b5d-460f-a6d4-2d14330589a9, udp: true}
+- {name: 🇮🇳 IN (Mumbai) - BlissVPN, server: in.1.ss.tjss.me, port: 55113, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 531c270b-9b5d-460f-a6d4-2d14330589a9, udp: true}
+- {name: 🇬🇧 UK (London) - BlissVPN, server: uk.1.ss.tjss.me, port: 2412, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 531c270b-9b5d-460f-a6d4-2d14330589a9, udp: true}
+- {name: 🇪🇸 ES (Madrid) - BlissVPN, server: es.1.ss.tjss.me, port: 55114, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 531c270b-9b5d-460f-a6d4-2d14330589a9, udp: true}
+- {name: 🇩🇪 DE (Frankfurt) - BlissVPN, server: de.1.ss.tjss.me, port: 55115, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 531c270b-9b5d-460f-a6d4-2d14330589a9, udp: true}
+- {name: 🇳🇱 NL (Amsterdam) - BlissVPN, server: nl.1.ss.tjss.me, port: 55116, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 531c270b-9b5d-460f-a6d4-2d14330589a9, udp: true}
+- {name: 🇵🇭 PH (Manila) - BlissVPN, server: ph.1.ss.tjss.me, port: 55117, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 531c270b-9b5d-460f-a6d4-2d14330589a9, udp: true}
+- {name: 🇻🇳 VN (Hanoi) - BlissVPN, server: vn.1.ss.tjss.me, port: 55118, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 531c270b-9b5d-460f-a6d4-2d14330589a9, udp: true}

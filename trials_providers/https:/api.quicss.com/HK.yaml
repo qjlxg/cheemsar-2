@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 HK(China) - BlissVPN, server: hk.01.ss.tjss.me, port: 2210, type: ss, cipher: chacha20-ietf-poly1305, password: bd4bc8fc-646c-4695-a0cf-a53d0d200a0f, udp: true}
+- {name: 🇭🇰 HK(China) - BlissVPN, server: hk.01.ss.tjss.me, port: 2210, type: ss, cipher: chacha20-ietf-poly1305, password: e4756bf5-c43c-447b-8fa4-e55ba0f2dcea, udp: true}
