@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 3x专线新加坡 - AV8D云, server: vip1.av8djd.top, port: 50203, type: ss, cipher: aes-128-gcm, password: 86f5266c-fe32-4784-9c1d-37176d92bfff, udp: true}
-- {name: 🇸🇬 3x专线新加坡2 - AV8D云, server: vip1.av8djd.top, port: 50134, type: ss, cipher: aes-128-gcm, password: 86f5266c-fe32-4784-9c1d-37176d92bfff, udp: true}
-- {name: 🇸🇬 1x普线新加坡 - AV8D云, server: xd1.av8djd.top, port: 18661, type: ss, cipher: aes-128-gcm, password: 86f5266c-fe32-4784-9c1d-37176d92bfff, udp: true}
+- {name: 🇸🇬 3x专线新加坡 - AV8D云, server: vip1.av8djd.top, port: 50203, type: ss, cipher: aes-128-gcm, password: 1715feb9-dc95-4f84-a978-ccd53523564f, udp: true}
+- {name: 🇸🇬 3x专线新加坡2 - AV8D云, server: vip1.av8djd.top, port: 50134, type: ss, cipher: aes-128-gcm, password: 1715feb9-dc95-4f84-a978-ccd53523564f, udp: true}
+- {name: 🇸🇬 1x普线新加坡 - AV8D云, server: xd1.av8djd.top, port: 18661, type: ss, cipher: aes-128-gcm, password: 1715feb9-dc95-4f84-a978-ccd53523564f, udp: true}

@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬  新加坡  01 ｜₁ₓ - MBOXX, server: aambx01sg.dorabbb.top, port: 45514, type: ss, cipher: chacha20-ietf-poly1305, password: 99c1c531-9219-40cb-b69c-b8f57bd0421e, udp: true}
-- {name: 🇸🇬  新加坡  02 ｜₁ₓ - MBOXX, server: aambx01sg.dorabbb.top, port: 34533, type: ss, cipher: chacha20-ietf-poly1305, password: 99c1c531-9219-40cb-b69c-b8f57bd0421e, udp: true}
-- {name: 🇸🇬  新加坡  03 ｜₁ₓ - MBOXX, server: aambx99.dorabbb.top, port: 34592, type: ss, cipher: chacha20-ietf-poly1305, password: 99c1c531-9219-40cb-b69c-b8f57bd0421e, udp: true}
-- {name: 🇸🇬  新加坡  04 ｜₁ₓ - MBOXX, server: aambx02sg.dorabbb.top, port: 34586, type: ss, cipher: chacha20-ietf-poly1305, password: 99c1c531-9219-40cb-b69c-b8f57bd0421e, udp: true}
-- {name: 🇸🇬  新加坡  05 ｜₁ₓ - MBOXX, server: aambx02sg.dorabbb.top, port: 34590, type: ss, cipher: chacha20-ietf-poly1305, password: 99c1c531-9219-40cb-b69c-b8f57bd0421e, udp: true}
-- {name: 🇸🇬  新加坡  06 ｜₁ₓ - MBOXX, server: aambx02sg.dorabbb.top, port: 34595, type: ss, cipher: chacha20-ietf-poly1305, password: 99c1c531-9219-40cb-b69c-b8f57bd0421e, udp: true}
+- {name: 🇸🇬  新加坡  01 ｜₁ₓ - MBOXX, server: aambx01sg.dorabbb.top, port: 45514, type: ss, cipher: chacha20-ietf-poly1305, password: 91b9170e-57a2-4046-816f-21639fa8a838, udp: true}
+- {name: 🇸🇬  新加坡  02 ｜₁ₓ - MBOXX, server: aambx01sg.dorabbb.top, port: 34533, type: ss, cipher: chacha20-ietf-poly1305, password: 91b9170e-57a2-4046-816f-21639fa8a838, udp: true}
+- {name: 🇸🇬  新加坡  03 ｜₁ₓ - MBOXX, server: aambx99.dorabbb.top, port: 34592, type: ss, cipher: chacha20-ietf-poly1305, password: 91b9170e-57a2-4046-816f-21639fa8a838, udp: true}
+- {name: 🇸🇬  新加坡  04 ｜₁ₓ - MBOXX, server: aambx02sg.dorabbb.top, port: 34586, type: ss, cipher: chacha20-ietf-poly1305, password: 91b9170e-57a2-4046-816f-21639fa8a838, udp: true}
+- {name: 🇸🇬  新加坡  05 ｜₁ₓ - MBOXX, server: aambx02sg.dorabbb.top, port: 34590, type: ss, cipher: chacha20-ietf-poly1305, password: 91b9170e-57a2-4046-816f-21639fa8a838, udp: true}
+- {name: 🇸🇬  新加坡  06 ｜₁ₓ - MBOXX, server: aambx02sg.dorabbb.top, port: 34595, type: ss, cipher: chacha20-ietf-poly1305, password: 91b9170e-57a2-4046-816f-21639fa8a838, udp: true}
