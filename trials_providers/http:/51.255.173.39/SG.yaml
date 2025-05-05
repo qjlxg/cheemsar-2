@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 V1 | 新加坡1 - Bingo加速, server: sg91.cctv14.xyz, port: 49041, type: ss, cipher: aes-256-gcm, password: 1903dce4-2b70-4d86-87b4-36a6454957e8, udp: true}
-- {name: 🇸🇬 V1 | 新加坡2 - Bingo加速, server: sg92.cctv14.xyz, port: 49042, type: ss, cipher: aes-256-gcm, password: 1903dce4-2b70-4d86-87b4-36a6454957e8, udp: true}
-- {name: 🇸🇬 V1 | 新加坡3 - Bingo加速, server: sg93.cctv14.xyz, port: 49043, type: ss, cipher: aes-256-gcm, password: 1903dce4-2b70-4d86-87b4-36a6454957e8, udp: true}
+- {name: 🇸🇬 V1 | 新加坡1 - Bingo加速, server: sg91.cctv14.xyz, port: 49041, type: ss, cipher: aes-256-gcm, password: b1a962cf-04c3-4759-94dd-492a5e0cd0b2, udp: true}
+- {name: 🇸🇬 V1 | 新加坡2 - Bingo加速, server: sg92.cctv14.xyz, port: 49042, type: ss, cipher: aes-256-gcm, password: b1a962cf-04c3-4759-94dd-492a5e0cd0b2, udp: true}
+- {name: 🇸🇬 V1 | 新加坡3 - Bingo加速, server: sg93.cctv14.xyz, port: 49043, type: ss, cipher: aes-256-gcm, password: b1a962cf-04c3-4759-94dd-492a5e0cd0b2, udp: true}

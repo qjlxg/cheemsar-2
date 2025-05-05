@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 【VIP解锁】国际专线 · 新加坡SG · 146 · VIP - Newflix加速器, server: 1.1.1.1, port: 443, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: a35d6856-be37-4dc2-93a5-61dd0a2ca00c, udp: true}
+- {name: 🇸🇬 【VIP解锁】国际专线 · 新加坡SG · 146 · VIP - Newflix加速器, server: 1.1.1.1, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: a35d6856-be37-4dc2-93a5-61dd0a2ca00c, udp: true}

@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国|Netflix - 火箭cloud, server: huojian.arken8379.com, port: 23003, tfo: true, type: trojan, password: 43a54f67-309a-4a10-a59f-04a799816b57, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国|TikTok - 火箭cloud, server: huojian.arken8379.com, port: 23003, tfo: true, type: trojan, password: 43a54f67-309a-4a10-a59f-04a799816b57, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国|ChatGpt - 火箭cloud, server: huojian-js.arken8379.com, port: 23003, tfo: true, type: trojan, password: 43a54f67-309a-4a10-a59f-04a799816b57, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国|ChatGpt2 - 火箭cloud, server: huojian-js.arken8379.com, port: 23003, tfo: true, type: trojan, password: 43a54f67-309a-4a10-a59f-04a799816b57, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国|Netflix - 火箭cloud, server: huojian.arken8379.com, port: 23003, type: trojan, password: 9c19b127-fd5a-4346-8aee-ba10cbcc08f5, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国|TikTok - 火箭cloud, server: huojian.arken8379.com, port: 23003, type: trojan, password: 9c19b127-fd5a-4346-8aee-ba10cbcc08f5, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国|ChatGpt - 火箭cloud, server: huojian-js.arken8379.com, port: 23003, type: trojan, password: 9c19b127-fd5a-4346-8aee-ba10cbcc08f5, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国|ChatGpt2 - 火箭cloud, server: huojian-js.arken8379.com, port: 23003, type: trojan, password: 9c19b127-fd5a-4346-8aee-ba10cbcc08f5, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
