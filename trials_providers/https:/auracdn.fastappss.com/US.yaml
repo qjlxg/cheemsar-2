@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 US (LosAngeles) - BlissVPN, server: us.1.ss.tjss.me, port: 2310, type: ss, cipher: chacha20-ietf-poly1305, password: ff296af6-d8cc-4e8e-925a-a1a7c637ae93, udp: true}
+- {name: 🇺🇸 US (LosAngeles) - BlissVPN, server: us.1.ss.tjss.me, port: 2310, type: ss, cipher: chacha20-ietf-poly1305, password: dd4a3574-b81d-49da-a829-89ef00806b5a, udp: true}

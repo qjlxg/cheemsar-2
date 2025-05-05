@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 CN中转|台湾② - 夜光云 BLUECLOUD, server: gzv2b.talends.top, port: 30096, type: vmess, uuid: 44ac3b41-a9e7-368f-82dc-7f3bcb003778, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: wtv1.bcloud.cyou}}, udp: true}
-- {name: 🇹🇼 A国际|台湾② - 夜光云 BLUECLOUD, server: wtt1.bcloud.cyou, port: 20019, type: trojan, password: 44ac3b41-a9e7-368f-82dc-7f3bcb003778, sni: wtt1.bcloud.cyou, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 CN中转|台湾② - 夜光云 BLUECLOUD, server: gzv2b.talends.top, port: 30096, type: vmess, uuid: a72b9eb0-e927-3678-ac74-b6ae8edb6a73, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: wtv1.bcloud.cyou}}, udp: true}
+- {name: 🇹🇼 A国际|台湾② - 夜光云 BLUECLOUD, server: wtt1.bcloud.cyou, port: 20019, type: trojan, password: a72b9eb0-e927-3678-ac74-b6ae8edb6a73, sni: wtt1.bcloud.cyou, skip-cert-verify: true, udp: true}

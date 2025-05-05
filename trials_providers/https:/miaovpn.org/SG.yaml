@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 新加坡🇸🇬 - Miao Planet, server: sg01.miaonode.com, port: 8787, type: ss, cipher: chacha20-ietf-poly1305, password: 250feeed-41a2-4cef-843d-30654af413d9, udp: true}
+- {name: 新加坡🇸🇬 - Miao Planet, server: sg01.miaonode.com, port: 8787, type: ss, cipher: chacha20-ietf-poly1305, password: 9950cd80-5d9e-407d-a20c-cd5f677d7949, udp: true}

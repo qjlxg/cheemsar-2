@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 CN中转|新加坡ISP住宅① - 夜光云 BLUECLOUD, server: slsap.talends.top, port: 20023, type: vmess, uuid: 44ac3b41-a9e7-368f-82dc-7f3bcb003778, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sg1v2.ipclouds.top}}, udp: true}
-- {name: 🇸🇬 新加坡｜高速TⅦ住宅ISP② - 夜光云 BLUECLOUD, server: gzyd.talends.top, port: 20018, type: vmess, uuid: 44ac3b41-a9e7-368f-82dc-7f3bcb003778, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sg2.cloudbb.loan}}, udp: true}
-- {name: 🇸🇬 CN高速|新加坡ISP住宅② - 夜光云 BLUECLOUD, server: sing1.cloudbb.cyou, port: 20022, type: trojan, password: 44ac3b41-a9e7-368f-82dc-7f3bcb003778, sni: sing1.cloudbb.cyou, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡｜国际TⅦ住宅ISP② - 夜光云 BLUECLOUD, server: sgt2.cloudbb.loan, port: 20022, type: trojan, password: 44ac3b41-a9e7-368f-82dc-7f3bcb003778, sni: sgt2.cloudbb.loan, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 CN中转|新加坡ISP住宅① - 夜光云 BLUECLOUD, server: slsap.talends.top, port: 20023, type: vmess, uuid: a72b9eb0-e927-3678-ac74-b6ae8edb6a73, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sg1v2.ipclouds.top}}, udp: true}
+- {name: 🇸🇬 新加坡｜高速TⅦ住宅ISP② - 夜光云 BLUECLOUD, server: gzyd.talends.top, port: 20018, type: vmess, uuid: a72b9eb0-e927-3678-ac74-b6ae8edb6a73, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sg2.cloudbb.loan}}, udp: true}
+- {name: 🇸🇬 CN高速|新加坡ISP住宅② - 夜光云 BLUECLOUD, server: sing1.cloudbb.cyou, port: 20022, type: trojan, password: a72b9eb0-e927-3678-ac74-b6ae8edb6a73, sni: sing1.cloudbb.cyou, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡｜国际TⅦ住宅ISP② - 夜光云 BLUECLOUD, server: sgt2.cloudbb.loan, port: 20022, type: trojan, password: a72b9eb0-e927-3678-ac74-b6ae8edb6a73, sni: sgt2.cloudbb.loan, skip-cert-verify: true, udp: true}

@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡 - 星连, server: sg04.dns-node.top, port: 45609, type: ss, cipher: aes-128-gcm, password: 628f0936-9c0f-45d5-9c0c-7d11bfad6d10, udp: true}
+- {name: 🇸🇬 新加坡 - 星连, server: sg04.dns-node.top, port: 45609, type: ss, cipher: aes-128-gcm, password: 48570462-a7d6-4faf-83b7-0ba7f9a8d993, udp: true}
