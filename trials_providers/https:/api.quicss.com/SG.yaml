@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 SG (Singapore) - BlissVPN, server: sg.1.ss.tjss.me, port: 55110, type: ss, cipher: chacha20-ietf-poly1305, password: a3d5b843-75ea-4f8a-ae7e-9ec67dc95c42, udp: true}
+- {name: 🇸🇬 SG (Singapore) - BlissVPN, server: sg.1.ss.tjss.me, port: 55110, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 78d03a7e-9958-40cd-8c6d-11a0c11a5c87, udp: true}

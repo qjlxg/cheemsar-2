@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇹🇼 台湾??|TikTok - 疾速cloud', server: diao.arken8379.com, port: 26001, type: ss, cipher: chacha20-ietf-poly1305, password: b251d71b-ec71-479d-a9a2-c98ea636acf7, udp: true}
-- {name: '🇹🇼 台湾??|gpt - 疾速cloud', server: diao.arken8379.com, port: 26001, type: ss, cipher: chacha20-ietf-poly1305, password: b251d71b-ec71-479d-a9a2-c98ea636acf7, udp: true}
-- {name: 🇹🇼 台湾② - 疾速cloud, server: diao.arken8379.com, port: 26001, type: ss, cipher: chacha20-ietf-poly1305, password: b251d71b-ec71-479d-a9a2-c98ea636acf7, udp: true}
-- {name: 🇹🇼 台湾③ - 疾速cloud, server: diao.arken8379.com, port: 26001, type: ss, cipher: chacha20-ietf-poly1305, password: b251d71b-ec71-479d-a9a2-c98ea636acf7, udp: true}
-- {name: 🇹🇼 台湾④ - 疾速cloud, server: diao.arken8379.com, port: 26001, type: ss, cipher: chacha20-ietf-poly1305, password: b251d71b-ec71-479d-a9a2-c98ea636acf7, udp: true}
+- {name: '🇹🇼 台湾??|TikTok - 疾速cloud', server: diao.arken8379.com, port: 26001, type: ss, cipher: chacha20-ietf-poly1305, password: c37efd63-ea7c-4485-918b-1e1aabfc8d6f, udp: true}
+- {name: '🇹🇼 台湾??|gpt - 疾速cloud', server: diao.arken8379.com, port: 26001, type: ss, cipher: chacha20-ietf-poly1305, password: c37efd63-ea7c-4485-918b-1e1aabfc8d6f, udp: true}
+- {name: 🇹🇼 台湾② - 疾速cloud, server: diao.arken8379.com, port: 26001, type: ss, cipher: chacha20-ietf-poly1305, password: c37efd63-ea7c-4485-918b-1e1aabfc8d6f, udp: true}
+- {name: 🇹🇼 台湾③ - 疾速cloud, server: diao.arken8379.com, port: 26001, type: ss, cipher: chacha20-ietf-poly1305, password: c37efd63-ea7c-4485-918b-1e1aabfc8d6f, udp: true}
+- {name: 🇹🇼 台湾④ - 疾速cloud, server: diao.arken8379.com, port: 26001, type: ss, cipher: chacha20-ietf-poly1305, password: c37efd63-ea7c-4485-918b-1e1aabfc8d6f, udp: true}

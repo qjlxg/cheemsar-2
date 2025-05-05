@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 - 星连, server: hkg01.dns-node.top, port: 45573, type: ss, cipher: aes-128-gcm, password: 2e60e709-2e0c-4fb7-ac01-04efa6c5ead8, udp: true}
-- {name: 🇹🇼 台湾 - 星连, server: tw01.dns-node.top, port: 45571, type: ss, cipher: aes-128-gcm, password: 2e60e709-2e0c-4fb7-ac01-04efa6c5ead8, udp: true}
+- {name: 🇭🇰 香港 - 星连, server: hkg01.dns-node.top, port: 45573, type: ss, cipher: aes-128-gcm, password: 628f0936-9c0f-45d5-9c0c-7d11bfad6d10, udp: true}
+- {name: 🇹🇼 台湾 - 星连, server: tw01.dns-node.top, port: 45571, type: ss, cipher: aes-128-gcm, password: 628f0936-9c0f-45d5-9c0c-7d11bfad6d10, udp: true}

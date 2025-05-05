@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾|隧道1 - 阳光加速器, server: zf.xinzhanduijie.top, port: 27831, type: vmess, uuid: 16c7105f-bcda-4038-8b03-1a11fce9734c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾|隧道2 - 阳光加速器, server: zf1.xinzhanduijie.top, port: 27831, type: vmess, uuid: 16c7105f-bcda-4038-8b03-1a11fce9734c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾|隧道3 - 阳光加速器, server: zf2.xinzhanduijie.top, port: 27831, type: vmess, uuid: 16c7105f-bcda-4038-8b03-1a11fce9734c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾|隧道1 - 阳光加速器, server: zf.xinzhanduijie.top, port: 27831, type: vmess, uuid: de32a654-a961-41f6-bdac-92c46492023c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾|隧道2 - 阳光加速器, server: zf1.xinzhanduijie.top, port: 27831, type: vmess, uuid: de32a654-a961-41f6-bdac-92c46492023c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾|隧道3 - 阳光加速器, server: zf2.xinzhanduijie.top, port: 27831, type: vmess, uuid: de32a654-a961-41f6-bdac-92c46492023c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
