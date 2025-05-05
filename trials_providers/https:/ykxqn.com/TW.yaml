@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾一 - LIME, server: 01.kjahbg.info, port: 30628, tfo: true, type: ss, cipher: aes-128-gcm, password: d31096c6-a1fc-4905-b23c-7a5c713bf28d, udp: true}
-- {name: 🇹🇼 台湾二 - LIME, server: 02.kjahbg.info, port: 30629, tfo: true, type: ss, cipher: aes-128-gcm, password: d31096c6-a1fc-4905-b23c-7a5c713bf28d, udp: true}
+- {name: 🇹🇼 台湾一 - LIME, server: 01.kjahbg.info, port: 30628, type: ss, cipher: aes-128-gcm, password: 564521cb-49d3-4d1c-b41f-0528f00e0532, udp: true}
+- {name: 🇹🇼 台湾二 - LIME, server: 02.kjahbg.info, port: 30629, type: ss, cipher: aes-128-gcm, password: 564521cb-49d3-4d1c-b41f-0528f00e0532, udp: true}

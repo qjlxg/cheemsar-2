@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬新加坡01 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21113, type: ss, cipher: aes-256-gcm, password: 594a6dda-e5f0-4b10-9ce9-f387829b030c, udp: true}
-- {name: 🇸🇬新加坡02 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21114, type: ss, cipher: aes-256-gcm, password: 594a6dda-e5f0-4b10-9ce9-f387829b030c, udp: true}
-- {name: 🇸🇬新加坡03 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21115, type: ss, cipher: aes-256-gcm, password: 594a6dda-e5f0-4b10-9ce9-f387829b030c, udp: true}
+- {name: 🇸🇬新加坡01 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21113, type: ss, cipher: aes-256-gcm, password: a2b319f3-a84a-45d1-8003-06ed18e8e11a, udp: true}
+- {name: 🇸🇬新加坡02 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21114, type: ss, cipher: aes-256-gcm, password: a2b319f3-a84a-45d1-8003-06ed18e8e11a, udp: true}
+- {name: 🇸🇬新加坡03 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21115, type: ss, cipher: aes-256-gcm, password: a2b319f3-a84a-45d1-8003-06ed18e8e11a, udp: true}

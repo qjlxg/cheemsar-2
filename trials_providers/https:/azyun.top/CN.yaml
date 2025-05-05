@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾01直连 - AZ云, server: 2gzdx21.376897.xyz, port: 23342, type: trojan, password: d4a6136b-7d9b-474c-bd91-d92ce7e9e2ba, sni: 2gzdx21.376897.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾03直连 - AZ云, server: tw5.376897.xyz, port: 23342, type: trojan, password: d4a6136b-7d9b-474c-bd91-d92ce7e9e2ba, sni: tw5.376897.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾01直连 - AZ云, server: 2gzdx21.376897.xyz, port: 23342, type: trojan, password: cba7c6b2-3214-4b86-98ba-c6115c1b21fc, sni: 2gzdx21.376897.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾03直连 - AZ云, server: tw5.376897.xyz, port: 23342, type: trojan, password: cba7c6b2-3214-4b86-98ba-c6115c1b21fc, sni: tw5.376897.xyz, skip-cert-verify: true, udp: true}

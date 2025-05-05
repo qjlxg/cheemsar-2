@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 国际专线 · 日本JP · 114 - Newflix加速器, server: 120.233.44.206, port: 39221, type: ss, cipher: chacha20-ietf-poly1305, password: b42e3dcd-7875-477b-9203-bcdaf974c02e, udp: true}
+- {name: 🇯🇵 国际专线 · 日本JP · 114 - Newflix加速器, server: 120.233.44.206, port: 39221, type: ss, cipher: chacha20-ietf-poly1305, password: fc32ef73-7fc1-4970-961f-8a3063164ad6, udp: true}

@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡01 - 迅云加速, server: node1.cenidcbf.ink, port: 14195, type: ss, cipher: chacha20-ietf-poly1305, password: fd738b0c-4549-4c04-b261-4c86720b6b34, udp: true}
-- {name: 🇸🇬 新加坡02 - 迅云加速, server: node2.cenidcbf.ink, port: 43105, type: ss, cipher: chacha20-ietf-poly1305, password: fd738b0c-4549-4c04-b261-4c86720b6b34, udp: true}
-- {name: 🇸🇬 新加坡03 - 迅云加速, server: wh1-ahmddlekrnnse6ta.bestzumo.com, port: 49593, type: ss, cipher: chacha20-ietf-poly1305, password: fd738b0c-4549-4c04-b261-4c86720b6b34, udp: true}
-- {name: 🇸🇬 新加坡04 - 迅云加速, server: xz-exec5ej7an7khyzt.bestzumo.com, port: 55960, type: ss, cipher: chacha20-ietf-poly1305, password: fd738b0c-4549-4c04-b261-4c86720b6b34, udp: true}
-- {name: 🇸🇬 新加坡05 - 迅云加速, server: 183.36.41.41, port: 30371, type: ss, cipher: chacha20-ietf-poly1305, password: fd738b0c-4549-4c04-b261-4c86720b6b34, udp: true}
+- {name: 🇸🇬 新加坡01 - 迅云加速, server: node1.cenidcbf.ink, port: 14195, type: ss, cipher: chacha20-ietf-poly1305, password: 2b51bd03-1586-4ee5-b3ec-b9f8b052c910, udp: true}
+- {name: 🇸🇬 新加坡02 - 迅云加速, server: node2.cenidcbf.ink, port: 43105, type: ss, cipher: chacha20-ietf-poly1305, password: 2b51bd03-1586-4ee5-b3ec-b9f8b052c910, udp: true}
+- {name: 🇸🇬 新加坡03 - 迅云加速, server: wh1-ahmddlekrnnse6ta.bestzumo.com, port: 49593, type: ss, cipher: chacha20-ietf-poly1305, password: 2b51bd03-1586-4ee5-b3ec-b9f8b052c910, udp: true}
+- {name: 🇸🇬 新加坡04 - 迅云加速, server: xz-exec5ej7an7khyzt.bestzumo.com, port: 55960, type: ss, cipher: chacha20-ietf-poly1305, password: 2b51bd03-1586-4ee5-b3ec-b9f8b052c910, udp: true}
+- {name: 🇸🇬 新加坡05 - 迅云加速, server: 183.36.41.41, port: 30371, type: ss, cipher: chacha20-ietf-poly1305, password: 2b51bd03-1586-4ee5-b3ec-b9f8b052c910, udp: true}

@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本 · 1号线 · Netflix等流媒体解锁 · ChatGPT解锁 - 北极星加速器, server: green2.cdntencentmusic.com, port: 28507, tfo: true, type: trojan, password: 3b54159d-0e8a-45a1-9667-3e9ea7ed8a0b, sni: green2.cdntencentmusic.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 · 1号线 · Netflix等流媒体解锁 · ChatGPT解锁 - 北极星加速器, server: green2.cdntencentmusic.com, port: 28507, type: trojan, password: 3b54159d-0e8a-45a1-9667-3e9ea7ed8a0b, sni: green2.cdntencentmusic.com, skip-cert-verify: true, udp: true}

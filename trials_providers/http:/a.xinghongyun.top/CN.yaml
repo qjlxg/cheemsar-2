@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港1|隧道|标准 - 兴鸿云, server: zz.xinghongzf.xyz, port: 17702, type: trojan, password: 3257c097-8cd8-4803-9a36-3f16aa565871, sni: zz.xinghongzf.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港2|隧道|标准 - 兴鸿云, server: zz.xinghongzf.xyz, port: 17702, type: trojan, password: 3257c097-8cd8-4803-9a36-3f16aa565871, sni: zz.xinghongzf.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港1|隧道|标准 - 兴鸿云, server: zz.xinghongzf.xyz, port: 17702, type: trojan, password: 6f08f914-5ef7-4e0d-ba7d-7ef1f8ec7951, sni: zz.xinghongzf.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港2|隧道|标准 - 兴鸿云, server: zz.xinghongzf.xyz, port: 17702, type: trojan, password: 6f08f914-5ef7-4e0d-ba7d-7ef1f8ec7951, sni: zz.xinghongzf.xyz, skip-cert-verify: true, udp: true}

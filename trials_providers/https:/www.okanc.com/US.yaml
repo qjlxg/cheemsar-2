@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸美国01 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21104, type: ss, cipher: chacha20-ietf-poly1305, password: 594a6dda-e5f0-4b10-9ce9-f387829b030c, udp: true}
-- {name: 🇺🇸美国02 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21105, type: ss, cipher: chacha20-ietf-poly1305, password: 594a6dda-e5f0-4b10-9ce9-f387829b030c, udp: true}
-- {name: 🇺🇸美国03 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21106, type: ss, cipher: chacha20-ietf-poly1305, password: 594a6dda-e5f0-4b10-9ce9-f387829b030c, udp: true}
+- {name: 🇺🇸美国01 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21104, type: ss, cipher: chacha20-ietf-poly1305, password: a2b319f3-a84a-45d1-8003-06ed18e8e11a, udp: true}
+- {name: 🇺🇸美国02 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21105, type: ss, cipher: chacha20-ietf-poly1305, password: a2b319f3-a84a-45d1-8003-06ed18e8e11a, udp: true}
+- {name: 🇺🇸美国03 - 主页 | OKANC 全球网络加速代理服务, server: okanc.node-is.green, port: 21106, type: ss, cipher: chacha20-ietf-poly1305, password: a2b319f3-a84a-45d1-8003-06ed18e8e11a, udp: true}
