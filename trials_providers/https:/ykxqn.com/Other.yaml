@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: xqnqn.com防失联 - LIME, server: 001.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 2314690e-b731-4e40-b32a-1daa147c8aaf, udp: true}
-- {name: 🇰🇷 韩国一 - LIME, server: 001.kjahbg.info, port: 30630, type: ss, cipher: aes-128-gcm, password: 2314690e-b731-4e40-b32a-1daa147c8aaf, udp: true}
-- {name: 🇰🇷 韩国二 - LIME, server: 002.kjahbg.info, port: 30631, type: ss, cipher: aes-128-gcm, password: 2314690e-b731-4e40-b32a-1daa147c8aaf, udp: true}
+- {name: xqnqn.com防失联 - LIME, server: 001.kjahbg.info, port: 30601, tfo: true, type: ss, cipher: aes-128-gcm, password: 3789b385-2f13-4905-bc35-1f3943e319a3, udp: true}
+- {name: 🇰🇷 韩国一 - LIME, server: 001.kjahbg.info, port: 30630, tfo: true, type: ss, cipher: aes-128-gcm, password: 3789b385-2f13-4905-bc35-1f3943e319a3, udp: true}
+- {name: 🇰🇷 韩国二 - LIME, server: 002.kjahbg.info, port: 30631, tfo: true, type: ss, cipher: aes-128-gcm, password: 3789b385-2f13-4905-bc35-1f3943e319a3, udp: true}

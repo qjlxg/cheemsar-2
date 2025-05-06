@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ️ 用不了到官网重新导入订阅（最新官网jd.170809.xyz) - 简单云, server: twjpzznew.376897.xyz, port: 22359, type: trojan, password: 7cb473b4-ef46-47df-9d91-6e4a144f848b, sni: 2jdyun03c0d804c1-65d3-4507-8ef5-c557234fded1.376897.xyz, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 用不了到官网重新导入订阅（最新官网jd.170809.xyz) - 简单云, server: twjpzznew.376897.xyz, port: 22359, type: trojan, password: 6a0cef54-3c1d-439b-95e7-52ea658fae07, sni: 2jdyun03c0d804c1-65d3-4507-8ef5-c557234fded1.376897.xyz, skip-cert-verify: true, udp: true}

@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇷 土耳其 - 水云, server: bjcu2.316999.xyz, port: 52305, type: ss, cipher: chacha20-ietf-poly1305, password: 5b527a76-b0a0-46ec-b5fc-accff2e9a7d0, udp: true}
-- {name: 're.shuiyun.cc [发布页] - 水云', server: re.shuiyun.cc, port: 6, type: ss, cipher: chacha20-ietf-poly1305, password: 5b527a76-b0a0-46ec-b5fc-accff2e9a7d0, udp: true}
-- {name: 'ℹ️ www.goshuiyun.com [官网] - 水云', server: www.goshuiyun.com, port: 8, type: ss, cipher: chacha20-ietf-poly1305, password: 5b527a76-b0a0-46ec-b5fc-accff2e9a7d0, udp: true}
+- {name: 🇹🇷 土耳其 - 水云, server: bjcu2.316999.xyz, port: 52305, type: ss, cipher: chacha20-ietf-poly1305, password: 698d9c4f-1c0f-4d04-b2fe-7a6c52ac4062, udp: true}
+- {name: 're.shuiyun.cc [发布页] - 水云', server: re.shuiyun.cc, port: 6, type: ss, cipher: chacha20-ietf-poly1305, password: 698d9c4f-1c0f-4d04-b2fe-7a6c52ac4062, udp: true}
+- {name: 'ℹ️ www.goshuiyun.com [官网] - 水云', server: www.goshuiyun.com, port: 8, type: ss, cipher: chacha20-ietf-poly1305, password: 698d9c4f-1c0f-4d04-b2fe-7a6c52ac4062, udp: true}

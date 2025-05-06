@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ️ 官网续费:xh2024.top - 兴鸿云, server: zz.xinghongzf.xyz, port: 17701, type: trojan, password: c02597c4-803c-47d1-a09f-d267f08689a1, sni: zz.xinghongzf.xyz, skip-cert-verify: true, udp: true}
-- {name: ℹ️ 备用:xh2025.top - 兴鸿云, server: zz.xinghongzf.xyz, port: 17701, type: trojan, password: c02597c4-803c-47d1-a09f-d267f08689a1, sni: zz.xinghongzf.xyz, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 官网续费:xh2024.top - 兴鸿云, server: zz.xinghongzf.xyz, port: 17701, type: trojan, password: 3e42f5ff-0bdc-46ce-a074-af087edd474b, sni: zz.xinghongzf.xyz, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 备用:xh2025.top - 兴鸿云, server: zz.xinghongzf.xyz, port: 17701, type: trojan, password: 3e42f5ff-0bdc-46ce-a074-af087edd474b, sni: zz.xinghongzf.xyz, skip-cert-verify: true, udp: true}

@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国-A2S - 魔方云加速, server: nc-56112-51122.mofangfree.online, port: 23117, type: ss, cipher: aes-128-gcm, password: 809214ea-cfa9-41ad-82b9-3223f19426e6, udp: true}
-- {name: 🇺🇸 美国-A3S - 魔方云加速, server: nc-56112-51122.mofangfree.online, port: 23117, type: ss, cipher: aes-128-gcm, password: 809214ea-cfa9-41ad-82b9-3223f19426e6, udp: true}
+- {name: 🇺🇸 美国-A2S - 魔方云加速, server: nc-56112-51122.mofangfree.online, port: 23117, tfo: true, type: ss, cipher: aes-128-gcm, password: 30d60d5c-cf24-4e58-96ed-566cf32d2c50, udp: true}
+- {name: 🇺🇸 美国-A3S - 魔方云加速, server: nc-56112-51122.mofangfree.online, port: 23117, tfo: true, type: ss, cipher: aes-128-gcm, password: 30d60d5c-cf24-4e58-96ed-566cf32d2c50, udp: true}

@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本|ChatGpt-1 - 火箭cloud, server: huojian.arken8379.com, port: 23001, type: trojan, password: 45af05c9-d4ab-4c8a-a417-de79b4f534ca, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本|ChatGpt-2 - 火箭cloud, server: huojian.arken8379.com, port: 23001, type: trojan, password: 45af05c9-d4ab-4c8a-a417-de79b4f534ca, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本|ChatGpt-3 - 火箭cloud, server: huojian-js.arken8379.com, port: 23001, type: trojan, password: 45af05c9-d4ab-4c8a-a417-de79b4f534ca, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本|ChatGpt-4 - 火箭cloud, server: huojian-js.arken8379.com, port: 23001, type: trojan, password: 45af05c9-d4ab-4c8a-a417-de79b4f534ca, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本|ChatGpt-1 - 火箭cloud, server: huojian.arken8379.com, port: 23001, type: trojan, password: 665393e5-8e0c-47a2-8a28-56f9994068d9, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本|ChatGpt-2 - 火箭cloud, server: huojian.arken8379.com, port: 23001, type: trojan, password: 665393e5-8e0c-47a2-8a28-56f9994068d9, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本|ChatGpt-3 - 火箭cloud, server: huojian-js.arken8379.com, port: 23001, type: trojan, password: 665393e5-8e0c-47a2-8a28-56f9994068d9, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本|ChatGpt-4 - 火箭cloud, server: huojian-js.arken8379.com, port: 23001, type: trojan, password: 665393e5-8e0c-47a2-8a28-56f9994068d9, sni: www.bilibili.com, skip-cert-verify: true, udp: true}

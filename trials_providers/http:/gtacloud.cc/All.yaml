@@ -58,6 +58,7 @@ proxies:
 - {name: 🇲🇾 马来西亚 家宽01 - ɢᴛᴀ ᴄʟᴏᴜᴅ, server: mmt.gya.zhangwei.li, port: 33330, type: ss, cipher: aes-128-gcm, password: 6d4c4115-bf68-4d35-83ee-5e0bfa8fc891, udp: true}
 - {name: 🇲🇾 马来西亚 家宽02 - ɢᴛᴀ ᴄʟᴏᴜᴅ, server: mmt-gybb.zhangwei.li, port: 24067, type: ss, cipher: aes-128-gcm, password: 6d4c4115-bf68-4d35-83ee-5e0bfa8fc891, udp: true}
 - {name: 🇲🇾 马来西亚 家宽03 - ɢᴛᴀ ᴄʟᴏᴜᴅ, server: mmt-gybb.zhangwei.li, port: 61027, type: ss, cipher: aes-128-gcm, password: 6d4c4115-bf68-4d35-83ee-5e0bfa8fc891, udp: true}
+- {name: 🇹🇷 土耳其 - ɢᴛᴀ ᴄʟᴏᴜᴅ, server: mmt.bjcu.donghui.tech, port: 26451, type: ss, cipher: aes-128-gcm, password: 6d4c4115-bf68-4d35-83ee-5e0bfa8fc891, udp: true}
 - {name: 🇩🇪 德国法兰克福 - ɢᴛᴀ ᴄʟᴏᴜᴅ, server: mmt.bjcu.donghui.tech, port: 23028, type: ss, cipher: aes-128-gcm, password: 6d4c4115-bf68-4d35-83ee-5e0bfa8fc891, udp: true}
 - {name: 🇩🇪 德国纽伦堡 - ɢᴛᴀ ᴄʟᴏᴜᴅ, server: mmt.bjcu.donghui.tech, port: 14587, type: ss, cipher: aes-128-gcm, password: 6d4c4115-bf68-4d35-83ee-5e0bfa8fc891, udp: true}
 - {name: 🇵🇱 波兰家宽 - ɢᴛᴀ ᴄʟᴏᴜᴅ, server: mmt.bjcu.donghui.tech, port: 63991, type: ss, cipher: aes-128-gcm, password: 6d4c4115-bf68-4d35-83ee-5e0bfa8fc891, udp: true}
