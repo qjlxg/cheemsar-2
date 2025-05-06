@@ -1,8 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇭🇰 香港-线路1 - 神盾, server: 156.224.77.215, port: 22800, type: ss, cipher: chacha20-ietf-poly1305, password: adf16b49-e57a-4141-a4aa-7e33d5849e33, udp: true}
-- {name: 🇭🇰 Hong kong 1 - 极搜云, server: sqyd.k9kj.icu, port: 40049, type: ss, cipher: aes-128-gcm, password: f67b1379-0b91-4eef-9af5-6a63580839d8, udp: true}
-- {name: 🇭🇰 Hong kong 2 - 极搜云, server: sqyd.k9kj.icu, port: 40049, type: ss, cipher: aes-128-gcm, password: f67b1379-0b91-4eef-9af5-6a63580839d8, udp: true}
-- {name: 🇭🇰 Hong kong 3 - 极搜云, server: sqyd.k9kj.icu, port: 40049, type: ss, cipher: aes-128-gcm, password: f67b1379-0b91-4eef-9af5-6a63580839d8, udp: true}
-- {name: 🇭🇰 Hong kong 4 - 极搜云, server: sqyd.k9kj.icu, port: 40049, type: ss, cipher: aes-128-gcm, password: f67b1379-0b91-4eef-9af5-6a63580839d8, udp: true}

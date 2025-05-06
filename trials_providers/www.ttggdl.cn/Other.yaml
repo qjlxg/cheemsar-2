@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: ℹ️ 极搜云官网 极搜云.com - 极搜云, server: 154.83.84.130, port: 20000, type: ss, cipher: aes-128-gcm, password: f67b1379-0b91-4eef-9af5-6a63580839d8, udp: true}
