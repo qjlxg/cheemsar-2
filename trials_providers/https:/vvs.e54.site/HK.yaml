@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰香港家宽HKT 10x - 七点公益, server: time.is, port: 443, type: vmess, uuid: cc26ed8f-4d85-4ec2-8909-1438a049f4dc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hkt.xiaoqi555.xyz, network: ws, ws-opts: {path: /, headers: {Host: hkt.xiaoqi555.xyz}}, udp: true}
-- {name: 🇭🇰香港家宽HGC 10x - 七点公益, server: time.is, port: 443, type: vmess, uuid: cc26ed8f-4d85-4ec2-8909-1438a049f4dc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hgc.xiaoqi555.xyz, network: ws, ws-opts: {path: /, headers: {Host: hgc.xiaoqi555.xyz}}, udp: true}
-- {name: 🇭🇰香港家宽hkbn 10x - 七点公益, server: time.is, port: 443, type: vmess, uuid: cc26ed8f-4d85-4ec2-8909-1438a049f4dc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hkbn.xiaoqi555.xyz, network: ws, ws-opts: {path: /, headers: {Host: hkbn.xiaoqi555.xyz}}, udp: true}
+- {name: 🇭🇰香港家宽HKT 10x - 七点公益, server: time.is, port: 443, type: vmess, uuid: 75dc6415-3ef7-4ec5-bdb6-5ed4668c5132, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hkt.xiaoqi555.xyz, network: ws, ws-opts: {path: /, headers: {Host: hkt.xiaoqi555.xyz}}, udp: true}
+- {name: 🇭🇰香港家宽HGC 10x - 七点公益, server: time.is, port: 443, type: vmess, uuid: 75dc6415-3ef7-4ec5-bdb6-5ed4668c5132, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hgc.xiaoqi555.xyz, network: ws, ws-opts: {path: /, headers: {Host: hgc.xiaoqi555.xyz}}, udp: true}
+- {name: 🇭🇰香港家宽hkbn 10x - 七点公益, server: time.is, port: 443, type: vmess, uuid: 75dc6415-3ef7-4ec5-bdb6-5ed4668c5132, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hkbn.xiaoqi555.xyz, network: ws, ws-opts: {path: /, headers: {Host: hkbn.xiaoqi555.xyz}}, udp: true}
