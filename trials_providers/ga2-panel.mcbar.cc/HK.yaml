@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 维护(HNN-HKG4) - McBar GA, server: advanced-services-henan.mcbar.cc, port: 32217, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
+- {name: 🇭🇰 (进阶)香港HKG3 - McBar GA, server: premium-services-sha2.ga.mcbar.cn, port: 32105, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}

@@ -1,0 +1,7 @@
+%YAML 1.1
+---
+proxies:
+- {name: ℹ️ ⚠️目前已全部使用专线 - 4399, server: hk1.go4399.com, port: 10636, type: ss, cipher: chacha20-ietf-poly1305, password: 6e96282e-91fa-42b8-be4d-73e3c2afe8cd, udp: true}
+- {name: ℹ️ ⚠️无法使用时请更新订阅 - 4399, server: hk1.go4399.com, port: 10636, type: ss, cipher: chacha20-ietf-poly1305, password: 6e96282e-91fa-42b8-be4d-73e3c2afe8cd, udp: true}
+- {name: 🇬🇧 伦敦 - 4399, server: uk1.go4399.com, port: 15258, type: ss, cipher: chacha20-ietf-poly1305, password: 6e96282e-91fa-42b8-be4d-73e3c2afe8cd, udp: true}
+- {name: 🇮🇳 印度 - 4399, server: zf-cm.bgblwow.org, port: 50572, type: ss, cipher: chacha20-ietf-poly1305, password: 6e96282e-91fa-42b8-be4d-73e3c2afe8cd, udp: true}

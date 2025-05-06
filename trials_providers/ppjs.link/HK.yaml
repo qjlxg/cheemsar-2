@@ -1,0 +1,7 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 香港1 - 4399, server: hk1.go4399.com, port: 10636, type: ss, cipher: chacha20-ietf-poly1305, password: 6e96282e-91fa-42b8-be4d-73e3c2afe8cd, udp: true}
+- {name: 🇭🇰 香港2 - 4399, server: hk2.go4399.com, port: 12423, type: ss, cipher: chacha20-ietf-poly1305, password: 6e96282e-91fa-42b8-be4d-73e3c2afe8cd, udp: true}
+- {name: 🇭🇰 香港3 - 4399, server: hk3.go4399.com, port: 14874, type: ss, cipher: chacha20-ietf-poly1305, password: 6e96282e-91fa-42b8-be4d-73e3c2afe8cd, udp: true}
+- {name: 🇭🇰 香港4 - 4399, server: hk4.go4399.com, port: 41607, type: ss, cipher: chacha20-ietf-poly1305, password: 6e96282e-91fa-42b8-be4d-73e3c2afe8cd, udp: true}

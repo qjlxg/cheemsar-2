@@ -29,153 +29,17 @@ proxy-groups:
   - REJECT
 - name: ⚡ ‍低延迟
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id001
-  - ℹ️ 官网：556688.cfd - 魔方云加速
-  - ChatGPT专用 - 魔方云加速
-  - 🇰🇷 韩国-C1S - 魔方云加速
-  - 🇰🇷 韩国-C2S - 魔方云加速
-  - 🇰🇷 韩国-C3S - 魔方云加速
-  - 🇰🇷 韩国-C4S - 魔方云加速
-  - 🇰🇷 韩国-C5S - 魔方云加速
-  - 正式套餐更多节点 - 魔方云加速
-  - 现在是试用套餐 - 魔方云加速
-  - 韩国🇰🇷 - Miao Planet
-  - 澳大利亚🇦🇺 - Miao Planet
-  - 爱尔兰🇮🇪 - Miao Planet
-  - 法国🇫🇷 - Miao Planet
-  - ℹ️ 更新日期：20250429 - 大水牛 Pro
-  - 🇳🇱 荷兰-v6|01*0.5倍率 - 悦云
-  - 🇳🇱 荷兰-v6|02*0.5倍率 - 悦云
-  - 🇳🇱 荷兰-v6|03*0.5倍率 - 悦云
-  - 🇳🇱 荷兰-v6|04*0.5倍率 - 悦云
-  - 🇩🇪 德国-v6|01*0.5倍率 - 悦云
-  - 🇩🇪 德国-v6|02*0.5倍率 - 悦云
-  - 🇩🇪 德国-v6|03*0.5倍率 - 悦云
-  - 🇳🇱 【荷兰05】*0.5倍率 - 悦云
-  - 🇩🇪 【德国06】*0.5倍率 - 悦云
-  - 🇺🇦 (普通)基辅KIV1 - McBar GA
-  - 🇲🇾 (普通)吉隆坡KUL1 - McBar GA
-  - (普通)胡志明SGN1 - McBar GA
-  - 🇰🇷 (普通)首尔ICN1 - McBar GA
-  - 维护(HNN-HND1) - McBar GA
-  - 🇩🇪 (高级)北京法兰克福 PEK-FRA A2 - McBar GA
-  - 🇷🇺 (Intl国际)莫斯科SVO1 - McBar GA
-  - 🇲🇾 (进阶)吉隆坡KUL2 - McBar GA
-  - (进阶)胡志明SGN2 - McBar GA
-  - 🇷🇺 (普通)莫斯科SVO1 - McBar GA
-  - 🇭🇰 香港-C2S - 魔方云加速
-  - 🇭🇰 香港-C3S - 魔方云加速
-  - 🇭🇰 香港-C4S - 魔方云加速
-  - 🇭🇰 香港-C5S - 魔方云加速
-  - 🇭🇰 香港-C6S - 魔方云加速
-  - 🇭🇰 香港-C7S - 魔方云加速
-  - 🇭🇰 [trojan]香港BGP专线IPLC | Dedicated - 50Mbps - X-Speed
-  - 🇭🇰 香港-v6|01 - 悦云
-  - 🇭🇰 香港-v6|02 - 悦云
-  - 🇭🇰 香港-v6|03 - 悦云
-  - 🇭🇰 香港-v6|04 - 悦云
-  - 🇭🇰 香港v6|09 - 悦云
-  - 🇭🇰 香港v6|10 - 悦云
-  - 🇭🇰 香港v6|11 - 悦云
-  - 🇭🇰 香港v6|12 - 悦云
-  - 🇭🇰 香港v6|13 - 悦云
-  - 🇭🇰 香港v6|18 - 悦云
-  - 🇭🇰 香港-v6|05*0.5倍率 - 悦云
-  - 🇭🇰 香港-v6|06 - 悦云
-  - 🇭🇰 香港-v6|07 - 悦云
-  - 🇭🇰 香港-v6|08 - 悦云
-  - 🇭🇰 香港-v4|02 - 悦云
-  - 🇭🇰 香港03 - 悦云
-  - 🇭🇰 维护(HNN-HKG4) - McBar GA
-  - 🇭🇰 (进阶)香港HKG3 - McBar GA
-  - 🇺🇸 美国-A2S - 魔方云加速
-  - 🇺🇸 美国-A3S - 魔方云加速
-  - 🇺🇸 [trojan]美国 - X-Speed
-  - 美国🇺🇸 - Miao Planet
-  - 🇺🇸 美国-v6|03 - 悦云
-  - 🇺🇸 美国-v6|04 - 悦云
-  - 🇺🇸 美国-v6|05 - 悦云
-  - 🇺🇸 美国01 - 悦云
-  - 🇺🇸 美国02 - 悦云
-  - 🇺🇸 美国-v6|01 - 悦云
-  - 🇺🇸 美国04 - 悦云
-  - 🇺🇸 美国05 - 悦云
-  - 🇺🇸 美国07 - 悦云
-  - 🇺🇸 (普通)洛杉矶LAX1 - McBar GA
-  - ℹ️ 🌐官网：古人云.com - 古人云
-  - ℹ️ ✈Telegram群组：@gurenyunvpn - 古人云
-  - ℹ️ ⚠️如果超时请更新订阅 - 古人云
-  - ℹ️ ⚠️更新失败请到官网重新获取订阅链接 - 古人云
-  - ℹ️ 爱站专用，请勿用于其他网站 - 古人云
-  - ℹ️ ⚠️目前已全部使用专线 - 4399
-  - ℹ️ ⚠️无法使用时请更新订阅 - 4399
-  - 🇬🇧 伦敦 - 4399
-  - 🇮🇳 印度 - 4399
-  - ℹ️ 🌐官网：古人云.com - 古人云
-  - ℹ️ ✈Telegram群组：@gurenyunvpn - 古人云
-  - ℹ️ ⚠️如果超时请更新订阅 - 古人云
-  - ℹ️ ⚠️更新失败请到官网重新获取订阅链接 - 古人云
-  - ℹ️ 爱站专用，请勿用于其他网站 - 古人云
-  - ℹ️ ⚠️目前已全部使用专线 - 4399
-  - ℹ️ ⚠️无法使用时请更新订阅 - 4399
-  - 🇬🇧 伦敦 - 4399
-  - 🇮🇳 印度 - 4399
-  - 1.0x 🇭🇰 香港 HK - 1 - 古人云
-  - 1.0x 🇭🇰 香港 HK - 2 - 古人云
-  - 1.0x 🇭🇰 香港 HK - 3 - 古人云
-  - 1.0x 🇭🇰 香港 HK - 4 - 古人云
-  - 🇭🇰 香港1 - 4399
-  - 🇭🇰 香港2 - 4399
-  - 🇭🇰 香港3 - 4399
-  - 🇭🇰 香港4 - 4399
-  - 1.0x 🇭🇰 香港 HK - 1 - 古人云
-  - 1.0x 🇭🇰 香港 HK - 2 - 古人云
-  - 1.0x 🇭🇰 香港 HK - 3 - 古人云
-  - 1.0x 🇭🇰 香港 HK - 4 - 古人云
-  - 🇭🇰 香港1 - 4399
-  - 🇭🇰 香港2 - 4399
-  - 🇭🇰 香港3 - 4399
-  - 🇭🇰 香港4 - 4399
-  - 🇯🇵 [trojan]日本-优化 | Japan-optimization - X-Speed
-  - 日本🇯🇵 - Miao Planet
-  - 🇯🇵 日本-v6|01 - 悦云
-  - 🇯🇵 日本-v6|02 - 悦云
-  - 🇯🇵 日本-v6|04 - 悦云
-  - 🇯🇵 日本-v6|05 - 悦云
-  - 🇯🇵 日本-v6|06 - 悦云
-  - 🇯🇵 日本-v6|07 - 悦云
-  - 🇯🇵 日本01 - 悦云
-  - 🇯🇵 日本02 - 悦云
-  - 🇯🇵 日本03 - 悦云
-  - 🇸🇬 [trojan]新加坡-优化 | Singapore-optimization - X-Speed
-  - 新加坡🇸🇬 - Miao Planet
-  - 🇸🇬 (普通)新加坡SGP1 - McBar GA
-  - 🇸🇬 维护(HNN-SGP2) - McBar GA
-  - 🇸🇬 (进阶)新加坡SGP2 - McBar GA
-  - 🇹🇼 台湾1 - 4399
-  - 🇹🇼 台湾2 - 4399
-  - 🇹🇼 台湾1 - 4399
-  - 🇹🇼 台湾2 - 4399
-  - 🇯🇵 日本1 - 4399
-  - 🇯🇵 日本2 - 4399
-  - 🇯🇵 日本3 - 4399
-  - 🇯🇵 日本1 - 4399
-  - 🇯🇵 日本2 - 4399
-  - 🇯🇵 日本3 - 4399
-  - 🇸🇬 新加坡1 - 4399
-  - 🇸🇬 新加坡2 - 4399
-  - 🇸🇬 新加坡3 - 4399
-  - 🇸🇬 新加坡1 - 4399
-  - 🇸🇬 新加坡2 - 4399
-  - 🇸🇬 新加坡3 - 4399
-  - 🇺🇸 洛杉矶 - 4399
-  - 🇺🇸 洛杉矶 - 4399
+  use: &id001
+  - HK
+  - TW
+  - SG
+  - JP
+  - US
+  - Other
 - name: 👆🏻 ‍指定
   type: select
-  proxies: *id001
+  use: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -224,367 +88,116 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id002
-  - 🇭🇰 香港-C2S - 魔方云加速
-  - 🇭🇰 香港-C3S - 魔方云加速
-  - 🇭🇰 香港-C4S - 魔方云加速
-  - 🇭🇰 香港-C5S - 魔方云加速
-  - 🇭🇰 香港-C6S - 魔方云加速
-  - 🇭🇰 香港-C7S - 魔方云加速
-  - 🇭🇰 [trojan]香港BGP专线IPLC | Dedicated - 50Mbps - X-Speed
-  - 🇭🇰 香港-v6|01 - 悦云
-  - 🇭🇰 香港-v6|02 - 悦云
-  - 🇭🇰 香港-v6|03 - 悦云
-  - 🇭🇰 香港-v6|04 - 悦云
-  - 🇭🇰 香港v6|09 - 悦云
-  - 🇭🇰 香港v6|10 - 悦云
-  - 🇭🇰 香港v6|11 - 悦云
-  - 🇭🇰 香港v6|12 - 悦云
-  - 🇭🇰 香港v6|13 - 悦云
-  - 🇭🇰 香港v6|18 - 悦云
-  - 🇭🇰 香港-v6|05*0.5倍率 - 悦云
-  - 🇭🇰 香港-v6|06 - 悦云
-  - 🇭🇰 香港-v6|07 - 悦云
-  - 🇭🇰 香港-v6|08 - 悦云
-  - 🇭🇰 香港-v4|02 - 悦云
-  - 🇭🇰 香港03 - 悦云
-  - 🇭🇰 维护(HNN-HKG4) - McBar GA
-  - 🇭🇰 (进阶)香港HKG3 - McBar GA
-  - 1.0x 🇭🇰 香港 HK - 1 - 古人云
-  - 1.0x 🇭🇰 香港 HK - 2 - 古人云
-  - 1.0x 🇭🇰 香港 HK - 3 - 古人云
-  - 1.0x 🇭🇰 香港 HK - 4 - 古人云
-  - 🇭🇰 香港1 - 4399
-  - 🇭🇰 香港2 - 4399
-  - 🇭🇰 香港3 - 4399
-  - 🇭🇰 香港4 - 4399
-  - 1.0x 🇭🇰 香港 HK - 1 - 古人云
-  - 1.0x 🇭🇰 香港 HK - 2 - 古人云
-  - 1.0x 🇭🇰 香港 HK - 3 - 古人云
-  - 1.0x 🇭🇰 香港 HK - 4 - 古人云
-  - 🇭🇰 香港1 - 4399
-  - 🇭🇰 香港2 - 4399
-  - 🇭🇰 香港3 - 4399
-  - 🇭🇰 香港4 - 4399
+  use: &id002
+  - HK
 - name: 🇹🇼 ‍台湾
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id003
-  - 🇹🇼 台湾1 - 4399
-  - 🇹🇼 台湾2 - 4399
-  - 🇹🇼 台湾1 - 4399
-  - 🇹🇼 台湾2 - 4399
+  use: &id003
+  - TW
 - name: 🇨🇳 ‍中国
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id004
-  - 🇭🇰 香港-C2S - 魔方云加速
-  - 🇭🇰 香港-C3S - 魔方云加速
-  - 🇭🇰 香港-C4S - 魔方云加速
-  - 🇭🇰 香港-C5S - 魔方云加速
-  - 🇭🇰 香港-C6S - 魔方云加速
-  - 🇭🇰 香港-C7S - 魔方云加速
-  - 🇭🇰 [trojan]香港BGP专线IPLC | Dedicated - 50Mbps - X-Speed
-  - 🇭🇰 香港-v6|01 - 悦云
-  - 🇭🇰 香港-v6|02 - 悦云
-  - 🇭🇰 香港-v6|03 - 悦云
-  - 🇭🇰 香港-v6|04 - 悦云
-  - 🇭🇰 香港v6|09 - 悦云
-  - 🇭🇰 香港v6|10 - 悦云
-  - 🇭🇰 香港v6|11 - 悦云
-  - 🇭🇰 香港v6|12 - 悦云
-  - 🇭🇰 香港v6|13 - 悦云
-  - 🇭🇰 香港v6|18 - 悦云
-  - 🇭🇰 香港-v6|05*0.5倍率 - 悦云
-  - 🇭🇰 香港-v6|06 - 悦云
-  - 🇭🇰 香港-v6|07 - 悦云
-  - 🇭🇰 香港-v6|08 - 悦云
-  - 🇭🇰 香港-v4|02 - 悦云
-  - 🇭🇰 香港03 - 悦云
-  - 🇭🇰 维护(HNN-HKG4) - McBar GA
-  - 🇭🇰 (进阶)香港HKG3 - McBar GA
-  - 1.0x 🇭🇰 香港 HK - 1 - 古人云
-  - 1.0x 🇭🇰 香港 HK - 2 - 古人云
-  - 1.0x 🇭🇰 香港 HK - 3 - 古人云
-  - 1.0x 🇭🇰 香港 HK - 4 - 古人云
-  - 🇭🇰 香港1 - 4399
-  - 🇭🇰 香港2 - 4399
-  - 🇭🇰 香港3 - 4399
-  - 🇭🇰 香港4 - 4399
-  - 1.0x 🇭🇰 香港 HK - 1 - 古人云
-  - 1.0x 🇭🇰 香港 HK - 2 - 古人云
-  - 1.0x 🇭🇰 香港 HK - 3 - 古人云
-  - 1.0x 🇭🇰 香港 HK - 4 - 古人云
-  - 🇭🇰 香港1 - 4399
-  - 🇭🇰 香港2 - 4399
-  - 🇭🇰 香港3 - 4399
-  - 🇭🇰 香港4 - 4399
-  - 🇹🇼 台湾1 - 4399
-  - 🇹🇼 台湾2 - 4399
-  - 🇹🇼 台湾1 - 4399
-  - 🇹🇼 台湾2 - 4399
+  use: &id004
+  - HK
+  - TW
 - name: 🇸🇬 ‍新加坡
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id005
-  - 🇸🇬 [trojan]新加坡-优化 | Singapore-optimization - X-Speed
-  - 新加坡🇸🇬 - Miao Planet
-  - 🇸🇬 (普通)新加坡SGP1 - McBar GA
-  - 🇸🇬 维护(HNN-SGP2) - McBar GA
-  - 🇸🇬 (进阶)新加坡SGP2 - McBar GA
-  - 🇸🇬 新加坡1 - 4399
-  - 🇸🇬 新加坡2 - 4399
-  - 🇸🇬 新加坡3 - 4399
-  - 🇸🇬 新加坡1 - 4399
-  - 🇸🇬 新加坡2 - 4399
-  - 🇸🇬 新加坡3 - 4399
+  use: &id005
+  - SG
 - name: 🇯🇵 ‍日本
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id006
-  - 🇯🇵 [trojan]日本-优化 | Japan-optimization - X-Speed
-  - 日本🇯🇵 - Miao Planet
-  - 🇯🇵 日本-v6|01 - 悦云
-  - 🇯🇵 日本-v6|02 - 悦云
-  - 🇯🇵 日本-v6|04 - 悦云
-  - 🇯🇵 日本-v6|05 - 悦云
-  - 🇯🇵 日本-v6|06 - 悦云
-  - 🇯🇵 日本-v6|07 - 悦云
-  - 🇯🇵 日本01 - 悦云
-  - 🇯🇵 日本02 - 悦云
-  - 🇯🇵 日本03 - 悦云
-  - 🇯🇵 日本1 - 4399
-  - 🇯🇵 日本2 - 4399
-  - 🇯🇵 日本3 - 4399
-  - 🇯🇵 日本1 - 4399
-  - 🇯🇵 日本2 - 4399
-  - 🇯🇵 日本3 - 4399
+  use: &id006
+  - JP
 - name: 🇺🇸 ‍美国
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 300
-  proxies: &id007
-  - 🇺🇸 美国-A2S - 魔方云加速
-  - 🇺🇸 美国-A3S - 魔方云加速
-  - 🇺🇸 [trojan]美国 - X-Speed
-  - 美国🇺🇸 - Miao Planet
-  - 🇺🇸 美国-v6|03 - 悦云
-  - 🇺🇸 美国-v6|04 - 悦云
-  - 🇺🇸 美国-v6|05 - 悦云
-  - 🇺🇸 美国01 - 悦云
-  - 🇺🇸 美国02 - 悦云
-  - 🇺🇸 美国-v6|01 - 悦云
-  - 🇺🇸 美国04 - 悦云
-  - 🇺🇸 美国05 - 悦云
-  - 🇺🇸 美国07 - 悦云
-  - 🇺🇸 (普通)洛杉矶LAX1 - McBar GA
-  - 🇺🇸 洛杉矶 - 4399
-  - 🇺🇸 洛杉矶 - 4399
+  use: &id007
+  - US
 - name: 🎏 ‍其他
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id008
-  - ℹ️ 官网：556688.cfd - 魔方云加速
-  - ChatGPT专用 - 魔方云加速
-  - 🇰🇷 韩国-C1S - 魔方云加速
-  - 🇰🇷 韩国-C2S - 魔方云加速
-  - 🇰🇷 韩国-C3S - 魔方云加速
-  - 🇰🇷 韩国-C4S - 魔方云加速
-  - 🇰🇷 韩国-C5S - 魔方云加速
-  - 正式套餐更多节点 - 魔方云加速
-  - 现在是试用套餐 - 魔方云加速
-  - 韩国🇰🇷 - Miao Planet
-  - 澳大利亚🇦🇺 - Miao Planet
-  - 爱尔兰🇮🇪 - Miao Planet
-  - 法国🇫🇷 - Miao Planet
-  - ℹ️ 更新日期：20250429 - 大水牛 Pro
-  - 🇳🇱 荷兰-v6|01*0.5倍率 - 悦云
-  - 🇳🇱 荷兰-v6|02*0.5倍率 - 悦云
-  - 🇳🇱 荷兰-v6|03*0.5倍率 - 悦云
-  - 🇳🇱 荷兰-v6|04*0.5倍率 - 悦云
-  - 🇩🇪 德国-v6|01*0.5倍率 - 悦云
-  - 🇩🇪 德国-v6|02*0.5倍率 - 悦云
-  - 🇩🇪 德国-v6|03*0.5倍率 - 悦云
-  - 🇳🇱 【荷兰05】*0.5倍率 - 悦云
-  - 🇩🇪 【德国06】*0.5倍率 - 悦云
-  - 🇺🇦 (普通)基辅KIV1 - McBar GA
-  - 🇲🇾 (普通)吉隆坡KUL1 - McBar GA
-  - (普通)胡志明SGN1 - McBar GA
-  - 🇰🇷 (普通)首尔ICN1 - McBar GA
-  - 维护(HNN-HND1) - McBar GA
-  - 🇩🇪 (高级)北京法兰克福 PEK-FRA A2 - McBar GA
-  - 🇷🇺 (Intl国际)莫斯科SVO1 - McBar GA
-  - 🇲🇾 (进阶)吉隆坡KUL2 - McBar GA
-  - (进阶)胡志明SGN2 - McBar GA
-  - 🇷🇺 (普通)莫斯科SVO1 - McBar GA
-  - ℹ️ 🌐官网：古人云.com - 古人云
-  - ℹ️ ✈Telegram群组：@gurenyunvpn - 古人云
-  - ℹ️ ⚠️如果超时请更新订阅 - 古人云
-  - ℹ️ ⚠️更新失败请到官网重新获取订阅链接 - 古人云
-  - ℹ️ 爱站专用，请勿用于其他网站 - 古人云
-  - ℹ️ ⚠️目前已全部使用专线 - 4399
-  - ℹ️ ⚠️无法使用时请更新订阅 - 4399
-  - 🇬🇧 伦敦 - 4399
-  - 🇮🇳 印度 - 4399
-  - ℹ️ 🌐官网：古人云.com - 古人云
-  - ℹ️ ✈Telegram群组：@gurenyunvpn - 古人云
-  - ℹ️ ⚠️如果超时请更新订阅 - 古人云
-  - ℹ️ ⚠️更新失败请到官网重新获取订阅链接 - 古人云
-  - ℹ️ 爱站专用，请勿用于其他网站 - 古人云
-  - ℹ️ ⚠️目前已全部使用专线 - 4399
-  - ℹ️ ⚠️无法使用时请更新订阅 - 4399
-  - 🇬🇧 伦敦 - 4399
-  - 🇮🇳 印度 - 4399
+  use: &id008
+  - Other
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  proxies: *id002
+  use: *id002
 - name: 👆🏻🇹🇼 ‍台湾
   type: select
-  proxies: *id003
+  use: *id003
 - name: 👆🏻🇨🇳 ‍中国
   type: select
-  proxies: *id004
+  use: *id004
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  proxies: *id005
+  use: *id005
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  proxies: *id006
+  use: *id006
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id007
+  use: *id007
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id008
-proxies:
-- {name: ℹ️ 官网：556688.cfd - 魔方云加速, server: nc-56112-51122.mofangfree.online, port: 44325, type: ss, cipher: aes-128-gcm, password: e762a616-e1ec-43fa-a3d6-d4957802ff77, udp: true}
-- {name: ChatGPT专用 - 魔方云加速, server: nc-56112-51122.mofangfree.online, port: 44325, type: ss, cipher: aes-128-gcm, password: e762a616-e1ec-43fa-a3d6-d4957802ff77, udp: true}
-- {name: 🇰🇷 韩国-C1S - 魔方云加速, server: nc-56112-51122.mofangfree.online, port: 44300, type: ss, cipher: chacha20-ietf-poly1305, password: e762a616-e1ec-43fa-a3d6-d4957802ff77, udp: true}
-- {name: 🇰🇷 韩国-C2S - 魔方云加速, server: nc-56112-51122.mofangfree.online, port: 44301, type: ss, cipher: chacha20-ietf-poly1305, password: e762a616-e1ec-43fa-a3d6-d4957802ff77, udp: true}
-- {name: 🇰🇷 韩国-C3S - 魔方云加速, server: nc-56112-51122.mofangfree.online, port: 44302, type: ss, cipher: chacha20-ietf-poly1305, password: e762a616-e1ec-43fa-a3d6-d4957802ff77, udp: true}
-- {name: 🇰🇷 韩国-C4S - 魔方云加速, server: nc-56112-51122.mofangfree.online, port: 44303, type: ss, cipher: chacha20-ietf-poly1305, password: e762a616-e1ec-43fa-a3d6-d4957802ff77, udp: true}
-- {name: 🇰🇷 韩国-C5S - 魔方云加速, server: nc-56112-51122.mofangfree.online, port: 44304, type: ss, cipher: chacha20-ietf-poly1305, password: e762a616-e1ec-43fa-a3d6-d4957802ff77, udp: true}
-- {name: 正式套餐更多节点 - 魔方云加速, server: nc-56112-51122.mofangfree.online, port: 23111, type: ss, cipher: chacha20-ietf-poly1305, password: e762a616-e1ec-43fa-a3d6-d4957802ff77, udp: true}
-- {name: 现在是试用套餐 - 魔方云加速, server: nc-56112-51122.mofangfree.online, port: 23111, type: ss, cipher: chacha20-ietf-poly1305, password: e762a616-e1ec-43fa-a3d6-d4957802ff77, udp: true}
-- {name: 🇭🇰 香港-C2S - 魔方云加速, server: nc-56112-51122.mofangfree.online, port: 23111, type: ss, cipher: chacha20-ietf-poly1305, password: e762a616-e1ec-43fa-a3d6-d4957802ff77, udp: true}
-- {name: 🇭🇰 香港-C3S - 魔方云加速, server: nc-56112-51122.mofangfree.online, port: 23112, type: ss, cipher: chacha20-ietf-poly1305, password: e762a616-e1ec-43fa-a3d6-d4957802ff77, udp: true}
-- {name: 🇭🇰 香港-C4S - 魔方云加速, server: nc-56112-51122.mofangfree.online, port: 23113, type: ss, cipher: chacha20-ietf-poly1305, password: e762a616-e1ec-43fa-a3d6-d4957802ff77, udp: true}
-- {name: 🇭🇰 香港-C5S - 魔方云加速, server: nc-56112-51122.mofangfree.online, port: 23114, type: ss, cipher: chacha20-ietf-poly1305, password: e762a616-e1ec-43fa-a3d6-d4957802ff77, udp: true}
-- {name: 🇭🇰 香港-C6S - 魔方云加速, server: nc-56112-51122.mofangfree.online, port: 23115, type: ss, cipher: chacha20-ietf-poly1305, password: e762a616-e1ec-43fa-a3d6-d4957802ff77, udp: true}
-- {name: 🇭🇰 香港-C7S - 魔方云加速, server: nc-56112-51122.mofangfree.online, port: 23116, type: ss, cipher: chacha20-ietf-poly1305, password: e762a616-e1ec-43fa-a3d6-d4957802ff77, udp: true}
-- {name: 🇺🇸 美国-A2S - 魔方云加速, server: nc-56112-51122.mofangfree.online, port: 23117, type: ss, cipher: aes-128-gcm, password: e762a616-e1ec-43fa-a3d6-d4957802ff77, udp: true}
-- {name: 🇺🇸 美国-A3S - 魔方云加速, server: nc-56112-51122.mofangfree.online, port: 23117, type: ss, cipher: aes-128-gcm, password: e762a616-e1ec-43fa-a3d6-d4957802ff77, udp: true}
-- {name: ℹ️ 🌐官网：古人云.com - 古人云, server: transfer1.qfyun.live, port: 60850, type: ss, cipher: chacha20-ietf-poly1305, password: 0e5f33e3-f578-4004-bbc6-961aaf6c60ca, udp: true}
-- {name: ℹ️ ✈Telegram群组：@gurenyunvpn - 古人云, server: transfer1.qfyun.live, port: 60850, type: ss, cipher: chacha20-ietf-poly1305, password: 0e5f33e3-f578-4004-bbc6-961aaf6c60ca, udp: true}
-- {name: ℹ️ ⚠️如果超时请更新订阅 - 古人云, server: transfer1.qfyun.live, port: 60850, type: ss, cipher: chacha20-ietf-poly1305, password: 0e5f33e3-f578-4004-bbc6-961aaf6c60ca, udp: true}
-- {name: ℹ️ ⚠️更新失败请到官网重新获取订阅链接 - 古人云, server: transfer1.qfyun.live, port: 60850, type: ss, cipher: chacha20-ietf-poly1305, password: 0e5f33e3-f578-4004-bbc6-961aaf6c60ca, udp: true}
-- {name: ℹ️ 爱站专用，请勿用于其他网站 - 古人云, server: transfer1.qfyun.live, port: 60850, type: ss, cipher: chacha20-ietf-poly1305, password: 0e5f33e3-f578-4004-bbc6-961aaf6c60ca, udp: true}
-- {name: 1.0x 🇭🇰 香港 HK - 1 - 古人云, server: transfer1.qfyun.live, port: 60850, type: ss, cipher: chacha20-ietf-poly1305, password: 0e5f33e3-f578-4004-bbc6-961aaf6c60ca, udp: true}
-- {name: 1.0x 🇭🇰 香港 HK - 2 - 古人云, server: transfer1.qfyun.live, port: 60850, type: ss, cipher: chacha20-ietf-poly1305, password: 0e5f33e3-f578-4004-bbc6-961aaf6c60ca, udp: true}
-- {name: 1.0x 🇭🇰 香港 HK - 3 - 古人云, server: transfer2.qfyun.live, port: 60850, type: ss, cipher: chacha20-ietf-poly1305, password: 0e5f33e3-f578-4004-bbc6-961aaf6c60ca, udp: true}
-- {name: 1.0x 🇭🇰 香港 HK - 4 - 古人云, server: transfer2.qfyun.live, port: 60850, type: ss, cipher: chacha20-ietf-poly1305, password: 0e5f33e3-f578-4004-bbc6-961aaf6c60ca, udp: true}
-- {name: '🇯🇵 [trojan]日本-优化 | Japan-optimization - X-Speed', server: jp3.3224536.xyz, port: 443, type: trojan, password: 7bf0d536-f3fd-4e2f-b51a-b0c5ad5bad47, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [trojan]新加坡-优化 | Singapore-optimization - X-Speed', server: sg1.3224536.xyz, port: 443, type: trojan, password: 7bf0d536-f3fd-4e2f-b51a-b0c5ad5bad47, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [trojan]香港BGP专线IPLC | Dedicated - 50Mbps - X-Speed', server: bgp2.3224536.xyz, port: 443, type: trojan, password: 7bf0d536-f3fd-4e2f-b51a-b0c5ad5bad47, skip-cert-verify: true, udp: true}
-- {name: '🇺🇸 [trojan]美国 - X-Speed', server: us1.3224536.xyz, port: 443, type: trojan, password: 7bf0d536-f3fd-4e2f-b51a-b0c5ad5bad47, skip-cert-verify: true, udp: true}
-- {name: 韩国🇰🇷 - Miao Planet, server: ko.miaonode.com, port: 8787, type: ss, cipher: chacha20-ietf-poly1305, password: 9303cc82-f627-42c2-9cc2-063b70720162, udp: true}
-- {name: 澳大利亚🇦🇺 - Miao Planet, server: sydney.miaonode.com, port: 8787, type: ss, cipher: chacha20-ietf-poly1305, password: 9303cc82-f627-42c2-9cc2-063b70720162, udp: true}
-- {name: 爱尔兰🇮🇪 - Miao Planet, server: ireland.miaonode.com, port: 8787, type: ss, cipher: chacha20-ietf-poly1305, password: 9303cc82-f627-42c2-9cc2-063b70720162, udp: true}
-- {name: 法国🇫🇷 - Miao Planet, server: paris.miaonode.com, port: 8787, type: ss, cipher: chacha20-ietf-poly1305, password: 9303cc82-f627-42c2-9cc2-063b70720162, udp: true}
-- {name: 日本🇯🇵 - Miao Planet, server: jp.miaonode.com, port: 9527, type: ss, cipher: chacha20-ietf-poly1305, password: 9303cc82-f627-42c2-9cc2-063b70720162, udp: true}
-- {name: 新加坡🇸🇬 - Miao Planet, server: sg01.miaonode.com, port: 8787, type: ss, cipher: chacha20-ietf-poly1305, password: 9303cc82-f627-42c2-9cc2-063b70720162, udp: true}
-- {name: 美国🇺🇸 - Miao Planet, server: us.miaonode.com, port: 8787, type: ss, cipher: chacha20-ietf-poly1305, password: 9303cc82-f627-42c2-9cc2-063b70720162, udp: true}
-- {name: ℹ️ ⚠️目前已全部使用专线 - 4399, server: hk1.go4399.com, port: 10636, type: ss, cipher: chacha20-ietf-poly1305, password: 6e96282e-91fa-42b8-be4d-73e3c2afe8cd, udp: true}
-- {name: ℹ️ ⚠️无法使用时请更新订阅 - 4399, server: hk1.go4399.com, port: 10636, type: ss, cipher: chacha20-ietf-poly1305, password: 6e96282e-91fa-42b8-be4d-73e3c2afe8cd, udp: true}
-- {name: 🇬🇧 伦敦 - 4399, server: uk1.go4399.com, port: 15258, type: ss, cipher: chacha20-ietf-poly1305, password: 6e96282e-91fa-42b8-be4d-73e3c2afe8cd, udp: true}
-- {name: 🇮🇳 印度 - 4399, server: zf-cm.bgblwow.org, port: 50572, type: ss, cipher: chacha20-ietf-poly1305, password: 6e96282e-91fa-42b8-be4d-73e3c2afe8cd, udp: true}
-- {name: 🇭🇰 香港1 - 4399, server: hk1.go4399.com, port: 10636, type: ss, cipher: chacha20-ietf-poly1305, password: 6e96282e-91fa-42b8-be4d-73e3c2afe8cd, udp: true}
-- {name: 🇭🇰 香港2 - 4399, server: hk2.go4399.com, port: 12423, type: ss, cipher: chacha20-ietf-poly1305, password: 6e96282e-91fa-42b8-be4d-73e3c2afe8cd, udp: true}
-- {name: 🇭🇰 香港3 - 4399, server: hk3.go4399.com, port: 14874, type: ss, cipher: chacha20-ietf-poly1305, password: 6e96282e-91fa-42b8-be4d-73e3c2afe8cd, udp: true}
-- {name: 🇭🇰 香港4 - 4399, server: hk4.go4399.com, port: 41607, type: ss, cipher: chacha20-ietf-poly1305, password: 6e96282e-91fa-42b8-be4d-73e3c2afe8cd, udp: true}
-- {name: 🇹🇼 台湾1 - 4399, server: tw1.go4399.com, port: 13824, type: ss, cipher: chacha20-ietf-poly1305, password: 6e96282e-91fa-42b8-be4d-73e3c2afe8cd, udp: true}
-- {name: 🇹🇼 台湾2 - 4399, server: tw2.go4399.com, port: 16322, type: ss, cipher: chacha20-ietf-poly1305, password: 6e96282e-91fa-42b8-be4d-73e3c2afe8cd, udp: true}
-- {name: 🇯🇵 日本1 - 4399, server: jp1.go4399.com, port: 59710, type: ss, cipher: chacha20-ietf-poly1305, password: 6e96282e-91fa-42b8-be4d-73e3c2afe8cd, udp: true}
-- {name: 🇯🇵 日本2 - 4399, server: jp2.go4399.com, port: 13325, type: ss, cipher: chacha20-ietf-poly1305, password: 6e96282e-91fa-42b8-be4d-73e3c2afe8cd, udp: true}
-- {name: 🇯🇵 日本3 - 4399, server: jp3.go4399.com, port: 57588, type: ss, cipher: chacha20-ietf-poly1305, password: 6e96282e-91fa-42b8-be4d-73e3c2afe8cd, udp: true}
-- {name: 🇸🇬 新加坡1 - 4399, server: sg1.go4399.com, port: 16749, type: ss, cipher: chacha20-ietf-poly1305, password: 6e96282e-91fa-42b8-be4d-73e3c2afe8cd, udp: true}
-- {name: 🇸🇬 新加坡2 - 4399, server: sg2.go4399.com, port: 13470, type: ss, cipher: chacha20-ietf-poly1305, password: 6e96282e-91fa-42b8-be4d-73e3c2afe8cd, udp: true}
-- {name: 🇸🇬 新加坡3 - 4399, server: sg3.go4399.com, port: 16749, type: ss, cipher: chacha20-ietf-poly1305, password: 6e96282e-91fa-42b8-be4d-73e3c2afe8cd, udp: true}
-- {name: 🇺🇸 洛杉矶 - 4399, server: us1.go4399.com, port: 16409, type: ss, cipher: chacha20-ietf-poly1305, password: 6e96282e-91fa-42b8-be4d-73e3c2afe8cd, udp: true}
-- {name: ℹ️ 更新日期：20250429 - 大水牛 Pro, server: 255.255.111.110, port: 61, type: trojan, password: fa7552ee-cb49-4ec9-a34b-1f276563ddf9, skip-cert-verify: true, udp: true}
-- {name: 🇳🇱 荷兰-v6|01*0.5倍率 - 悦云, server: naran1.616626.xyz, port: 22305, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇳🇱 荷兰-v6|02*0.5倍率 - 悦云, server: naran2.616626.xyz, port: 22306, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇳🇱 荷兰-v6|03*0.5倍率 - 悦云, server: naran3.616626.xyz, port: 22308, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇳🇱 荷兰-v6|04*0.5倍率 - 悦云, server: naran4.616626.xyz, port: 22310, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国-v6|01*0.5倍率 - 悦云, server: netcp1.616626.xyz, port: 22305, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国-v6|02*0.5倍率 - 悦云, server: netcp2.616626.xyz, port: 22306, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国-v6|03*0.5倍率 - 悦云, server: netcp3.616626.xyz, port: 22307, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇳🇱 【荷兰05】*0.5倍率 - 悦云, server: nara.189.ovh, port: 10027, type: trojan, password: 7ca0d958-f65d-44e1-a122-a781750200c0, sni: nara.189.ovh, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 【德国06】*0.5倍率 - 悦云, server: netcp4.616626.xyz, port: 10027, type: trojan, password: 7ca0d958-f65d-44e1-a122-a781750200c0, sni: netcp4.616626.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国-v6|03 - 悦云, server: dmitv62.616626.xyz, port: 22306, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国-v6|04 - 悦云, server: dmitv63.616626.xyz, port: 22307, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国-v6|05 - 悦云, server: dmitv64.616626.xyz, port: 22309, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港-v6|01 - 悦云, server: hosyun6.91ai.de, port: 22307, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港-v6|02 - 悦云, server: hostip1.668918.xyz, port: 22308, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港-v6|03 - 悦云, server: hostip2.668918.xyz, port: 22309, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港-v6|04 - 悦云, server: hostip3.668918.xyz, port: 22310, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港v6|09 - 悦云, server: khanhk6.668918.xyz, port: 10211, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港v6|10 - 悦云, server: hkvm61.656888.xyz, port: 6666, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港v6|11 - 悦云, server: hkvm62.656888.xyz, port: 10022, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港v6|12 - 悦云, server: hkvm63.656888.xyz, port: 6667, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港v6|13 - 悦云, server: hkvm64.656888.xyz, port: 6668, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港v6|18 - 悦云, server: hytrob.656888.xyz, port: 6668, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本-v6|01 - 悦云, server: greenchais1.668918.xyz, port: 22306, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本-v6|02 - 悦云, server: greenchais2.668918.xyz, port: 22307, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本-v6|04 - 悦云, server: greenip1.668918.xyz, port: 22306, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本-v6|05 - 悦云, server: greenip2.668918.xyz, port: 22307, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本-v6|06 - 悦云, server: greenip3.668918.xyz, port: 22308, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本-v6|07 - 悦云, server: vpsjp1.668918.xyz, port: 22306, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港-v6|05*0.5倍率 - 悦云, server: nathk.91ai.de, port: 18002, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港-v6|06 - 悦云, server: greenhk0.616626.xyz, port: 10505, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港-v6|07 - 悦云, server: greenhk1.616626.xyz, port: 10506, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港-v6|08 - 悦云, server: greenhk2.616626.xyz, port: 10507, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港-v4|02 - 悦云, server: hkvm4.656888.xyz, port: 30026, type: trojan, password: 7ca0d958-f65d-44e1-a122-a781750200c0, sni: hkvm4.656888.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港03 - 悦云, server: hytro.91ai.de, port: 10022, type: trojan, password: 7ca0d958-f65d-44e1-a122-a781750200c0, sni: hytro.91ai.de, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本01 - 悦云, server: greenjp2.yueyun.de, port: 11030, type: trojan, password: 7ca0d958-f65d-44e1-a122-a781750200c0, sni: greenjp2.yueyun.de, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本02 - 悦云, server: vpsjp.yueyun.de, port: 13036, type: trojan, password: 7ca0d958-f65d-44e1-a122-a781750200c0, sni: vpsjp.yueyun.de, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本03 - 悦云, server: cloud.yueyun.de, port: 10389, type: trojan, password: 7ca0d958-f65d-44e1-a122-a781750200c0, sni: cloud.yueyun.de, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国01 - 悦云, server: vir732.189.ovh, port: 10026, type: trojan, password: 7ca0d958-f65d-44e1-a122-a781750200c0, sni: vir732.189.ovh, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国02 - 悦云, server: vir11.189.ovh, port: 10022, type: trojan, password: 7ca0d958-f65d-44e1-a122-a781750200c0, sni: vir11.189.ovh, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国-v6|01 - 悦云, server: crun6.668918.xyz, port: 22308, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国04 - 悦云, server: layercloud.189.ovh, port: 10021, type: trojan, password: 7ca0d958-f65d-44e1-a122-a781750200c0, sni: layercloud.189.ovh, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国05 - 悦云, server: advin.189.ovh, port: 10027, type: trojan, password: 7ca0d958-f65d-44e1-a122-a781750200c0, sni: advin.189.ovh, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国07 - 悦云, server: vir694.189.ovh, port: 10021, type: trojan, password: 7ca0d958-f65d-44e1-a122-a781750200c0, sni: vir694.189.ovh, skip-cert-verify: true, udp: true}
-- {name: 🇺🇦 (普通)基辅KIV1 - McBar GA, server: standard-services-alpha.ga.mcbar.cn, port: 32205, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
-- {name: 🇲🇾 (普通)吉隆坡KUL1 - McBar GA, server: standard-services-alpha.ga.mcbar.cn, port: 32152, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
-- {name: (普通)胡志明SGN1 - McBar GA, server: standard-services-alpha.ga.mcbar.cn, port: 32071, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
-- {name: 🇰🇷 (普通)首尔ICN1 - McBar GA, server: standard-services-alpha.ga.mcbar.cn, port: 32708, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
-- {name: 维护(HNN-HND1) - McBar GA, server: advanced-services-henan.mcbar.cc, port: 32218, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
-- {name: 🇩🇪 (高级)北京法兰克福 PEK-FRA A2 - McBar GA, server: peking-services-cu.ga.mcbar.cn, port: 13392, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
-- {name: 🇷🇺 (Intl国际)莫斯科SVO1 - McBar GA, server: intl-mos.ia.mcbar.cc, port: 32711, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
-- {name: 🇲🇾 (进阶)吉隆坡KUL2 - McBar GA, server: premium-services-sha2.ga.mcbar.cn, port: 32152, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
-- {name: (进阶)胡志明SGN2 - McBar GA, server: premium-services-sha2.ga.mcbar.cn, port: 32071, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
-- {name: 🇷🇺 (普通)莫斯科SVO1 - McBar GA, server: standard-services-alpha.ga.mcbar.cn, port: 32711, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
-- {name: 🇸🇬 (普通)新加坡SGP1 - McBar GA, server: standard-services-alpha.ga.mcbar.cn, port: 32088, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
-- {name: 🇺🇸 (普通)洛杉矶LAX1 - McBar GA, server: standard-services-alpha.ga.mcbar.cn, port: 32501, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
-- {name: 🇸🇬 维护(HNN-SGP2) - McBar GA, server: advanced-services-henan.mcbar.cc, port: 32215, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
-- {name: 🇭🇰 维护(HNN-HKG4) - McBar GA, server: advanced-services-henan.mcbar.cc, port: 32217, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
-- {name: 🇸🇬 (进阶)新加坡SGP2 - McBar GA, server: premium-services-sha2.ga.mcbar.cn, port: 32088, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
-- {name: 🇭🇰 (进阶)香港HKG3 - McBar GA, server: premium-services-sha2.ga.mcbar.cn, port: 32105, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
+  use: *id008
+proxy-providers:
+  HK:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/www.ppjs.link/HK.yaml
+    interval: 180
+    path: trials_providers/www.ppjs.link/HK.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  TW:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/www.ppjs.link/TW.yaml
+    interval: 180
+    path: trials_providers/www.ppjs.link/TW.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  SG:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/www.ppjs.link/SG.yaml
+    interval: 180
+    path: trials_providers/www.ppjs.link/SG.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  JP:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/www.ppjs.link/JP.yaml
+    interval: 180
+    path: trials_providers/www.ppjs.link/JP.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  US:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/www.ppjs.link/US.yaml
+    interval: 180
+    path: trials_providers/www.ppjs.link/US.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  Other:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/www.ppjs.link/Other.yaml
+    interval: 180
+    path: trials_providers/www.ppjs.link/Other.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

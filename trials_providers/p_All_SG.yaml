@@ -1,0 +1,8 @@
+%YAML 1.1
+---
+proxies:
+- {name: '🇸🇬 [trojan]新加坡-优化 | Singapore-optimization - X-Speed', server: sg1.3224536.xyz, port: 443, type: trojan, password: 7bf0d536-f3fd-4e2f-b51a-b0c5ad5bad47, skip-cert-verify: true, udp: true}
+- {name: 新加坡🇸🇬 - Miao Planet, server: sg01.miaonode.com, port: 8787, type: ss, cipher: chacha20-ietf-poly1305, password: 9303cc82-f627-42c2-9cc2-063b70720162, udp: true}
+- {name: 🇸🇬 (普通)新加坡SGP1 - McBar GA, server: standard-services-alpha.ga.mcbar.cn, port: 32088, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
+- {name: 🇸🇬 维护(HNN-SGP2) - McBar GA, server: advanced-services-henan.mcbar.cc, port: 32215, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
+- {name: 🇸🇬 (进阶)新加坡SGP2 - McBar GA, server: premium-services-sha2.ga.mcbar.cn, port: 32088, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}

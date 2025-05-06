@@ -1,0 +1,13 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇦 (普通)基辅KIV1 - McBar GA, server: standard-services-alpha.ga.mcbar.cn, port: 32205, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
+- {name: 🇲🇾 (普通)吉隆坡KUL1 - McBar GA, server: standard-services-alpha.ga.mcbar.cn, port: 32152, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
+- {name: (普通)胡志明SGN1 - McBar GA, server: standard-services-alpha.ga.mcbar.cn, port: 32071, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
+- {name: 🇰🇷 (普通)首尔ICN1 - McBar GA, server: standard-services-alpha.ga.mcbar.cn, port: 32708, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
+- {name: 维护(HNN-HND1) - McBar GA, server: advanced-services-henan.mcbar.cc, port: 32218, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
+- {name: 🇩🇪 (高级)北京法兰克福 PEK-FRA A2 - McBar GA, server: peking-services-cu.ga.mcbar.cn, port: 13392, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
+- {name: 🇷🇺 (Intl国际)莫斯科SVO1 - McBar GA, server: intl-mos.ia.mcbar.cc, port: 32711, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
+- {name: 🇲🇾 (进阶)吉隆坡KUL2 - McBar GA, server: premium-services-sha2.ga.mcbar.cn, port: 32152, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
+- {name: (进阶)胡志明SGN2 - McBar GA, server: premium-services-sha2.ga.mcbar.cn, port: 32071, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
+- {name: 🇷🇺 (普通)莫斯科SVO1 - McBar GA, server: standard-services-alpha.ga.mcbar.cn, port: 32711, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}

@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: ℹ️ 更新日期：20250429 - 大水牛 Pro, server: 255.255.111.110, port: 61, type: trojan, password: fa7552ee-cb49-4ec9-a34b-1f276563ddf9, skip-cert-verify: true, udp: true}

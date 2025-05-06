@@ -1,0 +1,7 @@
+%YAML 1.1
+---
+proxies:
+- {name: 1.0x 🇭🇰 香港 HK - 1 - 古人云, server: transfer1.qfyun.live, port: 60850, type: ss, cipher: chacha20-ietf-poly1305, password: 0e5f33e3-f578-4004-bbc6-961aaf6c60ca, udp: true}
+- {name: 1.0x 🇭🇰 香港 HK - 2 - 古人云, server: transfer1.qfyun.live, port: 60850, type: ss, cipher: chacha20-ietf-poly1305, password: 0e5f33e3-f578-4004-bbc6-961aaf6c60ca, udp: true}
+- {name: 1.0x 🇭🇰 香港 HK - 3 - 古人云, server: transfer2.qfyun.live, port: 60850, type: ss, cipher: chacha20-ietf-poly1305, password: 0e5f33e3-f578-4004-bbc6-961aaf6c60ca, udp: true}
+- {name: 1.0x 🇭🇰 香港 HK - 4 - 古人云, server: transfer2.qfyun.live, port: 60850, type: ss, cipher: chacha20-ietf-poly1305, password: 0e5f33e3-f578-4004-bbc6-961aaf6c60ca, udp: true}

@@ -1,0 +1,54 @@
+%YAML 1.1
+---
+proxies:
+- {name: ℹ️ 官网：556688.cfd - 魔方云加速, server: nc-56112-51122.mofangfree.online, port: 44325, type: ss, cipher: aes-128-gcm, password: e762a616-e1ec-43fa-a3d6-d4957802ff77, udp: true}
+- {name: ChatGPT专用 - 魔方云加速, server: nc-56112-51122.mofangfree.online, port: 44325, type: ss, cipher: aes-128-gcm, password: e762a616-e1ec-43fa-a3d6-d4957802ff77, udp: true}
+- {name: 🇰🇷 韩国-C1S - 魔方云加速, server: nc-56112-51122.mofangfree.online, port: 44300, type: ss, cipher: chacha20-ietf-poly1305, password: e762a616-e1ec-43fa-a3d6-d4957802ff77, udp: true}
+- {name: 🇰🇷 韩国-C2S - 魔方云加速, server: nc-56112-51122.mofangfree.online, port: 44301, type: ss, cipher: chacha20-ietf-poly1305, password: e762a616-e1ec-43fa-a3d6-d4957802ff77, udp: true}
+- {name: 🇰🇷 韩国-C3S - 魔方云加速, server: nc-56112-51122.mofangfree.online, port: 44302, type: ss, cipher: chacha20-ietf-poly1305, password: e762a616-e1ec-43fa-a3d6-d4957802ff77, udp: true}
+- {name: 🇰🇷 韩国-C4S - 魔方云加速, server: nc-56112-51122.mofangfree.online, port: 44303, type: ss, cipher: chacha20-ietf-poly1305, password: e762a616-e1ec-43fa-a3d6-d4957802ff77, udp: true}
+- {name: 🇰🇷 韩国-C5S - 魔方云加速, server: nc-56112-51122.mofangfree.online, port: 44304, type: ss, cipher: chacha20-ietf-poly1305, password: e762a616-e1ec-43fa-a3d6-d4957802ff77, udp: true}
+- {name: 正式套餐更多节点 - 魔方云加速, server: nc-56112-51122.mofangfree.online, port: 23111, type: ss, cipher: chacha20-ietf-poly1305, password: e762a616-e1ec-43fa-a3d6-d4957802ff77, udp: true}
+- {name: 现在是试用套餐 - 魔方云加速, server: nc-56112-51122.mofangfree.online, port: 23111, type: ss, cipher: chacha20-ietf-poly1305, password: e762a616-e1ec-43fa-a3d6-d4957802ff77, udp: true}
+- &id001 {name: ℹ️ 🌐官网：古人云.com - 古人云, server: transfer1.qfyun.live, port: 60850, type: ss, cipher: chacha20-ietf-poly1305, password: 0e5f33e3-f578-4004-bbc6-961aaf6c60ca, udp: true}
+- &id002 {name: ℹ️ ✈Telegram群组：@gurenyunvpn - 古人云, server: transfer1.qfyun.live, port: 60850, type: ss, cipher: chacha20-ietf-poly1305, password: 0e5f33e3-f578-4004-bbc6-961aaf6c60ca, udp: true}
+- &id003 {name: ℹ️ ⚠️如果超时请更新订阅 - 古人云, server: transfer1.qfyun.live, port: 60850, type: ss, cipher: chacha20-ietf-poly1305, password: 0e5f33e3-f578-4004-bbc6-961aaf6c60ca, udp: true}
+- &id004 {name: ℹ️ ⚠️更新失败请到官网重新获取订阅链接 - 古人云, server: transfer1.qfyun.live, port: 60850, type: ss, cipher: chacha20-ietf-poly1305, password: 0e5f33e3-f578-4004-bbc6-961aaf6c60ca, udp: true}
+- &id005 {name: ℹ️ 爱站专用，请勿用于其他网站 - 古人云, server: transfer1.qfyun.live, port: 60850, type: ss, cipher: chacha20-ietf-poly1305, password: 0e5f33e3-f578-4004-bbc6-961aaf6c60ca, udp: true}
+- {name: 韩国🇰🇷 - Miao Planet, server: ko.miaonode.com, port: 8787, type: ss, cipher: chacha20-ietf-poly1305, password: 9303cc82-f627-42c2-9cc2-063b70720162, udp: true}
+- {name: 澳大利亚🇦🇺 - Miao Planet, server: sydney.miaonode.com, port: 8787, type: ss, cipher: chacha20-ietf-poly1305, password: 9303cc82-f627-42c2-9cc2-063b70720162, udp: true}
+- {name: 爱尔兰🇮🇪 - Miao Planet, server: ireland.miaonode.com, port: 8787, type: ss, cipher: chacha20-ietf-poly1305, password: 9303cc82-f627-42c2-9cc2-063b70720162, udp: true}
+- {name: 法国🇫🇷 - Miao Planet, server: paris.miaonode.com, port: 8787, type: ss, cipher: chacha20-ietf-poly1305, password: 9303cc82-f627-42c2-9cc2-063b70720162, udp: true}
+- &id006 {name: ℹ️ ⚠️目前已全部使用专线 - 4399, server: hk1.go4399.com, port: 10636, type: ss, cipher: chacha20-ietf-poly1305, password: 6e96282e-91fa-42b8-be4d-73e3c2afe8cd, udp: true}
+- &id007 {name: ℹ️ ⚠️无法使用时请更新订阅 - 4399, server: hk1.go4399.com, port: 10636, type: ss, cipher: chacha20-ietf-poly1305, password: 6e96282e-91fa-42b8-be4d-73e3c2afe8cd, udp: true}
+- &id008 {name: 🇬🇧 伦敦 - 4399, server: uk1.go4399.com, port: 15258, type: ss, cipher: chacha20-ietf-poly1305, password: 6e96282e-91fa-42b8-be4d-73e3c2afe8cd, udp: true}
+- &id009 {name: 🇮🇳 印度 - 4399, server: zf-cm.bgblwow.org, port: 50572, type: ss, cipher: chacha20-ietf-poly1305, password: 6e96282e-91fa-42b8-be4d-73e3c2afe8cd, udp: true}
+- {name: ℹ️ 更新日期：20250429 - 大水牛 Pro, server: 255.255.111.110, port: 61, type: trojan, password: fa7552ee-cb49-4ec9-a34b-1f276563ddf9, skip-cert-verify: true, udp: true}
+- {name: 🇳🇱 荷兰-v6|01*0.5倍率 - 悦云, server: naran1.616626.xyz, port: 22305, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇳🇱 荷兰-v6|02*0.5倍率 - 悦云, server: naran2.616626.xyz, port: 22306, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇳🇱 荷兰-v6|03*0.5倍率 - 悦云, server: naran3.616626.xyz, port: 22308, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇳🇱 荷兰-v6|04*0.5倍率 - 悦云, server: naran4.616626.xyz, port: 22310, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国-v6|01*0.5倍率 - 悦云, server: netcp1.616626.xyz, port: 22305, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国-v6|02*0.5倍率 - 悦云, server: netcp2.616626.xyz, port: 22306, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国-v6|03*0.5倍率 - 悦云, server: netcp3.616626.xyz, port: 22307, type: vmess, uuid: 7ca0d958-f65d-44e1-a122-a781750200c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇳🇱 【荷兰05】*0.5倍率 - 悦云, server: nara.189.ovh, port: 10027, type: trojan, password: 7ca0d958-f65d-44e1-a122-a781750200c0, sni: nara.189.ovh, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 【德国06】*0.5倍率 - 悦云, server: netcp4.616626.xyz, port: 10027, type: trojan, password: 7ca0d958-f65d-44e1-a122-a781750200c0, sni: netcp4.616626.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇦 (普通)基辅KIV1 - McBar GA, server: standard-services-alpha.ga.mcbar.cn, port: 32205, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
+- {name: 🇲🇾 (普通)吉隆坡KUL1 - McBar GA, server: standard-services-alpha.ga.mcbar.cn, port: 32152, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
+- {name: (普通)胡志明SGN1 - McBar GA, server: standard-services-alpha.ga.mcbar.cn, port: 32071, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
+- {name: 🇰🇷 (普通)首尔ICN1 - McBar GA, server: standard-services-alpha.ga.mcbar.cn, port: 32708, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
+- {name: 维护(HNN-HND1) - McBar GA, server: advanced-services-henan.mcbar.cc, port: 32218, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
+- {name: 🇩🇪 (高级)北京法兰克福 PEK-FRA A2 - McBar GA, server: peking-services-cu.ga.mcbar.cn, port: 13392, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
+- {name: 🇷🇺 (Intl国际)莫斯科SVO1 - McBar GA, server: intl-mos.ia.mcbar.cc, port: 32711, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
+- {name: 🇲🇾 (进阶)吉隆坡KUL2 - McBar GA, server: premium-services-sha2.ga.mcbar.cn, port: 32152, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
+- {name: (进阶)胡志明SGN2 - McBar GA, server: premium-services-sha2.ga.mcbar.cn, port: 32071, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
+- {name: 🇷🇺 (普通)莫斯科SVO1 - McBar GA, server: standard-services-alpha.ga.mcbar.cn, port: 32711, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
