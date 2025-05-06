@@ -19,13 +19,18 @@ proxy-groups:
   - REJECT
 - name: ⚡ ‍低延迟
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id001
-  - HK
-  - Other
+  proxies: &id001
+  - 🇭🇰 Hong kong 1 - 极搜云
+  - 🇭🇰 Hong kong 2 - 极搜云
+  - 🇭🇰 Hong kong 3 - 极搜云
+  - 🇭🇰 Hong kong 4 - 极搜云
+  - ℹ️ 极搜云官网 极搜云.com - 极搜云
 - name: 👆🏻 ‍指定
   type: select
-  use: *id001
+  proxies: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -62,39 +67,33 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id002
-  - HK
+  proxies: &id002
+  - 🇭🇰 Hong kong 1 - 极搜云
+  - 🇭🇰 Hong kong 2 - 极搜云
+  - 🇭🇰 Hong kong 3 - 极搜云
+  - 🇭🇰 Hong kong 4 - 极搜云
 - name: 🎏 ‍其他
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id003
-  - Other
+  proxies: &id003
+  - ℹ️ 极搜云官网 极搜云.com - 极搜云
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  use: *id002
+  proxies: *id002
 - name: 👆🏻🎏 ‍其他
   type: select
-  use: *id003
-proxy-providers:
-  HK:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/HK.yaml
-    interval: 180
-    path: trials_providers/HK.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  Other:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/Other.yaml
-    interval: 180
-    path: trials_providers/Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
+  proxies: *id003
+proxies:
+- {name: ℹ️ 极搜云官网 极搜云.com - 极搜云, server: 154.83.84.130, port: 20000, type: ss, cipher: aes-128-gcm, password: f67b1379-0b91-4eef-9af5-6a63580839d8, udp: true}
+- {name: 🇭🇰 Hong kong 1 - 极搜云, server: sqyd.k9kj.icu, port: 40049, type: ss, cipher: aes-128-gcm, password: f67b1379-0b91-4eef-9af5-6a63580839d8, udp: true}
+- {name: 🇭🇰 Hong kong 2 - 极搜云, server: sqyd.k9kj.icu, port: 40049, type: ss, cipher: aes-128-gcm, password: f67b1379-0b91-4eef-9af5-6a63580839d8, udp: true}
+- {name: 🇭🇰 Hong kong 3 - 极搜云, server: sqyd.k9kj.icu, port: 40049, type: ss, cipher: aes-128-gcm, password: f67b1379-0b91-4eef-9af5-6a63580839d8, udp: true}
+- {name: 🇭🇰 Hong kong 4 - 极搜云, server: sqyd.k9kj.icu, port: 40049, type: ss, cipher: aes-128-gcm, password: f67b1379-0b91-4eef-9af5-6a63580839d8, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

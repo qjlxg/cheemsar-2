@@ -1,6 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇸🇬 新加坡1 - 4399, server: sg1.go4399.com, port: 16749, type: ss, cipher: chacha20-ietf-poly1305, password: 6e96282e-91fa-42b8-be4d-73e3c2afe8cd, udp: true}
-- {name: 🇸🇬 新加坡2 - 4399, server: sg2.go4399.com, port: 13470, type: ss, cipher: chacha20-ietf-poly1305, password: 6e96282e-91fa-42b8-be4d-73e3c2afe8cd, udp: true}
-- {name: 🇸🇬 新加坡3 - 4399, server: sg3.go4399.com, port: 16749, type: ss, cipher: chacha20-ietf-poly1305, password: 6e96282e-91fa-42b8-be4d-73e3c2afe8cd, udp: true}

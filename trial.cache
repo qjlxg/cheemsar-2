@@ -1,736 +1,603 @@
-[0102512.xyz]
-name  阿巴阿巴
+[11.aabbb.shop]
+name  Simon VPN
 type  v2board
-更新订阅链接/续费续签失败  注册失败(iphtzigu916@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(llsnvaao209@gmail.com): 'NoneType' object is not subscriptable
 
-[123.gosurfing.net]
-name  訊號研究所 Signallab
+[114.240.76.250:7001]
+
+[22.aabbb.shop]
+name  Simon VPN
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"nqrdscapx967@jkd.tmmad.com","success":"false"}'
+更新订阅链接/续费续签失败  注册失败(xlzohfyi502@gmail.com): 'NoneType' object is not subscriptable
 
-[123.tizi01.com]
-name  tizi01.com
+[3rd.subscription-from-northamericanairport.work]
+name  北美机场
 type  v2board
-更新订阅链接/续费续签失败  注册失败(cuyzwfiay987@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  发送邮箱验证码失败(fsctqyf383@disbox.net): {'message': '验证码有误'}
 
-[137531.xyz]
-buy  pass
-email  xxmkzpanf809@gmail.com
-name  大水牛 Pro
-node_n  1
-sub_info  0B  4G  2025-05-08 10:32:03+08:00  (剩余 4G 1 day, 23:59:57.005761)
-sub_url  https://185777.xyz/api/v1/client/subscribe?token=86f268134e7c38906a878fe36224bbd2
-time  2025-05-06 10:32:04.724933+08:00
-type  v2board
-
-[2.feigou.xyz]
-buy  pass
-email  kpwbtnk304@gmail.com
-name  🐶
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  http://feigou.zhunchuanpb.com/api/v1/client/subscribe?token=9a228e6950223724cd1869c67b66182e
-time  2025-05-06 10:32:03.645682+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[31chars-main-domain-part.cc.xn--cloud-fg1hz8q.xyz]
-
-[52doro.top]
-name  Doro机场
-type  v2board
-更新订阅链接/续费续签失败  注册失败(wmzgodi948@gmail.com): 'NoneType' object is not subscriptable
-
-[555test.skysinternet.com]
-
-[671152.xyz]
-name  淘天堂airport
-type  v2board
-更新订阅链接/续费续签失败  注册失败(tjdnwltco381@gmail.com): 'NoneType' object is not subscriptable
-
-[6789abcdfg.tizi01.cc]
-
-[868666.xyz]
-name  XBoard
-type  v2board
-更新订阅链接/续费续签失败  注册失败(wgtckmrq792@gmail.com): 'NoneType' object is not subscriptable
-
-[8887-uxwu.vip]
-buy  pass
-email  ejhghglk668@gmail.com
-name  红杏云
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://8887-uxwu.vip/hxvip/sub/c3a51f80f53e5279ad3027a7dc1792a2
-time  2025-05-06 10:32:04.825427+08:00
-type  v2board
-保存base64/clash订阅失败  string indices must be integers
-
-[89.223.95.17:7001]
-
-[89.23.123.231]
-
-[8999-psfm.vip]
-buy  pass
-email  vqlhcjpbe749@gmail.com
-name  红杏云
-sub_url  https://hongxing.one/hxvip/sub/f807d8e997de0ad706d61d379eaab005
-time  2025-05-06 10:32:05.765387+08:00
-type  v2board
-获取订阅失败  (https://8999-psfm.vip/hxvip/sub/f807d8e997de0ad706d61d379eaab005): 404 Not Found '<!DOCTYPE html>\n<html lang="en">\n <head>\n <meta charset="utf-8">\n <meta name="viewport" content="width=device-width, initial-scale=1">\n\n <title>Not Found</title>\n\n <style>\n /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}a{background-color:transparent}code{font-family:monospace,monospace;font-size:1em}[hidden]{display:none}html{font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;line-height:1.5}*,:after,:before{box-sizing:border-box;border:0 solid #e2e8f0}a{color:inherit;text-decoration:inherit}code{font-family:Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace}svg,video{display:block;vertical-align:middle}video{max-width:100%;height:auto}.bg-white{--bg-opacity:1;background-color:#fff;background-color:rgba(255,255,255,var(--bg-opacity))}.bg-gray-100{--bg-opacity:1;background-color:#f7fafc;background-color:rgba(247,250,252,var(--bg-opacity))}.border-gray-200{--border-opacity:1;border-color:#edf2f7;border-color:rgba(237,242,247,var(--border-opacity))}.border-gray-400{--border-opacity:1;border-color:#cbd5e0;border-color:rgba(203,213,224,var(--border-opacity))}.border-t{border-top-width:1px}.border-r{border-right-width:1px}.flex{display:flex}.grid{display:grid}.hidden{display:none}.items-center{align-items:center}.justify-center{justify-content:center}.font-semibold{font-weight:600}.h-5{height:1.25rem}.h-8{height:2rem}.h-16{height:4rem}.text-sm{font-size:.875rem}.text-lg{font-size:1.125rem}.leading-7{line-height:1.75rem}.mx-auto{margin-left:auto;margin-right:auto}.ml-1{margin-left:.25rem}.mt-2{margin-top:.5rem}.mr-2{margin-right:.5rem}.ml-2{margin-left:.5rem}.mt-4{margin-top:1rem}.ml-4{margin-left:1rem}.mt-8{margin-top:2rem}.ml-12{margin-left:3rem}.-mt-px{margin-top:-1px}.max-w-xl{max-width:36rem}.max-w-6xl{max-width:72rem}.min-h-screen{min-height:100vh}.overflow-hidden{overflow:hidden}.p-6{padding:1.5rem}.py-4{padding-top:1rem;padding-bottom:1rem}.px-4{padding-left:1rem;padding-right:1rem}.px-6{padding-left:1.5rem;padding-right:1.5rem}.pt-8{padding-top:2rem}.fixed{position:fixed}.relative{position:relative}.top-0{top:0}.right-0{right:0}.shadow{box-shadow:0 1px 3px 0 rgba(0,0,0,.1),0 1px 2px 0 rgba(0,0,0,.06)}.text-center{text-align:center}.text-gray-200{--text-opacity:1;color:#edf2f7;color:rgba(237,242,247,var(--text-opacity))}.text-gray-300{--text-opacity:1;color:#e2e8f0;color:rgba(226,232,240,var(--text-opacity))}.text-gray-400{--text-opacity:1;color:#cbd5e0;color:rgba(203,213,224,var(--text-opacity))}.text-gray-500{--text-opacity:1;color:#a0aec0;color:rgba(160,174,192,var(--text-opacity))}.text-gray-600{--text-opacity:1;color:#718096;color:rgba(113,128,150,var(--text-opacity))}.text-gray-700{--text-opacity:1;color:#4a5568;color:rgba(74,85,104,var(--text-opacity))}.text-gray-900{--text-opacity:1;color:#1a202c;color:rgba(26,32,44,var(--text-opacity))}.uppercase{text-transform:uppercase}.underline{text-decoration:underline}.antialiased{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.tracking-wider{letter-spacing:.05em}.w-5{width:1.25rem}.w-8{width:2rem}.w-auto{width:auto}.grid-cols-1{grid-template-columns:repeat(1,minmax(0,1fr))}@-webkit-keyframes spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}@keyframes spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}@-webkit-keyframes ping{0%{transform:scale(1);opacity:1}75%,to{transform:scale(2);opacity:0}}@keyframes ping{0%{transform:scale(1);opacity:1}75%,to{transform:scale(2);opacity:0}}@-webkit-keyframes pulse{0%,to{opacity:1}50%{opacity:.5}}@keyframes pulse{0%,to{opacity:1}50%{opacity:.5}}@-webkit-keyframes bounce{0%,to{transform:translateY(-25%);-webkit-animation-timing-function:cubic-bezier(.8,0,1,1);animation-timing-function:cubic-bezier(.8,0,1,1)}50%{transform:translateY(0);-webkit-animation-timing-function:cubic-bezier(0,0,.2,1);animation-timing-function:cubic-bezier(0,0,.2,1)}}@keyframes bounce{0%,to{transform:translateY(-25%);-webkit-animation-timing-function:cubic-bezier(.8,0,1,1);animation-timing-function:cubic-bezier(.8,0,1,1)}50%{transform:translateY(0);-webkit-animation-timing-function:cubic-bezier(0,0,.2,1);animation-timing-function:cubic-bezier(0,0,.2,1)}}@media (min-width:640px){.sm\\:rounded-lg{border-radius:.5rem}.sm\\:block{display:block}.sm\\:items-center{align-items:center}.sm\\:justify-start{justify-content:flex-start}.sm\\:justify-between{justify-content:space-between}.sm\\:h-20{height:5rem}.sm\\:ml-0{margin-left:0}.sm\\:px-6{padding-left:1.5rem;padding-right:1.5rem}.sm\\:pt-0{padding-top:0}.sm\\:text-left{text-align:left}.sm\\:text-right{text-align:right}}@media (min-width:768px){.md\\:border-t-0{border-top-width:0}.md\\:border-l{border-left-width:1px}.md\\:grid-cols-2{grid-template-columns:repeat(2,minmax(0,1fr))}}@media (min-width:1024px){.lg\\:px-8{padding-left:2rem;padding-right:2rem}}@media (prefers-color-scheme:dark){.dark\\:bg-gray-800{--bg-opacity:1;background-color:#2d3748;background-color:rgba(45,55,72,var(--bg-opacity))}.dark\\:bg-gray-900{--bg-opacity:1;background-color:#1a202c;background-color:rgba(26,32,44,var(--bg-opacity))}.dark\\:border-gray-700{--border-opacity:1;border-color:#4a5568;border-color:rgba(74,85,104,var(--border-opacity))}.dark\\:text-white{--text-opacity:1;color:#fff;color:rgba(255,255,255,var(--text-opacity))}.dark\\:text-gray-400{--text-opacity:1;color:#cbd5e0;color:rgba(203,213,224,var(--text-opacity))}}\n </style>\n\n <style>\n body {\n font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";\n }\n </style>\n </head>\n <body class="antialiased">\n <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center sm:pt-0">\n <div class="max-w-xl mx-auto sm:px-6 lg:px-8">\n <div class="flex items-center pt-8 sm:justify-start sm:pt-0">\n <div class="px-4 text-lg text-gray-500 border-r border-gray-400 tracking-wider">\n 404 </div>\n\n <div class="ml-4 text-lg text-gray-500 uppercase tracking-wider">\n Not Found </div>\n </div>\n </div>\n </div>\n </body>\n</html>\n'
-
-[91.149.237.161:7001]
-
-[91.238.203.9]
-
-[95.169.30.248:7001]
-
-[a07.ftzvipaff01.pro]
-
-[abc.gosurfing.net]
-name  訊號研究所 Signallab
+[456682.xyz]
+name  冠优云
 type  v2board
 更新订阅链接/续费续签失败  'V2BoardSession' object has no attribute 'email'
 
-[adfdsfg23245gg.xyz]
-name  小牛云
+[52dragon.cloud]
+name  DragonCloud
 type  v2board
-更新订阅链接/续费续签失败  注册失败(kuevyme193@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  'V2BoardSession' object has no attribute 'email'
 
-[aff.magic1.xyz]
-name  V2Board
+[538138.xyz]
+name  冠优云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(plugsrgpv162@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  'V2BoardSession' object has no attribute 'email'
 
-[aff.mf-site.xyz]
-name  V2Board
+[675540.xyz]
+name  冠优云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(uzbepmehb180@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  'V2BoardSession' object has no attribute 'email'
 
-[agent.pfvpn3.com]
-name  AIFUN
+[762515.xyz]
+name  冠优云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(lfqhphcth233@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  'V2BoardSession' object has no attribute 'email'
 
-[air.112004.xyz]
-name  XBoard
+[91b16.cc]
+name  91飞机场
 type  v2board
-更新订阅链接/续费续签失败  注册失败(suvayplv556@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  'V2BoardSession' object has no attribute 'email'
 
-[air.imkenzong.vip]
-name  大飞机 II
+[961881.xyz]
+banned_domains  psnator.com
+name  Valuri
 type  v2board
-更新订阅链接/续费续签失败  注册失败(mipppak459@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  'V2BoardSession' object has no attribute 'email'
 
-[amattes.viajes]
-
-[aoair.top]
-buy  pass
-email  zmlrdqsj696@gmail.com
-name  Amotr
-sub_url  http://aoair.top/s/dc7d18dc1841bcc5ec2e848ab5f1536d
-time  2025-05-06 10:32:07.663558+08:00
+[980427.xyz]
+name  Kevin
 type  v2board
-获取订阅失败  (https://aoair.top/s/dc7d18dc1841bcc5ec2e848ab5f1536d): 403 Forbidden '{"message":"Account unavailable"}'
+更新订阅链接/续费续签失败  'V2BoardSession' object has no attribute 'email'
 
-[ap.671152.xyz]
-name  淘天堂airport
-type  v2board
-更新订阅链接/续费续签失败  注册失败(zugxmew937@gmail.com): 'NoneType' object is not subscriptable
-
-[ap.azidc.eanpay.cn]
-name  飞鸽云
-type  v2board
-更新订阅链接/续费续签失败  注册失败(nxyegvct467@gmail.com): 'NoneType' object is not subscriptable
-
-[api.paimom.net]
-name  派蒙 - Paimom.net
-type  v2board
-更新订阅链接/续费续签失败  注册失败(yugqtuftb84@gmail.com): 'NoneType' object is not subscriptable
-
-[bat00.top]
-
-[bat01.top]
-
-[bat02.top]
-banned_domains  guerrillamail.de  linshiyou.com  sharklasers.com  tmpeml.com  ipiso.tmmad.com
-name  BAT
+[aa.jbjc.cc]
+banned_domains  mail.wvwvw.tech  guerrillamail.de  12396mgc.com  bareed.ws  guerrillamail.biz
+name  捷豹加速.
 type  v2board
 更新订阅链接/续费续签失败  获取邮箱验证码失败，重试次数过多
 
-[bat03.top]
-banned_domains  jkd.tmmad.com  tmails.net  smartnator.com  xxxhi.cc
-name  BAT
+[aaa.jihujiasu.com]
+name  极狐云
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"opvhoppfe624@mxl001.win","success":"false"}'
+更新订阅链接/续费续签失败  'V2BoardSession' object has no attribute 'email'
 
-[b-head.pro]
-
-[bk.11223.xyz]
-name  汉堡
-type  v2board
-更新订阅链接/续费续签失败  注册失败(dkvexwqcb952@gmail.com): 'NoneType' object is not subscriptable
-
-[by-allworld.co]
-name  shanyun
-type  v2board
-更新订阅链接/续费续签失败  注册失败(ivtfmlhkm499@gmail.com): 'NoneType' object is not subscriptable
-
-[cdn1.ikuaimao.online]
-name  快猫
-type  v2board
-更新订阅链接/续费续签失败  注册失败(jvuokrk376@gmail.com): 'NoneType' object is not subscriptable
-
-[cdn91.senbei.one]
-name  Senbei Network
-type  v2board
-更新订阅链接/续费续签失败  注册失败(wmmkvutpb661@gmail.com): 'NoneType' object is not subscriptable
-
-[cfvpn.com]
+[ai.ai-04.net]
 buy  pass
-email  eizhbnj529@gmail.com
-name  逆天云
-sub_url  https://cfvpn.com/s/76a5727c9adfbfd02b06a92c1e7a8f40
-time  2025-05-06 10:32:10.955230+08:00
-type  v2board
-获取订阅失败  (https://cfvpn.com/s/76a5727c9adfbfd02b06a92c1e7a8f40): 403 Forbidden '{"message":"Account unavailable"}'
-
-[cloud.maosi.link]
-name  MaoSi
-type  v2board
-更新订阅链接/续费续签失败  注册失败(ogsapjg398@gmail.com): 'NoneType' object is not subscriptable
-
-[cloudwalk.top]
-
-[cntk.uk]
-name  CNTK
-type  v2board
-更新订阅链接/续费续签失败  注册失败(ajlvrauod459@gmail.com): 'NoneType' object is not subscriptable
-
-[cptd2btptp.d2vpn.com]
-name  D2VPN
-type  v2board
-更新订阅链接/续费续签失败  注册失败(rjytrqf33@gmail.com): 'NoneType' object is not subscriptable
-
-[d.042611.xyz]
-buy  pass
-email  tjdikonaa735@gmail.com
-name  XBoard
-sub_url  https://d.042611.xyz/s/ab5e22dd9ed3943d4ae43dc253f396ea
-time  2025-05-06 10:32:12.628028+08:00
-type  v2board
-获取订阅失败  (https://d.042611.xyz/s/ab5e22dd9ed3943d4ae43dc253f396ea): 403 Forbidden '{"message":"Account unavailable"}'
-
-[d02.xjkpsub01.cc]
-buy  pass
-email  yfofxolo467@gmail.com
-name  小鸡快跑 ChickenRun
+email  chhxsitf415@gmail.com
+name  AI云加速
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://api01.xjsublink.com/api/v1/client/subscribe?token=ae51ebbd092dd136e1ac71cda5ad8180
-time  2025-05-06 10:32:13.350642+08:00
+sub_url  http://82.156.244.105/api/v1/client/subscribe?token=f808a772bdfa1fee2d86d420a284ac44
+time  2025-05-06 10:49:28.815585+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
-[daida.sfsfwfwscsd3333.space]
-
-[dogfly.ytmourstore.shop]
-
-[esc.lol]
-api_host  s.esc.lol
+[api.barvpn.com]
 buy  pass
-email  zrqwlci105@gmail.com
-name  Esc.lol
-sub_url  https://s.esc.lol/s/dfe4c8f246131f71a54a0df3ccd90e93
-time  2025-05-06 10:32:13.270198+08:00
-type  v2board
-获取订阅失败  (https://s.esc.lol/s/dfe4c8f246131f71a54a0df3ccd90e93): 403 Forbidden '{"message":"Account unavailable"}'
-
-[ewo3344.ggff.net]
-
-[fanyo.top]
-name  翻哟加速器
-type  v2board
-更新订阅链接/续费续签失败  注册失败(kpcxgdzgh59@gmail.com): 'NoneType' object is not subscriptable
-
-[feimaoyun.top]
-buy  pass
-email  psabjwjgy782@gmail.com
-name  飞猫云
-sub_url  http://144.34.224.109:10086/s/eec8b8ee51dd84fc1b2b5496a74f620a
-time  2025-05-06 10:32:13.171820+08:00
-type  v2board
-获取订阅失败  (https://feimaoyun.top/s/eec8b8ee51dd84fc1b2b5496a74f620a): 403 Forbidden '{"message":"Account unavailable"}'
-
-[fqv2.moeai.cn]
-name  富强民主文明和谐
-type  v2board
-更新订阅链接/续费续签失败  注册失败(tgufkmhu464@gmail.com): 'NoneType' object is not subscriptable
-
-[ga2-panel.mcbar.cc]
-buy  pass
-email  huchogkdc4@gmail.com
-name  McBar GA
-node_n  16
-sub_info  0B  10G  2025-05-07 10:32:06+08:00  (剩余 10G 23:59:45.970188)
-sub_url  https://ga2-panel.mcbar.cc/api/v1/client/subscribe?token=fb56d7fec58a6a2d0f0cad81a82004fc
-time  2025-05-06 10:32:17.196954+08:00
-type  v2board
-
-[go.yueyun.de]
-buy  period=onetime_price&plan_id=1
-email  mssxosmr730@gmail.com
-name  悦云
-node_n  43
-sub_info  0B  1G  2025-05-07 10:32:15+08:00  (剩余 1G 23:59:49.321573)
-sub_url  https://go.yueyun.de/api/v1/client/subscribe?token=fcb1f7d1de9ef865d848fa7202e27291
-time  2025-05-06 10:32:16.284577+08:00
-type  v2board
-
-[gosurfing.net]
-name  訊號研究所 Signallab
-type  v2board
-更新订阅链接/续费续签失败  'V2BoardSession' object has no attribute 'email'
-
-[gosurfing.one]
-banned_domains  psnator.com
-name  訊號研究所 Signallab
-type  v2board
-更新订阅链接/续费续签失败  'V2BoardSession' object has no attribute 'email'
-
-[gry.fengchiyx.xyz]
-
-[headwear.syixi.de]
-name  拾一夕
-type  v2board
-更新订阅链接/续费续签失败  注册失败(cjpdnjr880@gmail.com): 'NoneType' object is not subscriptable
-
-[hk.nvhuang.dpdns.org]
-name  女皇云
-type  v2board
-更新订阅链接/续费续签失败  注册失败(afshryyj887@gmail.com): 'NoneType' object is not subscriptable
-
-[home.tzjc.space]
-name  桃子机场🍑
-type  v2board
-更新订阅链接/续费续签失败  注册失败(tvmbvimh878@gmail.com): 'NoneType' object is not subscriptable
-
-[hou.973700.xyz]
-name  七兔网络
-type  v2board
-更新订阅链接/续费续签失败  注册失败(teodqfhwe935@gmail.com): 'NoneType' object is not subscriptable
-
-[hssl8088.icu]
-name  灰 色 网 络
-type  v2board
-更新订阅链接/续费续签失败  注册失败(irtcmvlv424@gmail.com): 'NoneType' object is not subscriptable
-
-[idc.mtyun.xyz]
-
-[jkhgn.gdytia.store]
-name  Godetia
-type  v2board
-更新订阅链接/续费续签失败  注册失败(akuljlcsm9@gmail.com): 'NoneType' object is not subscriptable
-
-[jp.wxkn.xyz]
-
-[jsq.feimaoyun.top]
-buy  pass
-email  bzbzdsq365@gmail.com
-name  飞猫云
-sub_url  http://144.34.224.109:10086/s/cb1489eea528e09ecca5ebfe564d9b87
-time  2025-05-06 10:32:23.394467+08:00
-type  v2board
-获取订阅失败  (https://jsq.feimaoyun.top/s/cb1489eea528e09ecca5ebfe564d9b87): 403 Forbidden '{"message":"Account unavailable"}'
-
-[kaochang.best]
-
-[kecloud.de]
-name  kecloud
-type  v2board
-更新订阅链接/续费续签失败  注册失败(tlnpfmotd484@gmail.com): 'NoneType' object is not subscriptable
-
-[link02.aaasub.net]
-email  bpyqeemha475@gmail.com
-name  TNTCloud
-type  v2board
-更新订阅链接/续费续签失败  'NoneType' object is not subscriptable
-
-[m.wxkn.xyz]
-name  目标是点亮世界
-type  v2board
-更新订阅链接/续费续签失败  注册失败(uoserzn505@gmail.com): 'NoneType' object is not subscriptable
-
-[magic.ai-yy.com]
-name  黑洞边缘
-type  v2board
-更新订阅链接/续费续签失败  注册失败(rrstquks311@gmail.com): 'NoneType' object is not subscriptable
-
-[miaovpn.org]
-buy  pass
-email  tjgboiqo951@gmail.com
-name  Miao Planet
-node_n  7
-sub_info  0B  160G  2025-05-06 11:32:27+08:00  (剩余 160G 0:59:57.398572)
-sub_url  https://miaovpn.org/s/0b34a2e6ab3268b1245fc661dce76460
-time  2025-05-06 10:32:28.061672+08:00
-type  v2board
-
-[nanguacloud.me]
-name  南瓜云
-type  v2board
-更新订阅链接/续费续签失败  注册失败(bpfisnt554@gmail.com): 'NoneType' object is not subscriptable
-
-[nanguacloud.vip]
-name  南瓜云
-type  v2board
-更新订阅链接/续费续签失败  注册失败(tkmehurj951@gmail.com): 'NoneType' object is not subscriptable
-
-[newaurora.top]
-name  Star Power
-type  v2board
-更新订阅链接/续费续签失败  注册失败(soafelyhr58@gmail.com): 'NoneType' object is not subscriptable
-
-[node.feigou.xyz]
-buy  pass
-email  hbzdpjoaf570@gmail.com
-name  🐶
+email  hcwmynnw0@gmail.com
+name  BarVPN
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  http://feigou.zhunchuanpb.com/api/v1/client/subscribe?token=b9d050783a40f29141844f1057fc1f62
-time  2025-05-06 10:32:26.393554+08:00
+sub_url  https://api.barvpn.com/api/v1/client/subscribe?token=f4dfe99c3f40fcdeb1e075d4c37157e1
+time  2025-05-06 10:49:28.425390+08:00
 type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
+保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
 
-[node.spacetransfer.work]
-name  航天中心
+[api.zhuquejiasu.uk]
+
+[api-v31.pilates-news.com]
+banned_domains  tomystudio.com  guerrillamail.com  huiplay.com  tmpbox.net  ipiso.tmmad.com
+name  全球視野
 type  v2board
-更新订阅链接/续费续签失败  注册失败(fmigiim141@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  获取邮箱验证码失败，重试次数过多
 
-[origin.qfyun.org]
-buy  period=onetime_price&plan_id=17
-email  matqgxfe189@gmail.com
-name  古人云
-node_n  9
-sub_info  0B  200G  永不过期  (剩余 200G)
-sub_url  https://gurenyun.herefor.top/api/v1/client/subscribe?token=97fcbc184077d9013d686fe07e144ba6
-time  2025-05-06 10:32:32.185953+08:00
-type  v2board
-
-[oversea.gamesrun.work]
-
-[panel.fluxpath.net]
-name  FluxPath
-type  v2board
-更新订阅链接/续费续签失败  注册失败(prxfboc223@gmail.com): 'NoneType' object is not subscriptable
-
-[panel-cross-origin.lab.spoto.cloud]
-name  localhost
-type  v2board
-更新订阅链接/续费续签失败  注册失败(olyzckysc160@gmail.com): 'NoneType' object is not subscriptable
-
-[ppjs.link]
-buy  pass
-email  oxksbwbm252@gmail.com
-name  4399
-node_n  17
-sub_info  0B  1G  2025-05-08 10:32:29+08:00  (剩余 1G 1 day, 23:59:56.996481)
-sub_url  https://4399jiasu.com/api/v1/client/subscribe?token=27a6c98deeed300a9f6eb2b366c6913b
-time  2025-05-06 10:32:30.968447+08:00
-type  v2board
-
-[proxy.zddw.io]
-name  VTB-LINK Proxy
-type  v2board
-更新订阅链接/续费续签失败  注册失败(aaqadwnj788@gmail.com): 'NoneType' object is not subscriptable
-
-[qilinshouquan.cc]
-buy  pass
-email  bzfaxbw618@mydefipet.live
-name  麒麟云
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://qilinshouquan.cc/api/v1/client/subscribe?token=dd17b733082ba5f0eedad7b914db3cdb
-time  2025-05-06 10:32:48.583270+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[r.mayi520.shop]
-buy  pass
-email  flcwgtje728@gmail.com
-name  X-Speed
-node_n  4
-sub_info  0B  1G  2025-05-07 10:32:29+08:00  (剩余 1G 23:59:06.132691)
-sub_url  https://r.mayi520.shop/s/d5de8feb27a58f08faab1cdb982082ef
-time  2025-05-06 10:32:30.608855+08:00
-type  v2board
-
-[s727hdsad.frwefvddfg2.space]
-
-[see.wokankan6666.win]
-name  库克电玩
-type  v2board
-更新订阅链接/续费续签失败  注册失败(ksbunhdfi112@gmail.com): 'NoneType' object is not subscriptable
-
-[service.mofangcloud.shop]
-buy  pass
-email  ljudjzk948@gmail.com
-name  魔方云加速
-node_n  17
-sub_info  0B  2G  2025-05-06 12:32:32+08:00  (剩余 2G 1:59:42.217921)
-sub_url  https://Su5gQMhI4N.mofangsub01.biz/api/v1/client/subscribe?token=d3232529c78e48254f50e148d0e3a7ad
-time  2025-05-06 10:32:32.870907+08:00
-type  v2board
-
-[shabiyunti.com]
-buy  pass
-email  fqmbuni127@gmail.com
-name  SB云梯
-sub_url  https://dysss.sbyta1.shop/s/313959433389040702da030d51afb903
-time  2025-05-06 10:32:30.656621+08:00
-type  v2board
-获取订阅失败  (https://shabiyunti.com/s/313959433389040702da030d51afb903): 403 Forbidden '{"message":"Account unavailable"}'
-
-[speedup.one]
-name  訊號研究所 Signallab
+[app.yunemail.buzz]
+name  云舟梯子
 type  v2board
 更新订阅链接/续费续签失败  'V2BoardSession' object has no attribute 'email'
 
-[starpower.top]
-name  Star Power
-type  v2board
-更新订阅链接/续费续签失败  注册失败(aflatlod373@gmail.com): 'NoneType' object is not subscriptable
+[cece.vd9527.com]
 
-[sub.usdeals.xyz]
-name  IPLC專線雲
-type  v2board
-更新订阅链接/续费续签失败  注册失败(kqwgwmmr251@gmail.com): 'NoneType' object is not subscriptable
-
-[tizi8.top]
-buy  pass
-email  jtghgetdr198@gmail.com
-name  tizi8
-sub_url  http://tizi8.top/s/4b1eb5ddfafe5596a200680e911bf037
-time  2025-05-06 10:32:34.322644+08:00
-type  v2board
-获取订阅失败  (https://tizi8.top/s/4b1eb5ddfafe5596a200680e911bf037): 403 Forbidden '{"message":"Account unavailable"}'
-
-[two.meowvpn.xyz]
-buy  pass
-email  zytnxiw472@gmail.com
-name  Meow vpn
-sub_url  http://two.meowvpn.xyz/s/056d67914238747c64365949f7b24541
-time  2025-05-06 10:32:33.973035+08:00
-type  v2board
-获取订阅失败  (https://two.meowvpn.xyz/s/056d67914238747c64365949f7b24541): 403 Forbidden '{"message":"Account unavailable"}'
-
-[uesr.leit52.com]
-name  雷霆-Thunder
-type  v2board
-更新订阅链接/续费续签失败  注册失败(zkgwbnxu559@gmail.com): 'NoneType' object is not subscriptable
-
-[unsiatrpro.si]
-name  dog云
-type  v2board
-更新订阅链接/续费续签失败  注册失败(ibkyben169@gmail.com): 'NoneType' object is not subscriptable
-
-[url.newaurora.top]
-name  Star Power
-type  v2board
-更新订阅链接/续费续签失败  注册失败(ilnelpb0@gmail.com): 'NoneType' object is not subscriptable
-
-[user.leit52.com]
-name  雷霆-Thunder
-type  v2board
-更新订阅链接/续费续签失败  注册失败(oduinyjob11@gmail.com): 'NoneType' object is not subscriptable
-
-[user.senbei.one]
-name  Senbei Network
-type  v2board
-更新订阅链接/续费续签失败  注册失败(equsjugv757@gmail.com): HTTPSConnectionPool(host='user.senbei.one', port=443): Read timed out. (read timeout=30)
-
-[user1.hjjs333.xyz]
-buy  pass
-email  snrdlfo500@gmail.com
-name  Rocketvpn
-sub_url  http://110.40.49.157:6602/sub/v1/666/4e4a8ff3de60b9a57b306c5c04334715
-time  2025-05-06 10:32:40.560144+08:00
-type  v2board
-获取订阅失败  (https://user1.hjjs333.xyz/sub/v1/666/4e4a8ff3de60b9a57b306c5c04334715): 403 Forbidden '{"message":"Account unavailable"}'
-
-[users.senbei.one]
-name  Senbei Network
-type  v2board
-更新订阅链接/续费续签失败  注册失败(ilngjss326@gmail.com): HTTPSConnectionPool(host='users.senbei.one', port=443): Read timed out. (read timeout=30)
-
-[v.iss.lol]
-
-[we.meowvpn.xyz]
-buy  pass
-email  nfmscrh171@gmail.com
-name  Meow vpn
-sub_url  http://we.meowvpn.xyz/s/296b292f649c7df672647d4eddfecf5b
-time  2025-05-06 10:32:39.256351+08:00
-type  v2board
-获取订阅失败  (https://we.meowvpn.xyz/s/296b292f649c7df672647d4eddfecf5b): 403 Forbidden '{"message":"Account unavailable"}'
-
-[www.671152.xyz]
-name  淘天堂airport
-type  v2board
-更新订阅链接/续费续签失败  注册失败(eiagnulkl788@gmail.com): 'NoneType' object is not subscriptable
-
-[www.9900.buzz]
-name  玖菱網絡 CDN-Server
-type  v2board
-更新订阅链接/续费续签失败  注册失败(exfkfdb794@gmail.com): 'NoneType' object is not subscriptable
-
-[www.aoair.top]
-buy  pass
-email  brftvioue491@gmail.com
-name  Amotr
-sub_url  http://www.aoair.top/s/2a77cc4d885f27ef2ecfea7b59000823
-time  2025-05-06 10:32:41.472887+08:00
-type  v2board
-获取订阅失败  (https://www.aoair.top/s/2a77cc4d885f27ef2ecfea7b59000823): 403 Forbidden '{"message":"Account unavailable"}'
-
-[www.atengna.com]
-
-[www.australiacentral.cloudapp.azure.com]
-name  www.翻墙VPN.com
-type  v2board
-更新订阅链接/续费续签失败  注册失败(bbcljpr269@gmail.com): 'NoneType' object is not subscriptable
-
-[www.b-head.pro]
-buy  pass
-email  ddqihyrrx352@gmail.com
-name  桥头堡
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  http://46.137.237.176/api/v1/client/subscribe?token=08a7ce102ba2eac8a5dcd53465493ab9
-time  2025-05-06 10:32:44.843414+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[www.esc.lol]
-buy  pass
-email  vhoeehf168@gmail.com
-name  Esc.lol
-sub_url  https://www.esc.lol/s/e3b876d45b3a357cc176843aac785eac
-time  2025-05-06 10:32:42.966132+08:00
-type  v2board
-获取订阅失败  (https://www.esc.lol/s/e3b876d45b3a357cc176843aac785eac): 403 Forbidden '{"message":"Account unavailable"}'
-
-[www.fanyo.top]
-name  翻哟加速器
-type  v2board
-更新订阅链接/续费续签失败  注册失败(pzjrbag340@gmail.com): 'NoneType' object is not subscriptable
-
-[www.gosurfing.net]
-name  訊號研究所 Signallab
+[cloudflarework.com]
+name  V2Board2
 type  v2board
 更新订阅链接/续费续签失败  'V2BoardSession' object has no attribute 'email'
 
-[www.gosurfing.one]
-name  訊號研究所 Signallab
-type  v2board
-更新订阅链接/续费续签失败  'V2BoardSession' object has no attribute 'email'
+[cw2.circlezones.top]
 
-[www.jgjsq.net]
+[d58e3582afa99040e27b92b13c8f2280.boluoidc.com]
 buy  pass
-email  tcdsoxk750@gmail.com
-name  极光加速器
-sub_url  http://www.jgjsq.net/s/552e507b6bf0186fcafa6c513f1cd7e7
-time  2025-05-06 10:32:50.242561+08:00
+email  blxoqfciy845@gmail.com
+name  新云游
+sub_info  0B  9.766T  2025-05-06 11:49:30+08:00  (剩余 9.766T 0:59:57.943997)
+sub_url  https://www.yywhale.com/api/v1/client/subscribe?token=ec3d62c268445da1b6c761c29e215057
+time  2025-05-06 10:49:30.632557+08:00
 type  v2board
-获取订阅失败  (https://www.jgjsq.net/s/552e507b6bf0186fcafa6c513f1cd7e7): 403 Forbidden '{"message":"Account unavailable"}'
+保存base64/clash订阅失败  string indices must be integers
 
-[www.leit42.com]
-name  雷霆-Thunder
-type  v2board
-更新订阅链接/续费续签失败  注册失败(bhnurwyh214@gmail.com): 'NoneType' object is not subscriptable
-
-[www.mf-sub1.xyz]
+[damayrenul.xyz]
 name  V2Board
 type  v2board
-更新订阅链接/续费续签失败  注册失败(mxqnhiw36@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  'V2BoardSession' object has no attribute 'email'
 
-[www.ppjs.link]
-buy  pass
-email  ergxqjeoh252@gmail.com
-name  4399
-node_n  17
-sub_info  0B  1G  2025-05-08 10:32:55+08:00  (剩余 1G 1 day, 23:59:52.820697)
-sub_url  https://4399jiasu.com/api/v1/client/subscribe?token=cc879348f557a8696106d77e8aca3ea3
-time  2025-05-06 10:32:56.290028+08:00
-type  v2board
-
-[www.qfsite1.vip]
-name  qfCloud
-type  v2board
-更新订阅链接/续费续签失败  注册失败(qfhlrva722@gmail.com): 'NoneType' object is not subscriptable
-
-[www.qilinshouquan.cc]
-
-[www.qilinyun.cc]
-
-[www.qilinyun.xyz]
-
-[www.rtrjd.top]
-name  JumpLink
-type  v2board
-更新订阅链接/续费续签失败  注册失败(qbosguw276@gmail.com): 'NoneType' object is not subscriptable
-
-[www.senbei.one]
-
-[www.speedup.one]
-name  訊號研究所 Signallab
+[dandy.starponb.com]
+name  123XD
 type  v2board
 更新订阅链接/续费续签失败  'V2BoardSession' object has no attribute 'email'
 
-[www.ydairfly.com]
+[dgss0425.top]
 buy  pass
-email  ybdirgm264@gmail.com
-name  云顶网络
-sub_url  http://www.ydairfly.com/s/4df8ab833f52cec784d06eef10dad7a3
-time  2025-05-06 10:32:59.132349+08:00
+email  hzeuptbny607@gmail.com
+name  地瓜云加速
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://www.dgss0425.cc/api/v1/client/subscribe?token=686efd7967df0db6b1078d594fc5a82d
+time  2025-05-06 10:49:30.911997+08:00
 type  v2board
-获取订阅失败  (https://www.ydairfly.com/s/4df8ab833f52cec784d06eef10dad7a3): 403 Forbidden '{"message":"Account unavailable"}'
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
-[wwww.tizi01.com]
-name  tizi01.com
+[dgss0425.xyz]
+buy  pass
+email  fiyvlel874@gmail.com
+name  地瓜云加速
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://www.dgss0425.cc/api/v1/client/subscribe?token=cf0bd2b03d88ebc4e7d0a3118706d2dc
+time  2025-05-06 10:49:31.025554+08:00
 type  v2board
-更新订阅链接/续费续签失败  注册失败(irgrtcfl943@gmail.com): 'NoneType' object is not subscriptable
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
-[xn--9kqsd13p.top]
-buy  period=onetime_price&plan_id=17
-email  artmwub280@gmail.com
-name  古人云
-node_n  9
-sub_info  0B  200G  永不过期  (剩余 200G)
-sub_url  https://gurenyun.herefor.top/api/v1/client/subscribe?token=26ed5fc548df7efa8e9cfc7fe88ab040
-time  2025-05-06 10:33:01.925284+08:00
-type  v2board
-
-[xyz.gosurfing.net]
-name  訊號研究所 Signallab
+[diablojichang.zoho-cloud.space]
+name  Diablo
 type  v2board
 更新订阅链接/续费续签失败  'V2BoardSession' object has no attribute 'email'
 
-[ziru.app]
+[ding.pptp.xyz]
+
+[dingyue203.site]
+name  流浪云
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"yygqgcxk960@tomystudio.com","success":"false"}'
+
+[dy001.dhahiaoidwa.space]
+
+[fhwe-sdf.jiasu001.top]
 buy  pass
-email  xovebhp525@gmail.com
-name  自如加速器 ziruapp.com
+email  slriblmc436@gmail.com
+name  网鱼加速
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://ziruapp.com/api/v1/client/subscribe?token=c402b2bf934db0227b9e541961b9fd38
-time  2025-05-06 10:33:03.002192+08:00
+sub_url  https://fhwe-sdf.jiasu001.top/api/v1/client/subscribe?token=9ba08c2099e9c99fe1b0728389429eeb
+time  2025-05-06 10:49:33.006322+08:00
+type  v2board
+保存base64/clash订阅失败  string indices must be integers
+
+[fireworks104.pro]
+
+[getapi.kindo.cc]
+
+[getapi.koodog.com]
+
+[gogo.clm03.me]
+buy  pass
+email  lgyfzjnzy174@gmail.com
+name  冲浪猫
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://dykkk.clmdy.com/api/v1/client/subscribe?token=e480c3f2ec193c8326c0d7db557d231f
+time  2025-05-06 10:49:33.739524+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
-[ziruapps.com]
+[grok2.me]
 buy  pass
-email  znntiix468@gmail.com
-name  自如加速器 ziruapp.com
+email  gehqranr996@gmail.com
+name  Fan
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://ziruapp.com/api/v1/client/subscribe?token=8df8077405b7e99644bacb7da5f19014
-time  2025-05-06 10:33:04.391503+08:00
+sub_url  https://grok2.me/api/v1/client/subscribe?token=6e4e6dee978e97d13817f199b57cbb48
+time  2025-05-06 10:49:34.927445+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
-[zx3.cnaidun.net]
-name  XBoard
+[hongkong.vviksy.asia]
+
+[host.oyzjin.com]
+
+[jcyjcy689.top]
+buy  pass
+email  hennqrqvz576@gmail.com
+name  靖川云
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://jcyjcy689.top/api/v1/client/subscribe?token=089ae0d2e6bbefbf8cb9abb779ee7131
+time  2025-05-06 10:49:38.498468+08:00
 type  v2board
-更新订阅链接/续费续签失败  注册失败(kzaxaos929@gmail.com): 'NoneType' object is not subscriptable
+保存base64/clash订阅失败  string indices must be integers
+
+[jiebaojiasu2.com]
+buy  pass
+email  xwtjxbfsn553@gmail.com
+name  捷豹加速
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  http://47.113.123.217:1120/api/v1/client/subscribe?token=576b91089b4e92d1b1df45f1a487d8fd
+time  2025-05-06 10:49:37.067867+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[jihujiasu.com]
+name  极狐云
+type  v2board
+更新订阅链接/续费续签失败  'V2BoardSession' object has no attribute 'email'
+
+[kf.543888.xyz]
+
+[kh.chu-yun-ccc.com]
+name  初云
+type  v2board
+更新订阅链接/续费续签失败  'V2BoardSession' object has no attribute 'email'
+
+[kor.v2bvpn.top]
+name  MorckVPN
+type  v2board
+更新订阅链接/续费续签失败  'V2BoardSession' object has no attribute 'email'
+
+[latiao.cloud]
+
+[latiao.lol]
+
+[latiao.me]
+buy  pass
+email  ntqaghtd621@gmail.com
+name  辣条
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://latiaocloud.net/api/v1/client/subscribe?token=acbb7f745f60ec3fecdd0f96c1acca77
+time  2025-05-06 10:49:43.043866+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[latiao.pw]
+buy  pass
+email  odwdlztw810@gmail.com
+name  辣条
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://latiaocloud.net/api/v1/client/subscribe?token=0ebbd3c71ef04222cb5ead63633f095b
+time  2025-05-06 10:49:43.269807+08:00
+type  v2board
+保存base64/clash订阅失败  string indices must be integers
+
+[live.747698.xyz]
+buy  pass
+email  xovvfter399@disbox.net
+name  Silent Flower
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  http://109.107.137.170/api/v1/client/subscribe?token=eab8e2092342f2429422d64b405bb390
+time  2025-05-06 10:49:48.929777+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[logo.sdkdns6.com]
+
+[mantou.sbs]
+name  馒头の小店
+type  v2board
+更新订阅链接/续费续签失败  'V2BoardSession' object has no attribute 'email'
+
+[net.hotloft.tk]
+name  V2Board
+type  v2board
+更新订阅链接/续费续签失败  'V2BoardSession' object has no attribute 'email'
+
+[nodes.999850.xyz]
+name  LibrasCloud
+type  v2board
+更新订阅链接/续费续签失败  'V2BoardSession' object has no attribute 'email'
+
+[panel.52longwin.top]
+name  DragonCloud
+type  v2board
+更新订阅链接/续费续签失败  'V2BoardSession' object has no attribute 'email'
+
+[pptp.xyz]
+
+[robat.nikgame.shop]
+buy  pass
+email  sjdvzvs206@gmail.com
+name  V2Board
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://robat.nikgame.shop/api/v1/client/subscribe?token=dd0d4ad0c2c4f087c1b7fa7ae5d4c51c
+time  2025-05-06 10:49:47.358655+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[robinnetviet.com]
+
+[sdvpapi.meytsoyxx.com]
+buy  pass
+email  ynpubxvdo680@gmail.com
+name  神盾
+node_n  2
+sub_info  0B  100G  2025-05-09 10:49:50+08:00  (剩余 100G 2 days, 23:59:55.368324)
+sub_url  http://tl10.cc/api/v1/client/subscribe?token=756019e023bd86c7673b2ca4be0a81c8
+time  2025-05-06 10:49:51.738321+08:00
+type  v2board
+
+[simfulldata.xyz]
+buy  pass
+email  efrovwwf597@gmail.com
+name  SIM FULL DATA
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  simfulldata.xyz/api/v1/client/subscribe?token=584ee7140decc6d7eddddea9346e7c8e
+time  2025-05-06 10:49:52.235264+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[sogaddy.com]
+
+[ssdf-dsf.jiasu001.vip]
+buy  pass
+email  lvtqkyvn550@gmail.com
+name  网鱼加速
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://ssdf-dsf.jiasu001.vip/api/v1/client/subscribe?token=602242884b6adb4a01f00fbfc827a9b3
+time  2025-05-06 10:49:51.264420+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[star38.cc]
+buy  pass
+email  oqcarwr980@gmail.com
+name  STARLINK
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://star38.cc/api/v1/client/subscribe?token=d44b7ee73796601cb1144b2c28c20bba
+time  2025-05-06 10:49:51.287553+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[star60.cc]
+buy  pass
+email  kpueohcd270@gmail.com
+name  STARLINK
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://45.88.192.28:28636/api/v1/client/subscribe?token=315006d2a1ab1e50ec61b9cde09e7582
+time  2025-05-06 10:49:54.594704+08:00
+type  v2board
+保存base64/clash订阅失败  string indices must be integers
+
+[star90.cc]
+buy  pass
+email  htrlfinnm57@gmail.com
+name  STARLINK
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://star90.cc/api/v1/client/subscribe?token=303310b758c53afcfee709fa4c4aeca3
+time  2025-05-06 10:49:54.771471+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[star96.cc]
+buy  pass
+email  ymosufie246@gmail.com
+name  STARLINK
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://star96.cc/api/v1/client/subscribe?token=a852bc04eed815cecd6e3544ffc90c29
+time  2025-05-06 10:49:55.155318+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[sub.colorduck.me]
+name  Colorduck
+type  v2board
+更新订阅链接/续费续签失败  'V2BoardSession' object has no attribute 'email'
+
+[tbst.tonyassociates.com]
+buy  pass
+email  axovitg218@gmail.com
+name  TONY
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://tbst.tonyassociates.com/api/v1/client/subscribe?token=54848de2811654b8e6abde64fec179b8
+time  2025-05-06 10:49:56.815592+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[tiger99.cc]
+buy  pass
+email  ydwxoid573@gmail.com
+name  TigerCloud
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://45.88.192.7:21886/api/v1/client/subscribe?token=e7381fc6db9a32007a0f3c1e2ba4a9ff
+time  2025-05-06 10:50:00.440578+08:00
+type  v2board
+保存base64/clash订阅失败  string indices must be integers
+
+[tyutyuytu.dwccc.memorial]
+name  初云
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(ogbtgkewt272@tmpbox.net): {'message': '验证码已发送，请过一会儿再请求'}
+
+[uuuz.de]
+
+[v2board.xstary.club]
+name  V2Board
+type  v2board
+更新订阅链接/续费续签失败  'V2BoardSession' object has no attribute 'email'
+
+[v2board.zhuquejiasu.uk]
+name  朱雀加速
+type  v2board
+更新订阅链接/续费续签失败  'V2BoardSession' object has no attribute 'email'
+
+[vpaaa.tgsas.cn]
+buy  pass
+email  xphkzrnak172@gmail.com
+name  网鱼加速
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://ssdf-dsf.jiasu001.vip/api/v1/client/subscribe?token=928653546d3da7fd9cf2d7cdf92c4d0e
+time  2025-05-06 10:50:04.519966+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[wieodns.top]
+name  🐼 熊猫云镇
+type  v2board
+更新订阅链接/续费续签失败  'V2BoardSession' object has no attribute 'email'
+
+[www.bigairport-official-mirror-site5.quest]
+name  大机场 Big Airport
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(crattqokl658@youxiang.dev): {'message': '验证码有误'}
+
+[www.chu-yun-ccc.com]
+name  初云
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(peqwtytz29@mxl001.win): {'message': '验证码已发送，请过一会儿再请求'}
+
+[www.clm03.me]
+buy  pass
+email  adsshfap924@gmail.com
+name  冲浪猫
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://updateyyy.clmdy.com/api/v1/client/subscribe?token=dcb89895fefa36ed562cc7460b9fcdb2
+time  2025-05-06 10:50:04.684975+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[www.cloudflarework.com]
+name  V2Board2
+type  v2board
+更新订阅链接/续费续签失败  'V2BoardSession' object has no attribute 'email'
+
+[www.cs158.top]
+buy  pass
+email  gbaeaem262@gmail.com
+name  财神加速
+sub_url  https://api.cs123.top/link/d311dc8c90aec4849092ccbac592abdd
+time  2025-05-06 10:50:05.822599+08:00
+type  v2board
+获取订阅失败  (https://www.cs158.top/link/d311dc8c90aec4849092ccbac592abdd): 403 Forbidden '{"message":"Account unavailable"}'
+
+[www.damayrenul.xyz]
+name  V2Board
+type  v2board
+更新订阅链接/续费续签失败  'V2BoardSession' object has no attribute 'email'
+
+[www.ga-mirror3.click]
+name  翻墙机场 GFWAirPort
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(ascugzpv948@rgzx.tmmad.com): {'message': '验证码有误'}
+
+[www.jihujiasu.com]
+name  极狐云
+type  v2board
+更新订阅链接/续费续签失败  'V2BoardSession' object has no attribute 'email'
+
+[www.latiao.lol]
+
+[www.latiao.me]
+buy  pass
+email  uzajwvl319@gmail.com
+name  辣条
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://latiaocloud.net/api/v1/client/subscribe?token=33032514edc7a42ed324bbfe5827e06e
+time  2025-05-06 10:50:07.130769+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[www.latiao.pw]
+buy  pass
+email  cfdohfz61@gmail.com
+name  辣条
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://latiaocloud.net/api/v1/client/subscribe?token=55ef30c218fcdd9d340202aa6597db98
+time  2025-05-06 10:50:07.617188+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[www.latiao.run]
+
+[www.latiao.site]
+
+[www.mfnet.cc]
+buy  pass
+email  hervszphy843@gmail.com
+name  MFNET（魔法365）
+sub_info  0B  100G  2025-05-06 10:50:12+08:00  (剩余 100G -1 day, 23:59:48.813908)
+sub_url  https://mf365.world/api/v1/client/subscribe?token=d56efd8b4fefb0f57454cb1702329f8f
+time  2025-05-06 10:50:13.132807+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[www.thegmewqeqw.xyz]
+
+[www.tiaotiaolong.xyz]
+name  跳跳龙
+type  v2board
+更新订阅链接/续费续签失败  'V2BoardSession' object has no attribute 'email'
+
+[www.ttggdl.cn]
+buy  pass
+email  pjujxqu789@gmail.com
+name  极搜云
+node_n  5
+sub_info  0B  10G  2025-05-06 11:50:14+08:00  (剩余 10G 0:59:52.278282)
+sub_url  https://jisoucloud-001.k9kj.icu/api/v1/client/subscribe?token=a575cb93ecc910109834a88055286197
+time  2025-05-06 10:50:15.354878+08:00
+type  v2board
+
+[www.xiaoyuzhou.buzz]
+name  小宇宙
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(gtusyuf486@youxiang.dev): {'message': '验证码有误'}
+
+[www.yi2001.cn]
+
+[www.yundesign.one]
+name  云舟梯子
+type  v2board
+更新订阅链接/续费续签失败  'V2BoardSession' object has no attribute 'email'
+
+[www.yungroup.cc]
+name  云舟梯子
+type  v2board
+更新订阅链接/续费续签失败  'V2BoardSession' object has no attribute 'email'
+
+[www.yun-zhou.cfd]
+name  云舟梯子
+type  v2board
+更新订阅链接/续费续签失败  'V2BoardSession' object has no attribute 'email'
+
+[wwwdd.site]
+buy  pass
+email  dcexyvgql560@grr.la
+name  丁丁节点服务器
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://wwwdd.site/api/v1/client/subscribe?token=308d7b33f3bf2874bcdcf1f5e5b6ef2c
+time  2025-05-06 10:50:38.473615+08:00
+type  v2board
+保存base64/clash订阅失败  string indices must be integers
+
+[xbjc888.top]
+name  鲲鹏VPN
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(uxozqku684@moakt.co): {'message': '邮箱后缀不处于白名单中', 'exception': 'Symfony\\Component\\HttpKernel\\Exception\\HttpException', 'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php', 'line': 1132, 'trace': [{'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php', 'line': 44, 'function': 'abort', 'class': 'Illuminate\\Foundation\\Application', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/app/Http/Controllers/Passport/CommController.php', 'line': 48, 'function': 'abort'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Routing/Controller.php', 'line': 54, 'function': 'sendEmailVerify', 'class': 'App\\Http\\Controllers\\Passport\\CommController', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php', 'line': 45, 'function': 'callAction', 'class': 'Illuminate\\Routing\\Controller', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php', 'line': 262, 'function': 'dispatch', 'class': 'Illuminate\\Routing\\ControllerDispatcher', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php', 'line': 205, 'function': 'runController', 'class': 'Illuminate\\Routing\\Route', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php', 'line': 721, 'function': 'run', 'class': 'Illuminate\\Routing\\Route', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 128, 'function': 'Illuminate\\Routing\\{closure}', 'class': 'Illuminate\\Routing\\Router', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php', 'line': 50, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'Illuminate\\Routing\\Middleware\\SubstituteBindings', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/app/Http/Middleware/Language.php', 'line': 15, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'App\\Http\\Middleware\\Language', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/app/Http/Middleware/ForceJson.php', 'line': 20, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'App\\Http\\Middleware\\ForceJson', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 103, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php', 'line': 723, 'function': 'then', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php', 'line': 698, 'function': 'runRouteWithinStack', 'class': 'Illuminate\\Routing\\Router', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php', 'line': 662, 'function': 'runRoute', 'class': 'Illuminate\\Routing\\Router', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php', 'line': 651, 'function': 'dispatchToRoute', 'class': 'Illuminate\\Routing\\Router', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php', 'line': 167, 'function': 'dispatch', 'class': 'Illuminate\\Routing\\Router', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 128, 'function': 'Illuminate\\Foundation\\Http\\{closure}', 'class': 'Illuminate\\Foundation\\Http\\Kernel', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php', 'line': 21, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ConvertEmptyStringsToNull.php', 'line': 31, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php', 'line': 21, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TrimStrings.php', 'line': 40, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Middleware\\TrimStrings', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php', 'line': 27, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php', 'line': 86, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/fideloper/proxy/src/TrustProxies.php', 'line': 57, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'Fideloper\\Proxy\\TrustProxies', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/app/Http/Middleware/CORS.php', 'line': 18, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'App\\Http\\Middleware\\CORS', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 103, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php', 'line': 142, 'function': 'then', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php', 'line': 111, 'function': 'sendRequestThroughRouter', 'class': 'Illuminate\\Foundation\\Http\\Kernel', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/public/index.php', 'line': 55, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Kernel', 'type': '->'}]}
+
+[xiaoyuzhou.buzz]
+name  小宇宙
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(mswzudur108@tmpmail.org): {'message': '验证码有误'}
+
+[xibujichang.com]
+name  鲲鹏VPN
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(vxqrqsch259@femailtor.com): {'message': '邮箱后缀不处于白名单中', 'exception': 'Symfony\\Component\\HttpKernel\\Exception\\HttpException', 'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php', 'line': 1132, 'trace': [{'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php', 'line': 44, 'function': 'abort', 'class': 'Illuminate\\Foundation\\Application', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/app/Http/Controllers/Passport/CommController.php', 'line': 48, 'function': 'abort'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Routing/Controller.php', 'line': 54, 'function': 'sendEmailVerify', 'class': 'App\\Http\\Controllers\\Passport\\CommController', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php', 'line': 45, 'function': 'callAction', 'class': 'Illuminate\\Routing\\Controller', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php', 'line': 262, 'function': 'dispatch', 'class': 'Illuminate\\Routing\\ControllerDispatcher', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php', 'line': 205, 'function': 'runController', 'class': 'Illuminate\\Routing\\Route', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php', 'line': 721, 'function': 'run', 'class': 'Illuminate\\Routing\\Route', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 128, 'function': 'Illuminate\\Routing\\{closure}', 'class': 'Illuminate\\Routing\\Router', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php', 'line': 50, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'Illuminate\\Routing\\Middleware\\SubstituteBindings', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/app/Http/Middleware/Language.php', 'line': 15, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'App\\Http\\Middleware\\Language', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/app/Http/Middleware/ForceJson.php', 'line': 20, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'App\\Http\\Middleware\\ForceJson', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 103, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php', 'line': 723, 'function': 'then', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php', 'line': 698, 'function': 'runRouteWithinStack', 'class': 'Illuminate\\Routing\\Router', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php', 'line': 662, 'function': 'runRoute', 'class': 'Illuminate\\Routing\\Router', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php', 'line': 651, 'function': 'dispatchToRoute', 'class': 'Illuminate\\Routing\\Router', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php', 'line': 167, 'function': 'dispatch', 'class': 'Illuminate\\Routing\\Router', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 128, 'function': 'Illuminate\\Foundation\\Http\\{closure}', 'class': 'Illuminate\\Foundation\\Http\\Kernel', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php', 'line': 21, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ConvertEmptyStringsToNull.php', 'line': 31, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php', 'line': 21, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TrimStrings.php', 'line': 40, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Middleware\\TrimStrings', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php', 'line': 27, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php', 'line': 86, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/fideloper/proxy/src/TrustProxies.php', 'line': 57, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'Fideloper\\Proxy\\TrustProxies', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/app/Http/Middleware/CORS.php', 'line': 18, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'App\\Http\\Middleware\\CORS', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 103, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php', 'line': 142, 'function': 'then', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php', 'line': 111, 'function': 'sendRequestThroughRouter', 'class': 'Illuminate\\Foundation\\Http\\Kernel', 'type': '->'}, {'file': '/www/wwwroot/xibujichang.com/public/index.php', 'line': 55, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Kernel', 'type': '->'}]}
+
+[yi2001.cn]
+
+[yuntianjiasu.cc]
+
+[yydsa.eu.org]
+name  资源白嫖
+type  v2board
+更新订阅链接/续费续签失败  注册失败(rfgkshbou617@gmail.com): 'NoneType' object is not subscriptable
+
+[zbj.luckycloud.hk]
+name  ZBJ
+type  v2board
+更新订阅链接/续费续签失败  'V2BoardSession' object has no attribute 'email'

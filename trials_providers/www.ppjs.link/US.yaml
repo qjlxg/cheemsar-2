@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 洛杉矶 - 4399, server: us1.go4399.com, port: 16409, type: ss, cipher: chacha20-ietf-poly1305, password: bd91b300-c1bd-424a-885a-e931e803c1da, udp: true}

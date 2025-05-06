@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 (普通)洛杉矶LAX1 - McBar GA, server: standard-services-alpha.ga.mcbar.cn, port: 32501, type: ss, cipher: chacha20-ietf-poly1305, password: 3d60251c-2cf9-4724-ba59-4aa4be85a93b, udp: true}

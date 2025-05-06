@@ -19,13 +19,15 @@ proxy-groups:
   - REJECT
 - name: ⚡ ‍低延迟
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id001
-  - HK
-  - Other
+  proxies: &id001
+  - 🇭🇰 香港-线路1 - 神盾
+  - 🇮🇪 爱尔兰-都柏林 - 神盾
 - name: 👆🏻 ‍指定
   type: select
-  use: *id001
+  proxies: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -62,39 +64,27 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id002
-  - HK
+  proxies: &id002
+  - 🇭🇰 香港-线路1 - 神盾
 - name: 🎏 ‍其他
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id003
-  - Other
+  proxies: &id003
+  - 🇮🇪 爱尔兰-都柏林 - 神盾
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  use: *id002
+  proxies: *id002
 - name: 👆🏻🎏 ‍其他
   type: select
-  use: *id003
-proxy-providers:
-  HK:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/HK.yaml
-    interval: 180
-    path: trials_providers/HK.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  Other:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/Other.yaml
-    interval: 180
-    path: trials_providers/Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
+  proxies: *id003
+proxies:
+- {name: 🇮🇪 爱尔兰-都柏林 - 神盾, server: 107.175.187.181, port: 22800, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: adf16b49-e57a-4141-a4aa-7e33d5849e33, udp: true}
+- {name: 🇭🇰 香港-线路1 - 神盾, server: 156.224.77.215, port: 22800, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: adf16b49-e57a-4141-a4aa-7e33d5849e33, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

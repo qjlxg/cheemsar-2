@@ -79,18 +79,18 @@ proxy-groups:
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/HK.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/sdvpapi.meytsoyxx.com/HK.yaml
     interval: 180
-    path: trials_providers/HK.yaml
+    path: trials_providers/sdvpapi.meytsoyxx.com/HK.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   Other:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/Other.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/sdvpapi.meytsoyxx.com/Other.yaml
     interval: 180
-    path: trials_providers/Other.yaml
+    path: trials_providers/sdvpapi.meytsoyxx.com/Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204

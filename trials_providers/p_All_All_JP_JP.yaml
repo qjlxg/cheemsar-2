@@ -1,6 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇯🇵 日本1 - 4399, server: jp1.go4399.com, port: 59710, type: ss, cipher: chacha20-ietf-poly1305, password: 6e96282e-91fa-42b8-be4d-73e3c2afe8cd, udp: true}
-- {name: 🇯🇵 日本2 - 4399, server: jp2.go4399.com, port: 13325, type: ss, cipher: chacha20-ietf-poly1305, password: 6e96282e-91fa-42b8-be4d-73e3c2afe8cd, udp: true}
-- {name: 🇯🇵 日本3 - 4399, server: jp3.go4399.com, port: 57588, type: ss, cipher: chacha20-ietf-poly1305, password: 6e96282e-91fa-42b8-be4d-73e3c2afe8cd, udp: true}
