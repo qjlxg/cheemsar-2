@@ -29,17 +29,30 @@ proxy-groups:
   - REJECT
 - name: ⚡ ‍低延迟
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id001
-  - HK
-  - TW
-  - SG
-  - JP
-  - US
-  - Other
+  proxies: &id001
+  - 🇭🇰 香港1 - 4399
+  - 🇭🇰 香港2 - 4399
+  - 🇭🇰 香港3 - 4399
+  - 🇭🇰 香港4 - 4399
+  - 🇹🇼 台湾1 - 4399
+  - 🇹🇼 台湾2 - 4399
+  - 🇸🇬 新加坡1 - 4399
+  - 🇸🇬 新加坡2 - 4399
+  - 🇸🇬 新加坡3 - 4399
+  - 🇯🇵 日本1 - 4399
+  - 🇯🇵 日本2 - 4399
+  - 🇯🇵 日本3 - 4399
+  - 🇺🇸 洛杉矶 - 4399
+  - ℹ️ ⚠️目前已全部使用专线 - 4399
+  - ℹ️ ⚠️无法使用时请更新订阅 - 4399
+  - 🇬🇧 伦敦 - 4399
+  - 🇮🇳 印度 - 4399
 - name: 👆🏻 ‍指定
   type: select
-  use: *id001
+  proxies: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -88,116 +101,108 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id002
-  - HK
+  proxies: &id002
+  - 🇭🇰 香港1 - 4399
+  - 🇭🇰 香港2 - 4399
+  - 🇭🇰 香港3 - 4399
+  - 🇭🇰 香港4 - 4399
 - name: 🇹🇼 ‍台湾
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id003
-  - TW
+  proxies: &id003
+  - 🇹🇼 台湾1 - 4399
+  - 🇹🇼 台湾2 - 4399
 - name: 🇨🇳 ‍中国
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id004
-  - HK
-  - TW
+  proxies: &id004
+  - 🇭🇰 香港1 - 4399
+  - 🇭🇰 香港2 - 4399
+  - 🇭🇰 香港3 - 4399
+  - 🇭🇰 香港4 - 4399
+  - 🇹🇼 台湾1 - 4399
+  - 🇹🇼 台湾2 - 4399
 - name: 🇸🇬 ‍新加坡
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id005
-  - SG
+  proxies: &id005
+  - 🇸🇬 新加坡1 - 4399
+  - 🇸🇬 新加坡2 - 4399
+  - 🇸🇬 新加坡3 - 4399
 - name: 🇯🇵 ‍日本
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id006
-  - JP
+  proxies: &id006
+  - 🇯🇵 日本1 - 4399
+  - 🇯🇵 日本2 - 4399
+  - 🇯🇵 日本3 - 4399
 - name: 🇺🇸 ‍美国
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 300
-  use: &id007
-  - US
+  proxies: &id007
+  - 🇺🇸 洛杉矶 - 4399
 - name: 🎏 ‍其他
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id008
-  - Other
+  proxies: &id008
+  - ℹ️ ⚠️目前已全部使用专线 - 4399
+  - ℹ️ ⚠️无法使用时请更新订阅 - 4399
+  - 🇬🇧 伦敦 - 4399
+  - 🇮🇳 印度 - 4399
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  use: *id002
+  proxies: *id002
 - name: 👆🏻🇹🇼 ‍台湾
   type: select
-  use: *id003
+  proxies: *id003
 - name: 👆🏻🇨🇳 ‍中国
   type: select
-  use: *id004
+  proxies: *id004
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  use: *id005
+  proxies: *id005
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  use: *id006
+  proxies: *id006
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  use: *id007
+  proxies: *id007
 - name: 👆🏻🎏 ‍其他
   type: select
-  use: *id008
-proxy-providers:
-  HK:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/HK.yaml
-    interval: 180
-    path: trials_providers/HK.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  TW:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/TW.yaml
-    interval: 180
-    path: trials_providers/TW.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  SG:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/SG.yaml
-    interval: 180
-    path: trials_providers/SG.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  JP:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/JP.yaml
-    interval: 180
-    path: trials_providers/JP.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  US:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/US.yaml
-    interval: 180
-    path: trials_providers/US.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  Other:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/Other.yaml
-    interval: 180
-    path: trials_providers/Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
+  proxies: *id008
+proxies:
+- {name: ℹ️ ⚠️目前已全部使用专线 - 4399, server: hk1.go4399.com, port: 10636, type: ss, cipher: chacha20-ietf-poly1305, password: f99ab16f-ccf2-4454-be71-da2dabbaef09, udp: true}
+- {name: ℹ️ ⚠️无法使用时请更新订阅 - 4399, server: hk1.go4399.com, port: 10636, type: ss, cipher: chacha20-ietf-poly1305, password: f99ab16f-ccf2-4454-be71-da2dabbaef09, udp: true}
+- {name: 🇭🇰 香港1 - 4399, server: hk1.go4399.com, port: 10636, type: ss, cipher: chacha20-ietf-poly1305, password: f99ab16f-ccf2-4454-be71-da2dabbaef09, udp: true}
+- {name: 🇭🇰 香港2 - 4399, server: hk2.go4399.com, port: 12423, type: ss, cipher: chacha20-ietf-poly1305, password: f99ab16f-ccf2-4454-be71-da2dabbaef09, udp: true}
+- {name: 🇭🇰 香港3 - 4399, server: hk3.go4399.com, port: 14874, type: ss, cipher: chacha20-ietf-poly1305, password: f99ab16f-ccf2-4454-be71-da2dabbaef09, udp: true}
+- {name: 🇭🇰 香港4 - 4399, server: hk4.go4399.com, port: 41607, type: ss, cipher: chacha20-ietf-poly1305, password: f99ab16f-ccf2-4454-be71-da2dabbaef09, udp: true}
+- {name: 🇹🇼 台湾1 - 4399, server: tw1.go4399.com, port: 13824, type: ss, cipher: chacha20-ietf-poly1305, password: f99ab16f-ccf2-4454-be71-da2dabbaef09, udp: true}
+- {name: 🇹🇼 台湾2 - 4399, server: tw2.go4399.com, port: 16322, type: ss, cipher: chacha20-ietf-poly1305, password: f99ab16f-ccf2-4454-be71-da2dabbaef09, udp: true}
+- {name: 🇯🇵 日本1 - 4399, server: jp1.go4399.com, port: 59710, type: ss, cipher: chacha20-ietf-poly1305, password: f99ab16f-ccf2-4454-be71-da2dabbaef09, udp: true}
+- {name: 🇯🇵 日本2 - 4399, server: jp2.go4399.com, port: 13325, type: ss, cipher: chacha20-ietf-poly1305, password: f99ab16f-ccf2-4454-be71-da2dabbaef09, udp: true}
+- {name: 🇯🇵 日本3 - 4399, server: jp3.go4399.com, port: 57588, type: ss, cipher: chacha20-ietf-poly1305, password: f99ab16f-ccf2-4454-be71-da2dabbaef09, udp: true}
+- {name: 🇸🇬 新加坡1 - 4399, server: sg1.go4399.com, port: 16749, type: ss, cipher: chacha20-ietf-poly1305, password: f99ab16f-ccf2-4454-be71-da2dabbaef09, udp: true}
+- {name: 🇸🇬 新加坡2 - 4399, server: sg2.go4399.com, port: 13470, type: ss, cipher: chacha20-ietf-poly1305, password: f99ab16f-ccf2-4454-be71-da2dabbaef09, udp: true}
+- {name: 🇸🇬 新加坡3 - 4399, server: sg3.go4399.com, port: 16749, type: ss, cipher: chacha20-ietf-poly1305, password: f99ab16f-ccf2-4454-be71-da2dabbaef09, udp: true}
+- {name: 🇺🇸 洛杉矶 - 4399, server: us1.go4399.com, port: 16409, type: ss, cipher: chacha20-ietf-poly1305, password: f99ab16f-ccf2-4454-be71-da2dabbaef09, udp: true}
+- {name: 🇬🇧 伦敦 - 4399, server: uk1.go4399.com, port: 15258, type: ss, cipher: chacha20-ietf-poly1305, password: f99ab16f-ccf2-4454-be71-da2dabbaef09, udp: true}
+- {name: 🇮🇳 印度 - 4399, server: zf-cm.bgblwow.org, port: 50572, type: ss, cipher: chacha20-ietf-poly1305, password: f99ab16f-ccf2-4454-be71-da2dabbaef09, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

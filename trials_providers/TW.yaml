@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇹🇼 台湾1 - 4399, server: tw1.go4399.com, port: 13824, type: ss, cipher: chacha20-ietf-poly1305, password: f99ab16f-ccf2-4454-be71-da2dabbaef09, udp: true}
+- {name: 🇹🇼 台湾2 - 4399, server: tw2.go4399.com, port: 16322, type: ss, cipher: chacha20-ietf-poly1305, password: f99ab16f-ccf2-4454-be71-da2dabbaef09, udp: true}
