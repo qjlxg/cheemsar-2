@@ -11,8 +11,10 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
+  - 🇭🇰 ‍香港
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
+  - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - DIRECT
@@ -21,6 +23,7 @@ proxy-groups:
   type: url-test
   tolerance: 100
   use: &id001
+  - HK
   - JP
   - US
 - name: 👆🏻 ‍指定
@@ -42,7 +45,9 @@ proxy-groups:
   type: select
   proxies:
   - 🛩️ ‍墙内
+  - 🇭🇰 ‍香港
   - ✈️ ‍起飞
+  - 👆🏻🇭🇰 ‍香港
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
@@ -60,23 +65,40 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇯🇵 ‍日本
+- name: 🇭🇰 ‍香港
   type: url-test
   tolerance: 100
   use: &id002
+  - HK
+- name: 🇯🇵 ‍日本
+  type: url-test
+  tolerance: 100
+  use: &id003
   - JP
 - name: 🇺🇸 ‍美国
   type: url-test
   tolerance: 300
-  use: &id003
+  use: &id004
   - US
-- name: 👆🏻🇯🇵 ‍日本
+- name: 👆🏻🇭🇰 ‍香港
   type: select
   use: *id002
-- name: 👆🏻🇺🇸 ‍美国
+- name: 👆🏻🇯🇵 ‍日本
   type: select
   use: *id003
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  use: *id004
 proxy-providers:
+  HK:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/https://nova.live/HK.yaml
+    interval: 180
+    path: trials_providers/https://nova.live/HK.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
   JP:
     type: http
     url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/https://nova.live/JP.yaml

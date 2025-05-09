@@ -1,0 +1,8 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇸🇬 基础 | 新加坡AWS1 | 1倍 - ZodAccess, server: scma.zarelayv1.com, port: 30810, type: trojan, password: e2430c14-feb2-3449-b193-4f4e95618a67, sni: baidu.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 基础 | 新加坡AWS2 | 1倍 - ZodAccess, server: scma.zarelayv1.com, port: 30811, type: trojan, password: e2430c14-feb2-3449-b193-4f4e95618a67, sni: baidu.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 基础 | 新加坡AWS3 | 1倍 - ZodAccess, server: scma.zarelayv1.com, port: 30812, type: trojan, password: e2430c14-feb2-3449-b193-4f4e95618a67, sni: baidu.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 基础 | 新加坡SG1 | 2倍 流媒体 - ZodAccess, server: scm.zarelayv1.com, port: 36599, type: trojan, password: e2430c14-feb2-3449-b193-4f4e95618a67, sni: baidu.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 基础 | 新加坡SG2 | 2倍 流媒体 - ZodAccess, server: scm.zarelayv1.com, port: 23584, type: trojan, password: e2430c14-feb2-3449-b193-4f4e95618a67, sni: baidu.com, skip-cert-verify: true, udp: true}

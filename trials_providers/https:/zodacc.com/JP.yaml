@@ -1,0 +1,6 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 基础 | 日本AWS1 | 1倍 - ZodAccess, server: ecu.zarelay.com, port: 30800, type: trojan, password: e2430c14-feb2-3449-b193-4f4e95618a67, sni: baidu.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 基础 | 日本AWS2 | 1倍 - ZodAccess, server: ecu.zarelay.com, port: 30801, type: trojan, password: e2430c14-feb2-3449-b193-4f4e95618a67, sni: baidu.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 基础 | 日本AWS3 | 1倍 - ZodAccess, server: ecu.zarelay.com, port: 30802, type: trojan, password: e2430c14-feb2-3449-b193-4f4e95618a67, sni: baidu.com, skip-cert-verify: true, udp: true}

@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 基础 | 香港01 | 1倍 - ZodAccess, server: scm.zarelayv1.com, port: 44881, type: trojan, password: e2430c14-feb2-3449-b193-4f4e95618a67, sni: baidu.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 基础 | 香港02 | 1倍 - ZodAccess, server: scm.zarelayv1.com, port: 44881, type: trojan, password: e2430c14-feb2-3449-b193-4f4e95618a67, sni: baidu.com, skip-cert-verify: true, udp: true}

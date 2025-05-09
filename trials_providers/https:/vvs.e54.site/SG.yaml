@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡CF - 七点公益, server: time.is, port: 80, type: vmess, uuid: 09e55439-d0e4-4baf-8f0a-374dbebcc6d4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mgsg2.zhousi.link}}, udp: true}
+- {name: 🇸🇬 新加坡CF - 七点公益, server: time.is, port: 80, type: vmess, uuid: 0945456a-e21a-433b-a34f-ab8fe1299003, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mgsg2.zhousi.link}}, udp: true}

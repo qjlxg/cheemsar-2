@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇧🇹 请登录bt3.one 续费 - V2Board, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 1ac12418-d026-4de9-a3e0-1dfd3477e6db, udp: true}

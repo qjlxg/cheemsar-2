@@ -1,0 +1,15 @@
+%YAML 1.1
+---
+proxies:
+- {name: ℹ️ 如无法直连更新订阅则需要至官网更换新订阅链接 - ZodAccess, server: 1.1.1.1, port: 45015, type: trojan, password: e2430c14-feb2-3449-b193-4f4e95618a67, sni: baidu.com, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 如使用v2rayN无法连接请开启默认跳过证书验证并更新订阅 - ZodAccess, server: 1.1.1.1, port: 45015, type: trojan, password: e2430c14-feb2-3449-b193-4f4e95618a67, sni: baidu.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 基础 | 日本AWS1 | 1倍 - ZodAccess, server: ecu.zarelay.com, port: 30800, type: trojan, password: e2430c14-feb2-3449-b193-4f4e95618a67, sni: baidu.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 基础 | 日本AWS2 | 1倍 - ZodAccess, server: ecu.zarelay.com, port: 30801, type: trojan, password: e2430c14-feb2-3449-b193-4f4e95618a67, sni: baidu.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 基础 | 日本AWS3 | 1倍 - ZodAccess, server: ecu.zarelay.com, port: 30802, type: trojan, password: e2430c14-feb2-3449-b193-4f4e95618a67, sni: baidu.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 基础 | 新加坡AWS1 | 1倍 - ZodAccess, server: scma.zarelayv1.com, port: 30810, type: trojan, password: e2430c14-feb2-3449-b193-4f4e95618a67, sni: baidu.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 基础 | 新加坡AWS2 | 1倍 - ZodAccess, server: scma.zarelayv1.com, port: 30811, type: trojan, password: e2430c14-feb2-3449-b193-4f4e95618a67, sni: baidu.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 基础 | 新加坡AWS3 | 1倍 - ZodAccess, server: scma.zarelayv1.com, port: 30812, type: trojan, password: e2430c14-feb2-3449-b193-4f4e95618a67, sni: baidu.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 基础 | 香港01 | 1倍 - ZodAccess, server: scm.zarelayv1.com, port: 44881, type: trojan, password: e2430c14-feb2-3449-b193-4f4e95618a67, sni: baidu.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 基础 | 香港02 | 1倍 - ZodAccess, server: scm.zarelayv1.com, port: 44881, type: trojan, password: e2430c14-feb2-3449-b193-4f4e95618a67, sni: baidu.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 基础 | 新加坡SG1 | 2倍 流媒体 - ZodAccess, server: scm.zarelayv1.com, port: 36599, type: trojan, password: e2430c14-feb2-3449-b193-4f4e95618a67, sni: baidu.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 基础 | 新加坡SG2 | 2倍 流媒体 - ZodAccess, server: scm.zarelayv1.com, port: 23584, type: trojan, password: e2430c14-feb2-3449-b193-4f4e95618a67, sni: baidu.com, skip-cert-verify: true, udp: true}

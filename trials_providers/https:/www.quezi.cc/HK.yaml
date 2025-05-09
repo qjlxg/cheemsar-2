@@ -1,0 +1,6 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 A- 香港a -x1【流媒体福利节点】 - 云上云, server: a.putaotnt.com, port: 44573, type: vmess, uuid: defe2a00-74de-3187-876b-82b1df4908d0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 A云 香港b -x1【流媒体福利节点】 - 云上云, server: a.putaotnt.com, port: 31403, type: vmess, uuid: defe2a00-74de-3187-876b-82b1df4908d0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: "🇭🇰 云1 香港 -1Gbps-x2倍率\t - 云上云", server: a.putaotnt.com, port: 44573, type: vmess, uuid: defe2a00-74de-3187-876b-82b1df4908d0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

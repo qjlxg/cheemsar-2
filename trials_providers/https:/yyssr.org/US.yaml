@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: '🇺🇸 [免费]美国-马纳萨斯 - 瑶瑶领先', server: us-free.yyssr.org, port: 443, type: vmess, uuid: f306cf85-c0b8-34b1-8196-4507020da9b6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us-free.yyssr.org, network: ws, ws-opts: {path: /debian, headers: {Host: us-free.yyssr.org}}, udp: true}

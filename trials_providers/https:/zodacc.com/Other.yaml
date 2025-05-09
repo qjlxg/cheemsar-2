@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: ℹ️ 如无法直连更新订阅则需要至官网更换新订阅链接 - ZodAccess, server: 1.1.1.1, port: 45015, type: trojan, password: e2430c14-feb2-3449-b193-4f4e95618a67, sni: baidu.com, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 如使用v2rayN无法连接请开启默认跳过证书验证并更新订阅 - ZodAccess, server: 1.1.1.1, port: 45015, type: trojan, password: e2430c14-feb2-3449-b193-4f4e95618a67, sni: baidu.com, skip-cert-verify: true, udp: true}
