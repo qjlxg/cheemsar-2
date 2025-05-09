@@ -1,0 +1,6 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 美国-纽约-001 - 漏网之鱼, server: 45.147.201.231, port: 22036, type: vmess, uuid: a5ba7dfd-aba4-4911-b006-d679efd754cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇺🇸 美国-拉斯维加斯-001 - 漏网之鱼, server: 45.147.201.231, port: 20026, type: vmess, uuid: a5ba7dfd-aba4-4911-b006-d679efd754cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇺🇸 美国-拉斯维加斯-002 - 漏网之鱼, server: 45.147.201.231, port: 23083, type: vmess, uuid: a5ba7dfd-aba4-4911-b006-d679efd754cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
