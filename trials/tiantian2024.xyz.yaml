@@ -27,21 +27,30 @@ proxy-groups:
   - REJECT
 - name: ⚡ ‍低延迟
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id001
-  - p_All_All_Other_Other
-  - p_All_All_Other_Other
-  - p_All_All_US_US
-  - p_All_All_US_US
-  - p_All_All_JP_JP
-  - p_All_All_JP_JP
-  - p_All_All_HK_HK_CN_CN
-  - p_All_All_HK_HK_CN_CN
-  - p_All_All_TW_TW_CN_CN
-  - p_All_All_TW_TW_CN_CN
+  proxies: &id001
+  - 🇭🇰 香港|隧道1 - 阳光加速器
+  - 🇭🇰 香港|隧道2 - 阳光加速器
+  - 🇭🇰 香港|隧道3 - 阳光加速器
+  - 🇹🇼 台湾|隧道1 - 阳光加速器
+  - 🇹🇼 台湾|隧道2 - 阳光加速器
+  - 🇹🇼 台湾|隧道3 - 阳光加速器
+  - 🇯🇵 日本|隧道1 - 阳光加速器
+  - 🇯🇵 日本|隧道2 - 阳光加速器
+  - 🇯🇵 日本|隧道3 - 阳光加速器
+  - 🇺🇸 美国|隧道1 - 阳光加速器
+  - 🇺🇸 美国|隧道2 - 阳光加速器
+  - 🇺🇸 美国|隧道3 - 阳光加速器
+  - ℹ️ 续费官网：http://47.122.55.225:50001 - 阳光加速器
+  - ℹ️ 售后企鹅群909426351 - 阳光加速器
+  - 新家坡|隧道1 - 阳光加速器
+  - 新家坡|隧道2 - 阳光加速器
+  - 新家坡|隧道3 - 阳光加速器
 - name: 👆🏻 ‍指定
   type: select
-  use: *id001
+  proxies: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -88,106 +97,99 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id002
-  - p_All_All_HK_HK_CN_CN
-  - p_All_All_HK_HK_CN_CN
+  proxies: &id002
+  - 🇭🇰 香港|隧道1 - 阳光加速器
+  - 🇭🇰 香港|隧道2 - 阳光加速器
+  - 🇭🇰 香港|隧道3 - 阳光加速器
 - name: 🇹🇼 ‍台湾
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id003
-  - p_All_All_TW_TW_CN_CN
-  - p_All_All_TW_TW_CN_CN
+  proxies: &id003
+  - 🇹🇼 台湾|隧道1 - 阳光加速器
+  - 🇹🇼 台湾|隧道2 - 阳光加速器
+  - 🇹🇼 台湾|隧道3 - 阳光加速器
 - name: 🇨🇳 ‍中国
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id004
-  - p_All_All_HK_HK_CN_CN
-  - p_All_All_HK_HK_CN_CN
-  - p_All_All_TW_TW_CN_CN
-  - p_All_All_TW_TW_CN_CN
+  proxies: &id004
+  - 🇭🇰 香港|隧道1 - 阳光加速器
+  - 🇭🇰 香港|隧道2 - 阳光加速器
+  - 🇭🇰 香港|隧道3 - 阳光加速器
+  - 🇹🇼 台湾|隧道1 - 阳光加速器
+  - 🇹🇼 台湾|隧道2 - 阳光加速器
+  - 🇹🇼 台湾|隧道3 - 阳光加速器
 - name: 🇯🇵 ‍日本
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id005
-  - p_All_All_JP_JP
-  - p_All_All_JP_JP
+  proxies: &id005
+  - 🇯🇵 日本|隧道1 - 阳光加速器
+  - 🇯🇵 日本|隧道2 - 阳光加速器
+  - 🇯🇵 日本|隧道3 - 阳光加速器
 - name: 🇺🇸 ‍美国
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 300
-  use: &id006
-  - p_All_All_US_US
-  - p_All_All_US_US
+  proxies: &id006
+  - 🇺🇸 美国|隧道1 - 阳光加速器
+  - 🇺🇸 美国|隧道2 - 阳光加速器
+  - 🇺🇸 美国|隧道3 - 阳光加速器
 - name: 🎏 ‍其他
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id007
-  - p_All_All_Other_Other
-  - p_All_All_Other_Other
+  proxies: &id007
+  - ℹ️ 续费官网：http://47.122.55.225:50001 - 阳光加速器
+  - ℹ️ 售后企鹅群909426351 - 阳光加速器
+  - 新家坡|隧道1 - 阳光加速器
+  - 新家坡|隧道2 - 阳光加速器
+  - 新家坡|隧道3 - 阳光加速器
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  use: *id002
+  proxies: *id002
 - name: 👆🏻🇹🇼 ‍台湾
   type: select
-  use: *id003
+  proxies: *id003
 - name: 👆🏻🇨🇳 ‍中国
   type: select
-  use: *id004
+  proxies: *id004
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  use: *id005
+  proxies: *id005
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  use: *id006
+  proxies: *id006
 - name: 👆🏻🎏 ‍其他
   type: select
-  use: *id007
-proxy-providers:
-  p_All_All_Other_Other:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/p_All_All_Other_Other.yaml
-    interval: 180
-    path: trials_providers/p_All_All_Other_Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_US_US:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/p_All_All_US_US.yaml
-    interval: 180
-    path: trials_providers/p_All_All_US_US.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_JP_JP:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/p_All_All_JP_JP.yaml
-    interval: 180
-    path: trials_providers/p_All_All_JP_JP.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_HK_HK_CN_CN:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/p_All_All_HK_HK_CN_CN.yaml
-    interval: 180
-    path: trials_providers/p_All_All_HK_HK_CN_CN.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_TW_TW_CN_CN:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-2/main/trials_providers/p_All_All_TW_TW_CN_CN.yaml
-    interval: 180
-    path: trials_providers/p_All_All_TW_TW_CN_CN.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
+  proxies: *id007
+proxies:
+- {name: ℹ️ 续费官网：http://47.122.55.225:50001 - 阳光加速器, server: zf.xinzhanduijie.top, port: 27832, type: vmess, uuid: 91babdce-02b9-4442-9d9f-7d65c02734e4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 售后企鹅群909426351 - 阳光加速器, server: zf.xinzhanduijie.top, port: 27832, type: vmess, uuid: 91babdce-02b9-4442-9d9f-7d65c02734e4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国|隧道1 - 阳光加速器, server: zf.xinzhanduijie.top, port: 27832, type: vmess, uuid: 91babdce-02b9-4442-9d9f-7d65c02734e4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国|隧道2 - 阳光加速器, server: zf1.xinzhanduijie.top, port: 27832, type: vmess, uuid: 91babdce-02b9-4442-9d9f-7d65c02734e4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国|隧道3 - 阳光加速器, server: zf2.xinzhanduijie.top, port: 27832, type: vmess, uuid: 91babdce-02b9-4442-9d9f-7d65c02734e4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本|隧道1 - 阳光加速器, server: zf.xinzhanduijie.top, port: 27833, type: vmess, uuid: 91babdce-02b9-4442-9d9f-7d65c02734e4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本|隧道2 - 阳光加速器, server: zf1.xinzhanduijie.top, port: 27833, type: vmess, uuid: 91babdce-02b9-4442-9d9f-7d65c02734e4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本|隧道3 - 阳光加速器, server: zf2.xinzhanduijie.top, port: 27833, type: vmess, uuid: 91babdce-02b9-4442-9d9f-7d65c02734e4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港|隧道1 - 阳光加速器, server: zf.xinzhanduijie.top, port: 27834, type: vmess, uuid: 91babdce-02b9-4442-9d9f-7d65c02734e4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港|隧道2 - 阳光加速器, server: zf1.xinzhanduijie.top, port: 27834, type: vmess, uuid: 91babdce-02b9-4442-9d9f-7d65c02734e4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港|隧道3 - 阳光加速器, server: zf2.xinzhanduijie.top, port: 27834, type: vmess, uuid: 91babdce-02b9-4442-9d9f-7d65c02734e4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 新家坡|隧道1 - 阳光加速器, server: zf.xinzhanduijie.top, port: 27835, type: vmess, uuid: 91babdce-02b9-4442-9d9f-7d65c02734e4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 新家坡|隧道2 - 阳光加速器, server: zf1.xinzhanduijie.top, port: 27835, type: vmess, uuid: 91babdce-02b9-4442-9d9f-7d65c02734e4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 新家坡|隧道3 - 阳光加速器, server: zf2.xinzhanduijie.top, port: 27835, type: vmess, uuid: 91babdce-02b9-4442-9d9f-7d65c02734e4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾|隧道1 - 阳光加速器, server: zf.xinzhanduijie.top, port: 27831, type: vmess, uuid: 91babdce-02b9-4442-9d9f-7d65c02734e4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾|隧道2 - 阳光加速器, server: zf1.xinzhanduijie.top, port: 27831, type: vmess, uuid: 91babdce-02b9-4442-9d9f-7d65c02734e4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾|隧道3 - 阳光加速器, server: zf2.xinzhanduijie.top, port: 27831, type: vmess, uuid: 91babdce-02b9-4442-9d9f-7d65c02734e4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
