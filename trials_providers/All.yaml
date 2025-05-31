@@ -1,23 +1,23 @@
 %YAML 1.1
 ---
 proxies:
-- &id001 {name: ℹ️ 续费官网：http://47.122.55.225:50001 - 阳光加速器, server: zf.xinzhanduijie.top, port: 27832, type: vmess, uuid: 18392f08-55ae-4b07-99ce-2e6720da1136, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id002 {name: ℹ️ 售后企鹅群909426351 - 阳光加速器, server: zf.xinzhanduijie.top, port: 27832, type: vmess, uuid: 18392f08-55ae-4b07-99ce-2e6720da1136, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id003 {name: 🇺🇸 美国|隧道1 - 阳光加速器, server: zf.xinzhanduijie.top, port: 27832, type: vmess, uuid: 18392f08-55ae-4b07-99ce-2e6720da1136, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id004 {name: 🇺🇸 美国|隧道2 - 阳光加速器, server: zf1.xinzhanduijie.top, port: 27832, type: vmess, uuid: 18392f08-55ae-4b07-99ce-2e6720da1136, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id005 {name: 🇺🇸 美国|隧道3 - 阳光加速器, server: zf2.xinzhanduijie.top, port: 27832, type: vmess, uuid: 18392f08-55ae-4b07-99ce-2e6720da1136, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id006 {name: 🇯🇵 日本|隧道1 - 阳光加速器, server: zf.xinzhanduijie.top, port: 27833, type: vmess, uuid: 18392f08-55ae-4b07-99ce-2e6720da1136, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id007 {name: 🇯🇵 日本|隧道2 - 阳光加速器, server: zf1.xinzhanduijie.top, port: 27833, type: vmess, uuid: 18392f08-55ae-4b07-99ce-2e6720da1136, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id008 {name: 🇯🇵 日本|隧道3 - 阳光加速器, server: zf2.xinzhanduijie.top, port: 27833, type: vmess, uuid: 18392f08-55ae-4b07-99ce-2e6720da1136, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id009 {name: 🇭🇰 香港|隧道1 - 阳光加速器, server: zf.xinzhanduijie.top, port: 27834, type: vmess, uuid: 18392f08-55ae-4b07-99ce-2e6720da1136, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id010 {name: 🇭🇰 香港|隧道2 - 阳光加速器, server: zf1.xinzhanduijie.top, port: 27834, type: vmess, uuid: 18392f08-55ae-4b07-99ce-2e6720da1136, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id011 {name: 🇭🇰 香港|隧道3 - 阳光加速器, server: zf2.xinzhanduijie.top, port: 27834, type: vmess, uuid: 18392f08-55ae-4b07-99ce-2e6720da1136, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id012 {name: 新家坡|隧道1 - 阳光加速器, server: zf.xinzhanduijie.top, port: 27835, type: vmess, uuid: 18392f08-55ae-4b07-99ce-2e6720da1136, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id013 {name: 新家坡|隧道2 - 阳光加速器, server: zf1.xinzhanduijie.top, port: 27835, type: vmess, uuid: 18392f08-55ae-4b07-99ce-2e6720da1136, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id014 {name: 新家坡|隧道3 - 阳光加速器, server: zf2.xinzhanduijie.top, port: 27835, type: vmess, uuid: 18392f08-55ae-4b07-99ce-2e6720da1136, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id015 {name: 🇹🇼 台湾|隧道1 - 阳光加速器, server: zf.xinzhanduijie.top, port: 27831, type: vmess, uuid: 18392f08-55ae-4b07-99ce-2e6720da1136, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id016 {name: 🇹🇼 台湾|隧道2 - 阳光加速器, server: zf1.xinzhanduijie.top, port: 27831, type: vmess, uuid: 18392f08-55ae-4b07-99ce-2e6720da1136, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id017 {name: 🇹🇼 台湾|隧道3 - 阳光加速器, server: zf2.xinzhanduijie.top, port: 27831, type: vmess, uuid: 18392f08-55ae-4b07-99ce-2e6720da1136, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id001 {name: ℹ️ 续费官网：http://47.122.55.225:50001 - 阳光加速器, server: zf.xinzhanduijie.top, port: 27832, type: vmess, uuid: 6ee23c57-9600-42db-868d-d75439a541ce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id002 {name: ℹ️ 售后企鹅群909426351 - 阳光加速器, server: zf.xinzhanduijie.top, port: 27832, type: vmess, uuid: 6ee23c57-9600-42db-868d-d75439a541ce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id003 {name: 🇺🇸 美国|隧道1 - 阳光加速器, server: zf.xinzhanduijie.top, port: 27832, type: vmess, uuid: 6ee23c57-9600-42db-868d-d75439a541ce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id004 {name: 🇺🇸 美国|隧道2 - 阳光加速器, server: zf1.xinzhanduijie.top, port: 27832, type: vmess, uuid: 6ee23c57-9600-42db-868d-d75439a541ce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id005 {name: 🇺🇸 美国|隧道3 - 阳光加速器, server: zf2.xinzhanduijie.top, port: 27832, type: vmess, uuid: 6ee23c57-9600-42db-868d-d75439a541ce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id006 {name: 🇯🇵 日本|隧道1 - 阳光加速器, server: zf.xinzhanduijie.top, port: 27833, type: vmess, uuid: 6ee23c57-9600-42db-868d-d75439a541ce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id007 {name: 🇯🇵 日本|隧道2 - 阳光加速器, server: zf1.xinzhanduijie.top, port: 27833, type: vmess, uuid: 6ee23c57-9600-42db-868d-d75439a541ce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id008 {name: 🇯🇵 日本|隧道3 - 阳光加速器, server: zf2.xinzhanduijie.top, port: 27833, type: vmess, uuid: 6ee23c57-9600-42db-868d-d75439a541ce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id009 {name: 🇭🇰 香港|隧道1 - 阳光加速器, server: zf.xinzhanduijie.top, port: 27834, type: vmess, uuid: 6ee23c57-9600-42db-868d-d75439a541ce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id010 {name: 🇭🇰 香港|隧道2 - 阳光加速器, server: zf1.xinzhanduijie.top, port: 27834, type: vmess, uuid: 6ee23c57-9600-42db-868d-d75439a541ce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id011 {name: 🇭🇰 香港|隧道3 - 阳光加速器, server: zf2.xinzhanduijie.top, port: 27834, type: vmess, uuid: 6ee23c57-9600-42db-868d-d75439a541ce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id012 {name: 新家坡|隧道1 - 阳光加速器, server: zf.xinzhanduijie.top, port: 27835, type: vmess, uuid: 6ee23c57-9600-42db-868d-d75439a541ce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id013 {name: 新家坡|隧道2 - 阳光加速器, server: zf1.xinzhanduijie.top, port: 27835, type: vmess, uuid: 6ee23c57-9600-42db-868d-d75439a541ce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id014 {name: 新家坡|隧道3 - 阳光加速器, server: zf2.xinzhanduijie.top, port: 27835, type: vmess, uuid: 6ee23c57-9600-42db-868d-d75439a541ce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id015 {name: 🇹🇼 台湾|隧道1 - 阳光加速器, server: zf.xinzhanduijie.top, port: 27831, type: vmess, uuid: 6ee23c57-9600-42db-868d-d75439a541ce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id016 {name: 🇹🇼 台湾|隧道2 - 阳光加速器, server: zf1.xinzhanduijie.top, port: 27831, type: vmess, uuid: 6ee23c57-9600-42db-868d-d75439a541ce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id017 {name: 🇹🇼 台湾|隧道3 - 阳光加速器, server: zf2.xinzhanduijie.top, port: 27831, type: vmess, uuid: 6ee23c57-9600-42db-868d-d75439a541ce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - *id001
 - *id002
 - *id003
