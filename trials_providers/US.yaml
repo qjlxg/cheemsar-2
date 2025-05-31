@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- &id001 {name: 🇺🇸 美国|隧道1 - 阳光加速器, server: zf.xinzhanduijie.top, port: 27832, type: vmess, uuid: 6ee23c57-9600-42db-868d-d75439a541ce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id002 {name: 🇺🇸 美国|隧道2 - 阳光加速器, server: zf1.xinzhanduijie.top, port: 27832, type: vmess, uuid: 6ee23c57-9600-42db-868d-d75439a541ce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id003 {name: 🇺🇸 美国|隧道3 - 阳光加速器, server: zf2.xinzhanduijie.top, port: 27832, type: vmess, uuid: 6ee23c57-9600-42db-868d-d75439a541ce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id001 {name: 🇺🇸 美国|隧道1 - 阳光加速器, server: zf.xinzhanduijie.top, port: 27832, tfo: true, type: vmess, uuid: 7b3432c6-1089-41e5-8d8e-08f05fefbda8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id002 {name: 🇺🇸 美国|隧道2 - 阳光加速器, server: zf1.xinzhanduijie.top, port: 27832, tfo: true, type: vmess, uuid: 7b3432c6-1089-41e5-8d8e-08f05fefbda8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id003 {name: 🇺🇸 美国|隧道3 - 阳光加速器, server: zf2.xinzhanduijie.top, port: 27832, tfo: true, type: vmess, uuid: 7b3432c6-1089-41e5-8d8e-08f05fefbda8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - *id001
 - *id002
 - *id003
