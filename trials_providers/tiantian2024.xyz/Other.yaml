@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ️ 续费官网：http://47.122.55.225:50001 - 阳光加速器, server: zf.xinzhanduijie.top, port: 27832, tfo: true, type: vmess, uuid: 91babdce-02b9-4442-9d9f-7d65c02734e4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: ℹ️ 售后企鹅群909426351 - 阳光加速器, server: zf.xinzhanduijie.top, port: 27832, tfo: true, type: vmess, uuid: 91babdce-02b9-4442-9d9f-7d65c02734e4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 新家坡|隧道1 - 阳光加速器, server: zf.xinzhanduijie.top, port: 27835, tfo: true, type: vmess, uuid: 91babdce-02b9-4442-9d9f-7d65c02734e4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 新家坡|隧道2 - 阳光加速器, server: zf1.xinzhanduijie.top, port: 27835, tfo: true, type: vmess, uuid: 91babdce-02b9-4442-9d9f-7d65c02734e4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 新家坡|隧道3 - 阳光加速器, server: zf2.xinzhanduijie.top, port: 27835, tfo: true, type: vmess, uuid: 91babdce-02b9-4442-9d9f-7d65c02734e4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 续费官网：http://47.122.55.225:50001 - 阳光加速器, server: zf.xinzhanduijie.top, port: 27832, type: vmess, uuid: 79d83626-0b4c-4607-a434-c12a7b95b31e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 售后企鹅群909426351 - 阳光加速器, server: zf.xinzhanduijie.top, port: 27832, type: vmess, uuid: 79d83626-0b4c-4607-a434-c12a7b95b31e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 新家坡|隧道1 - 阳光加速器, server: zf.xinzhanduijie.top, port: 27835, type: vmess, uuid: 79d83626-0b4c-4607-a434-c12a7b95b31e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 新家坡|隧道2 - 阳光加速器, server: zf1.xinzhanduijie.top, port: 27835, type: vmess, uuid: 79d83626-0b4c-4607-a434-c12a7b95b31e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 新家坡|隧道3 - 阳光加速器, server: zf2.xinzhanduijie.top, port: 27835, type: vmess, uuid: 79d83626-0b4c-4607-a434-c12a7b95b31e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
